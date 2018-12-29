@@ -1,0 +1,3384 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 A trag\'e9dia de Macbeth\
+\
+ATO I\
+CENA I. Um lugar deserto.\
+Trov\'e3o e rel\'e2mpago. Digite tr\'eas bruxas\
+Primeira bruxa\
+Quando nos encontraremos novamente? \
+No trov\'e3o, rel\'e2mpago ou na chuva? \
+Segunda bruxa\
+Quando o hurlyburly est\'e1 feito, \
+Quando a batalha est\'e1 perdida e ganha. \
+Terceira bruxa\
+Isso ser\'e1 antes do p\'f4r do sol. \
+Primeira bruxa\
+Onde o lugar? \
+Segunda bruxa\
+Sobre a charneca. \
+Terceira bruxa\
+L\'e1 para se encontrar com Macbeth. \
+Primeira bruxa\
+Eu venho, Graymalkin! \
+Segunda bruxa\
+Paddock chama. \
+Terceira bruxa\
+Anon \
+TODOS\
+Justo \'e9 falta e falta \'e9 justo: \
+Passe pelo nevoeiro e pelo ar imundo. \
+Exeunt\
+\
+CENA II. Um acampamento perto de Forres.\
+Alarme dentro. Entre DUNCAN, MALCOLM, DONALBAIN, LENNOX, com os assistentes, encontrando um sargento sangrando\
+DUNCAN\
+Que homem \'e9 esse? Ele pode relatar \
+Como parece pela sua situa\'e7\'e3o, da revolta \
+O mais novo estado. \
+MALCOLM\
+Este \'e9 o sargento \
+Quem como um bom e resistente soldado lutou \
+'Ganha meu cativeiro. Salve, amigo corajoso! \
+Diga ao rei o conhecimento do grelhado \
+Como tu o deixaste. \
+Sargento\
+Duvido que ficou; \
+Como dois nadadores gastos, que se unem \
+E sufoque sua arte. O impiedoso Macdonwald-- \
+Digno de ser um rebelde, para isso \
+As vilanias multiplicadoras da natureza \
+Enxame sobre ele - das ilhas ocidentais \
+De kerns e gallowglasses \'e9 fornecido; \
+E fortuna, em sua maldita briga sorrindo, \
+Show'd como prostituta de um rebelde: mas tudo \'e9 muito fraco: \
+Para o corajoso Macbeth - bem, ele merece esse nome - \
+Desprezando a fortuna, com seu a\'e7o brandindo, \
+Que fumou com execu\'e7\'e3o sangrenta, \
+Como o servo de Valour esculpiu sua passagem \
+At\'e9 que ele enfrentou o escravo; \
+Que nunca apertou as m\'e3os, nem se despediu dele, \
+At\'e9 que ele o desviou da nave para os homens, \
+E fixou sua cabe\'e7a em nossas ameias. \
+DUNCAN\
+\'d3 valente primo! digno cavalheiro! \
+Sargento\
+Como de onde o sol 'gins seu reflexo \
+Tempestades de destro\'e7os e trov\'f5es \
+Ent\'e3o, daquela primavera, de onde o conforto parece vir \
+Desconforto incha. Mark, rei da Esc\'f3cia, marque: \
+N\'e3o mais cedo justi\'e7a teve bravura \
+Compell'd estes saltando kerns para confiar em seus calcanhares, \
+Mas o lorde Norwey observando vantagem, \
+Com armas limpas e novos suprimentos de homens \
+Come\'e7ou um novo ataque. \
+DUNCAN\
+Desanimado n\'e3o isso \
+Nossos capit\'e3es, Macbeth e Banquo? \
+Sargento\
+Sim; \
+Como pardais \'e1guias, ou lebre o le\'e3o. \
+Se eu disser, devo informar que eles estavam \
+Como canh\'f5es sobrecarregados com rachaduras duplas, ent\'e3o eles \
+Duplamente redobrado golpes sobre o inimigo: \
+Exceto que eles pretendiam se banhar em feridas fedorentas, \
+Ou memorizar outro G\'f3lgota, \
+Eu n\'e3o posso dizer. \
+Mas estou fraco, meus cortes gritam por socorro. \
+DUNCAN\
+T\'e3o bem as tuas palavras te tornam como as tuas feridas; \
+Eles cheiram de honra ambos. V\'e1 peg\'e1-lo cirurgi\'f5es. \
+Saia Sargento, compareceu\
+\
+Quem vem aqui? \
+Digite ROSS\
+\
+MALCOLM\
+O digno thane de Ross. \
+LENNOX\
+Que pressa parece em seus olhos! Ent\'e3o, ele deveria olhar \
+Isso parece falar coisas estranhas. \
+ROSS\
+Deus salve o rei! \
+DUNCAN\
+De onde v\'eas, digno thane? \
+ROSS\
+De Fife, grande rei; \
+Onde as bandeiras Norweyan desrespeitam o c\'e9u \
+E aborrecer nosso povo. A pr\'f3pria Noruega, \
+Com n\'fameros terr\'edveis, \
+Assistido por aquele traidor mais desleal \
+O thane de Cawdor, come\'e7ou um conflito sombrio; \
+At\'e9 que o noivo de Bellona, \uc0\u8203 \u8203 lambido em prova, \
+Confrontou-o com auto-compara\'e7\'f5es, \
+Aponte contra o bra\'e7o rebelde do bra\'e7o rebelde. \
+Curando seu esp\'edrito generoso: e, para concluir, \
+A vit\'f3ria caiu sobre n\'f3s. \
+DUNCAN\
+Grande felicidade! \
+ROSS\
+Isso agora \
+Sweno, o rei dos Norways, anseia por composi\'e7\'e3o: \
+Nem n\'f3s o dignificar\'edamos do enterro de seus homens \
+At\'e9 ele desembolsar na polegada de Saint Colme \
+Dez mil d\'f3lares para nosso uso geral. \
+DUNCAN\
+N\'e3o mais que thane de Cawdor enganar\'e1 \
+Nosso interesse no seio: vai pronunciar sua morte atual, \
+E com seu antigo t\'edtulo cumprimentar Macbeth. \
+ROSS\
+Eu vou ver isso feito. \
+DUNCAN\
+O que ele perdeu nobre Macbeth ganhou. \
+Exeunt\
+\
+CENA III. Uma charneca perto de Forres.\
+Trov\'e3o. Entre as tr\'eas bruxas\
+Primeira bruxa\
+Onde voc\'ea esteve, irm\'e3? \
+Segunda bruxa\
+Matando su\'edna. \
+Terceira bruxa\
+Irm\'e3, onde tu? \
+Primeira bruxa\
+A esposa de um marinheiro tinha castanhas no colo, \
+E mastiguei, mastiguei e mastiguei: \
+'D\'ea-me,' eu disse: \
+'Aroint ti, bruxa!' o ronyon grunhido chora. \
+O marido dela foi para Aleppo, mestre do Tigre: \
+Mas em uma peneira eu vou navegar \
+E, como um rato sem rabo, \
+Eu farei, farei e farei. \
+Segunda bruxa\
+Eu vou te dar um vento. \
+Primeira bruxa\
+Voc\'ea \'e9 gentil. \
+Terceira bruxa\
+E eu outro. \
+Primeira bruxa\
+Eu mesmo tenho todos os outros \
+E os pr\'f3prios portos que eles sopram, \
+Todos os quartos que eles conhecem \
+Eu sou o cart\uc0\u259 o do navio. \
+Eu vou dren\'e1-lo seco como feno: \
+O sono n\'e3o deve nem noite nem dia \
+Pendure em cima da tampa da casa penteada; \
+Ele viver\'e1 um homem pro\'edbe: \
+Se'nnights cansados \uc0\u8203 \u8203 nove vezes nove \
+Ele vai diminuir, pico e pinheiro: \
+Embora seu latido n\'e3o possa ser perdido, \
+No entanto, ser\'e1 tempest-tost. \
+Olha o que eu tenho. \
+Segunda bruxa\
+Mostre-me, mostre-me. \
+Primeira bruxa\
+Aqui eu tenho o polegar de um piloto \
+Naufragado como em casa ele veio. \
+Tambor dentro\
+\
+Terceira bruxa\
+Um tambor, um tambor! \
+Macbeth vem. \
+TODOS\
+As estranhas irm\'e3s, de m\'e3os dadas, \
+Cartazes do mar e da terra, \
+Assim, vai aproximadamente: \
+Tr\'eas vezes para o teu e tr\'eas vezes para o meu \
+E tr\'eas vezes, para completar nove. \
+Paz! o encanto acabou. \
+Digite MACBETH e BANQUO\
+\
+MACBETH\
+T\'e3o sujo e justo um dia que eu n\'e3o vi. \
+BANQUO\
+At\'e9 que ponto n\'e3o \'e9 chamado para Forres? Quem s\'e3o esses \
+Ent\'e3o murchado e t\'e3o selvagem em seu traje \
+Esse olhar n\'e3o \'e9 como os habitantes da terra, \
+E ainda est\'e3o on't? Viva voc\'ea? ou voc\'ea \'e9 uma coisa \
+Esse homem pode questionar? Voc\'ea parece me entender \
+De cada vez, o seu dedo chappy deitado \
+Sobre seus l\'e1bios magros: voc\'ea deveria ser mulher \
+E ainda assim suas barbas me pro\'edbem de interpretar \
+Que voc\'ea \'e9 assim. \
+MACBETH\
+Fale, se voc\'ea puder: o que voc\'ea \'e9? \
+Primeira bruxa\
+Todos sa\'fadem, Macbeth! saudai a ti, thane de Glamis! \
+Segunda bruxa\
+Todos sa\'fadem, Macbeth, saudam a ti, thane de Cawdor! \
+Terceira bruxa\
+Todos sa\'fadem, Macbeth, tu ser\'e1s o rei daqui em diante! \
+BANQUO\
+Bom senhor, por que voc\'ea come\'e7a; e parece temer \
+Coisas que soam t\'e3o justas? Eu o nome da verdade \
+Voc\'eas s\'e3o fant\'e1sticos, ou que de fato \
+Que exteriormente voc\'ea mostra? Meu nobre parceiro \
+Voc\'ea cumprimenta com gra\'e7a presente e grande predi\'e7\'e3o \
+De nobre ter e de esperan\'e7a real, \
+Que ele parece extasiado: para mim voc\'ea n\'e3o fala. \
+Se voc\'ea pode olhar para as sementes do tempo, \
+E diga qual gr\'e3o vai crescer e qual n\'e3o vai, \
+Fala ent\'e3o comigo, que nem implora nem tem medo \
+Seus favores nem seu \'f3dio. \
+Primeira bruxa\
+Saudar! \
+Segunda bruxa\
+Saudar! \
+Terceira bruxa\
+Saudar! \
+Primeira bruxa\
+Menor que Macbeth e maior. \
+Segunda bruxa\
+N\'e3o t\'e3o feliz, mas muito mais feliz. \
+Terceira bruxa\
+Tu ter\'e1s reis, embora tu n\'e3o seja nenhum: \
+Ent\'e3o todos sa\'fadem, Macbeth e Banquo! \
+Primeira bruxa\
+Banquo e Macbeth, todos saudam! \
+MACBETH\
+Fique, seus falantes imperfeitos, me conte mais: \
+Pela morte de Sinel, sei que sou de Glamis; \
+Mas como de Cawdor? o thane de Cawdor vive, \
+Um cavalheiro pr\'f3spero; e ser rei \
+N\'e3o est\'e1 dentro da perspectiva de cren\'e7a, \
+N\'e3o mais do que ser Cawdor. Diga de onde \
+Voc\'ea deve essa intelig\'eancia estranha? ou porque \
+Sobre esta maldita charneca voc\'ea p\'e1ra em nosso caminho \
+Com tal sauda\'e7\'e3o prof\'e9tica? Fala, eu te cobro. \
+As bruxas desaparecem\
+\
+BANQUO\
+A terra tem bolhas, como a \'e1gua tem, \
+E estes s\'e3o deles. Para onde eles desaparecem? \
+MACBETH\
+No ar; e o que parece ter sido derretido \
+Como a respira\'e7\'e3o no vento. Ser\'e1 que eles teriam ficado! \
+BANQUO\
+Foram essas coisas aqui como falamos? \
+Ou n\'f3s comemos na raiz insana \
+Isso leva a raz\'e3o prisioneira? \
+MACBETH\
+Seus filhos ser\'e3o reis. \
+BANQUO\
+Voc\'ea ser\'e1 rei. \
+MACBETH\
+E tamb\'e9m de Cawdor: n\'e3o foi assim? \
+BANQUO\
+Para o mesmo som e palavras. Quem est\'e1 aqui? \
+Digite ROSS e ANGUS\
+\
+ROSS\
+O rei recebeu alegremente Macbeth \
+As not\'edcias do teu sucesso; e quando ele l\'ea \
+Tua aventura pessoal na luta dos rebeldes, \
+Suas maravilhas e seus elogios sustentam \
+Qual deve ser o seu ou o dele: silenciado com isso, \
+Ao ver o resto do mesmo dia, \
+Ele te encontra nas robustas fileiras Norweyan, \
+Nada do que voc\'ea mesmo fez, \
+Imagens estranhas da morte. T\'e3o espesso quanto o granizo \
+Veio post com post; e cada um suportou \
+Teus elogios na grande defesa do seu reino, \
+E os derramei diante dele. \
+ANGUS\
+N\'f3s somos enviados \
+Para te dar de nosso mestre real, obrigado; \
+Apenas para te anunciar em sua vis\'e3o, \
+N\'e3o te pague. \
+ROSS\
+E, para uma grande honra, \
+Ele pediu-me que lhe chamasse thane de Cawdor: \
+Em qual adi\'e7\'e3o, granizo, mais digno thane! \
+Porque \'e9 teu. \
+BANQUO\
+O que o diabo fala verdade? \
+MACBETH\
+O thane de Cawdor vive: por que voc\'ea me veste \
+Em vestes emprestadas? \
+ANGUS\
+Quem foi o thane vive ainda; \
+Mas sob o julgamento pesado tem que a vida \
+Que ele merece perder. Se ele foi combinado \
+Com os da Noruega, ou alinharam o rebelde \
+Com ajuda oculta e vantagem, ou que com ambos \
+Ele trabalhou na destrui\'e7\'e3o do seu pa\'eds, eu n\'e3o sei; \
+Mas capital trai\'e7\'f5es, confessado e provado, \
+Derrubaram ele. \
+MACBETH\
+[Al\'e9m] Glamis e thane de Cawdor! \
+O maior est\'e1 por tr\'e1s. \
+Para ROSS e ANGUS\
+\
+Obrigado pelas suas dores. \
+Para BANQUO\
+\
+Voc\'ea n\'e3o espera que seus filhos sejam reis, \
+Quando aqueles que deram o thane de Cawdor para mim \
+Prometido n\'e3o menos para eles? \
+BANQUO\
+Aquela casa confi\'e1vel \
+Pode ainda acender voc\'ea at\'e9 a coroa, \
+Al\'e9m do thane de Cawdor. Mas \'e9 estranho: \
+E muitas vezes, para nos levar ao nosso mal, \
+Os instrumentos da escurid\'e3o nos dizem verdades, \
+Conquiste-nos com futilidades honestas, para trair \
+Em conseq\'fc\'eancia mais profunda. \
+Primos, uma palavra, eu te pe\'e7o. \
+MACBETH\
+[Aside] Duas verdades s\'e3o contadas, \
+Como feliz pr\'f3logos para o ato de incha\'e7o \
+Do tema imperial ... Obrigado, senhores. \
+a parte, de lado\
+\
+N\'e3o pode estar doente, n\'e3o pode ser bom: se estiver doente, \
+Por que isso me deu sincero sucesso? \
+Come\'e7ando de verdade? Eu sou thane de Cawdor: \
+Se bom, por que eu ceder a essa sugest\'e3o \
+Cuja imagem horrenda desfaz meu cabelo \
+E fa\'e7a meu cora\'e7\'e3o bater nas minhas costelas \
+Contra o uso da natureza? Medos atuais \
+S\'e3o menos que horr\'edveis imagina\'e7\'f5es: \
+Meu pensamento, cujo assassinato ainda \'e9 fant\'e1stico, \
+Agita assim meu \'fanico estado de homem que funciona \
+\'c9 sufocado na suposi\'e7\'e3o, e nada \'e9 \
+Mas o que n\'e3o \'e9. \
+BANQUO\
+Olha, como o nosso parceiro est\'e1 arrebatado. \
+MACBETH\
+[Para o lado] Se o acaso me deixar rei, por que, o acaso pode me coroar, \
+Sem minha agita\'e7\'e3o. \
+BANQUO\
+Novos horrores v\'eam sobre ele \
+Como as nossas roupas estranhas, n\'e3o se apegam ao seu molde \
+Mas com a ajuda do uso. \
+MACBETH\
+[Lado] Vem o que vem pode, \
+O tempo e a hora passam pelo dia mais dif\'edcil. \
+BANQUO\
+Digna Macbeth, ficamos em seu lazer. \
+MACBETH\
+D\'ea-me seu favor: meu c\'e9rebro chato foi forjado \
+Com as coisas esquecidas. Gentis cavalheiros, suas dores \
+S\'e3o registrados onde todos os dias eu viro \
+A folha para l\'ea-los. Vamos em dire\'e7\'e3o ao rei. \
+Pense no que aconteceu e, em mais tempo, \
+O \'ednterim tendo pesado, vamos falar \
+Nossos cora\'e7\'f5es livres uns para os outros. \
+BANQUO\
+Muito prazer. \
+MACBETH\
+At\'e9 ent\'e3o, o suficiente. Venha amigos. \
+Exeunt\
+\
+CENA IV. Forres O Pal\'e1cio.\
+Florescer. Entre DUNCAN, MALCOLM, DONALBAIN, LENNOX e Attendants\
+DUNCAN\
+A execu\'e7\'e3o \'e9 feita em Cawdor? N\'e3o s\'e3o \
+Aqueles em comiss\'e3o ainda retornaram? \
+MALCOLM\
+Meu liege, \
+Eles ainda n\'e3o voltaram. Mas eu falei \
+Com um que o viu morrer: quem relatou \
+Isso, francamente, ele confessou suas trai\'e7\'f5es, \
+Implorou o perd\'e3o de sua alteza e estabeleceu \
+Um profundo arrependimento: nada em sua vida \
+Tornou-se ele como o deixar; ele morreu \
+Como aquele que havia sido estudado em sua morte \
+Para jogar fora a coisa mais querida que ele devia \
+Como uma ninharia descuidada. \
+DUNCAN\
+N\'e3o h\'e1 arte \
+Para encontrar a constru\'e7\'e3o da mente no rosto: \
+Ele era um cavalheiro em quem eu constru\'ed \
+Uma confian\'e7a absoluta \
+Digite MACBETH, BANQUO, ROSS e ANGUS\
+\
+\'d3 melhor prima! \
+O pecado da minha ingratid\'e3o at\'e9 agora \
+Foi pesado em mim: tu \'e9s t\'e3o longe antes \
+Aquela asa mais r\'e1pida de recompensa \'e9 lenta \
+Para te alcan\'e7ar. Voc\'ea seria menos merecido? \
+Que a propor\'e7\'e3o de agradecimento e pagamento \
+Pode ter sido meu! s\'f3 me resta dizer \
+Mais \'e9 devida do que mais do que todos podem pagar. \
+MACBETH\
+O servi\'e7o e a lealdade que eu devo \
+Ao faz\'ea-lo, paga-se. Parte de sua alteza \
+\'c9 receber nossos deveres; e nossos deveres \
+S\'e3o para o seu trono e estado filhos e servos, \
+Que fazem, mas o que deveriam, fazendo tudo \
+Seguro para o seu amor e honra. \
+DUNCAN\
+Bem-vindo hither: \
+Eu comecei a plantar-te e trabalharei \
+Para te fazer crescer. Noble Banquo, \
+Isso n\'e3o \'e9 menos merecido, nem deve ser conhecido \
+N\'e3o menos para ter feito isso, deixe-me envolver-te \
+E te abra\'e7ar no meu cora\'e7\'e3o. \
+BANQUO\
+L\'e1 se eu crescer \
+A colheita \'e9 sua. \
+DUNCAN\
+Minhas alegrias abundantes \
+Devassa na plenitude, procure se esconder \
+Em gotas de tristeza. Filhos, parentes, thanes, \
+E voc\'ea cujos lugares s\'e3o os mais pr\'f3ximos, saiba \
+Vamos estabelecer nossa propriedade em cima \
+Nosso mais velho, Malcolm, a quem chamamos daqui em diante \
+O Pr\'edncipe de Cumberland; qual honra deve \
+N\'e3o desacompanhado, invista apenas ele, \
+Mas sinais de nobreza, como estrelas, brilhar\'e3o \
+Em todos os merecedores. Daqui para Inverness, \
+E nos ligue mais a voc\'ea. \
+MACBETH\
+O resto \'e9 trabalho, o que n\'e3o \'e9 usado para voc\'ea: \
+Eu serei o pren\'fancio e alegrarei \
+A audi\'eancia da minha esposa com sua abordagem; \
+Ent\'e3o, humildemente, tire minha licen\'e7a. \
+DUNCAN\
+Meu valioso Cawdor! \
+MACBETH\
+[Lado] o pr\'edncipe de Cumberland! isso \'e9 um passo \
+Em qual eu devo cair, ou ent\'e3o o'erleap, \
+Pois no meu caminho est\'e1 mentira. Estrelas, esconda seus fogos; \
+N\'e3o deixe a luz ver meus desejos negros e profundos: \
+O olho pisca para a m\'e3o; ainda assim seja, \
+Que o olho teme, quando \'e9 feito, ver. \
+Sa\'edda\
+\
+DUNCAN\
+Verdadeiro e digno Banquo; ele \'e9 t\'e3o valente, \
+E em suas comendas sou alimentado; \
+\'c9 um banquete para mim. Vamos atr\'e1s dele \
+Cujo cuidado se foi antes de nos oferecer boas-vindas: \
+\'c9 um parente inigual\'e1vel. \
+Florescer. Exeunt\
+\
+CENA V. Inverness. O castelo de Macbeth.\
+Digite LADY MACBETH, lendo uma carta\
+SENHORA MACBETH\
+'Eles me conheceram no dia do sucesso: e eu tenho \
+Aprendido pelo relat\'f3rio mais perfeito, eles t\'eam mais em \
+eles do que conhecimento mortal. Quando eu queimei desejo \
+para question\'e1-los ainda mais, eles se fizeram ar, \
+em que eles desapareceram. Enquanto eu ficava extasiada \
+a maravilha disso, vieram missivas do rei, que \
+todos me saudaram "Thane of Cawdor"; pelo qual t\'edtulo, \
+antes, essas irm\'e3s esquisitas me saudaram e se referiram \
+me para a vinda do tempo, com 'Hail, rei que \
+ser\'e1s! Isso eu achei bom entregar \
+ti, meu querido parceiro de grandeza, que tu \
+pode n\'e3o perder as d\'edvidas de regozijo, por ser \
+ignorante de que grandeza \'e9 prometida. Coloque isso \
+para o teu cora\'e7\'e3o e adeus. \
+Glamis tu \'e9s e Cawdor; e ser\'e1 \
+O que te prometeste, todavia temo a tua natureza; \
+Est\'e1 muito cheio do leite da bondade humana \
+Para pegar o caminho mais pr\'f3ximo: tu serias grande; \
+Arte n\'e3o sem ambi\'e7\'e3o, mas sem \
+A doen\'e7a deve atend\'ea-lo: o que voc\'ea faria altamente, \
+Isso seria holial; n\'e3o jogaria falso, \
+E ainda assim ganharia erroneamente: tu ter\'e1s, grande Glamis, \
+O que clama 'Assim tu deves fazer, se tu tens; \
+E o que voc\'ea tem medo de fazer \
+Que o desejo deve ser desfeito. Ai-te aqui \
+Para que eu possa derramar meu esp\'edrito em teus ouvidos; \
+E castiga com o valor da minha l\'edngua \
+Tudo o que te impede da rodada de ouro, \
+Que destino e ajuda metaf\'edsica parece \
+Para ter te coroado com isso. \
+Digite um mensageiro\
+\
+Quais s\'e3o as suas not\'edcias? \
+Mensageiro\
+O rei vem aqui esta noite. \
+SENHORA MACBETH\
+Voc\'ea est\'e1 louco para dizer isso: \
+N\'e3o \'e9 teu mestre com ele? quem n\'e3o era assim \
+Teria informado para prepara\'e7\'e3o. \
+Mensageiro\
+Ent\'e3o, por favor, \'e9 verdade: nosso thane est\'e1 chegando: \
+Um dos meus companheiros tinha a velocidade dele, \
+Quem, quase morto para respirar, mal tinha mais \
+Do que faria sua mensagem. \
+SENHORA MACBETH\
+D\'ea-lhe tendendo; \
+Ele traz \'f3timas not\'edcias. \
+Sair do Messenger\
+\
+O pr\'f3prio corvo est\'e1 rouco \
+Isso croaks a entrada fatal de Duncan \
+Sob minhas ameias Venha, seus esp\'edritos \
+Que tendem em pensamentos mortais, me descontrolam aqui, \
+E me encha da coroa at\'e9 o dedo do p\'e9 \
+De pior crueldade! fa\'e7a grosso meu sangue; \
+Pare o acesso e a passagem para o remorso \
+Que nenhuma visita\'e7\'e3o da natureza \
+Agite o meu prop\'f3sito, nem mantenha a paz entre \
+O efeito e isso! Venha para os seios da minha mulher \
+E tome meu leite por fel, voc\'ea assassinando ministros, \
+Onde quer que nas suas subst\'e2ncias cegas \
+Voc\'ea espera no mal da natureza! Venha, noite espessa \
+E te esconde na fuma\'e7a do inferno, \
+Que minha faca afiada n\'e3o veja a ferida que faz, \
+Nem o c\'e9u espia atrav\'e9s do manto do escuro, \
+Para chorar "Segure, segure!" \
+Digite MACBETH\
+\
+Grande Glamis! Cawdor digno! \
+Maior que ambos, pelo todo-salve daqui em diante! \
+Tuas cartas me transportaram al\'e9m \
+Este presente ignorante, e eu sinto agora \
+O futuro no instante \
+MACBETH\
+Meu querido amor \
+Duncan vem aqui esta noite. \
+SENHORA MACBETH\
+E quando vai daqui? \
+MACBETH\
+Amanh\'e3, como ele pretende. \
+SENHORA MACBETH\
+Nunca \
+Sol que amanh\'e3 ver! \
+Seu rosto, meu bem, \'e9 como um livro onde os homens \
+Pode ler assuntos estranhos. Para seduzir o tempo, \
+Parece a hora; Seja bem vindo ao seu olho \
+Sua m\'e3o, sua l\'edngua: pare\'e7a a flor inocente, \
+Mas seja a serpente. Ele est\'e1 vindo \
+Deve ser fornecido para: e voc\'ea deve colocar \
+Grande neg\'f3cio desta noite em meu despacho; \
+Que deve a todas as nossas noites e dias por vir \
+D\'ea apenas soberania e dom\'ednio. \
+MACBETH\
+N\'f3s falaremos mais. \
+SENHORA MACBETH\
+Apenas olhe claro; \
+Alterar o favor de sempre \'e9 temer: \
+Deixe todo o resto para mim. \
+Exeunt\
+\
+CENA VI. Antes do castelo de Macbeth.\
+Hautboys e tochas. Entre DUNCAN, MALCOLM, DONALBAIN, BANQUO, LENNOX, MACDUFF, ROSS, ANGUS e Attendants\
+DUNCAN\
+Este castelo tem um assento agrad\'e1vel; o ar \
+Com agilidade e docemente recomenda-se \
+At\'e9 nossos sentidos suaves. \
+BANQUO\
+Este convidado do ver\'e3o, \
+O martel assombrando o templo, aprova, \
+Por sua amada mans\'e3o, que a respira\'e7\'e3o do c\'e9u \
+Cheira a wooingly aqui: n\'e3o jutty, frieze, \
+Contraforte, nem coign de vantagem, mas este p\'e1ssaro \
+Ele fez sua cama pendente e ber\'e7o de procria\'e7\'e3o: \
+Onde eles mais criam e assombram, eu tenho observado, \
+O ar \'e9 delicado. \
+Digite LADY MACBETH\
+\
+DUNCAN\
+Veja, veja, nossa anfitri\'e3 honrada! \
+O amor que nos segue algum dia \'e9 o nosso problema, \
+Que ainda agradecemos como amor. Aqui eu te ensino \
+Como voc\'ea deve dizer a Deus para n\'f3s por suas dores, \
+E agrade\'e7a-nos pelo seu problema. \
+SENHORA MACBETH\
+Todo o nosso servi\'e7o \
+Em cada ponto duas vezes feito e depois feito em dobro \
+Era um neg\'f3cio pobre e \'fanico para competir \
+Contra aquelas honras profundas e amplas com as quais \
+Sua majestade carrega nossa casa: para aqueles de antigamente, \
+E as \'faltimas dignidades se acumularam para eles, \
+N\'f3s descansamos seus eremitas. \
+DUNCAN\
+Onde est\'e1 o thane de Cawdor? \
+N\'f3s o percorremos nos calcanhares e tivemos um prop\'f3sito \
+Para ser seu fornecedor: mas ele anda bem; \
+E o seu grande amor, afiado como o seu espor\'e3o, o holp \
+Para sua casa antes de n\'f3s. Hospedeira justa e nobre, \
+N\'f3s somos seu convidado esta noite. \
+SENHORA MACBETH\
+Seus servos sempre \
+Ter o deles, eles mesmos e o que \'e9 deles, em compt, \
+Para fazer sua auditoria no prazer de sua alteza, \
+Ainda para devolver o seu pr\'f3prio. \
+DUNCAN\
+Me d\'ea sua m\'e3o; \
+Conduza-me ao meu hospedeiro: n\'f3s o amamos muito, \
+E continuar\'e1 nossas gra\'e7as para ele. \
+Por sua licen\'e7a, anfitri\'e3. \
+Exeunt\
+\
+CENA VII. O castelo de Macbeth.\
+Hautboys e tochas. Entre em um esgoto, e os servos dos mergulhadores com pratos e servi\'e7o, e atravessem o palco. Em seguida, digite MACBETH\
+MACBETH\
+Se isso foi feito quando terminar, ent\'e3o \
+Foi feito rapidamente: se o assassinato \
+Poderia atrapalhar a consequ\'eancia e pegar \
+Com seu sucesso de sucesso; isso, mas esse golpe \
+Pode ser o tudo e o fim de tudo aqui, \
+Mas aqui, sobre este banco e cardume de tempo, \
+N\'f3s vamos pular a vida por vir. Mas nesses casos \
+N\'f3s ainda temos ju\'edzo aqui; que n\'f3s apenas ensinamos \
+Instru\'e7\'f5es sangrentas que, sendo ensinadas, retornam \
+Para atormentar o inventor: esta justi\'e7a imparcial \
+Elogia os ingredientes do nosso c\'e1lice de veneno \
+Para nossos pr\'f3prios l\'e1bios. Ele est\'e1 aqui em dupla confian\'e7a; \
+Primeiro, como sou seu parente e seu sujeito, \
+Forte tanto contra a a\'e7\'e3o; ent\'e3o, como seu anfitri\'e3o, \
+Quem deveria contra seu assassino fechar a porta, \
+N\'e3o suporto a faca sozinho. Al\'e9m disso, este Duncan \
+Ele suportou suas faculdades t\'e3o manso, tem sido \
+T\'e3o claro em seu grande of\'edcio, que suas virtudes \
+Vai pleitear como anjos, de l\'edngua de trombeta, contra \
+A profunda condena\'e7\'e3o de sua decolagem; \
+E pena, como um beb\'ea rec\'e9m-nascido nu \
+Andando a explos\'e3o, ou querubim do c\'e9u, horsed \
+Sobre os mensageiros cegos do ar, \
+Vai explodir o ato horr\'edvel em todos os olhos \
+Que as l\'e1grimas afogam o vento. N\'e3o tenho est\'edmulo \
+Para furar os lados da minha inten\'e7\'e3o, mas apenas \
+Ambi\'e7\'e3o volumosa, que se propaga \
+E cai do outro. \
+Digite LADY MACBETH\
+\
+Como agora! que novidades? \
+SENHORA MACBETH\
+Ele quase supp'd: por que voc\'ea deixou a c\'e2mara? \
+MACBETH\
+Ele perguntou por mim? \
+SENHORA MACBETH\
+Voc\'ea n\'e3o sabe que ele tem? \
+MACBETH\
+N\'f3s n\'e3o prosseguiremos mais neste neg\'f3cio: \
+Ele me honrou ultimamente; e eu comprei \
+Opini\'f5es de ouro de todos os tipos de pessoas, \
+Que seria usado agora em seu mais novo brilho, \
+N\'e3o jogue de lado t\'e3o cedo. \
+SENHORA MACBETH\
+A esperan\'e7a estava b\'eabada? \
+Em que voc\'ea se vestiu? tem dormido desde ent\'e3o? \
+E acorda agora, para parecer t\'e3o verde e p\'e1lido \
+O que fez isso livremente? A partir desse momento \
+Tal eu considero teu amor. \'c9s tu afeard \
+Para ser o mesmo em seu pr\'f3prio ato e valor \
+Como tu \'e9s em desejo? Voc\'ea teria que \
+Qual tu estimas o ornamento da vida, \
+E vive um covarde em tua pr\'f3pria estima, \
+Deixando 'n\'e3o ouso' esperar 'eu faria' \
+Como o pobre gato eu sou o ditado? \
+MACBETH\
+Prithee, paz: \
+Eu ouso fazer tudo o que pode se tornar um homem; \
+Quem ousa mais n\'e3o \'e9 nenhum. \
+SENHORA MACBETH\
+Que besta n\'e3o era, ent\'e3o, \
+Isso fez voc\'ea quebrar esse empreendimento para mim? \
+Quando voc\'ea faz isso, voc\'ea era um homem; \
+E, para ser mais do que voc\'ea, voc\'ea \
+Seja muito mais o homem. Nem tempo nem lugar \
+Ent\'e3o aderiu, e ainda assim voc\'ea faria os dois: \
+Eles fizeram a si mesmos, e que a sua aptid\'e3o agora \
+Desata voc\'ea. Eu dei chupar e sei \
+Qu\'e3o doce \'e9 amar o beb\'ea que me ordenha: \
+Eu, enquanto sorria na minha cara, \
+Peguei meu mamilo de suas gengivas desossadas \
+E arrancou os c\'e9rebros, eu jurei tanto quanto voc\'ea \
+Ter feito isso. \
+MACBETH\
+Se n\'f3s falharmos? \
+SENHORA MACBETH\
+N\'f3s falhamos! \
+Mas tor\'e7a sua coragem para o lugar de furar \
+E n\'f3s n\'e3o vamos falhar. Quando Duncan est\'e1 dormindo ... \
+Onde a jornada dura de seu dia \
+Sinceramente, convide-o - seus dois camareiros \
+Eu vou com vinho e wassail para convencer \
+Essa mem\'f3ria, o guardi\'e3o do c\'e9rebro, \
+Deve ser um fumo, e o recebimento da raz\'e3o \
+Um limbeck apenas: quando em sono swinish \
+Suas naturezas encharcadas est\'e3o como em uma morte, \
+O que voc\'ea e eu n\'e3o podemos executar \
+O Duncan desprotegido? o que n\'e3o colocar em cima \
+Seus oficiais esponjosos, que devem suportar a culpa \
+Do nosso grande sofrimento? \
+MACBETH\
+Traga homens somente crian\'e7as; \
+Pois o teu destemido poder deve compor \
+Nada al\'e9m de machos. N\'e3o ser\'e1 recebido? \
+Quando temos marcado com sangue aqueles dois sonolentos \
+De sua pr\'f3pria c\'e2mara e usou suas pr\'f3prias adagas, \
+Que eles n\'e3o fizeram? \
+SENHORA MACBETH\
+Quem ousa receber outro, \
+Como faremos nossos pesares e clamor rugido \
+Ap\'f3s a sua morte? \
+MACBETH\
+Eu estou resolvido e me debruce \
+Cada agente corporal para este feito terr\'edvel. \
+Fora, e zombar do tempo com show mais justo: \
+O rosto falso deve esconder o que o falso cora\'e7\'e3o conhece. \
+Exeunt\
+\
+ACT II\
+CENA I. Tribunal do castelo de Macbeth.\
+Digite BANQUO e FLEANCE carregando uma tocha \'e0 sua frente\
+BANQUO\
+Como vai a noite, garoto? \
+FLEANCE\
+A lua est\'e1 abaixada; Eu n\'e3o ouvi o rel\'f3gio. \
+BANQUO\
+E ela desce \'e0s doze. \
+FLEANCE\
+Mais tarde, senhor. \
+BANQUO\
+Segure, pegue minha espada. H\'e1 cria\'e7\'e3o no c\'e9u; \
+Suas velas est\'e3o todas fora. Tome-te isso tamb\'e9m. \
+Uma intima\'e7\'e3o pesada \'e9 como chumbo sobre mim \
+E ainda assim eu n\'e3o iria dormir: poderes misericordiosos, \
+Contenha em mim os pensamentos amaldi\'e7oados que a natureza \
+D\'e1 forma a em repouso! \
+Digite MACBETH e um servo com uma tocha\
+\
+Me d\'ea minha espada. \
+Quem est\'e1 a\'ed? \
+MACBETH\
+Um amigo. \
+BANQUO\
+O que, senhor, ainda n\'e3o est\'e1 em repouso? A cama do rei: \
+Ele tem estado em um prazer incomum, e \
+Enviada grande benevol\'eancia para seus escrit\'f3rios. \
+Este diamante ele cumprimenta sua esposa, \
+Pelo nome da anfitri\'e3 mais am\'e1vel; e cale-se \
+Em conte\'fado incomensur\'e1vel \
+MACBETH\
+Estar despreparado \
+Nossa vontade tornou-se serva a desertar; \
+Que mais deveria libertar ter feito. \
+BANQUO\
+Tudo est\'e1 bem. \
+Eu sonhei ontem \'e0 noite das tr\'eas irm\'e3s esquisitas: \
+Para voc\'ea, eles mostraram alguma verdade. \
+MACBETH\
+Eu n\'e3o penso neles: \
+No entanto, quando podemos pedir uma hora para servir, \
+N\'f3s gast\'e1vamos isso em algumas palavras sobre esse neg\'f3cio, \
+Se voc\'ea concedesse o tempo. \
+BANQUO\
+No seu tipo de lazer. \
+MACBETH\
+Se voc\'ea se apegar ao meu consentimento, quando for \
+Isso far\'e1 honra para voc\'ea. \
+BANQUO\
+Ent\'e3o eu n\'e3o perco nenhum \
+Na procura de aument\'e1-lo, mas ainda manter \
+Meu peito franqueado e fidelidade claro, \
+Eu serei aconselhado. \
+MACBETH\
+Bom repouso o tempo! \
+BANQUO\
+Obrigado, senhor: o gosto para voc\'ea! \
+Exeunt BANQUO e FLEANCE\
+\
+MACBETH\
+Vai licitar tua ama, quando a minha bebida estiver pronta, \
+Ela bateu no sino. Te levanto para a cama. \
+Saia do Servo\
+\
+Isto \'e9 um punhal que eu vejo diante de mim? \
+A al\'e7a em dire\'e7\'e3o a minha m\'e3o? Venha, deixa-me te abra\'e7ar. \
+N\'e3o te tenho e ainda te vejo. \
+N\'e3o \'e9s tu, vis\'e3o fatal, sensata \
+Para sentir como a vis\'e3o? ou \'e9s tu mas \
+Uma adaga da mente, uma falsa cria\'e7\'e3o \
+Prosseguindo do c\'e9rebro oprimido pelo calor? \
+Eu te vejo ainda, em forma t\'e3o palp\'e1vel \
+Como isso que agora eu desenho. \
+Tu me portes do jeito que eu estava indo; \
+E tal instrumento eu deveria usar. \
+Meus olhos s\'e3o feitos os tolos dos outros sentidos, \
+Ou ent\'e3o vale todo o resto; Ainda te vejo \
+E na tua l\'e2mina e gotas de sangue, \
+O que n\'e3o era assim antes. Nao existe tal coisa: \
+\'c9 o neg\'f3cio sangrento que informa \
+Assim aos meus olhos. Agora, o \'fanico mundo \
+A natureza parece morta, e os sonhos maus abusam \
+A cortina dormia; bruxaria celebra \
+Ofertas p\'e1lidas Hecate, e murcharam assassinato, \
+Alarmado pelo seu sentinela, o lobo, \
+Cujo uivo \'e9 seu rel\'f3gio, assim com seu passo furtivo. \
+Com os passos arrebatadores de Tarquin, para o seu design \
+Move-se como um fantasma. Tu terra segura e firme, \
+N\'e3o ou\'e7am meus passos, por onde andam, por medo \
+Tuas pr\'f3prias pedras falam do meu paradeiro \
+E tome o presente horror do tempo, \
+Que agora combina com isso. Enquanto eu amea\'e7o, ele vive: \
+Palavras para o calor das a\'e7\'f5es de respira\'e7\'e3o muito frio d\'e1. \
+Um sino toca\
+\
+Eu vou e est\'e1 feito; o sino me convida. \
+N\'e3o ou\'e7a, Duncan; pois \'e9 um knell \
+Isso te chama para o c\'e9u ou para o inferno. \
+Sa\'edda\
+\
+CENA II. O mesmo.\
+Digite LADY MACBETH\
+SENHORA MACBETH\
+Aquilo que os embriagou me fez ousar; \
+O que os apagou me deu fogo. \
+Ou\'e7a! Paz! \
+Foi a coruja que gritou, o mensageiro fatal, \
+O que d\'e1 uma boa noite \'e0 popa. Ele \'e9 sobre isso: \
+As portas est\'e3o abertas; e os noivos exagerados \
+Zombar de sua carga com roncos: eu drugg'd \
+seus possets, \
+Que a morte e a natureza lutam contra eles, \
+Se eles vivem ou morrem. \
+MACBETH\
+[Dentro] Quem est\'e1 a\'ed? o que, ho! \
+SENHORA MACBETH\
+Alack, receio que tenham acordado, \
+E isso n\'e3o \'e9 feito. A tentativa e n\'e3o a a\'e7\'e3o \
+Nos confunde. Ou\'e7a! Eu coloquei suas adagas prontas; \
+Ele n\'e3o podia perd\'ea-los. Se ele n\'e3o se assemelhasse \
+Meu pai como ele dormiu, eu n\'e3o tinha feito. \
+Digite MACBETH\
+\
+Meu marido! \
+MACBETH\
+Eu fiz o feito. Voc\'ea n\'e3o ouviu um barulho? \
+SENHORA MACBETH\
+Eu ouvi a coruja gritar e os grilos chorarem. \
+Voc\'ea n\'e3o falou? \
+MACBETH\
+Quando? \
+SENHORA MACBETH\
+Agora. \
+MACBETH\
+Como eu desci? \
+SENHORA MACBETH\
+Ay \
+MACBETH\
+Ou\'e7a! \
+Quem \'e9 a segunda c\'e2mara? \
+SENHORA MACBETH\
+Donalbain \
+MACBETH\
+Esta \'e9 uma vis\'e3o triste. \
+Olhando em suas m\'e3os\
+\
+SENHORA MACBETH\
+Um pensamento tolo, para dizer uma vis\'e3o triste. \
+MACBETH\
+H\'e1 uma que riu durante o sono e uma chorou \
+'Assassinato!' \
+Que eles acordaram um ao outro: fiquei de p\'e9 e os ouvi: \
+Mas eles disseram suas ora\'e7\'f5es e dirigiram-se a eles \
+Novamente para dormir. \
+SENHORA MACBETH\
+H\'e1 dois alojados juntos. \
+MACBETH\
+Um gritou 'Deus nos aben\'e7oe!' e 'am\'e9m' o outro; \
+Como eles me viram com as m\'e3os do carrasco. \
+Ouvindo o medo deles, n\'e3o pude dizer 'am\'e9m'. \
+Quando eles disseram 'Deus nos aben\'e7oe!' \
+SENHORA MACBETH\
+Considere isso n\'e3o t\'e3o profundamente. \
+MACBETH\
+Mas por que eu n\'e3o poderia pronunciar 'Am\'e9m'? \
+Eu tinha mais necessidade de b\'ean\'e7\'e3o e 'Am\'e9m' \
+Preso na minha garganta. \
+SENHORA MACBETH\
+Essas a\'e7\'f5es n\'e3o devem ser pensadas \
+Depois desses caminhos; ent\'e3o, isso nos enlouquecer\'e1. \
+MACBETH\
+Me pareceu ouvir uma voz chorar 'N\'e3o durma mais! \
+Macbeth assassina o sono ", o sono inocente, \
+Sono que une a manga ravell'd de cuidado, \
+A morte da vida de cada dia, o banho do trabalho dolorido, \
+B\'e1lsamo de mentes feridas, segundo curso da grande natureza, \
+Chefe nutridor na festa da vida, \
+SENHORA MACBETH\
+O que voc\'ea quer dizer? \
+MACBETH\
+Ainda chorou "N\'e3o durma mais!" para toda a casa: \
+Glamis dormiu e, portanto, Cawdor \
+N\'e3o durma mais; Macbeth n\'e3o dormir\'e1 mais. \
+SENHORA MACBETH\
+Quem foi que chorou assim? Por que, digno thane, \
+Voc\'ea desdobra sua nobre for\'e7a, para pensar \
+T\'e3o brains das coisas. V\'e1 buscar um pouco de \'e1gua \
+E lave essa testemunha imunda da sua m\'e3o. \
+Por que voc\'ea trouxe esses punhais do lugar? \
+Eles devem ficar l\'e1: v\'e3o carreg\'e1-los; e esfrega\'e7o \
+Os noivos sonolentos com sangue. \
+MACBETH\
+Eu n\'e3o vou mais: \
+Tenho medo de pensar no que fiz; \
+N\'e3o volte a olhar, n\'e3o me atrevo. \
+SENHORA MACBETH\
+Enfermaria de prop\'f3sito! \
+D\'e1-me as adagas: o sono e os mortos \
+S\'e3o como imagens: \'e9 o olho da inf\'e2ncia \
+Isso teme um dem\'f4nio pintado. Se ele sangrar, \
+Eu dourei os rostos dos noivos; \
+Pois deve parecer sua culpa. \
+Sa\'edda. Batendo dentro\
+\
+MACBETH\
+De onde \'e9 essa batida? \
+Como n\'e3o est\'e1 comigo, quando todo barulho me apaixona? \
+Quais m\'e3os est\'e3o aqui? ha! eles arrancam meus olhos. \
+Ser\'e1 que todo o grande oceano de Netuno lavar\'e1 esse sangue? \
+Limpa da minha m\'e3o? N\'e3o, esta minha m\'e3o vai preferir \
+Os numerosos mares em incarnadine, \
+Tornando o verde vermelho. \
+Re-enter SENHORA MACBETH\
+\
+SENHORA MACBETH\
+Minhas m\'e3os s\'e3o da sua cor; mas eu envergonho \
+Para vestir um cora\'e7\'e3o t\'e3o branco. \
+Batendo dentro\
+\
+Eu ou\'e7o uma batida \
+Na entrada sul: nos retiramos para nossa c\'e2mara; \
+Um pouco de \'e1gua nos liberta dessa a\'e7\'e3o: \
+Qu\'e3o f\'e1cil \'e9 ent\'e3o! Sua const\'e2ncia \
+Deixou voc\'ea desacompanhado. \
+Batendo dentro\
+\
+Ou\'e7a! mais batidas. \
+Suba na sua camisola, para que a ocasi\'e3o n\'e3o nos chame, \
+E mostre-nos para sermos observadores. N\'e3o se perca \
+T\'e3o mal em seus pensamentos. \
+MACBETH\
+Para conhecer minha a\'e7\'e3o, \'e9 melhor n\'e3o me conhecer. \
+Batendo dentro\
+\
+Acorda Duncan com a tua batida! Eu poderia voc\'ea! \
+Exeunt\
+\
+CENA III. O mesmo.\
+Batendo dentro. Digite um Porter\
+Porteiro\
+Aqui est\'e1 uma batida de fato! Se um \
+o homem era o porteiro do inferno, ele deveria ter \
+velho girando a chave. \
+Batendo dentro\
+\
+Batida, \
+TOC Toc! Quem est\'e1 l\'e1, eu sou o nome de \
+Belzebu? Aqui est\'e1 um fazendeiro que enforcou \
+ele mesmo na expectativa da abund\'e2ncia: entre \
+Tempo; Tem guardanapos sobre voc\'ea; Aqui \
+voc\'ea vai suar por. \
+Batendo dentro\
+\
+Batida, \
+batida! Quem est\'e1 l\'e1, no outro dem\'f4nio \
+nome? F\'e9, aqui est\'e1 um equivocador, que poderia \
+Juro em ambas as escalas contra qualquer escala; \
+que cometeu trai\'e7\'e3o suficiente pelo amor de Deus, \
+ainda n\'e3o poderia se equivocar para o c\'e9u: O, venha \
+em, equivocador. \
+Batendo dentro\
+\
+Batida, \
+TOC Toc! Quem est\'e1 a\'ed? F\'e9, aqui est\'e1 uma \
+Alfaiate ingl\'eas vem c\'e1, por roubar \
+uma mangueira francesa: entre, alfaiate; aqui voc\'ea pode \
+assar seu ganso. \
+Batendo dentro\
+\
+Batida, \
+batida; nunca em sil\'eancio! O que voc\'ea \'e9? Mas \
+Este lugar \'e9 muito frio para o inferno. Eu vou diabo-porter \
+n\'e3o mais: eu tinha pensado em deixar entrar \
+algumas de todas as profiss\'f5es que v\'e3o \'e0 pr\'edmula \
+caminho para a fogueira eterna. \
+Batendo dentro\
+\
+Anon, anon! Eu te pe\'e7o, lembra do porteiro. \
+Abre o port\'e3o\
+\
+Digite MACDUFF e LENNOX\
+\
+MACDUFF\
+Foi t\'e3o tarde, amigo, antes de ir para a cama, \
+Que voc\'ea mente t\'e3o tarde? \
+Porteiro\
+'Faith senhor, est\'e1vamos nos divertindo at\'e9 o \
+segundo galo: e beber, senhor, \'e9 um \'f3timo \
+provocador de tr\'eas coisas. \
+MACDUFF\
+O que tr\'eas coisas bebem especialmente provocam? \
+Porteiro\
+Casar, senhor, pintar nariz, dormir e \
+urina. Lechery, senhor, provoca e n\'e3o provoca; \
+provoca o desejo, mas \'e9 preciso \
+longe o desempenho: portanto, muita bebida \
+Pode-se dizer que \'e9 um equ\'edvoco com lux\'faria: \
+isso o faz, e isso o estraga; define \
+ele, e ele o tira; ele o convence, \
+e desanima-o; faz com que ele fique em p\'e9, e \
+n\'e3o aguenta; em conclus\'e3o, equivoca-lo \
+em um sono e, dando-lhe a mentira, deixa-o. \
+MACDUFF\
+Eu acredito que a bebida te deu a mentira na noite passada. \
+Porteiro\
+Que sim, senhor, eu sou a garganta do \
+eu: mas eu correspondi a ele por sua mentira; e eu \
+pense, sendo forte demais para ele, embora ele tenha \
+as minhas pernas em algum momento, ainda fiz uma mudan\'e7a para lan\'e7ar \
+ele. \
+MACDUFF\
+Seu mestre est\'e1 se mexendo? \
+Digite MACBETH\
+\
+Nossas batidas o acordaram; aqui vem ele. \
+LENNOX\
+Bom dia, senhor nobre. \
+MACBETH\
+Bom dia, ambos. \
+MACDUFF\
+O rei est\'e1 se mexendo, digno thane? \
+MACBETH\
+Ainda n\'e3o. \
+MACDUFF\
+Ele me mandou chamar em tempo h\'e1bil sobre ele: \
+Eu quase escorreguei a hora. \
+MACBETH\
+Eu vou trazer voc\'ea para ele. \
+MACDUFF\
+Eu sei que isto \'e9 um problema alegre para voc\'ea; \
+Mas ainda \'e9 um. \
+MACBETH\
+O trabalho nos deliciamos com a dor da f\'edsica. \
+Esta \'e9 a porta. \
+MACDUFF\
+Eu vou me atrever a ligar, \
+Pois \'e9 meu servi\'e7o limitado. \
+Sa\'edda\
+\
+LENNOX\
+Vai o rei daqui hoje? \
+MACBETH\
+Ele faz: ele indicou isso. \
+LENNOX\
+A noite tem sido indisciplinada: onde nos deitamos, \
+Nossas chamin\'e9s foram derrubadas; e, como eles dizem, \
+Lamenta\'e7\'f5es ouviram o ar; gritos estranhos da morte \
+E profetizando com sotaques terr\'edveis \
+De terr\'edvel combust\'e3o e eventos confusos \
+New hatch'd para o lament\'e1vel tempo: o p\'e1ssaro obscuro \
+Clamour'd a noite ao vivo: alguns dizem, a terra \
+Estava com febre e tremeu. \
+MACBETH\
+Foi uma noite dif\'edcil. \
+LENNOX\
+Minha lembran\'e7a jovem n\'e3o pode ser paralela \
+Um companheiro para isso. \
+Digite novamente MACDUFF\
+\
+MACDUFF\
+O horror, horror, horror! L\'edngua nem cora\'e7\'e3o \
+N\'e3o pode conceber nem nomear voc\'ea! \
+MACBETH LENNOX\
+Qual \'e9 o problema. \
+MACDUFF\
+A confus\'e3o agora fez sua obra-prima! \
+O mais sacr\'edlego assassinato foi quebrado \
+O templo ungido do Senhor e roubou dali \
+A vida do edif\'edcio! \
+MACBETH\
+O que voc\'ea diz? a vida? \
+LENNOX\
+Quer dizer sua majestade? \
+MACDUFF\
+Aproxime-se da c\'e2mara e destrua sua vis\'e3o \
+Com um novo Gorgon: n\'e3o me ofere\'e7a falar; \
+Veja, e depois fale-se. \
+Exeunt MACBETH e LENNOX\
+\
+Acordado, acordado! \
+Toque a campainha de alarme. Assassinato e trai\'e7\'e3o! \
+Banquo e Donalbain! Malcolm! acordado! \
+Sacudir esse sono fofo, a morte \'e9 falsa, \
+E veja a pr\'f3pria morte! para cima, para cima e veja \
+A imagem da grande desgra\'e7a! Malcolm! Banquo! \
+Como de seus t\'famulos se levantam e andam como sprites, \
+Para tolerar esse horror! Tocar a campainha. \
+An\'e9is de sino\
+\
+Digite LADY MACBETH\
+\
+SENHORA MACBETH\
+Qual \'e9 o neg\'f3cio, \
+Que tal trombeta medonha chama a parley \
+Os dormentes da casa? fala fala! \
+MACDUFF\
+Gentil senhora, \
+N\'e3o \'e9 para voc\'ea ouvir o que eu posso falar: \
+A repeti\'e7\'e3o, no ouvido de uma mulher \
+Assassino quando caiu. \
+Digite BANQUO\
+\
+O Banquo, Banquo, \
+Nosso mestre real \'e9 assassinado! \
+SENHORA MACBETH\
+Ai, ai de mim! \
+O que em nossa casa? \
+BANQUO\
+Muito cruel em qualquer lugar. \
+Querido Duff, eu digo, contradiz-te a ti mesmo \
+E diga que n\'e3o \'e9 assim. \
+Entre novamente em MACBETH e LENNOX, com ROSS\
+\
+MACBETH\
+Se eu tivesse morrido uma hora antes dessa chance, \
+Eu vivi um tempo aben\'e7oado; pois, a partir deste instante, \
+N\'e3o h\'e1 nada s\'e9rio em mortalidade: \
+Tudo \'e9 apenas brinquedos: renome e gra\'e7a est\'e1 morta; \
+O vinho da vida \'e9 desenhado e as meras borras \
+\'c9 deixado este cofre para se gabar. \
+Entre com MALCOLM e DONALBAIN\
+\
+DONALBAIN\
+O que est\'e1 errado? \
+MACBETH\
+Voc\'ea \'e9, e n\'e3o sabe: \
+A primavera, a cabe\'e7a, a fonte do seu sangue \
+\'c9 stopp'd; a pr\'f3pria fonte \'e9 parada. \
+MACDUFF\
+Seu pai real \'e9 assassinado. \
+MALCOLM\
+Por quem? \
+LENNOX\
+Aqueles de sua c\'e2mara, como parecia, n\'e3o fizeram: \
+Suas m\'e3os e rostos eram marcados com sangue; \
+Assim foram as suas adagas, que n\'e3o encontramos \
+Sobre seus travesseiros: \
+Eles olhavam e estavam distra\'eddos; a vida de ningu\'e9m \
+Era para ser confi\'e1vel com eles. \
+MACBETH\
+Ainda me arrependo da minha f\'faria \
+Que eu matei eles. \
+MACDUFF\
+Por que voc\'ea fez assim? \
+MACBETH\
+Quem pode ser s\'e1bio, espantado, temperado e furioso? \
+Leal e neutra, em um momento? Nenhum homem: \
+A expedi\'e7\'e3o meu amor violento \
+Ultrapassa o pausador, raz\'e3o. Aqui estava Duncan, \
+Sua pele prateada atada com seu sangue dourado; \
+E suas facadas do golpe parecem uma brecha na natureza \
+Para a entrada perdul\'e1ria da ru\'edna: ali, os assassinos, \
+\'cdngreme nas cores do seu com\'e9rcio, seus punhais \
+Perturbado com machucado: quem poderia se abster, \
+Que tinha um cora\'e7\'e3o para amar e nesse cora\'e7\'e3o \
+Coragem para fazer amor, sabe? \
+SENHORA MACBETH\
+Ajude-me daqui, ho! \
+MACDUFF\
+Olhe para a senhora. \
+MALCOLM\
+[Al\'e9m de DONALBAIN] Por que n\'f3s seguramos nossas l\'ednguas, \
+Que a maioria pode reivindicar esse argumento para o nosso? \
+DONALBAIN\
+[Al\'e9m do MALCOLM] O que deve ser falado aqui, \
+onde nosso destino \
+Escondido em um buraco, pode apressar e nos pegar? \
+Vamos embora; \
+Nossas l\'e1grimas ainda n\'e3o est\'e3o fermentadas. \
+MALCOLM\
+[Al\'e9m de DONALBAIN] Nem nossa forte tristeza \
+No p\'e9 do movimento. \
+BANQUO\
+Olhe para a senhora: \
+LADY MACBETH \'e9 realizado\
+\
+E quando temos nossas fragilidades nuas escondidas, \
+Que sofrem em exposi\'e7\'e3o, vamos nos encontrar, \
+E questione esse trabalho mais sangrento, \
+Para saber mais. Medos e escr\'fapulos nos abalam: \
+Na grande m\'e3o de Deus eu permane\'e7o; e da\'ed \
+Contra a pretens\'e3o sem lutar eu luto \
+De mal\'edcia trai\'e7oeira. \
+MACDUFF\
+E eu tamb\'e9m. \
+TODOS\
+Ent\'e3o tudo. \
+MACBETH\
+Vamos colocar brevemente prontid\'e3o viril, \
+E conhe\'e7o o corredor juntos. \
+TODOS\
+Bem contente. \
+Exeunt todos, mas Malcolm e Donalbain.\
+\
+MALCOLM\
+O que voc\'ea vai fazer? N\'e3o vamos consorcer com eles: \
+Para mostrar uma tristeza n\'e3o sentida \'e9 um escrit\'f3rio \
+Que o falso homem faz f\'e1cil. Eu vou para a Inglaterra. \
+DONALBAIN\
+Para a Irlanda, eu; nossa fortuna separada \
+Nos manter\'e1 mais seguros: onde estamos, \
+H\'e1 punhais nos sorrisos dos homens: o pr\'f3ximo em sangue, \
+O mais pr\'f3ximo de sangrar. \
+MALCOLM\
+Este eixo assassino que \'e9 baleado \
+Ainda n\'e3o acendeu e nosso caminho mais seguro \
+\'c9 evitar o objetivo. Portanto, para cavalo; \
+E n\'e3o nos deixemos delicados em deixar de lado, \
+Mas se afaste: h\'e1 garantia nesse roubo \
+Que rouba a si mesmo, quando n\'e3o h\'e1 miseric\'f3rdia. \
+Exeunt\
+\
+CENA IV. Fora do castelo de Macbeth.\
+Digite ROSS e um homem velho\
+Idoso\
+Sessenta e dez posso lembrar bem: \
+Dentro do volume de tempo que eu vi \
+Horas terr\'edveis e coisas estranhas; mas esta noite dolorida \
+Nascemos nos conhecimentos anteriores. \
+ROSS\
+Bom pai, \
+Tu v\'eas, os c\'e9us, t\'e3o perturbados com o ato do homem, \
+Ameace seu est\'e1gio sangrento: pelo rel\'f3gio, este dia, \
+E ainda a noite escura estrangula a l\'e2mpada de viagem: \
+N\'e3o \'e9 predomin\'e2ncia da noite, ou a vergonha do dia, \
+Que a escurid\'e3o faz a face da terra, \
+Quando a luz viva deve beij\'e1-lo? \
+Idoso\
+"N\'e3o \'e9 natural, \
+Mesmo como a a\'e7\'e3o que foi feita. Na ter\'e7a-feira passada, \
+Um falc\'e3o, imponente em seu orgulho de lugar, \
+Era por uma coruja que passeava e matava. \
+ROSS\
+E os cavalos de Duncan - uma coisa muito estranha e certa - \
+Belos e r\'e1pidos, os asseclas de sua ra\'e7a, \
+Tornou-se selvagem na natureza, quebrou suas barracas, atirou-se para fora, \
+Concorrente 'ganhar obedi\'eancia, como eles fariam \
+Guerra com a humanidade. \
+Idoso\
+Dizem que eles comem um ao outro. \
+ROSS\
+Eles fizeram isso, para o espanto dos meus olhos \
+Isso n\'e3o parece. A\'ed vem o bom Macduff. \
+Digite MACDUFF\
+\
+Como vai o mundo, senhor agora? \
+MACDUFF\
+Por que voc\'ea n\'e3o v\'ea? \
+ROSS\
+N\'e3o se sabe quem fez isso mais do que a\'e7\'e3o sangrenta? \
+MACDUFF\
+Aqueles que Macbeth matou. \
+ROSS\
+Ai, o dia! \
+Que bom eles poderiam fingir? \
+MACDUFF\
+Eles foram subornados: \
+Malcolm e Donalbain, os dois filhos do rei, \
+S\'e3o roubados e fugiram; que coloca sobre eles \
+Suspeita da a\'e7\'e3o. \
+ROSS\
+'Ganho natureza ainda! \
+Ambi\'e7\'e3o sem esfor\'e7o, que vai ravin up \
+Os teus pr\'f3prios meios de vida! Ent\'e3o \'e9 mais parecido \
+A soberania cair\'e1 sobre Macbeth. \
+MACDUFF\
+Ele j\'e1 \'e9 chamado e foi para o Scone \
+Para ser investido. \
+ROSS\
+Onde est\'e1 o corpo de Duncan? \
+MACDUFF\
+Transportado para Colmekill, \
+O armaz\'e9m sagrado de seus antecessores, \
+E guardi\'e3o dos ossos deles. \
+ROSS\
+Voc\'ea vai para Scone? \
+MACDUFF\
+N\'e3o, primo, vou ao Fife. \
+ROSS\
+Bem, eu vou para l\'e1. \
+MACDUFF\
+Bem, voc\'ea pode ver coisas bem feitas l\'e1: adeus! \
+Para que nossas vestes antigas n\'e3o fiquem mais f\'e1ceis do que as novas! \
+ROSS\
+Adeus pai. \
+Idoso\
+Benison de Deus ir com voc\'ea; e com aqueles \
+Isso seria bom para os maus e amigos dos inimigos! \
+Exeunt\
+\
+ACT III\
+CENA I. Forres. O Pal\'e1cio.\
+Digite BANQUO\
+BANQUO\
+Tu tens agora: rei, Cawdor, Glamis, todos, \
+Como as mulheres estranhas prometeram e, receio, \
+Tu jogas muito mal por isso: ainda assim foi dito \
+N\'e3o deveria estar na tua posteridade, \
+Mas eu mesmo deveria ser a raiz e o pai \
+De muitos reis. Se vier a verdade deles ... \
+Como em ti, Macbeth, seus discursos brilham ... \
+Por que, pelas verdades em ti feitas boas, \
+Que eles n\'e3o sejam meus or\'e1culos tamb\'e9m, \
+E me colocou na esperan\'e7a? Mas sil\'eancio! n\'e3o mais. \
+Sennet soou. Digite MACBETH, como rei, LADY MACBETH, como rainha, LENNOX, ROSS, Lords, Ladies e Attendants\
+\
+MACBETH\
+Aqui est\'e1 nosso convidado principal. \
+SENHORA MACBETH\
+Se ele tivesse sido esquecido, \
+Foi como uma lacuna na nossa grande festa, \
+E tudo \'e9 impr\'f3prio. \
+MACBETH\
+Hoje \'e0 noite fazemos um jantar solene, \
+E eu vou pedir sua presen\'e7a. \
+BANQUO\
+Deixe sua alteza \
+Comande sobre mim; para o qual meus deveres \
+S\'e3o com um empate mais indissol\'favel \
+Para sempre malha. \
+MACBETH\
+Montar voc\'ea esta tarde? \
+BANQUO\
+Ay meu bom senhor. \
+MACBETH\
+N\'f3s dever\'edamos ter desejado o seu bom conselho, \
+Que ainda tem sido grave e pr\'f3spero \
+No conselho deste dia; mas n\'f3s vamos tomar amanh\'e3. \
+N\'e3o \'e9 longe voc\'ea monta? \
+BANQUO\
+At\'e9 agora, meu senhor, como vai encher o tempo \
+'Twixt isso e ceia: n\'e3o vai meu cavalo o melhor, \
+Eu devo me tornar um mutu\'e1rio da noite \
+Por uma hora escura ou duas. \
+MACBETH\
+N\'e3o falhe nossa festa. \
+BANQUO\
+Meu senhor, eu n\'e3o vou. \
+MACBETH\
+N\'f3s ouvimos, nossos primos sangrentos s\'e3o doados \
+Na Inglaterra e na Irlanda, n\'e3o confessando \
+Seu parric\'eddio cruel, enchendo seus ouvintes \
+Com uma estranha inven\'e7\'e3o: mas disso amanh\'e3 \
+Quando, ent\'e3o, teremos causa de estado \
+Almejando-nos em conjunto. Oi a cavalo: adeus, \
+At\'e9 voc\'ea voltar \'e0 noite. Vai Fleance com voc\'ea? \
+BANQUO\
+Ai, meu bom senhor: nosso tempo chama. \
+MACBETH\
+Desejo seus cavalos r\'e1pidos e seguros de p\'e9; \
+E assim eu recomendo-te \'e0s suas costas. Despedida. \
+Sair do BANQUO\
+\
+Que todo homem seja senhor de seu tempo \
+At\'e9 as sete da noite: fazer sociedade \
+O bem-vindo mais doce, vamos nos manter \
+At\'e9 o momento da ceia sozinho: enquanto ent\'e3o, Deus esteja com voc\'ea! \
+Exeunt todos, mas MACBETH, e um atendente\
+\
+Sirrah, uma palavra com voc\'ea: atenda a esses homens \
+Nosso prazer? \
+ATENDENTE\
+Eles s\'e3o, meu senhor, sem o port\'e3o do pal\'e1cio. \
+MACBETH\
+Traga-os diante de n\'f3s. \
+Sair do assistente\
+\
+Ser assim n\'e3o \'e9 nada; \
+Mas para ser seguro assim. - Nossos medos em Banquo \
+Fure profundamente; e em sua realeza da natureza \
+Reina aquilo que seria temido: \'e9 muito que ele ousa; \
+E, para esse temperamento destemido de sua mente, \
+Ele tem uma sabedoria que guia seu valor \
+Agir em seguran\'e7a. N\'e3o h\'e1 ningu\'e9m sen\'e3o ele \
+De quem eu tenho medo, e debaixo dele, \
+Meu g\'eanio \'e9 repreendido; como se diz \
+Marco Ant\'f4nio era de C\'e9sar. Ele chidou as irm\'e3s \
+Quando primeiro eles colocaram o nome do rei em cima de mim, \
+E ordenou-lhes que falassem com ele: ent\'e3o profeta \
+Eles o fizeram pai de uma linha de reis: \
+Sobre a minha cabe\'e7a eles colocaram uma coroa infrut\'edfera \
+E coloquei um cetro est\'e9ril na minha queixa \
+Da\'ed para ser arrancado com uma m\'e3o n\'e3o-linear, \
+Nenhum filho meu sucedendo. Se n\'e3o for assim, \
+Para a quest\'e3o de Banquo, arquivei minha mente; \
+Para eles, o gracioso Duncan foi assassinado; \
+Coloque rancours no navio da minha paz \
+Somente para eles; e minha j\'f3ia eterna \
+Dado ao inimigo comum do homem, \
+Para torn\'e1-los reis, a semente dos reis Banquo! \
+Mais do que isso, venha o destino para a lista. \
+E me campe\'e3o para o enunciado! Quem est\'e1 a\'ed! \
+Entre novamente no Attendant, com dois Assassinos\
+\
+Agora v\'e1 para a porta e fique l\'e1 at\'e9 que n\'f3s telefonemos. \
+Sair do assistente\
+\
+N\'e3o foi ontem que falamos juntos? \
+Primeiro Assassino\
+Foi, ent\'e3o por favor sua alteza. \
+MACBETH\
+Pois bem, agora \
+Voc\'ea j\'e1 pensou em meus discursos? Conhecer \
+Que foi ele nos tempos passados \uc0\u8203 \u8203 que te segurou \
+Ent\'e3o, sob fortuna, o que voc\'ea achava que tinha sido \
+Nossa auto inocente: isso eu fiz bem para voc\'ea \
+Em nossa \'faltima confer\'eancia, passamos em liberdade condicional com voc\'ea, \
+Como voc\'ea foi levado na m\'e3o, como cruzado, \
+os instrumentos, \
+Quem trabalhou com eles e todas as outras coisas que poderiam \
+Para meia alma e para uma no\'e7\'e3o enlouquecida \
+Diga "Assim fez Banquo". \
+Primeiro Assassino\
+Voc\'ea fez isso conhecido para n\'f3s. \
+MACBETH\
+Eu fiz isso e fui mais longe, o que \'e9 agora \
+Nosso ponto de segunda reuni\'e3o. Voc\'ea encontra \
+Sua paci\'eancia \'e9 t\'e3o predominante em sua natureza \
+Que voc\'ea pode deixar isso pra l\'e1? Voc\'ea est\'e1 t\'e3o evangelizado? \
+Para rezar por este bom homem e por seu problema, \
+Cuja m\'e3o pesada te curvou para o t\'famulo \
+E mendigar seu para sempre? \
+Primeiro Assassino\
+N\'f3s somos homens, meu soberano. \
+MACBETH\
+Ai, no cat\'e1logo, procurarei homens; \
+Como c\'e3es e galgos, mesti\'e7os, spaniels, curs, \
+Shoughs, tapetes de \'e1gua e demi-lobos, s\'e3o clept \
+Tudo pelo nome de cachorros: o arquivo de valor \
+Distingue o r\'e1pido, o lento, o sutil, \
+A governanta, o ca\'e7ador, cada um \
+De acordo com o presente que natureza generosa \
+Tem nele fechado; pelo qual ele recebe \
+Adi\'e7\'e3o especial. da conta \
+Isso os escreve todos da mesma maneira: e assim dos homens. \
+Agora, se voc\'ea tem uma esta\'e7\'e3o no arquivo, \
+N\'e3o \'e9 o pior grau de masculinidade, digamos; \
+E eu vou colocar esse neg\'f3cio em seus seios \
+Cuja execu\'e7\'e3o leva seu inimigo, \
+Lan\'e7a-te ao cora\'e7\'e3o e amor de n\'f3s \
+Quem usa a nossa sa\'fade, mas doentio em sua vida, \
+Que em sua morte foram perfeitos. \
+Segundo Assassino\
+Eu sou um, meu santo \
+Quem os sopros vil e buffets do mundo \
+T\'e3o t\'e3o enfurecido que eu sou imprudente que \
+Eu fa\'e7o para irritar o mundo. \
+Primeiro Assassino\
+E eu outro \
+T\'e3o cansado de desastres, tugg'd com fortuna, \
+Que eu colocaria minha mentira por acaso \
+Para consertar isso, ou se livrar dele. \
+MACBETH\
+Voc\'eas dois \
+Sabe Banquo era seu inimigo. \
+Ambos Assassinos\
+Verdade, meu senhor. \
+MACBETH\
+Ent\'e3o ele \'e9 meu; e em tal dist\'e2ncia sangrenta, \
+Que cada minuto de seu ser empurra \
+Contra o meu pr\'f3ximo da vida: e embora eu pudesse \
+Com o poder descarado varr\'ea-lo da minha vista \
+E lance minha vontade para avali\'e1-lo, mas eu n\'e3o devo, \
+Para alguns amigos que s\'e3o dele e meus, \
+Cujo amor eu n\'e3o posso cair, mas lamento sua queda \
+Quem eu mesmo abati; e da\'ed \'e9, \
+Que eu a sua ajuda fa\'e7a amor, \
+Mascarando o neg\'f3cio do olho comum \
+Por diversas raz\'f5es importantes. \
+Segundo Assassino\
+N\'f3s, meu senhor, \
+Execute o que voc\'ea nos comanda. \
+Primeiro Assassino\
+Embora nossas vidas \
+MACBETH\
+Seus esp\'edritos brilham atrav\'e9s de voc\'ea. Dentro desta hora no m\'e1ximo \
+Eu lhe direi onde plantar-se; \
+Conhec\'ea-lo com o espi\'e3o perfeito do tempo, \
+O momento em't; n\'e3o deve ser feito a noite, \
+E algo do pal\'e1cio; sempre pensei \
+Que eu exijo uma clareza: e com ele \
+Para n\'e3o deixar fric\'e7\'f5es nem falhas no trabalho ... \
+Fleance seu filho, que lhe faz companhia, \
+Cuja aus\'eancia n\'e3o \'e9 menos material para mim \
+Do que o pai dele, deve abra\'e7ar o destino \
+Daquela hora escura. Resolva-se \'e0 parte: \
+Eu vou at\'e9 voc\'ea anon. \
+Ambos Assassinos\
+Estamos resolvidos, meu senhor. \
+MACBETH\
+Vou cham\'e1-lo direto: fique dentro dele. \
+Assassinos Exeunt\
+\
+Est\'e1 conclu\'eddo. Banquo, voo da tua alma \
+Se encontrar o c\'e9u, deve encontr\'e1-lo esta noite. \
+Sa\'edda\
+\
+CENA II. O Pal\'e1cio.\
+Digite LADY MACBETH e um servo\
+SENHORA MACBETH\
+Banquo foi embora do tribunal? \
+Servo\
+Ay, madame, mas retorna novamente esta noite. \
+SENHORA MACBETH\
+Diga ao rei, eu iria assistir ao seu lazer \
+Por algumas palavras. \
+Servo\
+Senhora, eu vou. \
+Sa\'edda\
+\
+SENHORA MACBETH\
+Nought's teve, tudo \'e9 gasto, \
+Onde nosso desejo \'e9 obtido sem conte\'fado: \
+\'c9 mais seguro ser aquilo que destru\'edmos \
+Que pela destrui\'e7\'e3o habite em alegria duvidosa. \
+Digite MACBETH\
+\
+Como agora, meu senhor! por que voc\'ea fica sozinho? \
+De mais triste gosta de seus companheiros, \
+Usando aqueles pensamentos que deveriam ter morrido \
+Com eles eles pensam? Coisas sem rem\'e9dio \
+Deve ser sem considera\'e7\'e3o: o que est\'e1 feito est\'e1 feito. \
+MACBETH\
+N\'f3s scotch'd a serpente, n\'e3o o matamos: \
+Ela vai fechar e ser ela mesma, enquanto nossa m\'e1 mal\'edcia \
+Permanece em perigo de seu antigo dente. \
+Mas deixe o quadro das coisas se separar, tanto o \
+os mundos sofrem \
+Antes vamos comer a nossa refei\'e7\'e3o com medo e dormir \
+Na afli\'e7\'e3o desses terr\'edveis sonhos \
+Isso nos abala todas as noites: melhor estar com os mortos, \
+A quem n\'f3s, para ganharmos a paz, enviamos \'e0 paz, \
+Do que na tortura da mente para mentir \
+Em \'eaxtase inquieto. Duncan est\'e1 em seu t\'famulo; \
+Depois da febre intermitente da vida, ele dorme bem; \
+A trai\'e7\'e3o fez o seu pior: nem a\'e7o, nem veneno \
+Malice dom\'e9stico, imposto estrangeiro, nada, \
+Pode toc\'e1-lo ainda mais. \
+SENHORA MACBETH\
+Vamos; \
+Gentil, meu senhor, elegante quanto a sua apar\'eancia \'e1spera; \
+Seja brilhante e jovial entre os seus convidados esta noite. \
+MACBETH\
+Assim eu amarei; e assim, eu oro, seja voc\'ea: \
+Deixe sua lembran\'e7a se aplicar ao Banquo; \
+Apresente-lhe a emin\'eancia, tanto com o olho como com a l\'edngua: \
+Inseguro o tempo, que n\'f3s \
+Devemos honrar nossas honras nestes riachos lisonjeiros, \
+E fa\'e7a nossos rostos de nossos cora\'e7\'f5es, \
+Disfar\'e7ando o que eles s\'e3o. \
+SENHORA MACBETH\
+Voc\'ea deve deixar isso. \
+MACBETH\
+O, cheio de escorpi\'f5es \'e9 minha mente, querida esposa! \
+Tu sabes que Banquo e seu Fleance vivem. \
+SENHORA MACBETH\
+Mas nelas a c\'f3pia da natureza n\'e3o \'e9 eterne. \
+MACBETH\
+Ainda h\'e1 conforto; eles est\'e3o dispon\'edveis; \
+Ent\'e3o seja jocund: antes que o morcego voe \
+Seu voo claustro, antes de negar a convoca\'e7\'e3o de Hecate \
+O besouro de cocar com seus zumbidos sonolentos \
+O ronco de bocejo da noite, deve ser feito \
+Um feito de nota terr\'edvel. \
+SENHORA MACBETH\
+O que fazer? \
+MACBETH\
+Ser inocente do conhecimento, querido chuck, \
+At\'e9 voc\'ea aplaudir a a\'e7\'e3o. Venha, seeling noite, \
+Cure o olho terno do dia lament\'e1vel; \
+E com a tua m\'e3o sangrenta e invis\'edvel \
+Cancelar e rasgar em peda\'e7os esse grande v\'ednculo \
+O que me mant\'e9m p\'e1lido! A luz engrossa; e o corvo \
+Faz ala para a madeira rooky: \
+As boas coisas do dia come\'e7am a cair e afogar; \
+Enquanto os agentes negros da noite para suas presas despertam. \
+Maravilha-te com as minhas palavras; guarda-te ainda; \
+As coisas ruins come\'e7aram a se fortalecer pelo mal. \
+Ent\'e3o, por favor, v\'e1 comigo. \
+Exeunt\
+\
+CENA III. Um parque perto do pal\'e1cio.\
+Digite tr\'eas Assassinos\
+Primeiro Assassino\
+Mas quem fez voc\'ea se juntar a n\'f3s? \
+Terceiro Assassino\
+Macbeth. \
+Segundo Assassino\
+Ele n\'e3o precisa da nossa desconfian\'e7a, j\'e1 que ele entrega \
+Nossos escrit\'f3rios e o que temos que fazer \
+Para a dire\'e7\'e3o apenas. \
+Primeiro Assassino\
+Ent\'e3o fique com a gente. \
+O oeste ainda brilha com alguns tra\'e7os do dia: \
+Agora estimula o ritmo do viajante \
+Para ganhar a estalagem oportuna; e abordagens pr\'f3ximas \
+O assunto do nosso rel\'f3gio. \
+Terceiro Assassino\
+Ou\'e7a! Eu ou\'e7o cavalos. \
+BANQUO\
+[Dentro] Nos d\'ea uma luz l\'e1, ho! \
+Segundo Assassino\
+Ent\'e3o \'e9 ele: o resto \
+Que est\'e3o dentro da nota de expectativa \
+J\'e1 estou no tribunal. \
+Primeiro Assassino\
+Seus cavalos andam por a\'ed. \
+Terceiro Assassino\
+Quase uma milha: mas ele geralmente \
+Assim todos os homens, daqui para o port\'e3o do pal\'e1cio \
+Fa\'e7a a caminhada deles. \
+Segundo Assassino\
+Uma luz, uma luz! \
+Digite BANQUO e FLEANCE com uma tocha\
+\
+Terceiro Assassino\
+\'c9 ele. \
+Primeiro Assassino\
+Fique de p\'e9. \
+BANQUO\
+Vai ser chuva esta noite. \
+Primeiro Assassino\
+Deixe descer. \
+Eles se deparam com BANQUO\
+\
+BANQUO\
+O, trai\'e7\'e3o! Voe, bom Fleance, voe, voe, voe! \
+Tu podes vingar-te. Escravo! \
+Morre. FLEANCE escapa\
+\
+Terceiro Assassino\
+Quem apagou a luz? \
+Primeiro Assassino\
+N\'e3o foi o caminho? \
+Terceiro Assassino\
+H\'e1 apenas um baixo; o filho \'e9 fugido. \
+Segundo Assassino\
+N\'f3s perdemos \
+Melhor metade do nosso caso. \
+Primeiro Assassino\
+Bem, vamos embora e diga o quanto est\'e1 feito. \
+Exeunt\
+\
+CENA IV. O mesmo. Hall no pal\'e1cio.\
+Um banquete preparado. Digite MACBETH, LADY MACBETH, ROSS, LENNOX, Lords e Attendants\
+MACBETH\
+Voc\'ea conhece seus pr\'f3prios graus; sente-se: primeiro \
+E duram as calorosas boas vindas. \
+Senhores\
+Gra\'e7as a sua majestade. \
+MACBETH\
+N\'f3s mesmos nos misturaremos com a sociedade, \
+E jogue o anfitri\'e3o humilde. \
+Nossa anfitri\'e3 mant\'e9m seu estado, mas no melhor momento \
+Vamos exigir que ela seja bem-vinda. \
+SENHORA MACBETH\
+Pronuncie isso para mim, senhor, para todos os nossos amigos; \
+Para o meu cora\'e7\'e3o fala eles s\'e3o bem vindos. \
+Primeiro Assassino aparece na porta\
+\
+MACBETH\
+Veja, eles te encontram com o agradecimento de seus cora\'e7\'f5es. \
+Ambos os lados s\'e3o parados: aqui sentarei no meio: \
+Seja grande em alegria; anon vamos beber uma medida \
+A mesa redonda. \
+Aproximando-se da porta\
+\
+H\'e1 sangue no teu rosto. \
+Primeiro Assassino\
+Ent\'e3o \'e9 Banquo. \
+MACBETH\
+\'c9 melhor voc\'ea ficar do que dentro dele. \
+Ele \'e9 despachado? \
+Primeiro Assassino\
+Meu senhor, sua garganta est\'e1 cortada; que eu fiz para ele. \
+MACBETH\
+Tu \'e9s o melhor das gargantas cortadas, mas ele \'e9 bom \
+Isso fez o mesmo para Fleance: se voc\'ea fez isso, \
+Tu \'e9s o nonpareil. \
+Primeiro Assassino\
+A maioria do senhor real \
+Fleance \'e9 'scaped. \
+MACBETH\
+Ent\'e3o vem o meu ajuste novamente: eu tinha sido mais perfeito, \
+Todo como o m\'e1rmore, fundado como a rocha, \
+T\'e3o amplo e geral quanto o ar da carca\'e7a: \
+Mas agora eu sou cabinada, presa, confinada, presa \
+Para tirar d\'favidas e medos. Mas Banquo est\'e1 a salvo? \
+Primeiro Assassino\
+Ay meu bom senhor: seguro em uma vala que ele bides, \
+Com vinte cortes rasgados na cabe\'e7a; \
+Menos uma morte para a natureza. \
+MACBETH\
+Obrigado por isso: \
+Ali a serpente crescida jaz; o verme que fugiu \
+Com a natureza que com o tempo a ra\'e7a do veneno, \
+N\'e3o h\'e1 dentes para o presente. Vai-te embora: amanh\'e3 \
+N\'f3s ouviremos a n\'f3s mesmos novamente. \
+Exit Murderer\
+\
+SENHORA MACBETH\
+Meu senhor real \
+Voc\'ea n\'e3o d\'e1 a alegria: a festa \'e9 vendida \
+Isso n\'e3o \'e9 frequentemente atestado, enquanto isso \'e9 \
+Foi dado com boas-vindas: alimentar-se era melhor em casa; \
+De l\'e1, o molho para a carne \'e9 a cerim\'f4nia; \
+Encontro estava vazio sem ele. \
+MACBETH\
+Lembrete doce! \
+Agora, boa digest\'e3o aguarde o apetite, \
+E sa\'fade em ambos! \
+LENNOX\
+N\'e3o pode agradar sua alteza sentar. \
+O FANTASMA DO BANQUO entra e fica no lugar do MACBETH\
+\
+MACBETH\
+Aqui n\'f3s t\'ednhamos agora a honra do nosso pa\'eds, \
+A pessoa enfeitada de nosso Banquo estava presente? \
+Quem eu prefiro desafiar por maldade? \
+Do que pena por azar! \
+ROSS\
+Sua aus\'eancia, senhor \
+Deixa a culpa em sua promessa. Por favor, sua alteza \
+Para nos agraciar com sua companhia real. \
+MACBETH\
+A mesa est\'e1 cheia. \
+LENNOX\
+Aqui est\'e1 um lugar reservado, senhor. \
+MACBETH\
+Onde? \
+LENNOX\
+Aqui meu bom senhor. O que n\'e3o \'e9 que move sua alteza? \
+MACBETH\
+Qual de voc\'eas fez isso? \
+Senhores\
+O que, meu bom senhor? \
+MACBETH\
+Tu n\'e3o podes dizer que eu fiz: nunca agite \
+Tua sangrenta trava em mim. \
+ROSS\
+Senhores, levante-se: sua alteza n\'e3o est\'e1 bem. \
+SENHORA MACBETH\
+Sente-se, amigos dignos: meu senhor \'e9 frequentemente assim, \
+E desde a sua mocidade, rogai-lhe que se mantenha sentado; \
+O ajuste \'e9 moment\'e2neo; sobre um pensamento \
+Ele voltar\'e1 a ficar bem: se voc\'ea notar, \
+Voc\'ea deve ofend\'ea-lo e estender sua paix\'e3o: \
+Alimente-o e n\'e3o o considere. Voc\'ea \'e9 um homem? \
+MACBETH\
+Ay, e um ousado, que se atreve a olhar sobre isso \
+O que pode atrapalhar o diabo. \
+SENHORA MACBETH\
+O material apropriado! \
+Essa \'e9 a pr\'f3pria pintura do seu medo: \
+Este \'e9 o punhal desenhado pelo ar que, voc\'ea disse, \
+Levou voc\'ea para Duncan. Essas falhas e come\'e7os, \
+Impostores ao verdadeiro medo, bem se tornariam \
+A hist\'f3ria de uma mulher no inc\'eandio de um inverno \
+Autorizado por seu grandam. Vergonha em si! \
+Por que voc\'ea faz esses rostos? Quando tudo estiver pronto, \
+Voc\'ea olha, mas em um banquinho. \
+MACBETH\
+Prithee, veja l\'e1! contemplar! Veja! lo! \
+como voc\'ea diz? \
+Por que, que cuidado eu? Se tu podes concordar, fala tamb\'e9m. \
+Se casas funer\'e1rias e nossas sepulturas devem enviar \
+Aqueles que enterramos de volta, nossos monumentos \
+Ser\'e3o os papagaios das pipas. \
+FANTASMA DO BANQUO desaparece\
+\
+SENHORA MACBETH\
+O que, bastante unmann'd na loucura? \
+MACBETH\
+Se eu ficar aqui, eu o vi. \
+SENHORA MACBETH\
+Fie, por vergonha! \
+MACBETH\
+O sangue foi derramado agora, nos tempos antigos, \
+O estatuto humano purgou a suave gentileza; \
+Ay, e desde ent\'e3o, os assassinatos foram executados \
+Terr\'edvel demais para o ouvido: os tempos foram, \
+Que quando os c\'e9rebros sa\'edssem, o homem morreria \
+E h\'e1 um fim; mas agora eles se levantam novamente \
+Com vinte assassinatos mortais em suas coroas, \
+E nos empurre de nossas fezes: isso \'e9 mais estranho \
+Do que esse assassinato \'e9. \
+SENHORA MACBETH\
+Meu digno senhor \
+Seus nobres amigos te faltam. \
+MACBETH\
+Eu esque\'e7o. \
+N\'e3o pense em mim, meus amigos mais dignos, \
+Eu tenho uma enfermidade estranha, que n\'e3o \'e9 nada \
+Para aqueles que me conhecem. Venha amor e sa\'fade a todos; \
+Ent\'e3o eu vou me sentar. Me d\'ea um pouco de vinho; encher cheio. \
+Eu bebo para a alegria geral de toda a mesa, \
+E ao nosso querido amigo Banquo, de quem sentimos falta; \
+Ele estaria aqui! para todos, e ele, n\'f3s temos sede, \
+E tudo para todos. \
+Senhores\
+Nossos deveres e o compromisso. \
+Volte a entrar no GHOST OF BANQUO\
+\
+MACBETH\
+Avaunt! e saia da minha vista! Deixe a terra te esconder! \
+Teus ossos s\'e3o sem medula, teu sangue \'e9 frio; \
+Tu n\'e3o tens especula\'e7\'e3o naqueles olhos \
+Com o que tu brilha! \
+SENHORA MACBETH\
+Pense nisso, bons colegas \
+Mas como uma coisa de costume: n\'e3o \'e9 outro; \
+S\'f3 isso estraga o prazer do tempo. \
+MACBETH\
+O que o homem ousa, eu ouso: \
+Aproxime-se como o urso russo, \
+O rinoceronte do bra\'e7o, ou o tigre hircano; \
+Tome qualquer forma, mas isso, e meus nervos firmes \
+Nunca deve tremer: ou estar vivo novamente, \
+E me desafias para o deserto com a tua espada; \
+Se tremendo eu habito ent\'e3o, me proteste \
+O beb\'ea de uma menina. Da\'ed, sombra horr\'edvel! \
+Zombaria irreal, da\'ed! \
+FANTASMA DO BANQUO desaparece\
+\
+Por que, assim: sendo ido, \
+Eu sou um homem novamente. Pray voc\'ea, sente-se ainda. \
+SENHORA MACBETH\
+Voc\'ea deslocou a alegria, quebrou a boa reuni\'e3o, \
+Com o dist\'farbio mais admirado. \
+MACBETH\
+Podem tais coisas ser, \
+E nos supere como a nuvem de um ver\'e3o \
+Sem nossa maravilha especial? Voc\'ea me deixa estranho \
+Mesmo para a disposi\'e7\'e3o que eu devo \
+Quando agora eu acho que voc\'ea pode contemplar essas vis\'f5es, \
+E mantenha o rubi natural das suas bochechas, \
+Quando a minha \'e9 branqueada de medo. \
+ROSS\
+Que vis\'f5es, meu senhor? \
+SENHORA MACBETH\
+Eu te pe\'e7o, n\'e3o fales; ele cresce cada vez pior; \
+Pergunta enfurece ele. De uma vez boa noite: \
+N\'e3o fique na ordem de sua partida \
+Mas v\'e1 imediatamente. \
+LENNOX\
+Boa noite; e melhor sa\'fade \
+Atenda sua majestade! \
+SENHORA MACBETH\
+Uma boa noite para todos! \
+Exeunt todos, mas MACBETH e LADY MACBETH\
+\
+MACBETH\
+Ter\'e1 sangue; eles dizem, sangue ter\'e1 sangue: \
+Sabe-se que as pedras se movimentam e as \'e1rvores falam; \
+Augurs e rela\'e7\'f5es compreendidas t\'eam \
+Por magot-pies e choughs e rooks produzidos \
+O segredo do homem de sangue. O que \'e9 a noite? \
+SENHORA MACBETH\
+Quase em desacordo com a manh\'e3, que \'e9 qual. \
+MACBETH\
+Como voc\'ea diz, que Macduff nega sua pessoa \
+No nosso grande lance? \
+SENHORA MACBETH\
+Voc\'ea mandou para ele, senhor? \
+MACBETH\
+Eu ou\'e7o a prop\'f3sito; mas vou mandar: \
+N\'e3o h\'e1 um deles, mas em sua casa \
+Eu mantenho um servo pago. Eu vou amanh\'e3, \
+E com certeza vou, para as irm\'e3s esquisitas: \
+Mais eles falar\'e3o; por agora estou inclinado a saber \
+Pelo pior meio, o pior. Para meu pr\'f3prio bem \
+Todas as causas devem ceder: eu estou no sangue \
+Stepp'd na medida em que, se eu n\'e3o quiser mais, \
+Voltar era t\'e3o tedioso quanto ir: \
+Coisas estranhas que tenho na cabe\'e7a, que v\'e3o me dar; \
+O que deve ser feito antes de serem escaneados. \
+SENHORA MACBETH\
+Voc\'ea n\'e3o tem a esta\'e7\'e3o de todas as naturezas, durma. \
+MACBETH\
+Venha, vamos dormir. Meu estranho e auto-abuso \
+\'c9 o medo inicial que quer o uso duro: \
+N\'f3s somos ainda jovens em a\'e7\'e3o. \
+Exeunt\
+\
+CENA V. A Heath.\
+Trov\'e3o. Entre nas tr\'eas bruxas que se encontram HECATE\
+Primeira bruxa\
+Por que, como agora, Hecate! Voc\'ea est\'e1 com raiva. \
+H\'c9CATE\
+Eu n\'e3o raciocino, beldams como voc\'ea \'e9, \
+Picante e overbold? Como voc\'ea ousou \
+Para negociar e trafegar com Macbeth \
+Em enigmas e assuntos da morte; \
+E eu, a amante dos seus encantos \
+O intruso pr\'f3ximo de todos os danos, \
+Nunca foi chamado para fazer minha parte \
+Ou mostre a gl\'f3ria da nossa arte? \
+E, o que \'e9 pior, tudo que voc\'ea fez \
+Tem sido apenas para um filho desobediente, \
+Rancoroso e irado que, como outros, \
+Ama para seus pr\'f3prios fins, n\'e3o para voc\'ea. \
+Mas fa\'e7a as pazes agora: v\'e1 embora, \
+E no po\'e7o de Acheron \
+Encontre-me na manh\'e3: para l\'e1 ele \
+Vir\'e1 a conhecer o seu destino: \
+Seus vasos e seus feiti\'e7os fornecem, \
+Seus encantos e tudo ao lado. \
+Eu sou pelo ar; esta noite vou passar \
+At\'e9 um final sombrio e fatal: \
+Grandes neg\'f3cios devem ser feitos antes do meio-dia: \
+Na esquina da lua \
+Ali est\'e1 uma gota vaporosa profunda; \
+Vou peg\'e1-lo antes que ele venha ao ch\'e3o: \
+E isso destilado por truques m\'e1gicos \
+Deve levantar tais sprites artificiais \
+Como pela for\'e7a de sua ilus\'e3o \
+Devolva-o \'e0 sua confus\'e3o: \
+Ele deve rejeitar o destino, desprezar a morte e suportar \
+Ele espera 'sabedoria, gra\'e7a e medo: \
+E todos sabem, seguran\'e7a \
+\'c9 o maior inimigo dos mortais. \
+M\'fasica e uma m\'fasica dentro de: 'Venha embora, venha', & c\
+\
+Ou\'e7a! Eu sou chamado; meu pequeno esp\'edrito, veja, \
+Senta-se em uma nuvem de neblina e fica para mim. \
+Sa\'edda\
+\
+Primeira bruxa\
+Venha, vamos nos apressar; ela logo estar\'e1 de volta. \
+Exeunt\
+\
+CENA VI. Forres O Pal\'e1cio.\
+Digite LENNOX e outro senhor\
+LENNOX\
+Meus ex-discursos, mas acertaram seus pensamentos, \
+Que pode interpretar mais: s\'f3, eu digo, \
+As coisas foram estranhamente suportadas. o \
+Duncan gracioso \
+Houve pena de Macbeth: casar, ele estava morto: \
+E o banquo corajoso da direita andou muito tarde; \
+Quem, voc\'ea pode dizer, se n\'e3o te agradar, Fleance matou, \
+Para Fleance fugiu: os homens n\'e3o devem andar muito tarde. \
+Quem n\'e3o pode querer o pensamento como monstruoso \
+Foi por Malcolm e por Donalbain \
+Para matar seu gracioso pai? maldito fato! \
+Como lamentou Macbeth! ele n\'e3o straight \
+Em piedosa f\'faria, os dois delinq\'fcentes rasgam \
+Que eram os escravos da bebida e os escravos do sono? \
+N\'e3o foi t\'e3o nobremente feito? Ay e sabiamente tamb\'e9m; \
+Pois teria ficado com raiva de qualquer cora\'e7\'e3o vivo \
+Para ouvir os homens negam. Ent\'e3o, eu digo \
+Ele suportou todas as coisas bem: e eu acho \
+Que ele tinha filhos de Duncan sob sua chave ... \
+Como, por favor n\'e3o o c\'e9u, ele n\'e3o deve - eles \
+deve encontrar \
+O que seria matar um pai? ent\'e3o deve Fleance. \
+Mas paz! por causa de palavras largas e porque ele falhou \
+Sua presen\'e7a no banquete do tirano, eu ou\'e7o \
+Macduff vive em desgra\'e7a: senhor, voc\'ea pode dizer \
+Onde ele se entrega? \
+senhor\
+O filho de Duncan, \
+De quem este tirano det\'e9m o devido nascimento \
+Vive no tribunal ingl\'eas e \'e9 recebido \
+Do mais piedoso Edward com tanta gra\'e7a \
+Que a malevol\'eancia da fortuna nada \
+Leva de seu alto respeito: l\'e1 Macduff \
+Foi para orar o santo rei, em seu aux\'edlio \
+Para acordar Northumberland e o guerreiro Siward: \
+Que, com a ajuda destes - com ele acima \
+Para ratificar o trabalho - podemos novamente \
+D\'ea \'e0s nossas mesas carne, durma \'e0s nossas noites, \
+Livre das nossas festas e banquetes facas sangrentas, \
+Fa\'e7a fiel homenagem e receba honras gratuitas: \
+Tudo o que n\'f3s pinho por agora: e este relat\'f3rio \
+H\'e1 tanto exasperar o rei que ele \
+Prepara-se para alguma tentativa de guerra. \
+LENNOX\
+Mandou ele para Macduff? \
+senhor\
+Ele fez: e com um absoluto 'senhor, n\'e3o eu' \
+O mensageiro nublado me vira as costas \
+E cantarola, como quem deveria dizer "Voc\'ea vai lamentar o tempo \
+Isso me entope com essa resposta. \
+LENNOX\
+E isso bem pode \
+Aconselh\'e1-lo a um cuidado, para manter a dist\'e2ncia \
+Sua sabedoria pode fornecer. Algum anjo santo \
+Voe para a corte da Inglaterra e desdobre \
+Sua mensagem antes que ele venha, que uma b\'ean\'e7\'e3o r\'e1pida \
+Pode voltar em breve para este nosso pa\'eds em sofrimento \
+Sob uma m\'e3o amaldi\'e7oada! \
+senhor\
+Vou mandar minhas ora\'e7\'f5es com ele. \
+Exeunt\
+\
+ACT IV\
+CENA I. Uma caverna. No meio, um caldeir\'e3o fervendo.\
+Trov\'e3o. Entre as tr\'eas bruxas\
+Primeira bruxa\
+Tr\'eas vezes o gato maltratado tem miado. \
+Segunda bruxa\
+Tr\'eas vezes e uma vez o porco-porco choramingou. \
+Terceira bruxa\
+Harpier chora: \'c9 hora. \
+Primeira bruxa\
+Em volta do caldeir\'e3o vai; \
+Nas entranhas envenenadas. \
+Sapo, que sob pedra fria \
+Dias e noites tem trinta e um \
+O veneno de sufocante dormindo chegou, \
+Ferva primeiro eu o pote encantado. \
+TODOS\
+O Feiti\'e7o das G\'eameas; \
+Queimadura e bolha de caldeir\'e3o. \
+Segunda bruxa\
+Fil\'e9 de uma cobra fenny \
+No caldeir\'e3o ferver e assar; \
+Olho de trit\'e3o e dedo do sapo, \
+L\'e3 de morcego e l\'edngua de cachorro, \
+O garfo do vertedouro e a picada do verme cego, \
+Perna do lagarto e asa de corujinha, \
+Para um encanto de problema poderoso, \
+Como um caldo infernal e uma bolha. \
+TODOS\
+O Feiti\'e7o das G\'eameas; \
+Queimadura e bolha de caldeir\'e3o. \
+Terceira bruxa\
+Escala de drag\'e3o, dente de lobo, \
+M\'famia de bruxas, bucho e abismo \
+Do tubar\'e3o do mar salgado ravinado, \
+Raiz de cicuta digg'd eu 'o escuro, \
+F\'edgado de blasf\'eamia judeu, \
+Gall de cabra e tiras de teixo \
+Silver'd no eclipse da lua, \
+Nariz dos l\'e1bios de turco e t\'e1rtaro, \
+Dedo de gata estrangulada ao nascer \
+Valado-entregue por um mon\'f3tono, \
+Fa\'e7a o mingau grosso e laje: \
+Adicione um chaudron de tigre \
+Para os ingredientes do nosso caldeir\'e3o. \
+TODOS\
+O Feiti\'e7o das G\'eameas; \
+Queimadura e bolha de caldeir\'e3o. \
+Segunda bruxa\
+Resfrie com sangue de babu\'edno \
+Ent\'e3o o charme \'e9 firme e bom. \
+Digite HECATE para as outras tr\'eas bruxas\
+\
+H\'c9CATE\
+Bem feito! Eu recomendo suas dores; \
+E cada um compartilhar\'e1 os ganhos; \
+E agora sobre o caldeir\'e3o cantar \
+Elfos vivos e fadas em um anel, \
+Encantando tudo o que voc\'ea coloca. \
+M\'fasica e uma m\'fasica: 'Black spirits', & c\
+\
+HECATE se aposenta\
+\
+Segunda bruxa\
+Pela picada dos meus polegares, \
+Algo mal\'e9fico vem nesta dire\'e7\'e3o. \
+Abra, feche \
+Quem bate! \
+Digite MACBETH\
+\
+MACBETH\
+Como agora voc\'eas, secretos, negros e da meia noite! \
+O que voc\'ea n\'e3o faz? \
+TODOS\
+Uma a\'e7\'e3o sem nome. \
+MACBETH\
+Eu te conjuro por aquilo que voc\'ea professa \
+Como voc\'ea vem a saber, me responda: \
+Embora voc\'ea desatar os ventos e deix\'e1-los lutar \
+Contra as igrejas; embora as ondas yesty \
+Confundir e engolir a navega\'e7\'e3o para cima; \
+Embora milho laminado seja alojado e \'e1rvores sejam derrubadas; \
+Embora os castelos caiam nas cabe\'e7as dos guardas; \
+Embora pal\'e1cios e pir\'e2mides se inclinem \
+Suas cabe\'e7as at\'e9 as funda\'e7\'f5es; embora o tesouro \
+Dos germens da natureza caem todos juntos, \
+At\'e9 que a destrui\'e7\'e3o adoe\'e7a; me responda \
+Para o que eu te pergunto. \
+Primeira bruxa\
+Falar. \
+Segunda bruxa\
+Exigem. \
+Terceira bruxa\
+N\'f3s vamos responder. \
+Primeira bruxa\
+Diga, se preferir ouvir de nossas bocas, \
+Ou dos nossos mestres? \
+MACBETH\
+Chame-os; deixe-me ver eles. \
+Primeira bruxa\
+Despeje o sangue da porca que comeu \
+Sua nove farrow; gordura que suou \
+Do lance de lan\'e7ador do assassino \
+Na chama. \
+TODOS\
+Venha, alto ou baixo; \
+A ti mesmo e o escrit\'f3rio habilmente mostram! \
+Trov\'e3o. Primeira apari\'e7\'e3o: uma cabe\'e7a armada\
+\
+MACBETH\
+Diga-me, seu poder desconhecido, \
+Primeira bruxa\
+Ele conhece o teu pensamento: \
+Ou\'e7a seu discurso, mas n\'e3o diga nada. \
+Primeira apari\'e7\'e3o\
+Macbeth! Macbeth! Macbeth! cuidado com Macduff; \
+Cuidado com o thane de Fife. Me dispensar. Suficiente. \
+Desce\
+\
+MACBETH\
+Se \'e9s tu, por tua boa cautela, obrigado; \
+Tu harp'd meu medo corretamente: mas um \
+palavra mais, - \
+Primeira bruxa\
+Ele n\'e3o ser\'e1 comandado: aqui est\'e1 outro, \
+Mais potente que o primeiro. \
+Trov\'e3o. Segunda apari\'e7\'e3o: uma crian\'e7a sangrenta\
+\
+Segunda apari\'e7\'e3o\
+Macbeth! Macbeth! Macbeth! \
+MACBETH\
+Se eu tivesse tr\'eas ouvidos, ouviria voc\'ea. \
+Segunda apari\'e7\'e3o\
+Seja sanguin\'e1rio, ousado e resoluto; rir ao desprezo \
+O poder do homem, para nenhuma mulher nascida \
+Deve machucar Macbeth. \
+Desce\
+\
+MACBETH\
+Ent\'e3o viva, Macduff: o que preciso temer de ti? \
+Mas ainda vou garantir certeza \
+E tome uma liga\'e7\'e3o do destino: n\'e3o viver\'e1s; \
+Para que eu possa contar o medo de cora\'e7\'e3o p\'e1lido, \
+E durma apesar do trov\'e3o. \
+Trov\'e3o. Terceira apari\'e7\'e3o: uma crian\'e7a coroada, com uma \'e1rvore na m\'e3o\
+\
+O que \'e9 isso \
+Isso surge como a quest\'e3o de um rei, \
+E veste sua sobrancelha a rodada \
+E o topo da soberania? \
+TODOS\
+Ou\'e7a, mas n\'e3o fale. \
+Terceira apari\'e7\'e3o\
+Seja coroado de le\'e3o, orgulhoso; e n\'e3o tome cuidado \
+Quem se irrita, quem se irrita ou onde est\'e3o os conspiradores: \
+Macbeth nunca ser\'e1 vencido at\'e9 \
+Great Birnam madeira para alta colina Dunsinane \
+Vir\'e1 contra ele. \
+Desce\
+\
+MACBETH\
+Isso nunca ser\'e1 \
+Quem pode impressionar a floresta, licitar a \'e1rvore \
+Desassocie sua raiz ligada \'e0 terra? Bodas doces! Boa! \
+Cabe\'e7a de rebeli\'e3o, suba nunca at\'e9 a madeira \
+Da ascens\'e3o de Birnam, e nosso Macbeth alto-colocado \
+Deve viver a concess\'e3o da natureza, pagar sua respira\'e7\'e3o \
+Para o tempo e costume mortal. Ainda meu cora\'e7\'e3o \
+Pega para saber uma coisa: me diga, se sua arte \
+Pode dizer muito: a quest\'e3o de Banquo nunca \
+Reinar neste reino? \
+TODOS\
+Procure n\'e3o saber mais. \
+MACBETH\
+Eu ficarei satisfeito: me negue isso, \
+E uma maldi\'e7\'e3o eterna cair em voc\'ea! Avise-se me. \
+Por que afunda esse caldeir\'e3o? e que barulho \'e9 esse? \
+Hautboys\
+\
+Primeira bruxa\
+Exposi\'e7\'e3o! \
+Segunda bruxa\
+Exposi\'e7\'e3o! \
+Terceira bruxa\
+Exposi\'e7\'e3o! \
+TODOS\
+Mostre seus olhos e ofenda seu cora\'e7\'e3o; \
+Venha como sombras, ent\'e3o parta! \
+Um show de Oito Reis, o \'faltimo com um copo na m\'e3o; GHOST OF BANQUO seguindo\
+\
+MACBETH\
+Tu \'e9s tamb\'e9m como o esp\'edrito de Banquo: abatido! \
+A tua coroa saca os meus olhos. E o teu cabelo \
+Tu outra sobrancelha dourada, \'e9 como a primeira. \
+Um terceiro \'e9 como o primeiro. Filthy hags! \
+Por que voc\'ea me mostra isso? Um quarto! Comece, olhos! \
+O que, a linha vai estender-se ao crack da desgra\'e7a? \
+Outro ainda! Um s\'e9timo! N\'e3o vejo mais: \
+E ainda o oitavo aparece, que tem um copo \
+O que me mostra muito mais; e alguns eu vejo \
+As bolas duplas e os cetros agudos carregam: \
+Vis\'e3o horr\'edvel! Agora vejo que \'e9 verdade; \
+Para o banquinho de sangue, Banquo sorri para mim, \
+E aponta para eles para o seu. \
+Apari\'e7\'f5es desaparecem\
+\
+O que, isso \'e9 assim? \
+Primeira bruxa\
+Ay, senhor, tudo isso \'e9 assim: mas por que \
+Portanto, fica Macbeth espantado? \
+Venha, irm\'e3s, anima-nos seus sprites, \
+E mostre o melhor das nossas del\'edcias: \
+Vou encantar o ar para dar um som \
+Enquanto voc\'ea executa sua rodada antic: \
+Que este grande rei possa gentilmente dizer \
+Nossos deveres fizeram o pagamento bem-vindo dele. \
+M\'fasica. As bruxas dan\'e7am e depois desaparecem, com HECATE\
+\
+MACBETH\
+Onde eles est\'e3o? Foi? Deixe esta hora perniciosa \
+Fique ai amaldi\'e7oado no calend\'e1rio! \
+Entre, sem l\'e1! \
+Entre na LENNOX\
+\
+LENNOX\
+Qual \'e9 a vontade da sua gra\'e7a? \
+MACBETH\
+Te vi as irm\'e3s esquisitas? \
+LENNOX\
+N\'e3o, meu senhor. \
+MACBETH\
+Veio eles n\'e3o por voc\'ea? \
+LENNOX\
+N\'e3o, de fato, meu senhor. \
+MACBETH\
+Infectado seja o ar sobre o qual eles cavalgam; \
+E maldito todos aqueles que confiam neles! Eu ouvi \
+O galope do cavalo: quem n\'e3o veio? \
+LENNOX\
+\'c9s dois ou tr\'eas, meu senhor, que te trazem uma palavra \
+Macduff fugiu para a Inglaterra. \
+MACBETH\
+Fugiu para a Inglaterra! \
+LENNOX\
+Ay meu bom senhor. \
+MACBETH\
+Tempo, tu antecipas minhas pavorosas fa\'e7anhas: \
+O prop\'f3sito do voo nunca \'e9 o'ertook \
+A menos que o ato v\'e1 com ele; a partir deste momento \
+As prim\'edcias do meu cora\'e7\'e3o ser\'e3o \
+Os primog\'eanios da minha m\'e3o. E agora mesmo \
+Para coroar meus pensamentos com atos, seja pensado e feito: \
+O castelo de Macduff eu irei surpreender; \
+Aproveite o Fife; d\'ea a borda da espada \
+Sua esposa, seus beb\'eas e todas as almas infelizes \
+que o seguem em sua linha. N\'e3o se jacta como um tolo; \
+Essa a\'e7\'e3o eu vou fazer antes desse prop\'f3sito legal. \
+Mas n\'e3o mais vistas! - Onde est\'e3o esses senhores? \
+Venha, traga-me onde eles est\'e3o. \
+Exeunt\
+\
+CENA II. Fife. O castelo do Macduff.\
+Digite SENHORA MACDUFF, seu filho e ROSS\
+SENHORA MACDUFF\
+O que ele fez para faz\'ea-lo voar a terra? \
+ROSS\
+Voc\'ea deve ter paci\'eancia, madame. \
+SENHORA MACDUFF\
+Ele n\'e3o tinha nenhum: \
+sua fuga era loucura: quando nossas a\'e7\'f5es n\'e3o o fazem, \
+nossos medos nos tornam traidores. \
+ROSS\
+Voc\'ea n\'e3o sabe \
+se foi sua sabedoria ou seu medo. \
+SENHORA MACDUFF\
+Sabedoria! deixar sua esposa, deixar seus beb\'eas, \
+Sua mans\'e3o e seus t\'edtulos em um lugar \
+De onde ele voa? Ele n\'e3o nos ama; \
+Ele quer o toque natural: para a pobre carri\'e7a, \
+O mais diminuto dos p\'e1ssaros, lutar\'e1, \
+Seus jovens em seu ninho, contra a coruja. \
+Tudo \'e9 o medo e nada \'e9 o amor; \
+T\'e3o pouco \'e9 a sabedoria, onde o v\'f4o \
+Ent\'e3o corre contra toda raz\'e3o. \
+ROSS\
+Minha mais querida, \
+pe\'e7o-lhe, escola-se: mas para o seu marido, \
+Ele \'e9 nobre, s\'e1bio, judicioso e melhor sabe \
+Os ajustes da esta\'e7\'e3o. N\'e3o me atrevo a falar \
+muito mais; \
+Mas s\'e3o cru\'e9is os tempos, quando somos traidores \
+E n\'e3o nos conhecemos, quando mantemos boatos \
+Do que tememos, mas n\'e3o sabemos o que tememos, \
+Mas flutuamos em um mar selvagem e violento \
+Cada caminho e movimento. Eu me afasto de voc\'ea: \
+N\'e3o demore, mas estarei aqui de novo: as \
+coisas, na pior das hip\'f3teses, cessar\'e3o, ou ent\'e3o subir\'e3o \
+Para o que eram antes. Minha linda prima, \
+Aben\'e7oando voc\'ea! \
+SENHORA MACDUFF\
+Pai ele \'e9, e ainda \'e9 sem pai. \
+ROSS\
+Eu sou muito tolo, deveria ficar mais tempo, \
+seria minha desgra\'e7a e seu desconforto: \
+eu me retiro imediatamente. \
+Sa\'edda\
+\
+SENHORA MACDUFF\
+Sirrah, seu pai est\'e1 morto; \
+E o que voc\'ea far\'e1 agora? Como voc\'ea vai viver? \
+Filho\
+Como os p\'e1ssaros, m\'e3e. \
+SENHORA MACDUFF\
+O que, com vermes e moscas? \
+Filho\
+Com o que eu entendo, quero dizer; e eles tamb\'e9m. \
+SENHORA MACDUFF\
+Pobre p\'e1ssaro! Voc\'ea nunca temer\'e1 a rede nem a cal, \
+a armadilha nem o gim. \
+Filho\
+Por que eu deveria, m\'e3e? P\'e1ssaros pobres para os quais n\'e3o est\'e3o preparados. \
+Meu pai n\'e3o est\'e1 morto, apesar de todas as suas palavras. \
+SENHORA MACDUFF\
+Sim, ele est\'e1 morto; como ser\'e1s pai? \
+Filho\
+N\'e3o, como voc\'ea vai fazer por um marido? \
+SENHORA MACDUFF\
+Ora, eu posso comprar vinte em qualquer mercado. \
+Filho\
+Ent\'e3o voc\'ea vai compr\'e1-los para vender novamente. \
+SENHORA MACDUFF\
+Tu falas com toda a tua intelig\'eancia: e, no entanto, eu tenho f\'e9, \
+com intelig\'eancia suficiente para ti. \
+Filho\
+Meu pai era traidor, m\'e3e? \
+SENHORA MACDUFF\
+Ay, que ele era. \
+Filho\
+O que \'e9 um traidor? \
+SENHORA MACDUFF\
+Ora, aquele que jura e mente. \
+Filho\
+E ser todos traidores que fazem isso? \
+SENHORA MACDUFF\
+Todo aquele que faz isso \'e9 um traidor e deve ser enforcado. \
+Filho\
+E todos eles devem ser enforcados que juram e mentem? \
+SENHORA MACDUFF\
+Todos. \
+Filho\
+Quem deve pendur\'e1-los? \
+SENHORA MACDUFF\
+Ora, os homens honestos. \
+Filho\
+Ent\'e3o os mentirosos e praguejadores s\'e3o tolos, \
+pois h\'e1 mentirosos e praguejadores para bater \
+nos homens honestos e pendur\'e1-los. \
+SENHORA MACDUFF\
+Agora, Deus te ajude, pobre macaco! \
+Mas como far\'e1s por um pai? \
+Filho\
+Se ele estivesse morto, voc\'ea choraria por \
+ele: se voc\'ea n\'e3o fosse, seria um bom sinal \
+que eu deveria rapidamente ter um novo pai. \
+SENHORA MACDUFF\
+Pobre praticante, como tu falas! \
+Digite um mensageiro\
+\
+Mensageiro\
+Deus te aben\'e7oe! Eu n\'e3o sou a voc\'ea conhecido, \
+embora em seu estado de honra eu seja perfeito. \
+Eu duvido que algum perigo se aproxime de voc\'ea quase: \
+Se voc\'ea aceitar o conselho de um homem caseiro, \
+n\'e3o seja encontrado aqui; daqui, com seus pequenos. \
+Para assustar voc\'ea assim, parece-me, sou muito selvagem; \
+Para fazer pior para voc\'ea foram caiu a crueldade, \
+Que \'e9 muito perto de sua pessoa. O c\'e9u te preserva! \
+Eu n\'e3o ouso mais tolerar. \
+Sa\'edda\
+\
+SENHORA MACDUFF\
+Para onde devo voar? \
+Eu n\'e3o fiz nenhum mal. Mas lembro-me agora \
+que estou neste mundo terreno; Onde fazer o mal \
+Muitas vezes \'e9 louv\'e1vel, fazer o bem em algum momento \'c9 considerado \
+uma loucura perigosa: por que ent\'e3o, ai, \
+Eu coloco aquela defesa feminina? \
+Para dizer que n\'e3o causei nenhum mal? \
+Digite Assassinos\
+\
+Quais s\'e3o esses rostos? \
+Primeiro Assassino\
+Onde est\'e1 seu marido? \
+SENHORA MACDUFF\
+Espero que em nenhum lugar t\'e3o n\'e3o santificado \
+Onde voc\'ea pode encontr\'e1-lo. \
+Primeiro Assassino\
+Ele \'e9 um traidor. \
+Filho\
+Tu bemestes, tu vil\'e3o de cabelo loiro! \
+Primeiro Assassino\
+O que voc\'ea ovo! \
+Esfaque\'e1-lo\
+\
+Jovens fritos de trai\'e7\'e3o! \
+Filho\
+Ele me matou, m\'e3e: \
+fuja, eu te pe\'e7o! \
+Morre\
+\
+Saia da SENHORA MACDUFF, gritando 'Assassino!' Exeunt Assassinos, seguindo ela\
+\
+CENA III. Inglaterra. Antes do pal\'e1cio do rei.\
+Digite MALCOLM e MACDUFF\
+MALCOLM\
+Vamos procurar alguma sombra desolada, e l\'e1 \
+Chorar nossos tristes seios vazios. \
+MACDUFF\
+Vamos, em vez disso \
+, \
+Ag\'fcentar a espada mortal, e como bons homens Melhorar nossa queda abaixo do nascimento: cada nova manh\'e3 \
+Novas vi\'favas uivam, novos \'f3rf\'e3os choram, novas tristezas \
+Atingem o c\'e9u no rosto, que ressoa \
+Como se sentisse com a Esc\'f3cia e gritou \
+como s\'edlaba de golfinho. \
+MALCOLM\
+O que eu acredito que eu irei lamentar, \
+O que sabe acreditar, e o que eu posso corrigir, \
+Como eu vou encontrar o tempo para um amigo, eu irei. \
+O que voc\'ea falou, pode ser assim por acaso. \
+Este tirano, cujo \'fanico nome borbulha nossas l\'ednguas, \
+foi considerado honesto: voc\'ea o amou bem. \
+Ele ainda n\'e3o tocou voc\'ea. Sou jovem; \
+mas algo que \
+voc\'ea pode merecer dele atrav\'e9s de mim, e sabedoria \
+Para oferecer um pobre cordeiro inocente fraco \
+Para apaziguar um deus irritado. \
+MACDUFF\
+Eu n\'e3o sou trai\'e7oeiro. \
+MALCOLM\
+Mas Macbeth \'e9. \
+Uma natureza boa e virtuosa pode recuar \
+em uma carga imperial. Mas eu desejarei \
+seu perd\'e3o; \
+Aqueles que voc\'eas s\'e3o meus pensamentos n\'e3o podem transpor: os \
+anjos ainda s\'e3o brilhantes, embora os mais brilhantes tenham ca\'eddo; \
+Embora todas as coisas sujas usem as sobrancelhas da gra\'e7a, \
+Ainda assim a gra\'e7a ainda deve parecer assim. \
+MACDUFF\
+Eu perdi minhas esperan\'e7as. \
+MALCOLM\
+Talvez at\'e9 l\'e1 onde encontrei minhas d\'favidas. \
+Por que nessa crueza deixou voc\'ea esposa e filho, \
+Esses motivos preciosos, aqueles fortes n\'f3s de amor, \
+Sem deixar-se levar? Eu te rogo, \
+n\'e3o deixem que minhas invejas sejam suas desonras, \
+mas minhas pr\'f3prias seguran\'e7as. Voc\'ea pode ser justamente o \
+que eu penso. \
+MACDUFF\
+Sangrar, sangrar, pobre pa\'eds! \
+Grande tirania! por\'e1s a tua base, \
+Pois o bem n\'e3o ousa te checar; \
+teus erros; \
+O t\'edtulo \'e9 affeer'd! Fare bem, senhor: \
+Eu n\'e3o seria o vil\'e3o que voc\'ea acha \
+Para todo o espa\'e7o que est\'e1 no aperto do tirano, \
+E o rico Oriente para arrancar. \
+MALCOLM\
+N\'e3o fique ofendido: \
+Eu falo n\'e3o como em absoluto medo de voc\'ea. \
+Eu penso que nosso pa\'eds afunda sob o jugo; \
+Chora, sangra; e a cada novo dia um corte \
+\'c9 adicionado \'e0s feridas dela: acho que \
+Haveria m\'e3os erguidas \'e0 minha direita; \
+E aqui da graciosa Inglaterra eu ofere\'e7o \
+De bons milhares: mas, por tudo isso, \
+Quando eu pisar na cabe\'e7a do tirano \
+Ou us\'e1-lo na minha espada, mas meu pobre pa\'eds \
+Ter\'e1 mais v\'edcios do que antes, \
+Mais sofrem e mais maneiras do que nunca, \
+Por ele que ter\'e1 sucesso. \
+MACDUFF\
+O que ele deveria ser? \
+MALCOLM\
+\'c9 eu mesmo quero dizer: em quem eu conhe\'e7o \
+Todos os detalhes do v\'edcio ent\'e3o enxertados \
+Que, quando eles forem abertos, Macbeth preto \
+Parecer\'e1 t\'e3o puro quanto a neve e o pobre estado \
+Estima-o como um cordeiro, sendo comparado \
+Com meus danos sem confinamento. \
+MACDUFF\
+N\'e3o nas legi\'f5es \
+De horrendo inferno pode vir um diabo mais maldito \
+Em males para o topo de Macbeth. \
+MALCOLM\
+Eu concedo a ele sangue \
+Luxuoso, avarento, falso, enganoso, \
+Repentina, maliciosa, batendo em todo pecado \
+Isso tem um nome: mas n\'e3o h\'e1 fundo, nenhum, \
+Na minha voluptuosidade: suas esposas, suas filhas, \
+Suas matronas e suas empregadas, n\'e3o puderam encher \
+A cisterna da minha lux\'faria e meu desejo \
+Todos os impedimentos continentais o'erbear \
+Isso se op\'f4s \'e0 minha vontade: melhor Macbeth \
+Que tal um para reinar. \
+MACDUFF\
+Intemperan\'e7a sem limites \
+Na natureza \'e9 uma tirania; tem sido \
+O esvaziamento intempestivo do trono feliz \
+E queda de muitos reis. Mas o medo ainda n\'e3o \
+Para tomar sobre voc\'ea o que \'e9 seu: voc\'ea pode \
+Transmita seus prazeres em uma abund\'e2ncia espa\'e7osa \
+E ainda parece frio, o tempo que voc\'ea pode enganar. \
+N\'f3s temos mulheres dispostas o suficiente: n\'e3o pode haver \
+Aquele abutre em voc\'ea, para devorar tantos \
+Como a vontade de grandeza se dedicar, \
+Achando isso t\'e3o inclinado. \
+MALCOLM\
+Com isso cresce \
+Na minha afei\'e7\'e3o mais mal composta, \
+Uma avareza est\'e9ril que, se eu fosse rei, \
+Eu deveria cortar os nobres por suas terras, \
+Deseje suas j\'f3ias e a casa deste outro: \
+E o meu mais-de-ter seria como um molho \
+Para me fazer mais fome; que eu deveria forjar \
+Brigas injustas contra os bons e leais \
+Destruindo-os por riqueza. \
+MACDUFF\
+Esta avareza \
+Fica mais fundo, cresce com raiz mais perniciosa \
+Que lux\'faria que parece o ver\'e3o, e tem sido \
+A espada dos nossos reis mortos: ainda assim n\'e3o temais; \
+A Esc\'f3cia tem foices para preencher sua vontade. \
+Do seu pr\'f3prio mero: todos estes s\'e3o port\'e1teis, \
+Com outras gra\'e7as pesadas. \
+MALCOLM\
+Mas eu n\'e3o tenho nenhum: o rei tornando-se gra\'e7a, \
+Como justi\'e7a, verdade, temperan\'e7a, estabilidade, \
+Recompensa, perseveran\'e7a, miseric\'f3rdia, humildade, \
+Devo\'e7\'e3o, paci\'eancia, coragem, fortaleza, \
+Eu n\'e3o tenho nenhum prazer deles, mas abundam \
+Na divis\'e3o de cada crime v\'e1rios, \
+Agindo de muitas maneiras. N\'e3o, eu tinha poder, eu deveria \
+Despeje o doce leite de concord no inferno \
+Tumultuar a paz universal, confundir \
+Toda a unidade na terra. \
+MACDUFF\
+O Esc\'f3cia, Esc\'f3cia! \
+MALCOLM\
+Se tal pessoa estiver em condi\'e7\'f5es de governar, fale: \
+Eu sou como falei. \
+MACDUFF\
+Apto para governar! \
+N\'e3o, n\'e3o viver. \'d3 na\'e7\'e3o miser\'e1vel, \
+Com um tirano sem t\'edtulo, cetro sangrento, \
+Quando ver\'e1s os teus dias salutares novamente, \
+Desde que a mais verdadeira quest\'e3o do teu trono \
+Por sua pr\'f3pria interdi\'e7\'e3o fica maldito, \
+E blasfema sua ra\'e7a? Teu pai real \
+Era um rei muito santo: a rainha que te deu, \
+Mais frequentemente sobre os joelhos do que sobre os p\'e9s, \
+Morreu todos os dias que ela morava. Fica-te bem! \
+Estes males tu repetias sobre ti mesmo \
+Ter me banido da Esc\'f3cia. Meu peito, \
+Tua esperan\'e7a termina aqui! \
+MALCOLM\
+Macduff, essa nobre paix\'e3o, \
+Crian\'e7a \'edntegra, tem da minha alma \
+Limpou os escr\'fapulos negros, reconciliou meus pensamentos \
+Para tua boa verdade e honra. Macbeth Diab\'f3lico \
+Por muitos desses trens tem procurado me ganhar \
+Em seu poder, e sabedoria modesta me conquista \
+De pressa excessivamente cr\'e9dula: mas Deus acima \
+Lidar entre voc\'ea e eu! mesmo agora \
+Eu me coloco na tua dire\'e7\'e3o e \
+N\'e3o fale do meu pr\'f3prio detrimento, aqui abjure \
+As impurezas e culpas que eu coloquei sobre mim \
+Para estranhos \'e0 minha natureza. Ainda estou \
+Desconhecido para mulher, nunca foi renegado, \
+Mal cobi\'e7ado o que era meu, \
+Em nenhum momento quebrou minha f\'e9, n\'e3o trairia \
+O diabo para o seu companheiro e deleite \
+N\'e3o menos na verdade que a vida: meu primeiro discurso falso \
+Isso foi sobre mim: o que eu sou verdadeiramente, \
+\'c9 teu e meu pa\'eds pobre para comandar: \
+De fato, antes de sua aproxima\'e7\'e3o aqui, \
+Velho Siward, com dez mil homens guerreiros, \
+J\'e1 em um ponto, estava se apresentando. \
+Agora vamos juntos. e a chance de bondade \
+Seja como nossa briga justificada! Por que voc\'ea est\'e1 quieto? \
+MACDUFF\
+Tais coisas bem-vindas e indesej\'e1veis \uc0\u8203 \u8203 de uma s\'f3 vez \
+\'c9 dif\'edcil conciliar. \
+Digite um m\'e9dico\
+\
+MALCOLM\
+Bem; mais anon .-- Vem o rei adiante, eu te pe\'e7o? \
+M\'e9dico\
+Ai senhor; h\'e1 uma tripula\'e7\'e3o de almas miser\'e1veis \
+Que fique a cura dele: a doen\'e7a deles convence \
+O grande ensaio da arte; mas ao seu toque \
+Tal santidade o c\'e9u deu a m\'e3o dele-- \
+Eles atualmente emendar. \
+MALCOLM\
+Eu te agrade\'e7o, doutor. \
+Sair do m\'e9dico\
+\
+MACDUFF\
+Qual \'e9 a doen\'e7a que ele quer dizer? \
+MALCOLM\
+Chamamos o mal: \
+Um trabalho mais miraculoso nesse bom rei; \
+Que muitas vezes, desde a minha estadia aqui na Inglaterra, \
+Eu vi ele fazer. Como ele pede o para\'edso \
+O melhor de si mesmo sabe: mas as pessoas estranhamente visitadas, \
+Todos os swoln e ulcerosos, lament\'e1veis \uc0\u8203 \u8203 para os olhos, \
+O mero desespero da cirurgia, ele cura, \
+Pendurando um selo dourado no pesco\'e7o deles, \
+Continuem com ora\'e7\'f5es sagradas: e \'e9 falado, \
+Para a realeza sucessiva ele sai \
+A ben\'e7\'e3o de cura. Com essa estranha virtude, \
+Ele tem um dom celestial de profecia \
+E v\'e1rias b\'ean\'e7\'e3os pairam sobre o seu trono, \
+Que fala ele cheio de gra\'e7a. \
+Digite ROSS\
+\
+MACDUFF\
+Veja, quem vem aqui? \
+MALCOLM\
+Meu compatriota; mas ainda n\'e3o o conhe\'e7o. \
+MACDUFF\
+Minha prima sempre gentil, seja bem-vinda. \
+MALCOLM\
+Eu o conhe\'e7o agora. Bom Deus, at\'e9 remover \
+Os meios que nos tornam estranhos! \
+ROSS\
+Senhor, am\'e9m. \
+MACDUFF\
+Fica na Esc\'f3cia, onde aconteceu? \
+ROSS\
+Alas, pa\'eds pobre! \
+Quase com medo de se conhecer. Eu n\'e3o posso \
+Seja chamado nossa m\'e3e, mas nossa sepultura; onde nada \
+Mas quem n\'e3o sabe nada, \'e9 visto uma vez para sorrir; \
+Onde suspiros e gemidos e gritos que rasgam o ar \
+S\'e3o feitos, n\'e3o marcados; onde a tristeza violenta parece \
+Um \'eaxtase moderno; a senten\'e7a do homem morto \
+H\'e1 poucas pessoas perguntando por quem; e boas vidas dos homens \
+Expirar antes das flores em suas tampas, \
+Morrendo ou antes de adoecerem. \
+MACDUFF\
+O, rela\'e7\'e3o \
+Muito bom, e tamb\'e9m \'e9 verdade! \
+MALCOLM\
+Qual \'e9 o mais novo sofrimento? \
+ROSS\
+Aquela de uma hora de idade assobia o orador: \
+Cada minuto est\'e1 repleto de um novo. \
+MACDUFF\
+Como minha esposa? \
+ROSS\
+Ora bem. \
+MACDUFF\
+E todos os meus filhos? \
+ROSS\
+Bem tamb\'e9m. \
+MACDUFF\
+O tirano n\'e3o bateu em sua paz? \
+ROSS\
+N\'e3o; Eles estavam bem em paz quando eu os deixei. \
+MACDUFF\
+Mas n\'e3o \'e9 um vigarista do seu discurso: como vai? \
+ROSS\
+Quando cheguei aqui para transportar as not\'edcias, \
+Que eu tenho suportado, correu um boato \
+De muitos companheiros dignos que estavam fora; \
+Qual foi a minha opini\'e3o testemunha o bastante, \
+Por isso vi o poder do tirano: \
+Agora \'e9 a hora da ajuda; seu olho na Esc\'f3cia \
+Criaria soldados, faria nossas mulheres lutarem \
+Para tirar suas tristezas terr\'edveis. \
+MALCOLM\
+N\'e3o \'e9 o conforto deles \
+N\'f3s estamos indo para l\'e1: Inglaterra graciosa tem \
+Deu-nos boa Siward e dez mil homens; \
+Um soldado mais velho e melhor nenhum \
+Aquela cristandade d\'e1 fora. \
+ROSS\
+Eu poderia responder \
+Esse conforto com o gosto! Mas eu tenho palavras \
+Isso seria uivado no ar do deserto, \
+Onde a audi\'e7\'e3o n\'e3o deve tranc\'e1-los. \
+MACDUFF\
+Que preocupa\'e7\'e3o eles? \
+A causa geral? ou \'e9 uma taxa de luto \
+Devido a algum peito \'fanico? \
+ROSS\
+N\'e3o importa que seja honesto \
+Mas nisso compartilha alguma m\'e1goa; embora a parte principal \
+Pertence a voc\'ea sozinho. \
+MACDUFF\
+Se for meu, \
+N\'e3o fique longe de mim, deixe-me rapidamente. \
+ROSS\
+N\'e3o deixem que os teus ouvidos desprezem a minha l\'edngua para sempre. \
+Qual deve possu\'ed-los com o som mais pesado \
+Que ainda ouviram. \
+MACDUFF\
+Murmurar! Eu acho nisso. \
+ROSS\
+Seu castelo est\'e1 surpreso; sua esposa e babes \
+Savagely slaughter'd: para relacionar a maneira, \
+Foram, na pedreira desses cervos assassinados, \
+Para adicionar a morte de voc\'ea. \
+MALCOLM\
+C\'e9u misericordioso! \
+Que homem! nunca puxe seu chap\'e9u sobre suas sobrancelhas; \
+D\'ea palavras tristes: a dor que n\'e3o fala \
+Sussurra o cora\'e7\'e3o cheio e pede que ele se quebre. \
+MACDUFF\
+Meus filhos tamb\'e9m? \
+ROSS\
+Esposa, filhos, servos, tudo \
+Isso pode ser encontrado. \
+MACDUFF\
+E devo ser de l\'e1! \
+Minha esposa matou tamb\'e9m? \
+ROSS\
+Eu tinha dito. \
+MALCOLM\
+Seja consolado: \
+Vamos nos fazer rem\'e9dios da nossa grande vingan\'e7a \
+Para curar essa dor mortal. \
+MACDUFF\
+Ele n\'e3o tem filhos. Todas minhas lindas? \
+Voc\'ea disse tudo? O inferno-papagaio! Todos? \
+O que, todas as minhas galinhas bonitas e sua represa \
+De uma s\'f3 vez? \
+MALCOLM\
+Disputa como um homem. \
+MACDUFF\
+Assim farei; \
+Mas tamb\'e9m devo sentir isso como um homem: \
+Eu n\'e3o posso deixar de lembrar que essas coisas eram, \
+Isso foi muito precioso para mim. O c\'e9u olhou, \
+E n\'e3o faria a sua parte? Macduff pecaminoso, \
+Eles foram todos atingidos por ti! nada que eu sou, \
+N\'e3o pelos seus pr\'f3prios dem\'e9ritos, mas pelos meus, \
+Caiu abate em suas almas. O c\'e9u descansa eles agora! \
+MALCOLM\
+Seja esta a pedra de amolar da sua espada: deixe a tristeza \
+Converta em raiva; contundir n\'e3o o cora\'e7\'e3o, enfurec\'ea-lo. \
+MACDUFF\
+Oh, eu poderia interpretar a mulher com meus olhos \
+E fanfarr\'e3o com minha l\'edngua! Mas gentis c\'e9us \
+Corte curto todo intervalo; frente para frente \
+Traga este dem\'f4nio da Esc\'f3cia e eu mesmo; \
+Dentro do comprimento da minha espada o p\'f4s; se ele fugir \
+O c\'e9u perdoa-o tamb\'e9m! \
+MALCOLM\
+Essa m\'fasica \'e9 masculina. \
+Venha, vamos ao rei; nosso poder est\'e1 pronto; \
+Nossa falta n\'e3o \'e9 mais que nossa licen\'e7a; Macbeth \
+Est\'e1 maduro para tremer, e os poderes acima \
+Coloque seus instrumentos. Receba o que voc\'ea pode alegrar: \
+A noite \'e9 longa e nunca encontra o dia. \
+Exeunt\
+\
+ACT V\
+CENA I. Dunsinane. Ante-quarto no castelo.\
+Digite um Doutor em F\'edsica e uma Espera-Gentlewoman\
+M\'e9dico\
+Eu tenho duas noites assisti com voc\'ea, mas posso perceber \
+N\'e3o h\'e1 verdade em seu relat\'f3rio. Quando foi que ela andou pela \'faltima vez? \
+Mulher gentil\
+Desde a sua majestade entrou em campo, eu vi \
+ela se levanta da cama, joga seu vestido de noite em cima \
+ela, destranque seu arm\'e1rio, pegue o papel, dobre-o, \
+escreva sobre ele, leia, depois sele e novamente \
+voltar para a cama; ainda tudo isso enquanto dormia mais r\'e1pido. \
+M\'e9dico\
+Uma grande perturba\'e7\'e3o na natureza, para receber de uma s\'f3 vez \
+o benef\'edcio do sono, e fazer os efeitos de \
+assistindo! Nesta agita\'e7\'e3o sonolenta, al\'e9m dela \
+a p\'e9 e outras performances reais, o que, a qualquer \
+tempo, voc\'ea ouviu ela dizer? \
+Mulher gentil\
+Isso, senhor, que eu n\'e3o vou denunciar depois dela. \
+M\'e9dico\
+Voc\'ea pode para mim: e \'e9 mais voc\'ea deve conhecer. \
+Mulher gentil\
+Nem para voc\'ea nem para ningu\'e9m; n\'e3o tendo testemunhas de \
+confirme meu discurso. \
+Digite LADY MACBETH, com um cone\
+\
+Lo voc\'ea, aqui vem ela! Este \'e9 o seu disfarce; \
+e, na minha vida, dormindo profundamente. Observe-a; fique perto. \
+M\'e9dico\
+Como veio ela por essa luz? \
+Mulher gentil\
+Ora, ficou ao lado dela: ela tem luz por ela \
+continuamente; \'e9 seu comando. \
+M\'e9dico\
+Voc\'ea v\'ea, os olhos dela est\'e3o abertos. \
+Mulher gentil\
+Ay, mas seu senso est\'e1 fechado. \
+M\'e9dico\
+O que ela faz agora? Olha, como ela esfrega as m\'e3os. \
+Mulher gentil\
+\'c9 uma a\'e7\'e3o costumeira com ela, parecer assim \
+lavando as m\'e3os dela: Eu a conhe\'e7o continuar em \
+isso um quarto de hora. \
+SENHORA MACBETH\
+No entanto, aqui est\'e1 um ponto. \
+M\'e9dico\
+Ou\'e7a! ela fala: vou estabelecer o que vem \
+ela, para satisfazer minha lembran\'e7a mais fortemente. \
+SENHORA MACBETH\
+Fora, maldito local! para fora, eu digo! - Um: dois: porque, \
+ent\'e3o, \'e9 hora de n\'e3o fazer .-- O inferno \'e9 obscuro! - Fie, meu \
+senhor, fie! um soldado e temido? O que precisamos n\'f3s \
+temer quem sabe, quando ningu\'e9m pode chamar nosso poder para \
+conta? - No entanto, quem teria pensado que o velho \
+ter muito sangue nele. \
+M\'e9dico\
+Voc\'ea marca isso? \
+SENHORA MACBETH\
+O thane de Fife tinha uma esposa: onde ela est\'e1 agora? \
+O que essas m\'e3os nunca estar\'e3o limpas? \
+que, meu senhor, n\'e3o mais do que isso: voc\'ea estraga tudo \
+esta come\'e7ando. \
+M\'e9dico\
+V\'e1 para, v\'e1 para; Voc\'ea sabia o que n\'e3o deveria. \
+Mulher gentil\
+Ela falou o que ela n\'e3o deveria, eu tenho certeza \
+isso: o c\'e9u sabe o que ela conheceu. \
+SENHORA MACBETH\
+Aqui est\'e1 o cheiro do sangue ainda: todo o \
+perfumes da Ar\'e1bia n\'e3o vai ado\'e7ar este pequeno \
+m\'e3o. Oh oh oh! \
+M\'e9dico\
+Que suspiro est\'e1 l\'e1! O cora\'e7\'e3o est\'e1 dolorosamente carregado. \
+Mulher gentil\
+Eu n\'e3o teria tal cora\'e7\'e3o no meu peito para o \
+dignidade de todo o corpo. \
+M\'e9dico\
+Bem, bem, bem,-- \
+Mulher gentil\
+Reze a Deus, senhor. \
+M\'e9dico\
+Esta doen\'e7a est\'e1 al\'e9m da minha pr\'e1tica: ainda sei \
+aqueles que andaram em seu sono que morreram \
+Holly em suas camas. \
+SENHORA MACBETH\
+Lave as m\'e3os, coloque a camisola; n\'e3o parece t\'e3o \
+p\'e1lido. - Eu lhes digo mais uma vez, Banquo est\'e1 enterrado; ele \
+n\'e3o pode sair na sepultura. \
+M\'e9dico\
+Mesmo assim? \
+SENHORA MACBETH\
+Para cama, para a cama! est\'e1 batendo no port\'e3o: \
+venha, venha, venha, venha, me d\'ea sua m\'e3o. O que \'e9 \
+feito n\'e3o pode ser desfeito .-- Para a cama, para a cama, para a cama! \
+Sa\'edda\
+\
+M\'e9dico\
+Ela ir\'e1 agora para a cama? \
+Mulher gentil\
+Diretamente. \
+M\'e9dico\
+Os maus sussurros est\'e3o no exterior: a\'e7\'f5es n\'e3o naturais \
+N\'e3o crie problemas antinaturais: mentes infectadas \
+Para os seus travesseiros surdos descarregar\'e3o os seus segredos: \
+Mais necessidades ela o divino que o m\'e9dico. \
+Deus, Deus nos perdoe a todos! Cuide dela; \
+Retire dela o meio de todo aborrecimento, \
+E ainda manter os olhos nela. Ent\'e3o boa noite: \
+Minha mente ela acasalou e espantou minha vis\'e3o. \
+Eu penso, mas n\'e3o ouso falar. \
+Mulher gentil\
+Boa noite, bom doutor. \
+Exeunt\
+\
+CENA II. O pa\'eds perto de Dunsinane.\
+Tambor e cores. Entre em MENTEITH, CAITHNESS, ANGUS, LENNOX e Soldiers\
+MENTEITH\
+O poder ingl\'eas est\'e1 pr\'f3ximo, liderado por Malcolm, \
+Seu tio Siward e o bom Macduff: \
+As vingan\'e7as queimam nelas; por suas queridas causas \
+Para o sangramento e o alarme sombrio \
+Excite o homem mortificado. \
+ANGUS\
+Perto de madeira Birnam \
+Vamos conhec\'ea-los bem? Dessa forma eles est\'e3o vindo. \
+CAITHNESS\
+Quem sabe se Donalbain est\'e1 com seu irm\'e3o? \
+LENNOX\
+Por certo, senhor, ele n\'e3o \'e9: eu tenho um arquivo \
+De toda a nobreza: h\'e1 o filho de Siward, \
+E muitos jovens inexperientes que at\'e9 agora \
+Proteste seu primeiro de masculinidade. \
+MENTEITH\
+O que o tirano? \
+CAITHNESS\
+Grande Dunsinane ele fortifica fortemente: \
+Alguns dizem que ele \'e9 louco; outros que menos o odeiam \
+Chame isso de f\'faria valente: mas, com certeza, \
+Ele n\'e3o pode dobrar sua causa de cinomose \
+Dentro do cintur\'e3o da regra. \
+ANGUS\
+Agora ele se sente \
+Seus assassinatos secretos grudados em suas m\'e3os; \
+Agora, revoltas minuciosas reprimem sua brecha de f\'e9; \
+Aqueles comandos ele move apenas no comando, \
+Nada apaixonado: agora ele sente seu t\'edtulo \
+Pendure solto sobre ele, como um manto de gigante \
+Em cima de um ladr\'e3o an\'e3o. \
+MENTEITH\
+Quem ent\'e3o culpar\'e1 \
+Seus sentidos atormentados para recuar e come\'e7ar, \
+Quando tudo o que est\'e1 dentro dele, condena \
+Si mesmo por estar l\'e1? \
+CAITHNESS\
+Bem, vamos em frente, \
+Para dar obedi\'eancia onde realmente \'e9 devido: \
+Conhe\'e7a-nos o rem\'e9dio do mal doentio, \
+E com ele nos despeje no expurgo do nosso pa\'eds \
+Cada gota de n\'f3s. \
+LENNOX\
+Ou tanto quanto precisa, \
+Orvalhar a soberana flor e afogar as ervas daninhas. \
+Fa\'e7a a nossa marcha em dire\'e7\'e3o a Birnam. \
+Exeunt, marchar\
+\
+CENA III. Dunsinane Um quarto no castelo.\
+Digite MACBETH, Doctor e Attendants\
+MACBETH\
+N\'e3o me traga mais relat\'f3rios; deixe-os voar todos: \
+At\'e9 que a madeira Birnam remova para Dunsinane, \
+Eu n\'e3o posso manchar com medo. O que \'e9 o menino Malcolm? \
+Ele n\'e3o nasceu de mulher? Os esp\'edritos que sabem \
+Todas as conseq\'fc\'eancias mortais me pronunciaram assim: \
+N\'e3o tenha medo, Macbeth; nenhum homem que \'e9 nascido de mulher \
+Deve ter poder sobre ti. Ent\'e3o voe \
+falsos thanes, \
+E se misturam com os epicures ingleses: \
+A mente que eu balan\'e7o e o cora\'e7\'e3o que eu carrego \
+Nunca ceder\'e1 \'e0 d\'favida nem se abalar\'e1 com medo. \
+Digite um servo\
+\
+O diabo maldito te preto, tu loon face-cream! \
+Onde voc\'ea est\'e1 com aquele olhar de ganso? \
+Servo\
+H\'e1 dez mil-- \
+MACBETH\
+Gansos, vil\'e3o! \
+Servo\
+Soldados, senhor. \
+MACBETH\
+Vai picar o teu rosto e tingir o teu medo \
+Tu \'e9s menino de f\'edgado. Que soldados, remendo? \
+Morte da tua alma! aquelas bochechas de linho da tua \
+S\'e3o conselheiros para o medo. Que soldados, cara de soro? \
+Servo\
+A for\'e7a inglesa, ent\'e3o por favor voc\'ea. \
+MACBETH\
+Tome o seu rosto daqui. \
+Saia do Servo\
+\
+Seyton! Estou doente de cora\'e7\'e3o \
+Quando eu vejo - Seyton, eu digo! \
+Vai me animar sempre ou me dissuadir agora. \
+Eu vivi o suficiente: meu estilo de vida \
+\'c9 cair no gatilho, a folha amarela; \
+E aquilo que deveria acompanhar a velhice, \
+Como honra, amor, obedi\'eancia, tropas de amigos, \
+Eu n\'e3o devo olhar para ter; mas, em seu lugar, \
+Maldi\'e7\'f5es, n\'e3o altas mas profundas, boca-honra, respira\'e7\'e3o, \
+O que o pobre cora\'e7\'e3o desejaria negar, e n\'e3o ousaria. Seyton! \
+Digite SEYTON\
+\
+SEYTON\
+Qual \'e9 o seu prazer gracioso? \
+MACBETH\
+Quais not\'edcias mais? \
+SEYTON\
+Tudo \'e9 confirmado, meu senhor, que foi relatado. \
+MACBETH\
+Eu lutarei at\'e9 que de meus ossos minha carne seja hackeada. \
+Me d\'ea minha armadura. \
+SEYTON\
+N\'e3o \'e9 necess\'e1rio ainda. \
+MACBETH\
+Eu vou colocar isso. \
+Mande mais cavalos; contorne o pa\'eds; \
+Pendure aqueles que falam de medo. Me d\'ea a minha armadura. \
+Como o seu paciente, doutor? \
+M\'e9dico\
+N\'e3o t\'e3o doente, meu senhor \
+Como ela est\'e1 perturbada com grossas fantasias, \
+Isso a impede de descansar. \
+MACBETH\
+Cur\'e1-la disso. \
+Voc\'ea n\'e3o pode ministrar a uma mente doente? \
+Arrancar da mem\'f3ria uma tristeza enraizada \
+Esque\'e7a os problemas escritos do c\'e9rebro \
+E com algum ant\'eddoto doce indiferente \
+Limpe o seio dessas coisas perigosas \
+O que pesa no cora\'e7\'e3o? \
+M\'e9dico\
+A\'ed o paciente \
+Deve ministrar para si mesmo. \
+MACBETH\
+Jogue physic nos cachorros; Eu n\'e3o vou nada disso. \
+Venha, coloque a minha armadura; me d\'ea minha equipe. \
+Seyton, manda. Doutor, os pobres voam de mim. \
+Venha, senhor, despache. Se voc\'ea pudesse, doutor, elenco \
+A \'e1gua da minha terra, encontrar sua doen\'e7a, \
+E purific\'e1-lo para uma sa\'fade saud\'e1vel e pura \
+Eu te aplaudo ao mesmo eco, \
+Isso deve aplaudir novamente. - N\'e3o sei, eu digo. \
+O que ruibarbo, cyme, ou que droga purgativa, \
+Poderia vasculhar esses ingleses da\'ed? Ouve tu deles? \
+M\'e9dico\
+Ay meu bom senhor; sua prepara\'e7\'e3o real \
+Nos faz ouvir alguma coisa. \
+MACBETH\
+Traga depois de mim. \
+Eu n\'e3o vou ter medo da morte e da maldi\'e7\'e3o \
+At\'e9 a floresta Birnam chegar a Dunsinane. \
+M\'e9dico\
+[Lado] Eu fui de Dunsinane e claro, \
+O lucro novamente dificilmente deveria me atrair aqui. \
+Exeunt\
+\
+CENA IV. Pa\'eds perto de madeira Birnam.\
+Tambor e cores. Entre com MALCOLM, SIWARD e YOUNG SIWARD, MACDUFF, MENTEITH, CAITHNESS, ANGUS, LENNOX, ROSS e Soldiers, marchando\
+MALCOLM\
+Primos, espero que os dias estejam pr\'f3ximos \
+Essas c\'e2maras estar\'e3o seguras. \
+MENTEITH\
+N\'f3s n\'e3o duvidamos de nada. \
+SIWARD\
+Que madeira \'e9 essa antes de n\'f3s? \
+MENTEITH\
+A madeira de Birnam. \
+MALCOLM\
+Deixe todo soldado derrub\'e1-lo em um galho \
+E n\'e3o suportar\'e1 antes dele: assim n\'f3s \
+Os n\'fameros do nosso host e fazem a descoberta \
+Err no relat\'f3rio de n\'f3s. \
+Soldados\
+Isso deve ser feito. \
+SIWARD\
+N\'e3o aprendemos outra coisa sen\'e3o o tirano confiante \
+Mant\'e9m-se ainda em Dunsinane e aguentar\'e1 \
+Nosso assentamento antes de 't. \
+MALCOLM\
+\'c9 sua principal esperan\'e7a: \
+Para onde h\'e1 vantagem a ser dada, \
+Ambos mais e menos lhe deram a revolta, \
+E ningu\'e9m serve com ele, mas constrange coisas \
+Cujos cora\'e7\'f5es est\'e3o ausentes tamb\'e9m. \
+MACDUFF\
+Deixe nossas justas censuras \
+Participe do evento verdadeiro e coloque-o \
+Soldado industrioso. \
+SIWARD\
+O tempo se aproxima \
+Isso com a devida decis\'e3o nos far\'e1 conhecer \
+O que diremos que temos e o que devemos. \
+Pensamentos especulativos que suas esperan\'e7as incertas se relacionam, \
+Mas certos tra\'e7os de assunto devem arbitrar: \
+Para qual avan\'e7o a guerra. \
+Exeunt, marchar\
+\
+CENA V. Dunsinane. Dentro do castelo.\
+Digite MACBETH, SEYTON e Soldiers, com tambor e cores\
+MACBETH\
+Pendure nossos banners nos muros externos; \
+O choro ainda \'e9 'Eles v\'eam:' a for\'e7a do nosso castelo \
+Vai rir de um cerco ao desprezo: aqui deixe-os mentir \
+At\'e9 a fome e a dengue com\'ea-los: \
+Eles n\'e3o foram for\'e7ados com aqueles que deveriam ser nossos, \
+N\'f3s poder\'edamos t\'ea-los encontrado dareful, barba a barba, \
+E os espancou de volta para casa. \
+Um grito de mulheres dentro\
+\
+Que barulho \'e9 esse? \
+SEYTON\
+\'c9 o grito das mulheres, meu bom senhor. \
+Sa\'edda\
+\
+MACBETH\
+Eu quase esqueci o gosto dos medos; \
+O tempo tem sido, meus sentidos teriam esfriado \
+Ouvir um grito noturno; e minha queda de cabelo \
+Ser\'e1 que em um triste tratado despertar\'e1 e agitar\'e1 \
+Como a vida n\'e3o estava: eu me enchi de horrores; \
+Dire\'e7\'e3o, familiar aos meus pensamentos abatidos \
+N\'e3o pode uma vez me iniciar. \
+Entre novamente SEYTON\
+\
+Por que esse grito? \
+SEYTON\
+A rainha, meu senhor, est\'e1 morta. \
+MACBETH\
+Ela deveria ter morrido depois disso; \
+Teria havido um tempo para tal palavra. \
+Amanh\'e3, amanh\'e3 e amanh\'e3, \
+Se arrasta neste ritmo mesquinho de dia para dia \
+At\'e9 a \'faltima s\'edlaba do tempo registrado, \
+E todos os nossos ontens iluminaram tolos \
+O caminho para a morte empoeirada. Fora, fora, vela breve! \
+A vida \'e9 apenas uma sombra ambulante, um jogador fraco \
+Que suporta e frita sua hora no palco \
+E ent\'e3o n\'e3o se ouve mais: \'e9 um conto \
+Contado por um idiota, cheio de som e f\'faria, \
+Significando nada. \
+Digite um mensageiro\
+\
+Tu vens usar a tua l\'edngua; tua hist\'f3ria rapidamente. \
+Mensageiro\
+Meu senhor, \
+Eu devo relatar o que eu digo que vi \
+Mas n\'e3o sabe como fazer isso. \
+MACBETH\
+Bem, diga senhor. \
+Mensageiro\
+Como eu fiquei vigiando a colina, \
+Eu olhei em dire\'e7\'e3o a Birnam, e anon, methought, \
+A madeira come\'e7ou a se mover. \
+MACBETH\
+Mentiroso e escravo! \
+Mensageiro\
+Deixe-me suportar sua ira, se n\'e3o for assim: \
+Dentro desta tres milhao voce pode ver isso chegando; \
+Eu digo, um bosque em movimento. \
+MACBETH\
+Se tu falas falso, \
+Sobre a pr\'f3xima \'e1rvore tu suspender\'e1s vivo, \
+At\'e9 que a fome te agarre: se a tua fala for suave, \
+Eu n\'e3o me importo se voc\'ea gosta tanto de mim. \
+Eu puxo em resolu\'e7\'e3o e come\'e7o \
+Para duvidar do equ\'edvoco do dem\'f4nio \
+Isso \'e9 como a verdade: "N\'e3o tenha medo, at\'e9 a madeira Birnam \
+Venha para Dunsinane: 'e agora uma madeira \
+Vem em dire\'e7\'e3o a Dunsinane. Bra\'e7o, bra\'e7o e fora! \
+Se isso que ele consegue aparecer, \
+N\'e3o h\'e1 nem por isso voar nem permanecer aqui. \
+Gosto de estar com medo do sol \
+E desejo que a propriedade do mundo fosse desfeita. \
+Toque o alarme! Golpe, vento! venha, arruine! \
+Pelo menos vamos morrer com arn\'eas nas nossas costas. \
+Exeunt\
+\
+CENA VI. Dunsinane Antes do castelo.\
+Tambor e cores. Digite MALCOLM, SIWARD, MACDUFF e seu ex\'e9rcito, com galhos\
+MALCOLM\
+Agora perto o suficiente: suas telas frondosas caem. \
+E mostre como voc\'ea \'e9. Voc\'ea, tio digno, \
+Deve, com meu primo, seu filho nobre direito, \
+Lidere nossa primeira batalha: digno Macduff e n\'f3s \
+Levar\'e1 em conta o que mais resta fazer, \
+De acordo com o nosso pedido. \
+SIWARD\
+Voc\'ea se sai bem. \
+S\'f3 encontramos o poder do tirano esta noite? \
+Sejamos derrotados, se n\'e3o pudermos lutar. \
+MACDUFF\
+Fa\'e7a todas as nossas trombetas falarem; d\'ea-lhes toda a respira\'e7\'e3o, \
+Aqueles vociferantes clamorosos de sangue e morte. \
+Exeunt\
+\
+CENA VII. Outra parte do campo.\
+Alarums Digite MACBETH\
+MACBETH\
+Eles me amarraram a uma estaca; Eu n\'e3o posso voar, \
+Mas, como urso, devo lutar o curso. O que ela \
+Isso n\'e3o nasceu de mulher? Tal um \
+Eu tenho medo ou nenhum. \
+Entre na YOUNG SIWARD\
+\
+JOVENS SIWARD\
+Qual \'e9 o teu nome? \
+MACBETH\
+Ter\'e1s medo de ouvir isso. \
+JOVENS SIWARD\
+N\'e3o; embora tu te chamas um nome mais quente \
+Do que qualquer um est\'e1 no inferno. \
+MACBETH\
+Meu nome \'e9 Macbeth. \
+JOVENS SIWARD\
+O pr\'f3prio diabo n\'e3o conseguiu pronunciar um t\'edtulo \
+Mais odioso ao meu ouvido. \
+MACBETH\
+N\'e3o, nem mais medo. \
+JOVENS SIWARD\
+Tu posses, abomin\'e1vel tirano; com minha espada \
+Eu vou provar a mentira que voc\'ea fala. \
+Eles lutam e YOUNG SIWARD \'e9 morto\
+\
+MACBETH\
+Tu nasceste de mulher \
+Mas espadas eu sorrio, armas riem de desprezo \
+Brandish'd pelo homem que \'e9 de uma mulher nascida. \
+Sa\'edda\
+\
+Alarums Digite MACDUFF\
+\
+MACDUFF\
+Dessa forma, o barulho \'e9. Tirano, mostre a tua cara! \
+Se tu fores morto e sem nenhum golpe meu, \
+Minha mulher e fantasmas de crian\'e7as ainda me assombrar\'e3o. \
+Eu n\'e3o posso atacar os miser\'e1veis \uc0\u8203 \u8203 kerns, cujos bra\'e7os \
+S\'e3o contratados para levar seus bast\'f5es: ou tu, Macbeth, \
+Ou ent\'e3o a minha espada com uma vantagem unbatter'd \
+Eu cal\'e7o novamente sem saber. L\'e1 voc\'ea deveria estar; \
+Por este grande barulho, uma das maiores notas \
+Parece brutal. Deixe-me encontr\'e1-lo, fortuna! \
+E mais eu n\'e3o imploro. \
+Sa\'edda. Alarums\
+\
+Entre com MALCOLM e SIWARD\
+\
+SIWARD\
+Por aqui, meu senhor; o castelo \'e9 gentilmente processado: \
+O povo do tirano de ambos os lados luta; \
+Os nobres thanes fazem bravamente na guerra; \
+O dia quase se professa o seu, \
+E pouco \'e9 para fazer. \
+MALCOLM\
+N\'f3s nos encontramos com inimigos \
+Essa greve ao nosso lado. \
+SIWARD\
+Entre, senhor, o castelo. \
+Exeunt Alarums\
+\
+CENA VIII. Outra parte do campo.\
+Digite MACBETH\
+MACBETH\
+Por que eu deveria jogar o tolo romano e morrer \
+Na minha pr\'f3pria espada? enquanto eu vejo vidas, os cortes \
+Fa\'e7a melhor sobre eles. \
+Digite MACDUFF\
+\
+MACDUFF\
+Vire, inferno-c\'e3o, vire! \
+MACBETH\
+De todos os outros homens eu te evitei: \
+Mas volte atr\'e1s; minha alma \'e9 muito carregada \
+Com sangue de voc\'ea j\'e1. \
+MACDUFF\
+N\'e3o tenho palavras: \
+Minha voz est\'e1 na minha espada: seu vil\'e3o mais sanguin\'e1rio \
+Do que os termos podem te dar! \
+Eles lutam\
+\
+MACBETH\
+Tu perdeste o trabalho \
+T\'e3o f\'e1cil pode ser o ar intr\'ednseco \
+Com a tua espada afiada impressa como me faz sangrar: \
+Deixe cair sua espada em cristas vulner\'e1veis; \
+Eu tenho uma vida encantada, que n\'e3o pode ceder \
+Para uma das mulheres nascidas. \
+MACDUFF\
+Desespero teu charme; \
+E deixe o anjo a quem tu ainda serviste \
+Diga-te, Macduff foi do ventre de sua m\'e3e \
+Ripp'd intempestivo. \
+MACBETH\
+Amaldi\'e7oado seja aquela l\'edngua que me diz isso, \
+Pois a vaca fez a minha melhor parte do homem! \
+E sejam esses malabaristas que n\'e3o acreditam mais, \
+Que paltre conosco em um duplo sentido; \
+Que mantenha a palavra da promessa ao nosso ouvido, \
+E parta para a nossa esperan\'e7a. Eu n\'e3o vou brigar com voc\'ea. \
+MACDUFF\
+Ent\'e3o te ceda, covarde, \
+E viva para ser o show e olhar o tempo: \
+N\'f3s vamos ter voc\'ea, como nossos monstros mais raros s\'e3o, \
+Pintado em um poste, e subscrito, \
+'Aqui voc\'ea pode ver o tirano'. \
+MACBETH\
+Eu n\'e3o cederei, \
+Beijar o ch\'e3o antes dos p\'e9s do jovem Malcolm, \
+E ser atra\'eddo pela maldi\'e7\'e3o da ral\'e9. \
+Embora a madeira de Birnam venha a Dunsinane, \
+E voc\'ea se op\'f5e, sendo de nenhuma mulher nascida, \
+ainda eu tentarei o \'faltimo. Antes do meu corpo \
+eu jogo meu escudo de guerra. Deite-se, Macduff, \
+E maldito seja ele quem primeiro chora, 'Espera, chega!' \
+Exeunt, lutando. Alarums\
+\
+Retiro. Florescer. Entre, com tambor e cores, MALCOLM, SIWARD, ROSS, os outros Thanes e Soldiers\
+\
+MALCOLM\
+Gostaria que os amigos que sentimos falta estivessem seguros. \
+SIWARD\
+Alguns devem partir: e, no entanto, por estes vejo, \
+um dia t\'e3o grande como este \'e9 comprado barato. \
+MALCOLM\
+Macduff est\'e1 desaparecido e seu nobre filho. \
+ROSS\
+Seu filho, meu senhor, pagou o d\'e9bito de um soldado: \
+ele s\'f3 viveu at\'e9 ser homem; \
+O que n\'e3o \
+t\'e3o cedo teve sua coragem confirmada Na esta\'e7\'e3o de irriga\'e7\'e3o onde ele lutou, \
+Mas como um homem, ele morreu. \
+SIWARD\
+Ent\'e3o ele est\'e1 morto? \
+ROSS\
+Ai, e saiu do campo: sua causa de tristeza \
+n\'e3o deve ser medida pelo seu valor, pois ent\'e3o \
+n\'e3o tem fim. \
+SIWARD\
+Ele tinha suas m\'e1goas antes? \
+ROSS\
+Ay, na frente. \
+SIWARD\
+Por que ent\'e3o, o soldado de Deus seja ele! \
+Se eu tivesse tantos filhos quanto cabelos, \
+n\'e3o desejaria que eles tivessem uma morte mais justa: \
+E assim, o seu talento \'e9 ignorado. \
+MALCOLM\
+Ele vale mais tristeza, \
+E isso eu gastarei para ele. \
+SIWARD\
+Ele n\'e3o vale mais \
+Eles dizem que ele se separou bem e pagou sua pontua\'e7\'e3o: \
+E assim, Deus esteja com ele! Aqui vem o novo conforto. \
+Entre novamente no MACDUFF, com a cabe\'e7a do MACBETH\
+\
+MACDUFF\
+Salve, rei! porque assim \'e9s tu: eis aqui onde est\'e1 \
+a cabe\'e7a amaldi\'e7oada do usurpador: o tempo \'e9 livre: \
+vejo-te balizado com a p\'e9rola do teu reino, \
+que fala a minha sauda\'e7\'e3o nas suas mentes; \
+Cujas vozes eu desejo em voz alta com as minhas: \
+Salve, rei da Esc\'f3cia! \
+TODOS\
+Salve, rei da Esc\'f3cia! \
+Florescer\
+\
+MALCOLM\
+N\'f3s n\'e3o gastaremos uma grande despesa de tempo \
+Antes de contarmos com seus v\'e1rios amores, \
+E nos fazer at\'e9 mesmo com voc\'ea. Meus thanes e kinsmen, daqui em \
+diante ser earls, o primeiro que sempre Esc\'f3cia \
+Em tal honra nomeada. O que mais h\'e1 a fazer, \
+Que seria plantado recentemente com o tempo, \
+Como chamar para casa nossos amigos exilados no exterior \
+Que fugiram das armadilhas da tirania vigilante; \
+Produzindo os cru\'e9is ministros \
+Deste a\'e7ougueiro morto e sua rainha diab\'f3lica \
+Que, como pensava, por si e pelas m\'e3os violentas \
+Arrancaram sua vida; isso, e o que \'e9 mais necess\'e1rio \
+Que nos invoque, pela gra\'e7a da Gra\'e7a, \
+Vamos realizar em medida, tempo e lugar: \
+Ent\'e3o, gra\'e7as a todos de uma vez e a cada um, \
+A quem convidamos para nos ver coroados no Scone. \
+Florescer. Exeunt}

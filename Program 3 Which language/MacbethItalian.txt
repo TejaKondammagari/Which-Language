@@ -1,0 +1,3376 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Macbeth Trag\'e9di\'e1ja\
+\
+Harmadik boszork\'e1ny\
+Ez lesz a naps\'fct\'e9s. \
+Az els\uc0\u337  boszork\'e1ny\
+Hol a hely? \
+M\'e1sodik boszork\'e1ny\
+A melegben. \
+Harmadik boszork\'e1ny\
+Tal\'e1lkozni Macbeth-szel. \
+Az els\uc0\u337  boszork\'e1ny\
+Gyere, Graymalkin! \
+M\'e1sodik boszork\'e1ny\
+Paddock h\'edv\'e1sok. \
+Harmadik boszork\'e1ny\
+Mindj\'e1rt. \
+MINDEN\
+A Fair a rossz, \'e9s a szab\'e1lytalans\'e1g igazs\'e1gos: \
+H\'fazza \'e1t a k\'f6d\'f6t \'e9s a mocskos leveg\uc0\u337 t. \
+Mind el\
+\
+JELENET II. Egy t\'e1bor k\'f6zel\'e9ben Forres.\
+Alarum bel\'fcl. Adja meg a DUNCAN, a MALCOLM, a DONALBAIN, a LENNOX, a r\'e9sztvev\uc0\u337 ket, tal\'e1lkozzon egy v\'e9rz\u337  \u337 rmesterrel\
+DUNCAN\
+Milyen v\'e9res ember ez? \uc0\u336  jelentheti, \
+Amint l\'e1tszik a helyzet, a l\'e1zad\'e1s \
+A leg\'fajabb \'e1llam. \
+MALCOLM\
+Ez az \uc0\u337 rmester \
+Akik szeretik a j\'f3 \'e9s kitart\'f3 katon\'e1t \
+- Fogadni a fogs\'e1gom. \'dcdv\'f6zlet, b\'e1tor bar\'e1t! \
+Mondd el a kir\'e1lynak, hogy ismeri a ty\'fak \
+Ahogy hagytad. \
+\uc0\u336 rmester\
+K\'e9ts\'e9gk\'edv\'fcl \'e1llt; \
+Mint k\'e9t \'faszott \'fasz\'f3k, akik \'f6sszefognak \
+\'c9s megfojtani a m\uc0\u369 v\'e9szet\'fcket. A k\'f6ny\'f6rtelen Macdonwald - \
+\'c9rdemes l\'e1zadni, mert erre \
+A term\'e9szeti sokszoroz\'f3 villanyt \
+Cs\'fasznak rajta - a nyugati szigetekr\uc0\u337 l \
+A kernek \'e9s gallowglasses sz\'e1ll\'edt\'e1sa; \
+\'c9s a szerencse, a mosolygott rohadt veszeked\'e9s\'e9n, \
+\'dagy t\uc0\u369 nt, mint egy l\'e1zad\'f3 szajha: de minden t\'fal gyenge: \
+A b\'e1tor Macbeth sz\'e1m\'e1ra - j\'f3l meg\'e9rdemli ezt a nevet - \
+A vagyon megvet\'e9se, a brandish'd ac\'e9llal, \
+Ami v\'e9res kiv\'e9gz\'e9ssel f\'fcst\'f6lg\'f6tt, \
+Ahogy valor kegyencje is kiv\'e1gta a folyos\'f3t \
+M\'edgnem szemben\'e9zett a rabszolg\'e1val; \
+Melyik ne'er kezet fogott, \'e9s nem b\'facs\'fazott neki, \
+Am\'edg a haj\'f3kt\'f3l a rokonokig let\'e9pte \uc0\u337 t, \
+\'c9s a fej\'e9t a p\'e1nc\'e9lokra helyezte. \
+DUNCAN\
+O b\'e1tor unokatestv\'e9r! m\'e9lt\'f3 \'fariember! \
+\uc0\u336 rmester\
+Ahogy a nap elgondolkodik \
+Haj\'f3t\'f6r\'e9s viharok \'e9s sz\'f6rny\uc0\u369  mennyd\'f6rg\'e9s sz\'fcnet, \
+Teh\'e1t tavasszal, ahonnan a k\'e9nyelem t\uc0\u369 nik \
+A kellemetlen \'e9rz\'e9s megduzzad. Mark, Sk\'f3cia kir\'e1lya, jel: \
+Amint az igazs\'e1gszolg\'e1ltat\'e1s valor karban volt \
+Ezeket a kihagyott kerneket b\'edzzuk a sarkukban, \
+De a Norweyan ura felm\'e9rte a kil\'e1t\'e1st, \
+Furcsa fegyverekkel \'e9s \'faj f\'e9rfi k\'e9szletekkel \
+Friss t\'e1mad\'e1s kezd\uc0\u337 d\'f6tt. \
+DUNCAN\
+Nem ez a helyzet \
+Kapit\'e1nyaink, Macbeth \'e9s Banquo? \
+\uc0\u336 rmester\
+Igen; \
+Mint a verebek a sasok, vagy a ny\'fal az oroszl\'e1n. \
+Ha azt mondom, el kell mondanom, hogy \uc0\u337 k voltak \
+A dupla reped\'e9sekkel felt\'f6lt\'f6tt \'e1gy\'fak, \'fagyhogy \uc0\u337 k \
+K\'e9tszeresen megdupl\'e1z\'f3dott az ellenfelek: \
+Kiv\'e9ve, hogy f\'fcr\'f6dni sz\'e1nd\'e9kozott sebeket, \
+Vagy eml\'e9kezzen egy m\'e1sik Golgot\'e1ra, \
+Nem tudom megmondani. \
+De \'e9n halv\'e1ny voltam, a gashes seg\'edts\'e9g\'e9rt ki\'e1ltott. \
+DUNCAN\
+Sz\'f3val a te szavaid v\'e1lnak t\'e9ged, mint a sebed; \
+Mindkett\uc0\u337  becs\'fcletes. Menj be seb\'e9szeket. \
+Kil\'e9p\'e9s \uc0\u337 rmester, r\'e9szt vett\
+\
+Ki j\'f6n ide? \
+\'cdrja be a ROSS-ot\
+\
+MALCOLM\
+Ross \'e9rdeme. \
+LENNOX\
+Milyen siets\'e9g n\'e9z ki a szem\'e9n! \'dagy kell n\'e9znie \
+\'dagy t\uc0\u369 nik, hogy a dolgok furcs\'e1nak t\u369 nnek. \
+ROSS\
+Isten \'f3vja a kir\'e1lyt! \
+DUNCAN\
+Honnan j\'f6tt\'e9l \'e9rdemes? \
+ROSS\
+Fife-t\uc0\u337 l, nagy kir\'e1ly; \
+Ahol a Norweyan szalaghirdet\'e9sek felborulnak az \'e9gen \
+\'c9s h\uc0\u369 v\'f6s a n\'e9p\'fcnk. Norv\'e9gia mag\'e1t, \
+Sz\'f6rny\uc0\u369  sz\'e1mokkal, \
+A legh\'e1tr\'e1nyosabb \'e1rul\'f3 seg\'edtette \
+Cawdor thaneje szomor\'fa konfliktusba kezdett; \
+Ahhoz, hogy Bellona v\uc0\u337 leg\'e9nye, \
+\'d6sszehasonl\'edtotta \'f6nellen\uc0\u337 rz\'e9ssel, \
+Pont ellenpont l\'e1zad\'f3, kar "nyeres\'e9ges kar. \
+A leny\uc0\u369 g\'f6z\u337  szellem\'e9t megf\'e9kezve, \'e9s arra a k\'f6vetkeztet\'e9sre jutott, \
+A gy\uc0\u337 zelem r\'e1nk hullott. \
+DUNCAN\
+Nagy boldogs\'e1g! \
+ROSS\
+Ez most \
+Sweno, a norv\'e9g kir\'e1ly, v\'e1gyik a kompoz\'edci\'f3ra: \
+A f\'e9rfiak sem temetik el \
+Am\'edg kifizette Saint Colme h\'fcvelykujj\'e1t \
+T\'edzezer doll\'e1r az \'e1ltal\'e1nos haszn\'e1latunkhoz. \
+DUNCAN\
+Nem t\'f6bb, mint Cawdor thane, megt\'e9veszteni \
+A keble \'e9rdekl\uc0\u337 d\'e9se: mondja meg jelenlegi hal\'e1l\'e1t, \
+Az \uc0\u337  kor\'e1bbi c\'edme Macbeth-t \'fcdv\'f6z\'f6lte. \
+ROSS\
+L\'e1tom, hogy k\'e9sz. \
+DUNCAN\
+Amit elvesztett, nemes Macbeth nyert. \
+Mind el\
+\
+III. Forres k\'f6zel\'e9ben.\
+Mennyd\'f6rg\'e9s. Adja meg a h\'e1rom boszork\'e1nyt\
+Az els\uc0\u337  boszork\'e1ny\
+Hol volt\'e1l, h\'fagom? \
+M\'e1sodik boszork\'e1ny\
+Sert\'e9s le\'f6l\'e9se. \
+Harmadik boszork\'e1ny\
+N\uc0\u337 v\'e9r, hol vagy? \
+Az els\uc0\u337  boszork\'e1ny\
+A tenger\'e9sz feles\'e9ge geszteny\'e9t \'f6l\'e9ben tartott, \
+\'c9s mocskoltam, mocskoltam, \'e9s mocskoltam: \
+"Adj nekem" \
+"B\'e1tors\'e1g, boszork\'e1ny!" a rump-t\'e1pl\'e1lt ronyon s\'edr. \
+A f\'e9rje Alep\'f3hoz ment, a tigris mester: \
+De egy szit\'e1n ott fogok vitorl\'e1zni, \
+\'c9s mint egy farok n\'e9lk\'fcli patk\'e1ny, \
+Megteszem, megteszem, \'e9s megteszem. \
+M\'e1sodik boszork\'e1ny\
+Adok neked egy sz\'e9l. \
+Az els\uc0\u337  boszork\'e1ny\
+Kedves vagy. \
+Harmadik boszork\'e1ny\
+\'c9s \'e9n m\'e9g egy. \
+Az els\uc0\u337  boszork\'e1ny\
+Magam is az \'f6sszes t\'f6bbi, \
+\'c9s azok a kik\'f6t\uc0\u337 k, \
+Azok a negyedek, amelyeket tudnak \
+\'c9n vagyok a haj\'f3 k\'e1rtya. \
+Sz\'e1radni fogok szalma alatt: \
+Az alv\'e1s nem \'e9jjel, sem nappal \
+Fogja meg a kanyarfedel\'e9t; \
+\uc0\u336  \'e9lni fog egy f\'e9rfi megtiltani: \
+Elfogyasztott kilencszer kilenc alkalommal \
+Cs\'f6kken a cs\'facs \'e9s a feny\uc0\u337 : \
+B\'e1r a k\'e9rg\'e9t nem lehet elvesz\'edteni, \
+M\'e9gis, viharos lesz. \
+N\'e9zd, mi van. \
+M\'e1sodik boszork\'e1ny\
+Mutasd meg, mutasd meg. \
+Az els\uc0\u337  boszork\'e1ny\
+Itt van egy pil\'f3ta h\'fcvelykujj\'e1val, \
+A haj\'f3t\'f6r\'e9s hazajutott. \
+Drum bel\'fcl\
+\
+Harmadik boszork\'e1ny\
+Dob, dob! \
+Macbeth j\'f6n. \
+MINDEN\
+A furcsa n\uc0\u337 v\'e9rek, k\'e9z a k\'e9zben, \
+Plak\'e1tok a tenger \'e9s a f\'f6ld, \
+\'cdgy megy \'e1t, a k\'f6vetkez\uc0\u337 kr\u337 l: \
+H\'e1romszor a te \'e9s h\'e1romszor az eny\'e9m \
+H\'e1romszor pedig kilencszer. \
+B\'e9ke! a var\'e1zsl\'f3 felborul. \
+Adja meg a MACBETH \'e9s a BANQUO nevet\
+\
+MACBETH\
+Annyira rossz \'e9s tisztess\'e9ges nap, amit m\'e9g nem l\'e1ttam. \
+Banquot\
+Milyen messze nincs Forres? Mik ezek \
+Sz\'f3val el\'e1jult \'e9s annyira vad a ruh\'e1jukban, \
+Ez nem olyan, mint a f\'f6ldi lakosok, \
+\'c9s m\'e9gis nem? \'c9lsz? vagy te vagy \
+Ez az ember megk\'e9rd\uc0\u337 jelezheti? \'dagy t\u369 nik, hogy meg\'e9rt engem, \
+Minden egyes pillanatban megcsonk\'edtott ujj\'e1val \
+A v\'e9kony ajk\'e1n: n\uc0\u337 knek kell lenned, \
+\'c9s m\'e9gis a szak\'e1llatok megtiltj\'e1k, hogy \'e9rtelmezzem \
+Hogy \'edgy vagy. \
+MACBETH\
+Besz\'e9lj, ha tudsz: mi vagy? \
+Az els\uc0\u337  boszork\'e1ny\
+Minden j\'e9ges\uc0\u337 , Macbeth! j\'e9gesd magad, Glamis thane! \
+M\'e1sodik boszork\'e1ny\
+Minden j\'e9ges\'f5, Macbeth, \'fcdv\'f6z\'f6lje mag\'e1t, Cawdor-t! \
+Harmadik boszork\'e1ny\
+Minden j\'e9ges\uc0\u337 , Macbeth, te leszel a kir\'e1ly a tov\'e1bbiakban! \
+Banquot\
+J\'f3 uram, mi\'e9rt kezdesz; \'e9s f\'e9lnek \
+Olyan dolgok, amelyek annyira tisztess\'e9gesek? \'c9n vagyok az igazs\'e1g neve, \
+Fantasztikus vagy, vagy val\'f3ban \
+Melyik kifel\'e9 mutat? Nemes t\'e1rsam \
+\'dcdv\'f6zlettel \'fcdv\'f6z\'f6lheted a mai kegyelmet \'e9s nagyszer\uc0\u369  j\'f3sl\'e1st \
+Nemes \'e9s kir\'e1lyi rem\'e9nys\'e9ggel, \
+Hogy \'fagy t\uc0\u369 nik, elhanyagolt: nekem nem besz\'e9lsz. \
+Ha megn\'e9zheted az id\uc0\u337  magvait, \
+\'c9s mondja el, hogy mely gabona n\uc0\u337 , \'e9s amely nem fog, \
+Besz\'e9lj hozz\'e1m, aki nem k\'f6ny\'f6r\'f6g, sem f\'e9l \
+Kedveseid, vagy a gy\uc0\u369 l\'f6leted. \
+Az els\uc0\u337  boszork\'e1ny\
+J\'e9ges\uc0\u337 ! \
+M\'e1sodik boszork\'e1ny\
+J\'e9ges\uc0\u337 ! \
+Harmadik boszork\'e1ny\
+J\'e9ges\uc0\u337 ! \
+Az els\uc0\u337  boszork\'e1ny\
+Kevesebb, mint Macbeth \'e9s m\'e9g nagyobb. \
+M\'e1sodik boszork\'e1ny\
+Nem annyira boldog, de sokkal boldogabb. \
+Harmadik boszork\'e1ny\
+Te kir\'e1lyokat fogsz szerezni, b\'e1r nem vagytok; \
+Teh\'e1t minden j\'e9ges\uc0\u337 , Macbeth \'e9s Banquo! \
+Az els\uc0\u337  boszork\'e1ny\
+Banquo \'e9s Macbeth, minden j\'e9ges\uc0\u337 ! \
+MACBETH\
+Maradj, te t\'f6k\'e9letlen hangsz\'f3r\'f3k, mondj t\'f6bbet: \
+Sinel hal\'e1l\'e1val tudom, hogy Glamis vagyok; \
+De hogyan lehet Cawdor? a Cawdor thane \'e9l, \
+Vir\'e1gz\'f3 \'fariember; \'e9s hogy kir\'e1ly legyen \
+\'c1ll\'edt\'f3lag nem \'e1ll a hittel, \
+Nem t\'f6bb, mint Cawdor. Mondd ki honnan \
+Ennek a furcsa intelligenci\'e1nak tartozol? vagy mi\'e9rt \
+Ezen a rohadt v\'e9n\'e1son meg\'e1ll\'edtjuk az utunkat \
+Ilyen pr\'f3f\'e9tai \'fcdv\'f6zl\'e9ssel? Besz\'e9lj, \'e9n sz\'e1molok fel. \
+A boszork\'e1nyok elt\uc0\u369 nnek\
+\
+Banquot\
+A f\'f6ld\'f6n olyan bubor\'e9kok vannak, mint a v\'edz, \
+\'c9s ezek k\'f6z\'fcl\'fck is. Hov\'e1 t\uc0\u369 ntek el? \
+MACBETH\
+A leveg\uc0\u337 be; \'e9s \'fagy t\u369 nt, hogy a tizedes megolvadt \
+Ahogy a l\'e9legzet a sz\'e9lbe. Vajon maradtak volna? \
+Banquot\
+Olyan dolgok voltak itt, amikr\uc0\u337 l besz\'e9l\'fcnk? \
+Vagy megett\'fck az \uc0\u337 r\'fclt gy\'f6k\'e9ren? \
+Ez a fogvatartottakat jelenti? \
+MACBETH\
+Gyermekeid kir\'e1lyok lesznek. \
+Banquot\
+Te kir\'e1ly leszel. \
+MACBETH\
+\'c9s Cawdor is: nem \'edgy ment? \
+Banquot\
+Az \'f6nmag\'e1nak \'e9s a szavaknak. Ki van itt? \
+Adja meg a ROSS \'e9s az ANGUS parancsot\
+\
+ROSS\
+A kir\'e1ly boldogan fogadta, Macbeth, \
+A sikereid h\'edre; \'e9s amikor olvas \
+A szem\'e9lyes l\'e1zad\'f3k harc\'e1ban, \
+Csod\'e1i \'e9s dics\'e9retei vitatkoznak \
+Melyik legyen a te vagy az \uc0\u337 : \
+Ha megn\'e9zed a t\'f6bbit, \
+Tal\'e1l meg a nagy Norweyan rangokban, \
+Semmi semmit arr\'f3l, hogy mit tett\'e9l, \
+Furcsa k\'e9pek a hal\'e1lr\'f3l. Olyan vastag, mint a j\'e9ges\uc0\u337  \
+Postai posztot kapott; \'e9s mindenki elviselte \
+Dics\'e9reted a kir\'e1lys\'e1g nagy v\'e9delme alatt, \
+\'c9s \'f6nt\'f6tte \uc0\u337 ket el\u337 tte. \
+ANGUS\
+Elk\'fcldt\'fck \
+Hogy a kir\'e1lyi mester\'fcnkr\uc0\u337 l adhatunk neked k\'f6sz\'f6netet; \
+Csak az\'e9rt, hogy a szem\'e9be mutasson, \
+Nem fizetnek t\'e9ged. \
+ROSS\
+\'c9s egy nagyobb tisztelettel komolyan, \
+Felaj\'e1nlott t\uc0\u337 lem, hogy h\'edvja Cawdor-t: \
+Melyik kieg\'e9sz\'edt\'e9sn\'e9l a j\'e9ges\uc0\u337 , a leg\'e9rt\'e9kesebb thane! \
+Mert ez a ti\'e9d. \
+Banquot\
+Mi az igazs\'e1g az igazi igaz? \
+MACBETH\
+Cawdor thane \'e9l: mi\'e9rt \'f6lt\'f6zk\'f6dsz \
+K\'f6lcs\'f6nvett ruh\'e1kban? \
+ANGUS\
+Ki volt m\'e9g a thane-i \'e9let? \
+De s\'falyos \'edt\'e9lettel viseli az \'e9letet \
+Amit meg\'e9rdemel, hogy elvesz\'edtse. Ak\'e1r egy\'fctt volt \
+Norv\'e9gi\'e9val, vagy a l\'e1zad\'f3k sor\'e1ban \'e1lltak \
+Rejtett seg\'edts\'e9ggel \'e9s el\uc0\u337 ny\'f6kkel, vagy mindkett\u337 vel \
+Munka az orsz\'e1g roncs\'e1n, nem tudom; \
+De az \'e1rv\'e1k f\uc0\u337 v\'e1rosa, bevallotta \'e9s bebizony\'edtotta, \
+Megd\'f6nt\'f6tt\'e9k. \
+MACBETH\
+[K\'edv\'fcl] Glamis, \'e9s Cawdor thane! \
+A legnagyobb a m\'f6g\'f6tt. \
+A ROSS \'e9s az ANGUS sz\'e1m\'e1ra\
+\
+K\'f6sz\'f6n\'f6m a f\'e1jdalmakat. \
+A BANQUO-hoz\
+\
+Nem rem\'e9nykedsz, hogy gyermekeid kir\'e1lyok lesznek, \
+Amikor azok, akik nekem adt\'e1k Cawdor thane-t \
+\'cdg\'e9retet tett nekik? \
+Banquot\
+Ez a megb\'edzhat\'f3 otthon \
+M\'e9g megind\'edthatn\'e1 a koron\'e1t, \
+Cawdor thane mellett. De ez furcsa: \
+\'c9s sokszor, hogy minket nyerj\'fcnk a k\'e1runkhoz, \
+A s\'f6t\'e9ts\'e9g eszk\'f6zei igazat mondanak nek\'fcnk, \
+Nyerj meg benn\'fcnket a becs\'fcletes csal\'e1sokkal, hogy el\'e1ruljuk \
+A legm\'e9lyebb k\'f6vetkezm\'e9nnyel. \
+Unokatestv\'e9rek, egy sz\'f3t, k\'e9rem. \
+MACBETH\
+[Hi\'e1nyzik] K\'e9t igazs\'e1got mondanak: \
+Mint boldog prologe a duzzanatnak \
+A cs\'e1sz\'e1ri t\'e9m\'e1r\'f3l. K\'f6sz\'f6n\'f6m, uraim. \
+F\'e9lre\
+\
+Nem lehet beteg, nem lehet j\'f3: ha beteg, \
+Mi\'e9rt adott nekem komoly sikert, \
+Igazs\'e1g kezdete? Cawdor vagyok: \
+Ha j\'f3, akkor mi\'e9rt adom ezt a javaslatot \
+Kinek sz\'f6rny\uc0\u369  k\'e9pe feloldja a hajamat \
+\'c9s az \'fcl\uc0\u337  sz\'edvem kopogjon a bord\'e1imba, \
+A term\'e9szet haszn\'e1lata ellen? Jelenlegi f\'e9lelmek \
+Kevesebbek, mint sz\'f6rny\uc0\u369  k\'e9pzelet: \
+Az \'e9n gondolatom, akinek gyilkoss\'e1ga m\'e9gis fantasztikus, \
+Megr\'e1zza az egyetlen emberis\'e9gemet, ami m\uc0\u369 k\'f6dik \
+Meggy\'f5z\'f5d\'f6tt, \'e9s semmi sem \
+De mi nem. \
+Banquot\
+N\'e9zze, hogy a partner\'fcnk elsz\'e1llt. \
+MACBETH\
+[Kiv\'e9ve] Ha v\'e9letlen lesz kir\'e1lyom, mi\'e9rt, az es\'e9ly tal\'e1n koron\'e1z, \
+A kevered\'e9s n\'e9lk\'fcl. \
+Banquot\
+\'daj borzalmak j\'f6nnek r\'e1, \
+Mint a k\'fcl\'f6n\'f6s ruh\'e1khoz, nem a pen\'e9sz\'fckh\'f6z ragadnak \
+De a haszn\'e1lat seg\'edts\'e9g\'e9vel. \
+MACBETH\
+[Vigy\'e1zz] Gyere, mi j\'f6het, \
+Az id\uc0\u337  \'e9s az \'f3ra a legdurv\'e1bb napokon halad \'e1t. \
+Banquot\
+M\'e9lt\'f3 Macbeth, maradunk a szabadid\uc0\u337 n. \
+MACBETH\
+Adja nekem a sz\'edvess\'e9get: az unalmas agyam kov\'e1csolt \
+A dolgok elfelejtettek. Kedves uraim, a f\'e1jdalmad \
+Regisztr\'e1ltak, ahol minden nap megfordulok \
+A lev\'e9l olvasni. Vezess\'fcnk a kir\'e1ly fel\'e9. \
+Gondold \'e1t, mi t\'f6rt\'e9nt, \'e9s t\'f6bb id\uc0\u337 ben, \
+Az id\uc0\u337 k\'f6zben, amikor m\'e9rlegelt\'fck, besz\'e9lj\'fcnk \
+Szabad sz\'edv\'fcnket egym\'e1snak. \
+Banquot\
+Nagyon \'f6r\'fcl\'f6k. \
+MACBETH\
+Addig, el\'e9g. Gyere, bar\'e1tok. \
+Mind el\
+\
+SCENE IV. Forres. A palota.\
+Vir\'e1gzik. Adja meg a DUNCAN, MALCOLM, DONALBAIN, LENNOX \'e9s a r\'e9sztvev\uc0\u337 ket\
+DUNCAN\
+A v\'e9grehajt\'e1s Cawdoron t\'f6rt\'e9nt? \uc0\u336 k nem \
+Azok, akik m\'e9g megb\'edztak, m\'e9gis visszat\'e9rnek? \
+MALCOLM\
+Kedvesem, \
+M\'e9g nem j\'f6ttek vissza. De besz\'e9ltem \
+Az egyiket l\'e1tta meghalni: ki jelentette \
+\uc0\u336 szint\'e9n sz\'f3lva elismerte az \'e1rul\'e1sait, \
+Im\'e1dta a magaslatodat, \'e9s bocs\'e1natot k\'e9rt \
+Egy m\'e9ly b\uc0\u369 nb\'e1nat: semmi az \'e9let\'e9ben \
+Olyan lett, mint aki elhagyta; meghalt \
+Mint az, akit hal\'e1l\'e1ban tanulm\'e1nyoztunk \
+Hogy eldobja a legkedvesebb dolog, amit tartozott, \
+Mint egy \'f3vatlan kicsinye. \
+DUNCAN\
+Nincs m\uc0\u369 v\'e9szet \
+Az elme \'e9p\'edt\'e9s\'e9nek megtal\'e1l\'e1sa az arcon: \
+\uc0\u336  volt egy \'fariember, akire \'e9p\'edtettem \
+Abszol\'fat bizalom. \
+Adja meg a MACBETH, a BANQUO, a ROSS \'e9s az ANGUS alkalmaz\'e1st\
+\
+O leg\'e9rdekesebb unokatestv\'e9r! \
+A hitetlens\'e9gem b\uc0\u369 ne m\'e9g most is \
+Neh\'e9z volt r\'e1m: m\'e1r eddig volt\'e1l \
+A jutalom leggyorsabb sz\'e1rnya lass\'fa \
+Elfogadni. Nem lett volna kev\'e9sb\'e9 meg\'e9rdemelt, \
+Hogy az ar\'e1ny mind a k\'f6sz\'f6net \'e9s a fizet\'e9s \
+Lehet, hogy az eny\'e9m volt! csak azt mondtam, \
+A t\'f6bbet a te fizeted, mint t\'f6bbet fizetni. \
+MACBETH\
+A szolg\'e1lat \'e9s a h\uc0\u369 s\'e9g, \
+Ennek sor\'e1n kifizet\uc0\u337 dik. A magass\'e1god r\'e9sze \
+Fogadni k\'f6teless\'e9g\'fcnket; \'e9s k\'f6teless\'e9g\'fcnk \
+A tr\'f3nra \'e9s az \'e1llami gyermekekre \'e9s szolg\'e1kra, \
+Micsoda, de mit kell tenni\'fck, mindent megt\'e9ve \
+Biztons\'e1gos a szereteted \'e9s a becs\'fcleted fel\'e9. \
+DUNCAN\
+\'dcdv\'f6z\'f6lj\'fck itt: \
+Elkezdtem telep\'edteni t\'e9ged, \'e9s meg fogsz dolgozni \
+Ahhoz, hogy tele legyen tele n\uc0\u337 tt. Noble Banquo, \
+Ez nem kev\'e9sb\'e9 meg\'e9rdemelt, \'e9s nem is kell ismerni \
+Nem kev\'e9sb\'e9, hogy tegy\'e9k meg, hadd tegyem fel \
+\'c9s tarts meg a sz\'edvemhez. \
+Banquot\
+Ha n\uc0\u337 ni fogok, \
+Az arat\'e1s a maga. \
+DUNCAN\
+B\uc0\u337 s\'e9ges \'f6r\'f6m\'f6m, \
+Akarsz a teljess\'e9gben, igyekeznek elrejteni magukat \
+A b\'e1natos cseppekben. Fiai, rokonai, \
+\'c9s ti, akiknek a helye a legk\'f6zelebb van, tudj\'e1k \
+Megalapozn\'e1nk ingatlanunkat \
+A legid\uc0\u337 sebb, Malcolm, akit k\'e9s\u337 bb nevez\'fcnk \
+Cumberland hercege; mely tiszteletet kell tennie \
+Nem k\'eds\'e9r\uc0\u337  n\'e9lk\'fcli befektetni csak \u337 t, \
+De a nemess\'e9g, mint a csillagok jelei ragyognak \
+Minden meg\'e9rdemelten. Innent\uc0\u337 l Invernessig, \
+\'c9s ragaszkodj hozz\'e1nk. \
+MACBETH\
+A t\'f6bbi munkaer\uc0\u337 , amelyet nem haszn\'e1lnak az \'d6n sz\'e1m\'e1ra: \
+\'c9n magam leszek a harangoz\'f3 \'e9s \'f6r\'f6mteli \
+A feles\'e9gem meghallgat\'e1sa a hozz\'e1\'e1ll\'e1soddal; \
+Al\'e1zatosan vegye le a szabads\'e1gomat. \
+DUNCAN\
+Az \'e9n m\'e9lt\'f3 Cawdor! \
+MACBETH\
+[Vonja] Cumberland hercege! ez egy l\'e9p\'e9s \
+Amire le kell esni, vagy m\'e1sk\'e9pp, \
+Mert az \'e9n \'fatomban hazudik. Csillag, elrejted a t\'fczed; \
+Ne felejtse f\'e9ny a fekete \'e9s a m\'e9ly v\'e1gyaimat: \
+A szem kezet r\'e1zk\'f3dott; m\'e9gis legyen, \
+Amire a szem f\'e9l, amikor elk\'e9sz\'fclt, l\'e1tni. \
+Kij\'e1rat\
+\
+DUNCAN\
+Igaz, m\'e9lt\'f3 Banquo; tele van olyan b\'e1tor, \
+\'c9s az \uc0\u337  dics\'e9reteiben t\'e1pl\'e1lkozom; \
+Ez egy bankett nekem. Ut\'e1na, \
+Akinek gondja volt, hogy \'fcdv\'f6z\'f6lje az \'fcdv\'f6zl\'e9st: \
+Ez egy p\'e1ratlan rokona. \
+Vir\'e1gzik. Mind el\
+\
+SCENE V. Inverness. Macbeth kast\'e9lya.\
+LADY MACBETH-hoz \'edrj egy levelet\
+LADY MACBETH\
+"A siker napj\'e1n tal\'e1lkoztak velem, \'e9s \'e9n is \
+a legt\'f6k\'e9letesebb jelent\'e9s megtanulj\'e1k, \uc0\u337 k m\'e9g t\'f6bbet \'e9rnek \
+mint a haland\'f3 tud\'e1s. Amikor a v\'e1gyban \'e9gettem \
+hogy megk\'e9rd\uc0\u337 jelezz\'e9k \u337 ket, \
+amelyekbe elt\uc0\u369 ntek. Am\'edg \'e9n \'e1lltam be \
+a csoda, a kir\'e1lyt\'f3l kaptak levelet, ki \
+mindenki \'fcdv\'f6z\'f6lte "Thane of Cawdor;" amely c\'edmmel, \
+r\'e9gebben ezek a furcsa n\uc0\u337 v\'e9rek tisztelettek \'e9s hivatkoztak \
+az id\uc0\u337  elj\'f6vetel\'e9re, a "Hail, kir\'e1ly \
+legyen! Ezt gondoltam j\'f3 sz\'e1ll\'edtani \
+te, a legdr\'e1g\'e1bb t\'e1rsa a nagys\'e1gnak, hogy te \
+nem lehet elvesz\'edteni az \'f6r\'f6m\'f6t, az\'e1ltal, hogy \
+tudatlan, hogy milyen nagys\'e1got \'edg\'e9rt neked. Helyezze el \
+a sz\'edvedre \'e9s a b\'facs\'faz\'e1sra. " \
+Glamis te \'e9s Cawdor; \'e9s leszel \
+Amit \'edg\'e9rtek, m\'e9gis f\'e9lelem a te term\'e9szetedet; \
+T\'fals\'e1gosan tele van az emberi kedvess\'e9g tejes\'e9vel \
+Ahhoz, hogy elkapja a legk\'f6zelebbi utat: te j\'f3 lenne; \
+A m\uc0\u369 v\'e9szet nem amb\'edci\'f3 n\'e9lk\'fcl, de n\'e9lk\'fcl \
+A betegs\'e9gnek r\'e9szt kell vennie: mit akarsz, \
+Ez szent\'fcl; nem j\'e1tszik hamis, \
+\'c9s m\'e9gis rosszul nyerne meg: te nagyszer\uc0\u369  Glamis, \
+Aki ezt ki\'e1ltja: "\'cdgy kell cselekednie, ha megvan; \
+\'c9s amit ink\'e1bb f\'e9lsz t\uc0\u337 led \
+A k\'edv\'e1ns\'e1g szerint meg kell semmis\'edteni. " H\'e9 te ide, \
+Hogy a f\'fclembe \'f6ntsem a szellememet; \
+\'c9s szentelj\'e9tek a nyelvem sziv\'e1rv\'e1ny\'e1val \
+Mindaz, ami megakad\'e1lyozza az arany k\'f6r\'f6ket, \
+Milyen sors \'e9s metafizikai seg\'edts\'e9g t\uc0\u369 nik \
+Ahhoz, hogy neked koron\'e1zd. \
+Adjon meg egy Messengeret\
+\
+Mi a h\'edre? \
+H\'edrn\'f6k\
+A kir\'e1ly idej\'f6n \'e9jjel. \
+LADY MACBETH\
+Te \uc0\u337 r\'fclt vagy, hogy ezt mondod: \
+Nem a te urad? aki nem, \
+T\'e1j\'e9koztatta volna az el\uc0\u337 k\'e9sz\'fcleteket. \
+H\'edrn\'f6k\
+Teh\'e1t k\'e9rlek, igaz: a mi thane j\'f6n: \
+Az egyik fick\'f3nak volt a sebess\'e9ge, \
+Aki szinte hal\'e1lra volt hajland\'f3, alig volt t\'f6bb \
+Mint az \uc0\u337  \'fczenete lenne. \
+LADY MACBETH\
+Adj neki gondot; \
+Nagyszer\uc0\u369  h\'edreket hoz. \
+Kil\'e9p\'e9s a Messengerb\uc0\u337 l\
+\
+A holl\'f3 maga is rekedt \
+Ez a Duncan v\'e9gzetes bej\'e1rata \
+Az \'e9n harcem alatt. Gyere, te szellemek \
+Ez hajlamos a haland\'f3 gondolatokra, nem engem itt, \
+\'c9s t\'f6lts ki engem a koron\'e1r\'f3l a tetej\'e9re \
+A kegyetlen kegyetlens\'e9g! vastag a v\'e9rem; \
+\'c1ll\'edtsa le a hozz\'e1f\'e9r\'e9st \'e9s a b\uc0\u369 nb\'e1nat elj\'f6vetel\'e9t, \
+Hogy ne legyenek komplik\'e1lt l\'e1togat\'e1sok a term\'e9szetben \
+R\'e1zza el a c\'e9lomat, \'e9s ne tartsa a b\'e9k\'e9t \
+A hat\'e1s \'e9s ez! Gyere az \'e9n n\uc0\u337  melle, \
+\'c9s vegye a tejet az epe miatt, te gyilkos minisztereket, \
+B\'e1rhol a l\'e1tatlan anyagain\'e1l \
+V\'e1rj\'e1tok a term\'e9szet z\uc0\u369 rzavar\'e1t! Gyere, vastag \'e9jszaka, \
+\'c9s t\'e9ged a pokol legdurv\'e1bb f\'fcstj\'e9ben, \
+Hogy az \'e9les k\'e9se nem l\'e1tja a sebet, \
+Sem az \'e9g a s\'f6t\'e9ts\'e9g takar\'f3j\'e1n \'e1t\'fct, \
+S\'edrni "Hold, tartsd!" \
+Adja meg a MACBETH nevet\
+\
+Nagy Glamis! m\'e9lt\'f3 Cawdor! \
+Nagyobb, mint mindkett\uc0\u337 , az ut\'f3kornak k\'f6sz\'f6nhet\u337 en! \
+A levelek tov\'e1bbadtak nekem \
+Ez a tudatlan jelen, \'e9s most \'e9rzem magam \
+A j\'f6v\uc0\u337  ebben a pillanatban. \
+MACBETH\
+Kedves szerelmem, \
+Duncan itt j\'f6n \'e9jszak\'e1ra. \
+LADY MACBETH\
+\'c9s mikor megy? \
+MACBETH\
+Holnap, ahogy sz\'e1nd\'e9kozik. \
+LADY MACBETH\
+\'d3, soha \
+Holnap l\'e1tni fog a nap? \
+Az arca, a thane, olyan, mint egy k\'f6nyv, ahol az emberek \
+Lehet olvasni furcsa dolgokat. Ahhoz, \
+\'dagy n\'e9z ki, mint az id\uc0\u337 ; sz\'edvesen fogadja a szemedet, \
+A kezed, a nyelved: \'fagy n\'e9z ki, mint az \'e1rtatlan vir\'e1g, \
+De ne legyen a k\'edgy\'f3. \uc0\u336  j\'f6n \
+Biztos\'edtani kell: \'e9s fel kell tenned \
+Ez az \'e9jszaka nagy \'fczletet k\'fcld\'f6tt; \
+Amely minden \'e9jszak\'e1ra \'e9s napra lesz \
+Csak szuver\'e9n uralmat \'e9s uralmat adjon. \
+MACBETH\
+Besz\'e9lni fogunk. \
+LADY MACBETH\
+Csak tiszta legyen; \
+Az \'f6r\'f6kk\'e9val\'f3s\'e1g kedv\'e9\'e9rt val\'f3 f\'e9lelem: \
+Hagyja a t\'f6bbieket nekem. \
+Mind el\
+\
+JELENET VI. Macbeth kast\'e9lya el\uc0\u337 tt.\
+Hautboys \'e9s f\'e1kly\'e1k. Adja meg a DUNCAN, a MALCOLM, a DONALBAIN, a BANQUO, a LENNOX, a MACDUFF, a ROSS, az ANGUS \'e9s a r\'e9sztvev\uc0\u337 ket\
+DUNCAN\
+Ez a kast\'e9ly kellemes helyet foglal el; a leveg\uc0\u337  \
+Nimbly \'e9s \'e9desen aj\'e1nlja mag\'e1t \
+A kedves \'e9rz\'e9keinkre. \
+Banquot\
+Ez a ny\'e1ri vend\'e9g, \
+A templom-k\'eds\'e9rt\uc0\u337  m\'e1rt\'edr, nem hagyja j\'f3v\'e1, \
+Szeretett k\'e9zzel, a mennyei l\'e9legzetet \
+Itt gy\'f6tr\uc0\u337 dik a szellem: nincs j\'e9g, frizura, \
+Buttress, sem a jobb\'e1gy, de ez a mad\'e1r \
+K\'e9sz\'edtette f\'fcgg\uc0\u337 \'e1gy\'e1t \'e9s b\'f6lcs\u337 j\'e9t: \
+Ahol a legjobban fajt\'e1k \'e9s k\'eds\'e9rtenek, megfigyeltem, \
+A leveg\uc0\u337  finom. \
+Adja meg a LADY MACBETH-et\
+\
+DUNCAN\
+N\'e9zd, n\'e9zd, tisztelt hercegn\uc0\u337 ! \
+A szeretet, ami valamikor k\'f6veti, a mi bajunk, \
+Ami tov\'e1bbra is k\'f6sz\'f6netet mond a szerelemnek. Itt tan\'edtlak \
+Hogyan aj\'e1nlj\'e1tok meg Isten\'fcnket a f\'e1jdalmak\'e9rt, \
+\'c9s k\'f6sz\'f6nj\'fck a probl\'e9m\'e1dat. \
+LADY MACBETH\
+Minden szolg\'e1ltat\'e1sunk \
+Minden pontban k\'e9tszer elv\'e9gzett, majd dupla \
+A szeg\'e9nys\'e9g \'e9s az egyetlen \'fczlet volt a k\'fczdelem \
+Ezeket az elismer\'e9seket m\'e9lyen \'e9s sz\'e9les k\'f6rben \
+A fens\'e9ged megterheli a h\'e1zunkat: a r\'e9gi, \
+\'c9s a k\'e9s\uc0\u337  m\'e9lt\'f3s\'e1gok \'f6sszeszedtek vel\'fck, \
+Pihenj\'fck a remeteit. \
+DUNCAN\
+Hol van Cawdor? \
+Mi a sark\'e1ban haladtunk, \'e9s c\'e9ljuk volt \
+Ahhoz, hogy \uc0\u337  legyen a sz\'e1ll\'edt\'f3ja, de j\'f3l j\'e1r; \
+\'c9s a nagy szeretete, \'e9les, mint a lelke, megakad\'e1 \uc0\u337 t \
+Otthona el\uc0\u337 tt\'fcnk. Tisztess\'e9ges \'e9s nemes h\'e1ziasszony, \
+Mi vagyunk a vend\'e9ged \'e9jjel. \
+LADY MACBETH\
+A szolg\'e1id valaha \
+Az \'f6v\'e9k, maguk \'e9s mi az \'f6v\'e9k, a compt, \
+Annak \'e9rdek\'e9ben, hogy ellen\uc0\u337 rz\'e9s\'fcket a magass\'e1g\'e1ban \'e9lvezhesse, \
+M\'e9gis, hogy visszaadja a saj\'e1tj\'e1t. \
+DUNCAN\
+Add a kezed; \
+Vigyen magammal a h\'e1zigazd\'e1mhoz: nagyon szeretj\'fck \uc0\u337 t, \
+\'c9s folytatja kegyelm\'fcnket fel\'e9. \
+Szabads\'e1g\'e1n\'e1l, hostess. \
+Mind el\
+\
+JELENET VII. Macbeth kast\'e9lya.\
+Hautboys \'e9s f\'e1kly\'e1k. Adjunk be egy csatorn\'e1t, \'e9s b\'fav\'e1rok szolg\'e1k \'e9teleket \'e9s szolg\'e1latot, \'e9s \'e1tmennek a sz\'ednpadon. Ezut\'e1n adja meg a MACBETH nevet\
+MACBETH\
+Ha ez megt\'f6rt\'e9nt volna, amikor ez megt\'f6rt\'e9nt, akkor j\'f3l megy \
+Gyorsan t\'f6rt\'e9nt: ha a mer\'e9nylet \
+Lehets\'e9ges, hogy a k\'f6vetkezm\'e9nyeket, \'e9s a fog\'e1st t\'f6nkreteszi \
+Az \uc0\u337  sikere sikere; de ez a csap\'e1s \
+Lehet, hogy az eg\'e9sz \'e9s a v\'e9g - mind itt, \
+De itt, ezen a bankon \'e9s az id\uc0\u337  m\'fal\'e1s\'e1val, \
+Az \'e9letet elj\'f6v\'fcnk. De ezekben az esetekben \
+M\'e9g mindig van \'edt\'e9let\'fcnk; hogy csak tan\'edtunk \
+V\'e9res utas\'edt\'e1sok, amelyek megtanulnak, visszat\'e9rnek \
+A feltal\'e1l\'f3 megver\'e9se: ez a p\'e1ratlan igazs\'e1goss\'e1g \
+K\'f6sz\'f6nj\'fck m\'e9reg kelyh \'f6sszetev\uc0\u337 it \
+Saj\'e1t ajkakra. Itt van kett\uc0\u337 s bizalom; \
+El\uc0\u337 sz\'f6r is, mivel \'e9n vagyok rokonszenves \'e9s t\'e1rgya, \
+Er\uc0\u337 s mind a tett ellen; akkor, mint a fogad\'f3, \
+Ki z\'e1rja le az ajt\'f3t a gyilkos\'e1val szemben, \
+Nem magam viselem a k\'e9st. Ez a Duncan is \
+Olyan szel\'eddebb karjait viselte, mint \uc0\u337  \
+Vil\'e1gos a nagy irod\'e1j\'e1ban, hogy az er\'e9nyei \
+Felsz\'f3lalnak, mint angyalok, trombit\'e1s, ellen \
+A felsz\'e1ll\'e1s m\'e9ly k\'e1rhozata; \
+\'c9s sz\'e1nalom, mint egy meztelen \'fajsz\'fcl\'f6tt, \
+A robban\'e1s, vagy a menny kerubjai, lovagolt\'e1k \
+A leveg\uc0\u337  l\'e1tsz\'f3lagos fut\'e1r\'e1n, \
+Minden szembe f\'fajja a sz\'f6rny\uc0\u369  tettet, \
+A k\'f6nnyek megfulladnak a sz\'e9lben. Nincs \'f6szt\'f6nz\'e9sem \
+Az \'e9n sz\'e1nd\'e9kom oldal\'e1ra sz\'farni, de csak \
+Vonz\'f3 amb\'edci\'f3, amely mag\'e1val ragadja mag\'e1t \
+\'c9s a m\'e1sikra esik. \
+Adja meg a LADY MACBETH-et\
+\
+Most hogyan! mi \'fajs\'e1g? \
+LADY MACBETH\
+Szinte v\'e1gyott: mi\'e9rt hagyta el a kamr\'e1t? \
+MACBETH\
+K\'e9rdezte t\uc0\u337 lem? \
+LADY MACBETH\
+Tudja, hogy nincs? \
+MACBETH\
+Nem fogunk tov\'e1bb folytatni ebben a v\'e1llalkoz\'e1sban: \
+K\'e9s\uc0\u337 n kitartott engem; \'e9s vettem \
+Arany v\'e9lem\'e9nyek mindenf\'e9le emberr\uc0\u337 l, \
+Ami most a legfrissebb f\'e9nyess\'e9g\'fckben viselne, \
+Nem szabad f\'e9lretenni annyira. \
+LADY MACBETH\
+A r\'e9szeg volt a rem\'e9ny \
+Melyik ruh\'e1t viselted? az\'f3ta aludt? \
+\'c9s most fel\'e9breszti, hogy olyan z\'f6ld \'e9s s\'e1padt legyen \
+Mire tett szabadon? Ett\uc0\u337 l az id\u337 t\u337 l \
+Ilyen vagyok a szereteted. Te vagy a fej \
+Ahhoz, hogy ugyanaz legyen a saj\'e1t cselekedeteddel \'e9s valoroddal \
+Ahogy a v\'e1gyakoz\'e1sban vagy? Megtenn\'e9d \
+Amelyet az \'e9let d\'edsz\'e9re becs\'fcl, \
+\'c9s \'e9lj gy\'e1va a saj\'e1t becs\'fcletedben, \
+Hagyja, hogy "nem merem" v\'e1rni "\'e9n" \
+Mint a szeg\'e9ny macska, a bossz\'fa? \
+MACBETH\
+Prithee, b\'e9ke: \
+Mer\'e9szek mindent, ami emberr\'e9 v\'e1lhat; \
+Ki merne t\'f6bbet csin\'e1lni? \
+LADY MACBETH\
+Mif\'e9le fenevad teh\'e1t nem volt, \
+Ez megt\'f6rte nekem ezt a v\'e1llalkoz\'e1st? \
+Amikor megpr\'f3b\'e1ltad, akkor ember volt\'e1l; \
+\'c9s hogy t\'f6bb legyen, mint amilyen volt\'e1l, akkor \
+Legyen sokkal t\'f6bb az ember. Sem id\uc0\u337 , sem helye \
+Ezut\'e1n ragaszkodott hozz\'e1, de mindkett\uc0\u337 t mindkett\u337 vel megtehetn\'e9: \
+\uc0\u336 k tett\'e9k magukat, \'e9s hogy a fitness most \
+Megszakad. Szoptattam, \'e9s tudom \
+Milyen kedves ahhoz, hogy szeressem a kicsit, \
+B\'e1r az arcomon mosolyogna, \
+V\'e1gtam a mellbimb\'f3mat a csont n\'e9lk\'fcli gumib\'f3l, \
+\'c9s kinyomozta az agy\'e1t, ha megesk\'fcdtem, mint te \
+Tettek erre. \
+MACBETH\
+Ha nem siker\'fclne? \
+LADY MACBETH\
+Nem siker\'fcl! \
+De csavarja a b\'e1tors\'e1got a ragadoz\'f3 helyre, \
+\'c9s mi nem fogunk meghi\'fasulni. Amikor Duncan alszik - \
+Majd a nap neh\'e9z \'fatja lesz \
+Sz\'edvesen h\'edvd meg \uc0\u337 t - a k\'e9t kamar\'e1s \
+Meg akarom gy\uc0\u337 zni a borral \'e9s a vitorl\'e1z\'e1ssal \
+Ez a mem\'f3ria, az agy \uc0\u337 rz\u337 je, \
+Legyen f\'fcst, \'e9s az ok elfogad\'e1sa \
+Csak egy limbeck: ha s\'f6t\'e9t alv\'e1s k\'f6zben \
+Az \'e1ztatott term\'e9szet\'fck olyan, mint egy hal\'e1l, \
+Mi nem te \'e9s \'e9n v\'e9gezz\'fck el \
+Az \'f5rz\'f6tt Duncan? mi nem tette \
+A szivacsos tisztjei, akik viselik a b\uc0\u369 ntudatot \
+A mi nagy pihen\'e9s\'fcnk? \
+MACBETH\
+Csak gyermeket nevelj; \
+Mert a te ostobas\'e1godnak kell alkotnia \
+Semmi, csak h\'edmek. Nem kapja meg, \
+Amikor v\'e9rt adtunk az \'e1lmos kett\uc0\u337 nek \
+A saj\'e1t kamr\'e1j\'e1b\'f3l, \'e9s a saj\'e1t t\uc0\u337 r\'e9t haszn\'e1lta, \
+Hogy nem csin\'e1ltak? \
+LADY MACBETH\
+Ki merne m\'e1snak fogadni, \
+Ahogy a b\'e1natunkat \'e9s a z\'fag\'e1sunkat megsz\'f3laljuk \
+Hal\'e1l\'e1t k\'f6vet\uc0\u337 en? \
+MACBETH\
+Megold\'f3dtam, \'e9s hajl\'edtok \
+Minden testi \'fcgyn\'f6k, aki ezt a sz\'f6rny\uc0\u369  tettet. \
+T\'e1vol, \'e9s cs\'faf\'edtsd az id\uc0\u337 t a legszebb bemutat\'f3val: \
+A hamis arcnak el kell rejtenie, mit tud a hamis sz\'edv. \
+Mind el\
+\
+ACT II\
+JELENET I. Macbeth-kast\'e9ly kast\'e9lya.\
+L\'e9pjen be a BANQUO-hoz, \'e9s a FLEANCE egy f\'e1kly\'e1t hordjon mag\'e1val\
+Banquot\
+Hogy megy az \'e9jszaka, fi\'fa? \
+FLEANCE\
+A hold leesett; Nem hallottam az \'f3r\'e1t. \
+Banquot\
+\'c9s tizenk\'e9t \'e9ves kor\'e1ban megy le. \
+FLEANCE\
+Nem k\'e9s\uc0\u337 bb, uram. \
+Banquot\
+Fogd, vegy\'e9l kardot. A mennyekben van gazd\'e1lkod\'e1s; \
+A gyerty\'e1k teljesen ki vannak kapcsolva. Vedd magad is. \
+A neh\'e9z id\'e9zetek olyanok, mint \'f3lom r\'e1m, \
+\'c9s m\'e9gsem aludn\'e9k: kegyes er\uc0\u337 k, \
+Tarts ki bennem a term\'e9szet \'e1tkozott gondolatait \
+Nyugtat\'f3 utat enged! \
+Adja meg a MACBETH-ot, \'e9s egy szolga f\'e1klyal\
+\
+Adja meg a kardomat. \
+Ki van ott? \
+MACBETH\
+Egy bar\'e1t. \
+Banquot\
+Mi van, uram, m\'e9g nem nyugodt? A kir\'e1ly egy \'e1gya: \
+Szokatlan \'f6r\'f6mben \'e9lt, \'e9s \
+Nagyon nagyszer\uc0\u369 en k\'fcldte az irod\'e1it. \
+Ez a gy\'e9m\'e1nt \'fcdv\'f6zli a feles\'e9g\'e9t, \
+A legt\'f6bb kedves h\'e1ziasszony nev\'e9vel; \'e9s fogd be \
+A m\'e9rhetetlen tartalomban. \
+MACBETH\
+Felk\'e9sz\'fcletlen\'fcl, \
+A mi akaratunk a hib\'e1s szolg\'e1v\'e1 lett; \
+Melyik szabadnak kellene lennie? \
+Banquot\
+Minden rendben van. \
+Tegnap este \'e1lmodtam a h\'e1rom furcsa n\uc0\u337 v\'e9rr\u337 l: \
+Neked valami igazs\'e1got mutattak. \
+MACBETH\
+Nem hiszem \uc0\u337 ket: \
+M\'e9gis, amikor egy \'f3r\'e1t felszolg\'e1lhatunk szolg\'e1lni, \
+N\'e9h\'e1ny sz\'f3val ezt az \'fczletet t\'f6lten\'e9nk el, \
+Ha megadn\'e1 az id\uc0\u337 t. \
+Banquot\
+A kedves szabadid\uc0\u337 dben. \
+MACBETH\
+Ha \'f6n beleegyezik, amikor tis, \
+Tiszteletet ad neked. \
+Banquot\
+Teh\'e1t nem vesz\'edtek el semmit \
+Annak \'e9rdek\'e9ben, hogy n\'f6velje, de m\'e9g mindig tartsa \
+A mellszobor franchise \'e9s a h\uc0\u369 s\'e9g egy\'e9rtelm\u369 , \
+\'c9n tan\'e1csos vagyok. \
+MACBETH\
+J\'f3 nyugalom az id\uc0\u337 ! \
+Banquot\
+K\'f6sz\'f6n\'f6m, uram: tetszik neked! \
+A BANQUO \'e9s a FLEANCE kivon\'e1sa\
+\
+MACBETH\
+J\'f6jj\'f6n el a szeret\uc0\u337 je, amikor az italom k\'e9sz, \
+Meg\'fct a harangra. Legyen \'e1gyba. \
+Kil\'e9p\'e9s Szolga\
+\
+Ez egy t\uc0\u337 r, amelyet \'e9n el\u337 ttem l\'e1tok, \
+A foganty\'fa a kezem fel\'e9? Gyere, hagyd, hogy megfogjam. \
+Nem nekem van, \'e9s m\'e9gis l\'e1tlak t\'e9ged. \
+Nem vagy hal\'e1los l\'e1t\'e1s, \'e9sszer\uc0\u369  \
+A l\'e1t\'e1s\'e9rz\'e9s? vagy te vagy \
+Az elme t\uc0\u337 r, hamis teremt\'e9s, \
+A h\uc0\u337 re szorult agyt\'f3l? \
+M\'e9g mindig l\'e1tom t\'e9ged, form\'e1ban tapinthat\'f3nak \
+Mint ez, amit most rajzolok. \
+Te \'fatba j\'f6ssz, ahogy \'e9n megyek; \
+\'c9s olyan eszk\'f6zt akartam haszn\'e1lni. \
+Az \'e9n szemem a t\'f6bbi \'e9rzelem bolondja, \
+Vagy m\'e1s \'e9rdemes; M\'e9g mindig l\'e1tlak, \
+\'c9s a te kardodra \'e9s a kegyetlen v\'e9redre, \
+Ami nem volt \'edgy kor\'e1bban. Nincs eff\'e9le dolog: \
+Ez a v\'e9res \'fczlet, amely t\'e1j\'e9koztatja \
+\'cdgy a szememnek. Most m\'e1r az egyik f\'e9lvil\'e1g \
+A term\'e9szet \'fagy t\uc0\u369 nik, halott, \'e9s a gonosz \'e1lmok vissza\'e9lnek \
+A f\'fcgg\'f6ny aludt; boszork\'e1ny \'fcnnepli \
+Pale Hecate aj\'e1nlataival \'e9s meggyilkol\'e1s\'e1val, \
+Alarumot az \uc0\u337  \u337 rz\u337 je, a farkas, \
+Akik \'fcv\'f6ltik az \'f3r\'e1jukat, \'edgy az \uc0\u337  lopakod\'f3 temp\'f3ja. \
+Tarquin leny\uc0\u369 g\'f6z\u337  l\'e9p\'e9seivel, a tervez\'e9se fel\'e9 \
+Mozog, mint egy szellem. Biztos \'e9s szil\'e1rd a f\'f6ldet, \
+Ne hallja a l\'e9pteimet, ahogy j\'e1rnak, f\'e9lelem miatt \
+A ti k\uc0\u337 t\'f6mb\'f6k, \
+\'c9s vegye a jelenlegi r\'e9m\'fcletet az id\uc0\u337 b\u337 l, \
+Ami most illik hozz\'e1. Am\'edg fenyegetem, \'e9l: \
+A szavak t\'fal sok hideg l\'e9legzetet adnak a tettek forr\'f3s\'e1g\'e1hoz. \
+Cseng\uc0\u337  cseng\
+\
+\'c9n megyek, \'e9s ez megt\'f6rt\'e9nt; a cseng\uc0\u337  megh\'edv. \
+Ne hallja, Duncan; mert ez egy csom\'f3 \
+Aki megh\'edv t\'e9ged a mennybe vagy a pokolba. \
+Kij\'e1rat\
+\
+JELENET II. Ugyanaz.\
+Adja meg a LADY MACBETH-et\
+LADY MACBETH\
+Az, ami megitta \uc0\u337 ket, b\'e1tor\'edt\'e1st adott nekem; \
+Ami megfojtotta \uc0\u337 ket, t\'fczet adott nekem. \
+Hallgasd! B\'e9ke! \
+A zsarol\'f3, a hal\'e1los l\'e1ngol\'f3, \
+Ami a szigor\'fa j\'f3 \'e9jszak\'e1t adja. Err\uc0\u337 l sz\'f3l: \
+Az ajt\'f3k nyitva vannak; \'e9s a szenved\'e9lyes v\uc0\u337 leg\'e9nyek \
+A h\'fcvelyk\'e9rt cs\'fafolt\'e1k meg a d\'edj\'e1t: Van droggond\'e1m \
+a saj\'e1tjukat, \
+Ez a hal\'e1l \'e9s a term\'e9szet vitatkozik r\'f3luk, \
+Ak\'e1r \'e9lnek, ak\'e1r meghalnak. \
+MACBETH\
+[Akkoriban] Ki van ott? mi, ho! \
+LADY MACBETH\
+Fekete, att\'f3l tartok, fel\'e9bredtek, \
+\'c9s ez nem t\'f6rt\'e9nt meg. A k\'eds\'e9rlet \'e9s nem a tett \
+\'d6sszezavar. Hallgasd! Felk\'e9sz\'fcltem a t\uc0\u337 r\'fcket; \
+Nem hagyhatta el \uc0\u337 ket. Nem hasonl\'edtott volna \
+Ap\'e1m, ahogy aludt, nem csin\'e1ltam. \
+Adja meg a MACBETH nevet\
+\
+A f\'e9rjem! \
+MACBETH\
+Tettem a tettet. Nem hallott\'e1l zajt? \
+LADY MACBETH\
+Hallottam, hogy a bagoly sikoltozik \'e9s a t\'fccs\'f6k s\'edrnak. \
+Nem besz\'e9lt\'e9l? \
+MACBETH\
+Amikor? \
+LADY MACBETH\
+Most. \
+MACBETH\
+Ahogy leereszkedtem? \
+LADY MACBETH\
+Ay. \
+MACBETH\
+Hallgasd! \
+Ki fekszik a m\'e1sodik kamr\'e1ban? \
+LADY MACBETH\
+Donalbain. \
+MACBETH\
+Ez egy sajn\'e1latos l\'e1tv\'e1ny. \
+A kez\'e9t n\'e9zegette\
+\
+LADY MACBETH\
+Bolond gondolkod\'e1s, sajn\'e1latos l\'e1tv\'e1ny. \
+MACBETH\
+Az egyik nevetett az alv\'e1sban, \'e9s az egyik ki\'e1ltott \
+'Gyilkoss\'e1g!' \
+Hogy fel\'e9bredtek egym\'e1snak: \'e1lltam \'e9s hallottam \uc0\u337 ket: \
+De im\'e1dkoztak, \'e9s sz\'f3ltak nekik \
+Ism\'e9t aludni. \
+LADY MACBETH\
+K\'e9t van egy\'fctt. \
+MACBETH\
+Az egyik azt ki\'e1ltotta: "Isten \'e1ldjon meg minket!" \'e9s "Amen" a m\'e1sik; \
+Ahogy l\'e1tt\'e1k ezeket a h\'f3h\'e9r kez\'e9t. \
+Hallgatva a f\'e9lelm\'fcket, nem tudtam mondani: "Amen" \
+Amikor azt mondt\'e1k: "Isten \'e1ldjon meg minket!" \
+LADY MACBETH\
+Nem olyan m\'e9lyen gondolod. \
+MACBETH\
+De mi\'e9rt nem mondhattam "Amen" -et? \
+Nagy sz\'fcks\'e9g volt \'e1ld\'e1sra, \'e9s "Amen" \
+Ragaszkodtam a torkomba. \
+LADY MACBETH\
+Ezeket a tetteket nem szabad gondolni \
+Ezek ut\'e1n; \'edgy \uc0\u337 r\'fclt leszel. \
+MACBETH\
+Methought Hallottam egy hangos ki\'e1lt\'e1st: "Ne aludj t\'f6bb\'e9! \
+Macbeth gyilkoss\'e1got aludni ", az \'e1rtatlan alv\'e1s, \
+Az alv\'e1s, amely a gondoskod\'f3 h\'fcvelykujj\'e1t k\'f6t\'f6tte \'f6ssze, \
+Az \'e9let minden napj\'e1nak hal\'e1la, f\'e1jdalmas munkak\'f6r\'fclm\'e9nye, \
+A f\'e1jdalmas elme balzsamja, a nagy term\'e9szet m\'e1sodik p\'e1ly\'e1ja, \
+Legf\uc0\u337 bb t\'e1pl\'e1l\'f3 az \'e9let \'fcnnepe, - \
+LADY MACBETH\
+Hogy \'e9rted? \
+MACBETH\
+M\'e9g mindig ki\'e1ltott: "Ne aludj t\'f6bb\'e9!" az eg\'e9sz h\'e1zhoz: \
+Glamis meggyilkolta az alv\'e1st, \'e9s ez\'e9rt Cawdor \
+Ne aludj t\'f6bb\'e9; Macbeth nem alszik t\'f6bb\'e9. \
+LADY MACBETH\
+Ki ez \'edgy ki\'e1ltott? Mi\'e9rt, \'e9rdemes thane, \
+A nemes er\uc0\u337 det meggondolod, gondolkodni \
+Sz\'f3val a dolgok agy\'e1t. Menj v\'edzzel, \
+\'c9s mossa el ezt a mocskos tan\'fas\'e1got a kezedb\uc0\u337 l. \
+Mi\'e9rt hozta ki ezeket a t\uc0\u337 r\'f6ket a helyr\u337 l? \
+Ott kell fek\'fcdni\'fck. \'e9s kenet \
+Az \'e1lmos v\'e9n\'e1k v\'e9rrel. \
+MACBETH\
+Nem megyek tov\'e1bb: \
+Att\'f3l f\'e9lek, hogy azt gondolom, amit tettem; \
+N\'e9zz \'fajra ne merjem. \
+LADY MACBETH\
+K\'edm\'e9letlen c\'e9l! \
+Adj nekem a t\uc0\u337 r\'f6ket: az alv\'f3 \'e9s a halottakat \
+Csak k\'e9pek: 'ez a gyermekkor szeme \
+Ez f\'e9lt egy festett \'f6rd\'f6gt\uc0\u337 l. Ha v\'e9rzik, \
+A holttestek arc\'e1t \'e1ztatom; \
+Mert \'fagy t\uc0\u369 nik, hogy b\u369 ntudata van. \
+Kij\'e1rat. Kopog\'e1s bel\'fcl\
+\
+MACBETH\
+H\'e1t ez a kopog\'e1s? \
+Hogy van velem, amikor minden zajt d\'falad? \
+Milyen kezek vannak itt? Ha! kirobbantj\'e1k a szemem. \
+Minden nagy Neptunusz \'f3ce\'e1nja lemossa ezt a v\'e9rt \
+Tiszta a kezem? Nem, ez ink\'e1bb a kezem \
+A t\'f6meges tengerek inkarnadinban, \
+A z\'f6ld piros sz\'ednez\'e9se. \
+Adja be \'fajra a LADY MACBETH-et\
+\
+LADY MACBETH\
+A kezem a te sz\'edned; de sz\'e9gyellem \
+Olyan feh\'e9r sz\'edvet viselni. \
+Kopog\'e1s bel\'fcl\
+\
+Hallottam egy kopog\'e1st \
+A d\'e9li bej\'e1ratt\'f3l: menj\'fcnk vissza a kamr\'e1ba; \
+Egy kis v\'edz tiszt\'edt minket ebb\uc0\u337 l a tettb\u337 l: \
+Mennyire k\'f6nny\uc0\u369 ! Az \'e1lland\'f3s\'e1god \
+\'d6n fel\'fcgyelet n\'e9lk\'fcl maradt. \
+Kopog\'e1s bel\'fcl\
+\
+Hallgasd! t\'f6bb kopog\'e1s. \
+Sz\'e1llj le a h\'e1l\'f3ingre, hogy alkalmank\'e9nt h\'edvj benn\'fcnket, \
+\'c9s mutasd meg nek\'fcnk, hogy figyelj\'fcnk. Ne vesz\'edtsd el \
+Sz\'f3val rosszul a gondolataidban. \
+MACBETH\
+A tetteim megismer\'e9se \'e9rdek\'e9ben a legjobb, ha nem tudom magam. \
+Kopog\'e1s bel\'fcl\
+\
+Wake Duncan a kopog\'e1soddal! \'c9n is tudn\'e1m! \
+Mind el\
+\
+III. Ugyanaz.\
+Kopog\'e1s bel\'fcl. Adjon meg egy Portert\
+Hord\'e1r\
+Itt egy kopog\'e1s val\'f3ban! Ha egy \
+az ember a pokol kapuj\'e1nak hordoz\'f3ja volt \
+r\'e9gi fordult a kulcs. \
+Kopog\'e1s bel\'fcl\
+\
+Kopog\'e1s, \
+Kopp kopp! Ki van ott, \'e9n vagyok a neve \
+Belzebub? Itt van egy farmer, akit felakasztottunk \
+maga a b\uc0\u337 s\'e9g elv\'e1r\'e1sair\'f3l: gyere be \
+id\uc0\u337 ; szalv\'e9t\'e1k vannak rajtad k\'f6r\'fcl; itt \
+akkor ne verejtsd el. \
+Kopog\'e1s bel\'fcl\
+\
+Kopog\'e1s, \
+kopog\'e1s! Ki van ott a m\'e1sik \'f6rd\'f6gben \
+n\'e9v? Hit, itt van egy megk\'e9rd\uc0\u337 jelez\'f5 \
+esk\'fcszik mindk\'e9t m\'e9rlegben mindk\'e9t sk\'e1l\'e1n; \
+aki az isten szerelm\'e9re elk\'f6vette az \'e1rul\'e1st, \
+m\'e9gsem tudta elcs\'e1b\'edtani a mennyet: \'d3, gyere \
+in, egyenl\'edt\uc0\u337 . \
+Kopog\'e1s bel\'fcl\
+\
+Kopog\'e1s, \
+Kopp kopp! Ki van ott? Hit, itt van egy \
+Angol testreszel\uc0\u337  j\'f6n ide, a lop\'e1sb\'f3l \
+egy francia t\'f6ml\uc0\u337 : j\'f6jj\'f6n be, szabja meg; itt lehet \
+s\'fclt a l\'fad. \
+Kopog\'e1s bel\'fcl\
+\
+Kopog\'e1s, \
+kopog\'e1s; soha nem csendes! Mi vagy te? De \
+ez a hely t\'fal hideg a pokol\'e9rt. \'c9n \'f6rd\'f6g port\'e1s leszek \
+ez nem tov\'e1bb: azt hittem, hogy bevettem \
+n\'e9h\'e1ny olyan szakma, amelyik a kocsma \
+az \'f6r\'f6k t\uc0\u369 zf\'e9szekhez. \
+Kopog\'e1s bel\'fcl\
+\
+Anon, anon! K\'e9rem, eml\'e9kezz a porterre. \
+Megnyitja a kaput\
+\
+Adja meg a MACDUFF \'e9s a LENNOX alkalmaz\'e1st\
+\
+Macduff\
+Olyan k\'e9s\uc0\u337  volt, bar\'e1tom, am\'edg lefek\'fcdt\'e9l, \
+Hogy ilyen k\'e9s\uc0\u337 n fekszel? \
+Hord\'e1r\
+"Higgadt, uram voltunk, am\'edg a \
+m\'e1sodik kakas: \'e9s inni, uram, nagyszer\uc0\u369  \
+h\'e1rom dolog provok\'e1ci\'f3ja. \
+Macduff\
+Mi a h\'e1rom dolog, amit inni, k\'fcl\'f6n\'f6sen provok\'e1lni? \
+Hord\'e1r\
+H\'e1zas, uram, orrfest\'e9s, alv\'e1s, \'e9s \
+vizelet. B\'f6rt\'f6n, uram, provok\'e1l, \'e9s nem provok\'e1l; \
+ez provok\'e1lja a v\'e1gyat, de ez megvan \
+t\'e1vol a teljes\'edtm\'e9ny: ez\'e9rt sok italt \
+mondhatjuk, hogy egy lek\'e9rdez\uc0\u337  eszk\'f6z: \
+ez teszi \uc0\u337 t, \'e9s ez mars \u337 t; meghat\'e1rozza \
+r\'e1, \'e9s elveszi; r\'e1besz\'e9li \uc0\u337 t, \
+\'e9s meggyilkolja \uc0\u337 t; teszi \u337 t \'e1llni, \'e9s \
+nem \'e1llnak; v\'e9geredm\'e9nyben megk\'e9rd\uc0\u337 jelezi \u337 t \
+aludni, \'e9s hazudni neki, elhagyja. \
+Macduff\
+Azt hiszem, az ital adta neked a hazugs\'e1got tegnap este. \
+Hord\'e1r\
+Hogy megtettem, uram, \'e9n nagyon a torok \
+nekem: de \'e9n meggy\uc0\u337 ztem \u337 t hazugs\'e1ga miatt; \'e9s \'e9n \
+gondolom, t\'fal er\uc0\u337 sek neki, b\'e1r \u337  is \
+n\'e9ha felemeltem a l\'e1bam, de \'e1tv\'e1ltoztattam a lead\'e1sra \
+neki. \
+Macduff\
+A te mestered keveredik? \
+Adja meg a MACBETH nevet\
+\
+A kopog\'e1s fel\'e9bresztette; itt j\'f6n \uc0\u337 . \
+LENNOX\
+J\'f3 reggelt, nemes uram. \
+MACBETH\
+J\'f3 reggelt, mindkett\uc0\u337 t. \
+Macduff\
+A kir\'e1ly remeg\uc0\u337 , m\'e9lt\'f3 h\'edr\u369 ? \
+MACBETH\
+M\'e9g nem. \
+Macduff\
+Megparancsolta, hogy id\uc0\u337 ben felsz\'f3lam: \
+M\'e1r majdnem elcs\'fasztam az \'f3r\'e1ban. \
+MACBETH\
+Vigyelek hozz\'e1. \
+Macduff\
+Tudom, hogy ez \'f6r\'f6mteli baj neked; \
+De m\'e9gis ez. \
+MACBETH\
+A fizikai f\'e1jdalomban \'f6r\'f6met okoz\'f3 munka. \
+Ez az ajt\'f3. \
+Macduff\
+Olyan mer\'e9szek leszek h\'edvni, \
+Annak \'e9rdek\'e9ben, hogy korl\'e1tozott szolg\'e1ltat\'e1som legyen. \
+Kij\'e1rat\
+\
+LENNOX\
+Ma megy a kir\'e1ly? \
+MACBETH\
+\uc0\u336  teszi: \u337  nevezte ki. \
+LENNOX\
+Az \'e9jszaka \'f6ntelt volt: ahol fek\'fcdt\'fcnk, \
+A k\'e9m\'e9ny\'fcnket felrobbantottuk; \'e9s ahogy mondj\'e1k, \
+A s\'e9rt\'e9sek hallott\'e1k a leveg\uc0\u337 t; furcsa sikolyok a hal\'e1l, \
+\'c9s r\'e9miszt\'f5 \'e9kezetekkel pr\'f3f\'e9t\'e1lt \
+Sz\'f6rny\uc0\u369  \'e9g\'e9s \'e9s zavaros esem\'e9nyek \
+Az \'faj kaland a hal\'e1los id\uc0\u337 ben: a hom\'e1lyos mad\'e1r \
+A sz\'fcntelen \'e9jszaka volt: egyesek mondj\'e1k a f\'f6ldet \
+Hal\'e1los volt \'e9s r\'e1zta. \
+MACBETH\
+"Egy durva \'e9jszaka. \
+LENNOX\
+Az \'e9n fiatal eml\'e9kem nem p\'e1rhuzamos \
+Egy ember hozz\'e1. \
+Adja meg \'fajra a MACDUFF-ot\
+\
+Macduff\
+O horror, horror, horror! Nyelv vagy sz\'edv \
+Nem tud elk\'e9pzelni \'e9s nem nevezni t\'e9ged! \
+MACBETH LENNOX\
+Mi a helyzet. \
+Macduff\
+A zavarts\'e1g ma is remekm\uc0\u369 v\'e9 tett! \
+A legt\'f6bb szents\'e9gt\'f6r\uc0\u337  meggyilkol\'e1s megszakadt \
+Az \'dar felkent templom\'e1t, \'e9s ellopta onnan \
+Az \'e9p\'fclet \'e9lete! \
+MACBETH\
+Mit nem mondasz? Az \'e9let? \
+LENNOX\
+\'dagy \'e9rted a fens\'e9ged? \
+Macduff\
+L\'e9pjen be a kamr\'e1ba, \'e9s t\'f6nkretegye a l\'e1t\'e1s\'e1t \
+\'daj Gorgonnal: ne k\'e9rdezzenek velem; \
+L\'e1sd, majd besz\'e9lj magadnak. \
+Exit MACBETH \'e9s LENNOX\
+\
+\'c9bredj, \'e9bren! \
+Csengessen az alarum cseng\uc0\u337 . Gyilkoss\'e1g \'e9s \'e1rul\'e1s! \
+Banquo \'e9s Donalbain! Malcolm! \'e9bren! \
+R\'e1zza le ezt a pihentet\uc0\u337  alv\'e1st, a hal\'e1l hamis, \
+\'c9s n\'e9zd csak a hal\'e1lt! fel, fel, \'e9s l\'e1sd \
+A nagy v\'e9gzet k\'e9p! Malcolm! Banquot! \
+Ahogy a s\'edrjaid felkelnek \'e9s j\'e1rnak, mint a sprites, \
+Ez a r\'e9m\'fclet! Csengess. \
+sz\'f3l a cseng\uc0\u337 \
+\
+Adja meg a LADY MACBETH-et\
+\
+LADY MACBETH\
+Mi az \'fczlet, \
+Hogy egy ilyen borzalmas trombita sz\'f3l\'edt fel \
+A h\'e1z talpai? besz\'e9lni, besz\'e9lni! \
+Macduff\
+Szel\'edd h\'f6lgy, \
+"Nem \'e9rted, hogy hallhatsz mit besz\'e9lhetek: \
+Az ism\'e9tl\'e9s, egy n\uc0\u337  f\'fcl\'e9ben, \
+Meggyilkolt volna, ahogy esett. \
+Adja meg a BANQUO-t\
+\
+O Banquo, Banquo, \
+A kir\'e1lyi mester\'fcnk gyilkoss\'e1ga! \
+LADY MACBETH\
+Jaj, sajnos! \
+Mi a h\'e1zunkban? \
+Banquot\
+T\'fal kegyetlen b\'e1rhol. \
+Kedves Duff, v\'e1rlak, ellentmondasz magadnak, \
+\'c9s azt mondj\'e1k, nem \'edgy van. \
+\'cdrja be \'fajra a MACBETH-ot \'e9s a LENNOX-ot a ROSS-hoz\
+\
+MACBETH\
+Ha egy \'f3r\'e1val az es\'e9ly el\uc0\u337 tt haltam meg, \
+\'c1ldott id\uc0\u337  alatt \'e9ltem; mert ett\u337 l a pillanatt\'f3l kezdve, \
+A haland\'f3s\'e1gban nincs semmi komoly: \
+Minden csak j\'e1t\'e9kok: a h\'edrn\'e9v \'e9s a kegyelem halott; \
+Az \'e9let borja h\'faz\'f3dik, \'e9s csak a puszta \
+Ez a boltozat elhagyja mag\'e1t. \
+Adja meg a MALCOLM-ot \'e9s a DONALBAIN-t\
+\
+DONALBAIN\
+Mi a baj? \
+MACBETH\
+Te vagy, \'e9s nem tudod: \
+A tavasz, a fej, a v\'e9r k\'fatja \
+Meg\'e1llt; a forr\'e1sa meg\'e1llt. \
+Macduff\
+A kir\'e1lyi ap\'e1m gyilkoss\'e1ga. \
+MALCOLM\
+\'d3, kinek? \
+LENNOX\
+Azok a kamara, amilyennek l\'e1tszott, tette: \
+A kez\'fck \'e9s az arcuk v\'e9res volt; \
+\'cdgy voltak azok a t\uc0\u337 r\'f6k is, akik nem tudtak \
+A p\'e1rn\'e1jukon: \
+B\'e1multak, \'e9s zavart\'e1k; senki sem \'e9l \
+Meg kellett b\'edzni vel\'fck. \
+MACBETH\
+\'d3, m\'e9gis megb\'e1nj\'e1k a haragomat, \
+Hogy meg\'f6ltem \uc0\u337 ket. \
+Macduff\
+Mi\'e9rt volt \'edgy? \
+MACBETH\
+Ki lehet b\'f6lcs, csod\'e1latos, m\'e9rs\'e9kelt \'e9s d\'fch\'f6s, \
+H\uc0\u369 s\'e9ges \'e9s semleges, egy pillanatra? Senki: \
+Az exped\'edci\'f3 az \'e9n er\uc0\u337 szakos szeretetem \
+Kih\'fazza a sz\'fcnetet, ok\'e1t. Itt fek\'fcdt Duncan, \
+Az ez\'fcstsz\'edn\uc0\u369  b\u337 r aranysz\'edn\u369  v\'e9re volt. \
+\'c9s a gash'd sz\'far\'e1sa \'fagy n\'e9zett ki, mintha a term\'e9szetben megszegett volna \
+A puszt\'edt\'f3 bej\'e1rat t\'f6nkre: ott, a gyilkosok, \
+A kereskedelem sz\'ednei, a t\uc0\u337 r\'fck \
+Unmannerly breech'd with gore: ki tudna tart\'f3zkodni, \
+Ez volt a sz\'edve a szeretetnek, \'e9s abban a sz\'edvben \
+B\'e1tors\'e1g, hogy a szeretet kno wn? \
+LADY MACBETH\
+Seg\'edts nekem \'edgy! \
+Macduff\
+N\'e9zze a h\'f6lgyet. \
+MALCOLM\
+[DONALBAIN mellett] Mi\'e9rt tartjuk a nyelv\'fcnket, \
+Ez a legink\'e1bb ezt az \'e9rvel\'e9st k\'f6veteli meg a mi\'e9nk? \
+DONALBAIN\
+[MALCOLM mellett] Mit kell itt mondani, \
+ahol a sorsunk, \
+Vigy\'fck el egy csigahajt\'f3t, rohanjon, \'e9s megragadjon minket? \
+Menj\'fcnk el; \
+A k\'f6nnyeink m\'e9g nem forraltak. \
+MALCOLM\
+[A DONALBAIN mellett] Sem er\uc0\u337 s b\'e1natunk \
+A mozg\'e1s l\'e1b\'e1n\'e1l. \
+Banquot\
+N\'e9zd meg a h\'f6lgyet: \
+LADY MACBETH t\'f6rt\'e9nik\
+\
+\'c9s amikor a meztelen gyenges\'e9geink rejt\uc0\u337 znek, \
+Ez szenved az expoz\'edci\'f3ban, tal\'e1lkozunk, \
+\'c9s k\'e9rdezd meg ezt a legv\'e9resebb munk\'e1t, \
+Tudni tov\'e1bb. A f\'e9lelmek \'e9s megr\'e1zk\'f3d\'e1sok r\'e1znak minket: \
+Isten nagy kez\'e9ben \'e1llok; \'e9s innen \
+Az ellenszeg\'fclhetetlen \'e1ldozat ellen harcolok \
+Az \'e1rul\'f3 rosszindulat. \
+Macduff\
+\'c9s \'e9n is. \
+MINDEN\
+Teh\'e1t minden. \
+MACBETH\
+R\'f6viden tegy\'fck fel a f\'e9rfias k\'e9szs\'e9get, \
+\'c9s tal\'e1lkozzunk egy\'fctt a csarnokkal. \
+MINDEN\
+Nagyon el\'e9gedett. \
+Mindenki kiv\'e1nja Malcolmot \'e9s Donalbainet.\
+\
+MALCOLM\
+Mit fogsz csin\'e1lni? Ne t\'e1rseljunk vel\'fck: \
+F\'fcggetlen szomor\'fas\'e1g mutat\'e1sa egy iroda \
+Melyik a hamis ember k\'f6nny\uc0\u369 . Angli\'e1ba megyek. \
+DONALBAIN\
+\'cdrorsz\'e1gnak; k\'fcl\'f6n\'e1ll\'f3 szerencse \
+Tartsa mindkett\uc0\u337 j\'fcket biztons\'e1gosabb\'e1: hol vagyunk, \
+Vannak t\uc0\u337 r\'f6k a f\'e9rfi mosoly\'e1ban: a k\'f6zelben a v\'e9rben, \
+Min\'e9l k\'f6zelebb v\'e9res. \
+MALCOLM\
+Ez a gyilkos akna, ami l\'f6v\'e9s \
+M\'e9g nem vil\'e1g\'edt, \'e9s a legbiztons\'e1gosabb \'fatunk \
+El kell ker\'fclni a c\'e9lt. Ez\'e9rt a l\'f3; \
+\'c9s ne l\'e9gy kellemes a szabads\'e1g, \
+De elt\'e1vozik: ebben a lop\'e1sn\'e1l garant\'e1lj\'e1k \
+Ami ellopja mag\'e1t, ha nincs kegyelem. \
+Mind el\
+\
+SCENE IV. Macbeth kast\'e9ly\'e1n k\'edv\'fcl.\
+L\'e9pjen be a ROSS-be \'e9s egy \'f6regemberbe\
+Id\uc0\u337 s ember\
+Sz\'e1z\'f6t t\'edz eml\'e9kszem j\'f3l: \
+Ami az id\uc0\u337  m\'fal\'e1s\'e1t illeti, amit l\'e1ttam \
+\'d3ri\'e1si \'f3r\'e1k \'e9s furcsa dolgok; de ez a f\'e1j\'f3 \'e9jszaka \
+Csin\'e1lta a kor\'e1bbi ismereteket. \
+ROSS\
+\'d3, j\'f3 apa, \
+Te l\'e1tod, az \'e9g, ahogy az ember cselekedete zavarja, \
+Fenyegeti a v\'e9res sz\'ednpadot: az \'f3ra alatt "tis day, \
+\'c9s m\'e9gis s\'f6t\'e9t \'e9jszaka megfojtja az utaz\'f3 l\'e1mp\'e1t: \
+Nem az \'e9jszaka t\'fals\'falya vagy a napi sz\'e9gyen, \
+A s\'f6t\'e9ts\'e9g a f\'f6ld arca, \
+Ha az \'e9l\uc0\u337 l\'e9nynek meg kell cs\'f3kolnia? \
+Id\uc0\u337 s ember\
+"Term\'e9szetellenes, \
+M\'e9g a tetthez hasonl\'f3an is. Kedden utols\'f3, \
+A s\'f3lyom, amely magasan fekszik a hely b\'fcszkes\'e9g\'e9ben, \
+Volt egy mousing bagoly s\'edrva \'e9s meg\'f6lte. \
+ROSS\
+\'c9s Duncan lovagjai - egy furcsa \'e9s biztos dolog - \
+Beauteous \'e9s gyors, a fajok leg\'e9nyesei, \
+A term\'e9szetben vadul fordultak, kit\'f6rt\'e9k a kocsikat, \
+A "ragaszkod\'f3" engedelmess\'e9g, ahogyan azt tenn\'e9k \
+H\'e1bor\'fa az emberis\'e9ggel. \
+Id\uc0\u337 s ember\
+- Tis azt mondta, egym\'e1snak eszik. \
+ROSS\
+\'cdgy tett\'e9k a szemem csod\'e1lat\'e1t \
+Ez nem n\'e9zett ut\'e1na. Itt j\'f6n a j\'f3 Macduff. \
+Adja meg a MACDUFF-ot\
+\
+Hogy megy a vil\'e1g, uram? \
+Macduff\
+Mi\'e9rt nem l\'e1ttalak? \
+ROSS\
+Nem tudjuk, ki tette ezt t\'f6bbet, mint v\'e9res tettet? \
+Macduff\
+Azok, amelyeket Macbeth meg\'f6lt. \
+ROSS\
+Sajnos, a nap! \
+Milyen j\'f3 tudtak tenni? \
+Macduff\
+Az al\'e1bbiak voltak: \
+Malcolm \'e9s Donalbain, a kir\'e1ly k\'e9t fia, \
+Elmenek\'fcltek \'e9s elmenek\'fcltek; amely r\'e1juk t\'e1maszkodik \
+A tett gyan\'faja. \
+ROSS\
+"M\'e9g mindig a term\'e9szet! \
+T\'f6k\'e9letes t\'f6rekv\'e9s, amely felkel \
+A saj\'e1t \'e9leted eszk\'f6ze! Akkor a legjobban tetszik \
+A szuverenit\'e1s Macbethre fog esni. \
+Macduff\
+M\'e1r meg van nevezve, \'e9s elment Scone-be \
+Befektet\'e9s. \
+ROSS\
+Hol van Duncan teste? \
+Macduff\
+Colmekillhez, \
+El\uc0\u337 dei szent t\'e1rh\'e1za, \
+\'c9s a csontjaik \uc0\u337 rz\u337 je. \
+ROSS\
+Meg fogsz vinni? \
+Macduff\
+Nem, unokatestv\'e9r, \'e9n megyek Fife-hez. \
+ROSS\
+H\'e1t, oda fogok menni. \
+Macduff\
+Nos, l\'e1tj\'e1tok j\'f3l ott a dolgokat: adieu! \
+Nehogy a r\'e9gi ruh\'e1nk k\'f6nnyebben \'fclj\'f6n, mint az \'faj! \
+ROSS\
+B\'facs\'fa, ap\'e1m. \
+Id\uc0\u337 s ember\
+Isten j\'f3indulata megy veled; \'e9s ezekkel \
+Ez j\'f3 lesz a rossz miatt, \'e9s ellens\'e9gei bar\'e1tjai! \
+Mind el\
+\
+ACT III\
+JELENET I. Forres. A palota.\
+Adja meg a BANQUO-t\
+Banquot\
+Most van itt: kir\'e1ly, Cawdor, Glamis, minden, \
+Ahogy a furcsa n\uc0\u337 k \'edg\'e9rtek, \'e9s att\'f3l tartok, \
+Legrosszabbul j\'e1tszott\'e1l, de azt mondt\'e1k \
+Nem \'e1llhat a te ut\'f3dain, \
+De \'e9n magam kell a gy\'f6k\'e9r \'e9s az apa \
+Sok kir\'e1ly. Ha j\'f6n az igazs\'e1g t\uc0\u337 l\'fck - \
+Mint te, Macbeth, a besz\'e9d\'fck ragyog - \
+Mi\'e9rt, a te igazs\'e1goss\'e1gok \'e1ltal jav\'edtott, \
+Lehet, hogy nem az \'e9n pr\'f3f\'e9taim is, \
+\'c9s rem\'e9nykedett velem? De szel\'edd! nem t\'f6bb. \
+Sennet hangzott. MACBETH, kir\'e1ly, LADY MACBETH, kir\'e1lyn\'e9, LENNOX, ROSS, Lordok, h\'f6lgyek \'e9s r\'e9sztvev\uc0\u337 k\
+\
+MACBETH\
+Itt a f\uc0\u337  vend\'e9g\'fcnk. \
+LADY MACBETH\
+Ha elfelejtett\'e9k, \
+Nagy \'fcnnep volt a r\'e9s, \
+\'c9s mindent elk\'e9peszt\uc0\u337 . \
+MACBETH\
+Este \'fcnnep\'e9lyes vacsor\'e1t tartunk, uram, \
+\'c9s k\'e9rni fogom a jelenl\'e9tedet. \
+Banquot\
+Hagyja a magaslatodat \
+Parancsolj r\'e1m; amelyhez feladataim vannak \
+A legk\'fcl\'f6n\'f6sebb elv\'e1laszthatatlan nyakkend\uc0\u337  \
+Mindig k\'f6t\'f6tt. \
+MACBETH\
+Ma d\'e9lut\'e1n? \
+Banquot\
+Igen, j\'f3 uram. \
+MACBETH\
+M\'e1sra kellene k\'e9rn\'fcnk a j\'f3 tan\'e1csokat, \
+Ami m\'e9g mindig s\'falyos \'e9s vir\'e1gz\'f3, \
+A mai tan\'e1csban; de holnap megy\'fcnk. \
+H\'e1t nem utazik? \
+Banquot\
+Amennyire csak lehet, uram, ahogyan bet\'f6lti az id\uc0\u337 t \
+"Twixt ezt \'e9s vacsor\'e1t: ne menj ink\'e1bb a lovamhoz, \
+Az \'e9jszaka hitelfelvev\uc0\u337 jek\'e9nt kell lennem \
+S\'f6t\'e9t \'f3ra vagy kett\uc0\u337 . \
+MACBETH\
+Ne hagyja \'fcnnep\'fcnket. \
+Banquot\
+Uram, nem fogok. \
+MACBETH\
+Halljuk, a v\'e9res unokatestv\'e9reinket adj\'e1k \
+Anglia \'e9s \'cdrorsz\'e1g, nem vallj\'e1k be \
+A kegyetlen puszt\'edt\'f3, kit\'f6ltve a hallgat\'f3ikat \
+Furcsa tal\'e1lm\'e1nysal: de holnap, \
+Ha \'edgy tesz\'fcnk, akkor az \'e1llam oka lesz \
+K\'f6z\'f6s lelkesed\'e9s. H\'e9, hogy l\'f3: adieu, \
+Am\'edg vissza nem t\'e9rsz. Menj Fleance veled? \
+Banquot\
+Igen, kedves uram: az idej\'fck h\'edvja. \
+MACBETH\
+Szeretn\'e9m a lovait gyors \'e9s biztos gyalogosan; \
+\'c9s \'edgy k\'f6sz\'f6n\'f6m a h\'e1tuknak. B\'facs\'fa. \
+Kil\'e9p\'e9s a BANQUO-b\'f3l\
+\
+Legyen minden ember mestere az idej\'e9nek \
+H\'e9t \'e9jszaka: a t\'e1rsadalom megteremt\'e9se \
+Az \'e9desebb \'fcdv\'f6zl\'e9s, meg fogjuk tartani magunkat \
+Csak vacsoraid\uc0\u337 ben: mik\'f6zben Isten legyen veled! \
+Exit mindenkinek, csak MACBETH, \'e9s egy k\'eds\'e9r\uc0\u337 \
+\
+Sirrah, egy sz\'f3t veled: vegye fel az embereket \
+A mi \'f6r\'f6m\'fcnkre szolg\'e1l? \
+K\'cdS\'c9R\uc0\u336 \
+\uc0\u336 k, uram, a palota kapuja n\'e9lk\'fcl. \
+MACBETH\
+Hozd \uc0\u337 ket el\u337 tt\'fcnk. \
+Exit Attendant\
+\
+Hogy \'edgy legyen semmi; \
+De biztons\'e1gosan. - A Banquo-ban val\'f3 f\'e9lelmeink \
+Stick m\'e9ly; \'e9s term\'e9szet\'e9b\uc0\u337 l fakad\'f3an \
+Igazs\'e1gosan uralkodik, ami att\'f3l f\'e9lne: "ez nagyon mer\'e9szkedik; \
+\'c9s az elm\'e9j\'e9nek egetlen lelke fel\'e9, \
+Van egy b\'f6lcsess\'e9ge, amely ir\'e1ny\'edtja a valorj\'e1t \
+Biztons\'e1gos cselekedet. Nincs m\'e1s, mint \uc0\u337  \
+Akik f\'e9lnek t\uc0\u337 lem, \'e9s alatta, \
+A g\'e9niuszom meg van tiltva; ahogy azt mondj\'e1k, \
+Mark Antonyt Caesar szolg\'e1ltatta. Elvesz\'edti a n\uc0\u337 v\'e9reket \
+Amikor el\uc0\u337 sz\'f6r a kir\'e1ly nev\'e9t helyezt\'e9k r\'e1m, \
+\'c9s sz\'f3l\'edtotta \uc0\u337 ket, hogy besz\'e9ljenek vele: akkor a pr\'f3f\'e9ta \
+Az apj\'e1t a kir\'e1lyok sor\'e1ba kapt\'e1k: \
+A fejemben gy\'fcm\'f6lcs\'f6z\uc0\u337  koron\'e1t tettek, \
+\'c9s tedd egy kop\'e1r jogart a f\'e1jdalomba, \
+Ett\uc0\u337 l az egyenes vonallal kezelt\'e9k, \
+Nem siker\'fclt a fiaim. Ha nem \'edgy lesz, \
+A Banquo k\'e9rd\'e9s\'e9re feltettem magam; \
+Sz\'e1mukra a kegyes Duncant gyilkoltam meg; \
+Tedd fel a b\'e1tors\'e1gom ed\'e9ny\'e9t \
+Csak nekik; \'e9s az \'e9n \'f6r\'f6k \'e9kem \
+Tekintettel az ember k\'f6z\'f6s ellens\'e9g\'e9re, \
+Annak \'e9rdek\'e9ben, hogy kir\'e1lyok legyenek, a Banquo kir\'e1lyok magja! \
+Ahelyett, hogy elj\'f6hetsz a list\'e1ba. \
+\'c9s b\'edzzatok a kijelent\'e9shez! Ki van ott! \
+\'cdrja be \'fajra az Attendant-t, k\'e9t gyilkossal\
+\
+Most menj az ajt\'f3hoz, \'e9s maradj ott, am\'edg nem h\'edvunk. \
+Exit Attendant\
+\
+Nem tegnap besz\'e9lt\'fcnk egy\'fctt? \
+Els\uc0\u337  gyilkoss\'e1g\
+Ez volt, k\'e9rlek, k\'e9rlek, a magaslatod. \
+MACBETH\
+H\'e1t igen, most \
+Figyelsz az \'e9n besz\'e9deire? Tud \
+Hogy \uc0\u337  volt az elm\'falt id\u337 kben, akik megtartott\'e1k \
+Teh\'e1t a szerencse alatt, amir\uc0\u337 l azt gondoltad \
+\'d6r\'f6kk\'e9val\'f3 \'e9n\'fcnk: ez j\'f3 neked \
+A legut\'f3bbi konferenci\'e1nkban megtapasztalt\'e1k veled, \
+Hogy ker\'fclt\'e9l a kezedbe, hogyan ker\'fclt \'e1t, \
+az eszk\'f6z\'f6k, \
+Ki dolgozott vel\'fck, \'e9s minden m\'e1s dolog, ami lehet \
+A f\'e9l l\'e9lek \'e9s a fogalom \uc0\u337 r\'fclt \
+Mondja: "\'cdgy t\'f6rt\'e9nt a Banquo". \
+Els\uc0\u337  gyilkoss\'e1g\
+\'c9rtes\'edtett\'e9l vel\'fcnk. \
+MACBETH\
+\'c9n megtettem, \'e9s tov\'e1bb mentem, ami most \
+A m\'e1sodik tal\'e1lkoz\'f3nk. Tal\'e1lsz \
+A t\'fcrelmed t\'fals\'falyban van a term\'e9szetedben \
+Hogy hagyhatod ezt? Annyira gospell'd \
+Im\'e1dkozni erre a j\'f3 emberre \'e9s a k\'e9rd\'e9s\'e9re, \
+Akinek neh\'e9z keze a s\'edrba hajolt \
+\'c9s k\'f6ny\'f6rg\'f6tt a ti\'e9ded \'f6r\'f6kre? \
+Els\uc0\u337  gyilkoss\'e1g\
+Mi f\'e9rfiak vagyunk, kedvesem. \
+MACBETH\
+Igen, a katal\'f3gusban f\'e9rfiakat keresel; \
+Mint kuty\'e1k \'e9s agarak, mongrels, spaniels, curs, \
+A lyukak, a v\'edzi sz\uc0\u337 nyegek \'e9s a demi-farkasok lazaak \
+Minden a kuty\'e1k neve: az \'e9rt\'e9kes f\'e1jl \
+Megk\'fcl\'f6nb\'f6zteti a gyors, a lass\'fa, a finom, \
+A h\'e1zvezet\'f5, a vad\'e1sz, mindenki \
+Szerint az aj\'e1nd\'e9k, amely b\uc0\u337 s\'e9ges term\'e9szet \
+Be van z\'e1rva; \'edgy kapja \
+K\'fcl\'f6nleges kieg\'e9sz\'edt\'e9s. a sz\'e1ml\'e1r\'f3l \
+Ez mindny\'e1jan egyszerre \'edrja: \'e9s \'edgy az emberek. \
+Most, ha van egy \'e1llom\'e1s a f\'e1jlban, \
+Nem \'e9n vagyok a f\'e9rfiass\'e1g legrosszabb rangja, mondjuk; \
+\'c9s ezt az \'fczletet a te kezedbe fogom tenni, \
+Kinek a kiv\'e9gz\'e9se az ellens\'e9gedet kikapcsolja, \
+Ragadja meg a sz\'edvet \'e9s a szeretetet, \
+Ki viseli \'e9let\'fcnk eg\'e9szs\'e9g\'e9t, de beteg, \
+Ami hal\'e1l\'e1ban t\'f6k\'e9letes volt. \
+M\'e1sodik gyilkos\
+\'c9n vagyok az egyik, kedvesem, \
+Kinek a fenyeget\uc0\u337  csap\'e1s \'e9s a b\'fcf\'e9k a vil\'e1gon \
+Annyira inger\'fclt, hogy \'e9n vagyok vakmer\uc0\u337 , mi \
+A vil\'e1g ellen\'e9re. \
+Els\uc0\u337  gyilkoss\'e1g\
+\'c9s \'e9n m\'e9g egy \
+Olyan f\'e1radt a katasztr\'f3f\'e1kkal, \
+Hogy b\'e1rmi es\'e9lyem szerint hazudn\'e9k, \
+Hogy megjav\'edts\'e1k, vagy szabaduljanak meg. \
+MACBETH\
+Mindketten \
+Tudd, hogy a Banquo volt az ellens\'e9ged. \
+Mindk\'e9t gyilkos\
+Igaz, uram. \
+MACBETH\
+Az eny\'e9m is; \'e9s ilyen v\'e9res t\'e1vols\'e1gban, \
+Az, hogy minden perc\'e9ben elcs\'faszik \
+Az \'e9letem k\'f6zel\'e9b\uc0\u337 l \'e9s b\'e1r \'e9n is tudtam \
+A mez\'edtl\'e1bas hatalommal lend\'edtsd el a szemem el\uc0\u337 l \
+\'c9s aj\'e1nlom az \'e9n akaratom avouch, de nem szabad, \
+Bizonyos bar\'e1tok sz\'e1m\'e1ra, akik mind \uc0\u337 , mind az eny\'e9m, \
+Akik szeretik, nem eshetek le, hanem megr\'e1ndulnak a buk\'e1sa \
+Kit\uc0\u337 l \'e9n lecsaptam; \'e9s innen, \
+Hogy a seg\'edts\'e9gedet szerelem, \
+Az \'fczlet maszkol\'e1sa a k\'f6z\'f6s szemmel \
+K\'fcl\'f6nb\'f6z\uc0\u337  s\'falyos okok miatt. \
+M\'e1sodik gyilkos\
+Mi, uram, \
+V\'e9gezze el, amit parancsolt nek\'fcnk. \
+Els\uc0\u337  gyilkoss\'e1g\
+B\'e1r az \'e9let\'fcnk - \
+MACBETH\
+A szellemek ragyognak rajtad. Legfeljebb ebben az \'f3r\'e1ban \
+\'c9n tan\'e1csot adok neked, hogy hol telep\'edtsd magad; \
+Ismerkedjen meg a t\'f6k\'e9letes k\'e9mmel az id\uc0\u337 vel, \
+A pillanat nem; mert nem lehet \'e9jjel, \
+\'c9s valami a palot\'e1b\'f3l; mindig gondoltam \
+Hogy sz\'fcks\'e9gem van egy tisztas\'e1gra: \'e9s vele egy\'fctt - \
+Hogy ne hagyjunk d\'f6rzs\'f6lni, sem botcsokat a munk\'e1ban - \
+Fia a fia, aki meg\uc0\u337 rzi \u337 t, \
+A t\'e1voll\'e9tem nem kev\'e9sb\'e9 l\'e9nyeges sz\'e1momra \
+Mint az apja, meg kell \'f6lelnie a sorsot \
+A s\'f6t\'e9t \'f3r\'e1b\'f3l. H\'e1r\'edtsd el egym\'e1st\'f3l: \
+Elj\'f6ssz hozz\'e1tok. \
+Mindk\'e9t gyilkos\
+Megold\'f3dtunk, uram. \
+MACBETH\
+Egyenesen felsz\'f3l\'edtok r\'e1d: tartsd be. \
+Gyilkosok kivon\'e1sa\
+\
+Meg\'e1llap\'edt\'e1st nyert. Banquo, a lelked lelke, \
+Ha megtal\'e1lja a mennyet, meg kell tal\'e1lnia ezt az \'e9jszak\'e1t. \
+Kij\'e1rat\
+\
+JELENET II. A palota.\
+Adja be a LADY MACBETH-t \'e9s a Szolg\'e1latot\
+LADY MACBETH\
+Van Banquo a b\'edr\'f3s\'e1g el\uc0\u337 l? \
+Szolg\'e1l\'f3\
+Igen, asszonyom, de \'fajra \'e9jjel visszat\'e9r. \
+LADY MACBETH\
+Mondja meg a kir\'e1lynak, hogy r\'e9szt vegyen a szabadid\uc0\u337 ben \
+N\'e9h\'e1ny sz\'f3val. \
+Szolg\'e1l\'f3\
+H\'f6lgyem, \'e9n is. \
+Kij\'e1rat\
+\
+LADY MACBETH\
+Naught volt, mindent elk\'f6lt\'f6tt, \
+Ahol a v\'e1gyunk tartalom n\'e9lk\'fcl van: \
+- Biztons\'e1gosabb, mint amit elpuszt\'edtunk \
+Mint a puszt\'edt\'e1s, k\'e9ts\'e9ges \'f6r\'f6mben \'e9lnek. \
+Adja meg a MACBETH nevet\
+\
+Hogy van, uram? mi\'e9rt egyed\'fcl maradsz, \
+A legsz\'edvesebben a t\'e1rsai, \
+Olyan gondolatok haszn\'e1lat\'e1val, amelyek val\'f3ban meghaltak \
+Vel\'fck gondolkodnak? A dolgok minden remedy n\'e9lk\'fcl \
+Nem szabad szemmel tartani: mi t\'f6rt\'e9nik. \
+MACBETH\
+Megkaptuk a k\'edgy\'f3t, nem \'f6lte meg: \
+Szorosan bez\'e1rul, \'e9s mag\'e1ra marad, m\'edg a szeg\'e9ny rosszindulatunk \
+A kor\'e1bbi foga vesz\'e9lyben van. \
+De hagyd, hogy a dolgok v\'e1zlata, mind a kett\uc0\u337  \
+a vil\'e1gok szenvednek, \
+\'c9szre fogunk enni az \'e9tkez\'e9s\'fcnket f\'e9lelem \'e9s alv\'e1s k\'f6zben \
+A sz\'f6rny\uc0\u369  \'e1lmok keser\u369 s\'e9g\'e9ben \
+\'c9jszak\'e1nk\'e9nt r\'e1zunk: jobb legyen a halottakkal, \
+Akit mi, b\'e9k\'e9\'e9rt kapunk, b\'e9k\'e9re k\'fcld\'fcnk, \
+Mint az elme k\'ednz\'e1s\'e1n \
+Nyugtalan ecstasyban. Duncan a s\'edrj\'e1ban van; \
+Az \'e9let l\'e1zasod\'e1sa ut\'e1n j\'f3l alszik; \
+Az \'e1rul\'e1s a legrosszabbat vette: sem ac\'e9l, sem m\'e9rgez\'e9s, \
+Malice hazai, k\'fclf\'f6ldi illet\'e9k, semmi, \
+\'c9rintheti tov\'e1bb. \
+LADY MACBETH\
+Gyer\'fcnk; \
+Kedves \'far, gyeng\'e9d a karcs\'fa megjelen\'e9sed miatt; \
+L\'e9gy f\'e9nyes \'e9s vid\'e1m a vend\'e9gek k\'f6z\'f6tt este. \
+MACBETH\
+\'c9n is szeretem; \'e9s \'edgy, k\'e9rlek, l\'e9gy te: \
+Eml\'e9kezz a Banquo-ra; \
+Mutassa meg \uc0\u337 t a szem \'e9s a nyelv: \
+Nem biztons\'e1gos az id\uc0\u337 , hogy mi \
+Meg kell adnunk tiszteletet ezen h\'edzelg\uc0\u337  patakokban, \
+\'c9s k\'e9rd\'e9seket tegy\'fcnk a sz\'edv\'fcnkbe, \
+Elrejtve, hogy \uc0\u337 k. \
+LADY MACBETH\
+El kell hagynia ezt. \
+MACBETH\
+\'d3, tele a skorpi\'f3kkal az agyam, kedves feles\'e9gem! \
+Tudja, hogy a Banquo \'e9s a Fleance \'e9l. \
+LADY MACBETH\
+De a term\'e9szet p\'e9ld\'e1nya nem eternek. \
+MACBETH\
+Van m\'e9g k\'e9nyelem; t\'e1madhat\'f3ak; \
+Akkor l\'e9gy j\'f3k\'e9p\uc0\u369 ! \
+Az \uc0\u337  kolostora rep\'fclt, eg\'e9szen fekete Hecate megh\'edv\'e1s\'e1ra \
+A szem\'e9tdarabos bog\'e1r az \'e1lmos z\'fcmm\'f6g\'e9s\'e9vel \
+\'c9jszaka \'e1s\'edtoz\'f3 cs\'edkja van, meg kell csin\'e1lni \
+A f\'e9lelmetes megjegyz\'e9s. \
+LADY MACBETH\
+Mi a teend\uc0\u337 ? \
+MACBETH\
+Legyen \'e1rtatlan a tud\'e1sr\'f3l, legkedvesebb mandzsetta, \
+Ahhoz, hogy tapsoljon a tetthez. Gyere, \'e9jszaka, \
+T\'f6ltsd le a sz\'e1nalmas nap d\'fch\'f6s szem\'e9t; \
+\'c9s v\'e9res \'e9s l\'e1thatatlan kezeddel \
+T\'f6r\'f6lje \'e9s szak\'edtsa meg ezt a nagy k\'f6t\'e9st \
+Ami s\'e1padt! A f\'e9ny megvastagszik; \'e9s a varj\'fa \
+Sz\'e1rnyat hoz az \'fajonchoz: \
+A nap j\'f3 dolgai leereszkednek, \'e9s elakadnak; \
+M\'edg az \'e9jszakai fekete \'fcgyn\'f6k\'f6k a zs\'e1km\'e1nyukra felgyorsulnak. \
+A te besz\'e9ded szerint szel\'edd, de tarts t\'e9ged; \
+A rossz dolgok meger\'f5s\'edtik magukat. \
+Sz\'f3val, prithee, menjetek velem. \
+Mind el\
+\
+III. Park a palota k\'f6zel\'e9ben.\
+Adjon h\'e1rom gyilkost\
+Els\uc0\u337  gyilkoss\'e1g\
+De ki aj\'e1nlott t\'e9ged vel\'fcnk? \
+Harmadik gyilkoss\'e1g\
+Macbeth. \
+M\'e1sodik gyilkos\
+Nem kell a bizalmatlans\'e1gunk, hiszen \'e1tadja \
+Irod\'e1ink \'e9s mit kell tenn\'fcnk \
+Az ir\'e1nyba igaz. \
+Els\uc0\u337  gyilkoss\'e1g\
+Akkor \'e1lljon vel\'fcnk. \
+A nyugat m\'e9gis csillog a nap n\'e9h\'e1ny s\'e1vj\'e1n: \
+Most meghajtja a megtelt utat \
+Ahhoz, hogy megszerezz\'fck az id\uc0\u337 szer\u369  vend\'e9gl\u337 t; \'e9s megk\'f6zel\'edt\'e9sek k\'f6zel\'e9be \
+Az \'f3r\'e1nk t\'e1rgya. \
+Harmadik gyilkoss\'e1g\
+Hallgasd! Hallottam lovakat. \
+Banquot\
+[Bel\'fcl] Adj nek\'fcnk f\'e9nyt ott, ho! \
+M\'e1sodik gyilkos\
+Azt\'e1n \uc0\u337 : a t\'f6bbi \
+Ezek a v\'e1rakoz\'e1s jegy\'e9ben vannak \
+M\'e1r a b\'edr\'f3s\'e1g vagyok. \
+Els\uc0\u337  gyilkoss\'e1g\
+A lovai megyek. \
+Harmadik gyilkoss\'e1g\
+Majdnem egy m\'e9rf\'f6ldnyire: de \'e1ltal\'e1ban, \
+Teh\'e1t minden ember, innen a palota kapuig \
+Tegye meg a s\'e9ta. \
+M\'e1sodik gyilkos\
+Egy f\'e9ny, egy f\'e9ny! \
+Adja meg a BANQUO-t \'e9s a FLEANCE-t egy f\'e1klyal\
+\
+Harmadik gyilkoss\'e1g\
+- Tis \uc0\u337 . \
+Els\uc0\u337  gyilkoss\'e1g\
+\'c1llj! \
+Banquot\
+Es\uc0\u337  lesz az \'e9jszaka. \
+Els\uc0\u337  gyilkoss\'e1g\
+Engedje le. \
+A BANQUO-ra \'e1lltak\
+\
+Banquot\
+\'d3, \'e1rul\'e1s! Fly, j\'f3 Fleance, rep\'fclni, rep\'fclni, rep\'fclni! \
+Te bossz\'fat \'e1llsz. O slave! \
+Meghal. A FLEANCE elmenek\'fcl\
+\
+Harmadik gyilkoss\'e1g\
+Ki kiny\'fajtotta a f\'e9nyt? \
+Els\uc0\u337  gyilkoss\'e1g\
+Nem volt az \'fat? \
+Harmadik gyilkoss\'e1g\
+Csak egy van; a fi\'fa elmenek\'fclt. \
+M\'e1sodik gyilkos\
+Elvesztett\'fck \
+A kapcsolatunk legjobb fele. \
+Els\uc0\u337  gyilkoss\'e1g\
+Nos, menj\'fcnk el, \'e9s mondjuk meg, hogy mennyit tett\'fcnk. \
+Mind el\
+\
+SCENE IV. Ugyanaz. Hall a palot\'e1ban.\
+A bankett elk\'e9sz\'fclt. Adja meg a MACBETH, LADY MACBETH, ROSS, LENNOX, Lordok \'e9s Attendants\
+MACBETH\
+Ismered a saj\'e1t fokozatait; \'fclj le: el\uc0\u337 sz\'f6r \
+\'c9s a sz\'edv\'e9lyes \'fcdv\'f6zl\'e9s. \
+Lords\
+K\'f6sz\'f6net a fens\'e9gednek. \
+MACBETH\
+\'d6nmagatok \'f6sszekeverik a t\'e1rsadalommal, \
+\'c9s j\'e1tssz az al\'e1zatos gazda. \
+A hostess\'fcnk megtartja \'e1llapot\'e1t, de a legjobb id\uc0\u337 ben \
+Sz\'fcks\'e9g\'fcnk lesz \'fcdv\'f6zl\'e9sre. \
+LADY MACBETH\
+Mondja ki nekem, uram, minden bar\'e1tunknak; \
+Mert a sz\'edvem besz\'e9l, \'f6r\'fclnek. \
+Az els\uc0\u337  gyilkos jelenik meg az ajt\'f3n\
+\
+MACBETH\
+L\'e1ssuk, sz\'edv\'fckben tal\'e1lkoznak veled k\'f6sz\'f6nettel. \
+Mindk\'e9t f\'e9l egyenl\uc0\u337 : itt \'fcl\'f6k a k\'f6zep\'e9n: \
+L\'e9gy nagy a vid\'e1ms\'e1g; anon egy int\'e9zked\'e9st iszunk \
+Az asztal k\'f6r\'fcl. \
+Az ajt\'f3hoz k\'f6zeledve\
+\
+V\'e9r van a te arcodon. \
+Els\uc0\u337  gyilkoss\'e1g\
+- Akkor a Tis Banquo. \
+MACBETH\
+"Jobban jobb vagy, mint \uc0\u337  bel\'fcl. \
+Elk\'fcldte? \
+Els\uc0\u337  gyilkoss\'e1g\
+Uram, a tork\'e1t v\'e1gj\'e1k; amit tettem neki. \
+MACBETH\
+Te vagy a legjobb o 'the cut-throats: m\'e9gis j\'f3 \
+\'cdgy t\'f6rt\'e9nt Fleance sz\'e1m\'e1ra: ha tette, \
+Te vagy a nem. \
+Els\uc0\u337  gyilkoss\'e1g\
+A legt\'f6bb kir\'e1lyi uram, \
+Fleance-t elpuszt\'edtj\'e1k. \
+MACBETH\
+Azt\'e1n j\'f6n a fitts\'e9gem: m\'e1s volt\'e1l t\'f6k\'e9letes, \
+Az eg\'e9sz, mint a k\uc0\u337 zetk\'e9nt alap\'edtott m\'e1rv\'e1ny, \
+Olyan sz\'e9les \'e9s \'e1ltal\'e1nos, mint a h\'e1z leveg\uc0\u337 je: \
+De most kabinos vagyok, csipogtam, befogadtam \
+K\'e9ts\'e9geket \'e9s f\'e9lelmet kelthet. De Banquo biztons\'e1gos? \
+Els\uc0\u337  gyilkoss\'e1g\
+Igen, j\'f3 uram: biztons\'e1gos egy \'e1rokban, \
+Huszonn\'e9gy kem\'e9ny szem\'e9t a fej\'e9n; \
+A legkev\'e9sb\'e9 a term\'e9szet hal\'e1la. \
+MACBETH\
+K\'f6sz\'f6net \'e9rte: \
+Ott van a keltett k\'edgy\'f3; a f\'e9reg, amely elmenek\'fclt \
+Van olyan term\'e9szet, amely id\uc0\u337 vel a m\'e9reg fajta, \
+Nincsenek fogak a jelenben. Menj el: holnap \
+Hallgatjuk magunkat \'fajra. \
+Kil\'e9p\'e9s a gyilkost\'f3l\
+\
+LADY MACBETH\
+A kir\'e1lyi uram, \
+Nem adsz a vid\'e1ms\'e1got: az \'fcnnepet eladj\'e1k \
+Ez gyakran nem garant\'e1lt, m\'edg a "tis a-making" \
+"\'dcdv\'f6zlettel adt\'e1k: a takarm\'e1nyoz\'e1s a legjobb volt otthon; \
+Ett\uc0\u337 l kezdve a m\'e1rt\'e1s h\'fast a szertart\'e1s; \
+Tal\'e1lkoz\'e1s n\'e9lk\'fcl csupasz volt. \
+MACBETH\
+\'c9des eml\'e9kez\'f5! \
+Most, j\'f3 em\'e9szt\'e9s v\'e1rja az \'e9tv\'e1gyat, \
+\'c9s eg\'e9szs\'e9g mindkett\uc0\u337 n! \
+LENNOX\
+Nem tetszene a fels\'e9ged. \
+A BANQUO GHOSTJA bel\'e9p, \'e9s MACBETH hely\'e9n \'fcl\
+\
+MACBETH\
+Itt voltunk haz\'e1nk becs\'fcletes tet\uc0\u337 je, \
+Benn\'fcnket a Banquo aj\'e1nd\'e9ka volt; \
+Ki k\'e9ne ink\'e1bb megk\'e9rd\uc0\u337 jeleznie a t\'e9ved\'e9st? \
+Mint sz\'e1nalom a f\'e9lre\'e9rt\'e9s\'e9rt! \
+ROSS\
+A t\'e1voll\'e9t\'e9ben, uram, \
+Az \uc0\u337  \'edg\'e9rete miatt hib\'e1s. K\'e9rem a magaslat\'e1t \
+Kegyelem a kir\'e1lyi t\'e1rsas\'e1gunkkal. \
+MACBETH\
+Az asztal tele van. \
+LENNOX\
+Itt van egy hely, uram. \
+MACBETH\
+Ahol? \
+LENNOX\
+Itt, j\'f3 uram. Mi az, ami megmozd\'edtja a fels\'e9gedet? \
+MACBETH\
+Kik k\'f6z\'fcl\'fck megtette? \
+Lords\
+Mi a j\'f3 uram? \
+MACBETH\
+Nem mondhatod, hogy csin\'e1ltam: soha nem r\'e1zzuk \
+A te b\'e1tors\'e1god r\'e1m z\'e1r. \
+ROSS\
+Uraim, emelj\'e9tek fel: a fels\'e9g nem j\'f3. \
+LADY MACBETH\
+\'dclj le, m\'e9lt\'f3 bar\'e1tok: ez az \'e9n uram gyakran \'edgy van, \
+\'c9s az ifj\'fas\'e1g\'e1b\'f3l sz\'e1rmazik: im\'e1dkozzatok, tartsanak helyet; \
+Az illeszt\'e9s pillanatnyi; egy gondolat \
+Ism\'e9t j\'f3 lesz: ha sok megjegyzed \uc0\u337 t, \
+Megsebes\'edti \uc0\u337 t, \'e9s kiterjeszti szenved\'e9ly\'e9t: \
+T\'e1pl\'e1ld, \'e9s ne tekintse \uc0\u337 t. F\'e9rfi vagy? \
+MACBETH\
+Igen, \'e9s mer\'e9sz, hogy mer\'e9szen n\'e9zni \
+Ami az \'f6rd\'f6g\'f6t illeti. \
+LADY MACBETH\
+O megfelel\uc0\u337  cucc! \
+Ez a retteg\'e9s saj\'e1t festm\'e9nye: \
+Ez az a l\'e9gg\'f6mb\'f6s t\uc0\u337 r, amit mondott, \
+\'d6n vezetett Duncan-hez. \'d3, ezek a hib\'e1k \'e9s elindul\'e1sok, \
+Impostorok az igazi f\'e9lelemhez \
+Egy n\uc0\u337  t\'f6rt\'e9nete egy t\'e9li t\u369 z alatt, \
+A nagymam\'e1ja enged\'e9lyezte. Sz\'e9gyent se! \
+Mi\'e9rt csin\'e1l ilyen arcokat? Ha minden k\'e9sz, \
+\'dagy n\'e9zel ki, mint egy sz\'e9ken. \
+MACBETH\
+Prithee, l\'e1ss ott! \'edme! n\'e9z! lo! \
+hogyan mondod? \
+Mi\'e9rt, mit \'e9rdekel? Ha nem tudsz b\'f3lintani, besz\'e9lj is. \
+Ha a barlangh\'e1zakat \'e9s a s\'edrjainkat meg kell k\'fcldeni \
+Azokat, amelyeket eltemet\'fcnk, eml\'e9km\uc0\u369 veinket \
+A s\'e1rk\'e1nyok m\'e1gusai. \
+A BANQUO SZERETET elt\uc0\u369 nik\
+\
+LADY MACBETH\
+Mi az, hogy b\'fcd\'f6s a bolonds\'e1g? \
+MACBETH\
+Ha itt \'e1llok, l\'e1ttam \uc0\u337 t. \
+LADY MACBETH\
+Fie, a sz\'e9gyen\'e9rt! \
+MACBETH\
+V\'e9r m\'e1r el\'f6nt\'f6tte, \'e9n a r\'e9gi id\uc0\u337 , \
+Az emberi t\'f6rv\'e9ny a tisztas\'e1got tiszt\'edtotta; \
+Igen, \'e9s mivel a gyilkoss\'e1gokat is elv\'e9gezt\'e9k \
+T\'fals\'e1gosan sz\'f6rny\uc0\u369  a f\'fclh\'f6z: az id\u337 k voltak, \
+Ha az agy elfogyott, az ember meghalna, \
+\'c9s van v\'e9ge; de most ism\'e9t felkelnek, \
+Huszonven hal\'e1los gyilkoss\'e1ggal a koron\'e1jukon, \
+\'c9s tolja el a sz\'e9klet\'fcnket: ez furcsabb \
+Mint egy ilyen gyilkoss\'e1g. \
+LADY MACBETH\
+Az \'e9n m\'e9lt\'f3 uram, \
+A nemesi bar\'e1taid hi\'e1nyoznak benned. \
+MACBETH\
+Elfelejtettem. \
+Ne m\'fagj\'e1l r\'e1m, leg\'e9rt\'e9kesebb bar\'e1taim, \
+Van egy k\'fcl\'f6n\'f6s gyenges\'e9gem, ami semmi \
+Azoknak, akik ismernek engem. Gyere, szeretet \'e9s eg\'e9szs\'e9g mindenkinek; \
+Akkor le\'fcl\'f6k. Adj egy kis bort; t\'f6ltse tele. \
+Ink\'e1lom az eg\'e9sz asztal \'f6r\'f6m\'e9re, \
+\'c9s a kedves bar\'e1tunknak, a Banquo-nak, akit hi\'e1nyzunk; \
+Vajon itt lenne? mindenkinek, \'e9s neki, szomj\'fahozzuk, \
+\'c9s mindenki. \
+Lords\
+Feladataink \'e9s a z\'e1log. \
+\'cdrja be \'fajra a GHOST OF BANQUO-t\
+\
+MACBETH\
+Avaunt! \'e9s kil\'e9pjek a l\'e1t\'e1somb\'f3l! a f\'f6ld elrejtse t\'e9ged! \
+A te csontjaid nincsenek, a v\'e9red hideg; \
+Nincs ilyen spekul\'e1ci\'f3 \
+Amellyel megvil\'e1gosodik! \
+LADY MACBETH\
+Gondolj erre, j\'f3 p\'e1rkapcsol\'f3k, \
+De mint szok\'e1s: "ez nem m\'e1s; \
+Csak az id\uc0\u337  \'f6r\'f6m\'e9t rontja. \
+MACBETH\
+Milyen ember mer, merem: \
+\'dagy k\'f6zeledj hozz\'e1, mint a durva orosz medve, \
+Az orr-orrszarv\'fa, vagy az Hyrcan-tigris; \
+Legyen b\'e1rmilyen form\'e1ja, de ez, \'e9s a hat\'e1rozott idegem \
+Soha ne remegjen: vagy \'e9ljen \'fajra, \
+\'c9s a karddal a sivatagig merjetek; \
+Ha remegni fogok, akkor tiltakozzanak \
+A l\'e1ny baba. \'cdgy borzalmas \'e1rny\'e9k! \
+\'cdgy val\'f3s\'e1gtalan der\uc0\u369 s! \
+A BANQUO SZERETET elt\uc0\u369 nik\
+\
+Mi\'e9rt, \'edgy: elt\uc0\u369 nt, \
+\'dajra f\'e9rfi vagyok. Im\'e1dkozz, \'fclj le. \
+LADY MACBETH\
+\'d6n elmozd\'edtotta a vid\'e1ms\'e1got, elt\'f6rte a j\'f3 tal\'e1lkoz\'f3t, \
+A legink\'e1bb csod\'e1lt rendelleness\'e9g. \
+MACBETH\
+Lehetnek ilyen dolgok, \
+\'c9s mint a ny\'e1ri felh\uc0\u337 , \
+K\'fcl\'f6nleges csoda n\'e9lk\'fcl? Furcsa vagy \
+M\'e9g a rendelkez\'e9semre is, \
+Mikor most \'fagy gondolom, hogy ilyen l\'e1tv\'e1nyokat l\'e1tsz, \
+\'c9s tartsd az arcod term\'e9szetes rubint, \
+Amikor az eny\'e9m f\'e9lelemmel b\'e1gyad. \
+ROSS\
+Milyen l\'e1tv\'e1nyoss\'e1gok, uram? \
+LADY MACBETH\
+K\'e9rlek, ne sz\'f3lj; egyre rosszabb \'e9s rosszabb; \
+K\'e9rd\'e9s feld\'fch\'edti \uc0\u337 t. Egyszerre, j\'f3 \'e9jszak\'e1t: \
+Ne \'e1lljatok a menetrend szerint, \
+De menj el azonnal. \
+LENNOX\
+J\'f3 \'e9jszak\'e1t; \'e9s jobb az eg\'e9szs\'e9g \
+Vegyen r\'e9szt fens\'e9g\'e9ben! \
+LADY MACBETH\
+Egy j\'f3 \'e9jszak\'e1t mindenkinek! \
+Legyen minden, csak MACBETH \'e9s LADY MACBETH\
+\
+MACBETH\
+V\'e9r lesz; azt mondj\'e1k, v\'e9r lesz v\'e9r: \
+Ismert, hogy a k\'f6vek mozognak \'e9s a f\'e1k besz\'e9lnek; \
+Augurs \'e9s a meg\'e9rtett kapcsolatok vannak \
+A magot-pite-k, a choughs \'e9s a rooksok hoztak l\'e9tre \
+A titkos ember a v\'e9rb\uc0\u337 l. Mi az \'e9jszaka? \
+LADY MACBETH\
+Majdnem \'f6ssze\'fctk\'f6z\'e9sbe ker\'fcl a reggelivel, ami az. \
+MACBETH\
+Hogy mondod, hogy Macduff tagadja az embereit \
+Nagyszer\uc0\u369  aj\'e1nlataiddal? \
+LADY MACBETH\
+K\'fcldt\'e9l neki, uram? \
+MACBETH\
+Azt egy\'e9bk\'e9nt hallom; de k\'fcld\'f6k: \
+Nincs egy, de a h\'e1z\'e1ban \
+Tartok egy szolga d\'edjat. Holnap fogok, \
+\'c9s k\'e9telkedni fogok a furcsa n\uc0\u337 v\'e9rekkel: \
+T\'f6bbet fognak besz\'e9lni; Most m\'e1r hajland\'f3 vagyok tudni, \
+A legrosszabb esetben a legrosszabb. Saj\'e1t jav\'e1ra, \
+Minden oka megszabadul: v\'e9rben vagyok \
+Stepp'd annyira, hogy ha nem szabadna t\'f6bbet, \
+Visszat\'e9rve annyira f\'e1raszt\'f3 volt, mint a k\'f6vetkez\uc0\u337 : \
+Furcsa dolgok vannak a fejemben, ami k\'e9zen fog; \
+Melyik kell cselekedni, am\'edg meg nem sz\uc0\u369 nik. \
+LADY MACBETH\
+Nincs minden term\'e9szete, alv\'e1sod. \
+MACBETH\
+Gyere, aludni fogunk. Furcsa \'e9s magabiztos \
+A kezdem\'e9nyez\uc0\u337  att\'f3l tart, hogy kem\'e9ny haszn\'e1latra van sz\'fcks\'e9ge: \
+De m\'e9gis fiatalok vagyunk. \
+Mind el\
+\
+SCENE V. A Heath.\
+Mennyd\'f6rg\'e9s. Adja meg a h\'e1rom boszork\'e1nyt, akik tal\'e1lkoznak a HECATE-vel\
+Az els\uc0\u337  boszork\'e1ny\
+Mi\'e9rt, Hecate? haragudva n\'e9zel ki. \
+Hecate\
+Nem \'e9rtem, beldams, ahogy vagy, \
+Sz\'f6rnyeteg \'e9s felborult? Hogy mer\'e9szelt\'e9l \
+A kereskedelem \'e9s a forgalom Macbeth \
+A rejtv\'e9nyek \'e9s hal\'e1lesetek; \
+\'c9s \'e9n, a var\'e1zsa \'farn\uc0\u337 je, \
+Az \'f6sszes \'e1rtalom szoros ellentmond\'e1sa, \
+Soha nem h\'edvtam fel magamat, \
+Vagy a m\uc0\u369 v\'e9szet\'fcnk dics\u337 s\'e9g\'e9t? \
+\'c9s ami m\'e9g rosszabb, akkor mindent megtett\'e9l \
+Egyetlen szerencs\'e9tlen fi\'fa volt, \
+Haragudott \'e9s haragudatos, aki, mint m\'e1sok, \
+Szereti a saj\'e1t c\'e9ljait, nem neked. \
+De v\'e1ltoztasd meg most: menj el, \
+\'c9s Acheron g\'f6d\'f6r\'e9ben \
+Tal\'e1lkozz velem reggel: oda \
+Ismerni fogja a v\'e9gzet\'e9t: \
+A haj\'f3k \'e9s a var\'e1zslatok biztos\'edtj\'e1k, \
+A var\'e1zsaid \'e9s minden m\'e1s dolog mellett. \
+A leveg\uc0\u337 re vagyok; ezen az \'e9jszak\'e1n t\'f6lteni fogok \
+Szomor\'fa \'e9s hal\'e1los v\'e9g: \
+Nagy \'fczletet csak d\'e9lben kell megtenni: \
+A hold sark\'e1n\'e1l \
+A p\'e1rolg\'f3 csepp m\'e9lyen l\'f3g; \
+El fogom \'e9rni, am\'edg f\'f6ldre ker\'fcl: \
+\'c9s ez a m\'e1gikus \'e1lnoks\'e1gok \'e1ltal megd\uc0\u337 lt \
+Fel kell emelnie az ilyen mesters\'e9ges spriteket \
+Mint az ill\'fazi\'f3 ereje \'e1ltal \
+Vonja \'f6ssze a z\uc0\u369 rzavar\'e1hoz: \
+Elutas\'edtja a sorsot, a hal\'e1lra r\'e9m\'fcletet \'e9s a medve \
+Rem\'e9nykedik a b\'f6lcsess\'e9g, a kegyelem \'e9s a f\'e9lelem: \
+\'c9s mindannyian tudj\'e1tok, biztons\'e1g \
+A haland\'f3k legf\uc0\u337 bb ellens\'e9ge. \
+Zene \'e9s egy dal bel\'fcl: 'Gyere el, gyere el,' & c\
+\
+Hallgasd! H\'edvj\'e1k; az \'e9n kis szellemem, l\'e1sd, \
+K\'f6d\'f6s k\'f6dben \'fcl, \'e9s marad nekem. \
+Kij\'e1rat\
+\
+Az els\uc0\u337  boszork\'e1ny\
+Gyere, siess; hamarosan vissza fog t\'e9rni. \
+Mind el\
+\
+JELENET VI. Forres. A palota.\
+Adja meg a LENNOX-ot \'e9s egy m\'e1sik Urat\
+LENNOX\
+Az \'e9n kor\'e1bbi besz\'e9demnek csak a te gondolataid vannak, \
+Amit tov\'e1bb \'e9rtelmezhet: csak azt mondom, \
+A dolgokat furcs\'e1n viselt\'e9k. A \
+kedves Duncan \
+Macbeth picied volt: feles\'e9g\'fcl, halott volt: \
+\'c9s a t\'fals\'e1gosan b\'e1tors\'e1gos Banquo t\'fal k\'e9s\uc0\u337 n j\'e1r; \
+Kinek mondhatja, ha nem tetszik neked, Fleance meg\'f6lte, \
+Fleance elmenek\'fclt: a f\'e9rfiaknak nem szabad t\'fal k\'e9s\uc0\u337 n j\'e1rniuk. \
+Ki ne akarja azt a gondolatot, milyen sz\'f6rny\uc0\u369  \
+Malcolmnak \'e9s Donalbainnek volt sz\'fcks\'e9ge \
+Meg\'f6lni kegyelmes apjukat? \'e1tkozott t\'e9ny! \
+Hogy Macbeth gy\'f6tr\uc0\u337 d\'f6tt? nem igaz \
+A k\'e9t b\uc0\u369 n\'f6z\u337  k\'f6nnyes d\'fch\'e9ben szakadt, \
+Ez volt az iv\'e1s rabja \'e9s az alv\'e1s tr\'f3nja? \
+Nem volt ilyen nemes? Igen, \'e9s b\'f6lcsen is; \
+Ahhoz, hogy \'e9letben maradhasson minden sz\'edv \
+Hogy meghallj\'e1k a f\'e9rfiak tagadj\'e1k. Teh\'e1t, azt mondom, \
+Mindent j\'f3l viselt, \'e9s gondolom \
+Ez volt Duncan fia a kulcsa alatt - \
+Nem, k\'e9rlek, az \'e9g, \uc0\u337  nem - \u337 k \
+meg kell tal\'e1lnia \
+Mi az, hogy meg\'f6lik az ap\'e1t; \'edgy kell Fleance. \
+De a b\'e9ke! a sz\'e9les szavakb\'f3l \'e9s "mert nem siker\'fclt" \
+Hallom, hogy jelen van a zsarnok \'fcnnep\'e9n \
+Macduff sz\'e9gyenben \'e9l: uram, tudod mondani \
+Hol adta mag\'e1t? \
+Lord\
+Duncan fia, \
+Kit\uc0\u337 l ez a zsarnok tartja mag\'e1t a sz\'fclet\'e9snek \
+Az angol b\'edr\'f3s\'e1gon \'e9l, \'e9s megkapja \
+A leg\'edg\'e9retesebb Edward ilyen kegyelemben \
+Hogy a vagyon rosszindulat\'fa semmi \
+Nagy tiszteletb\uc0\u337 l sz\'e1rmazik: ott Macduff \
+Elment, hogy im\'e1dkozzon a szent kir\'e1lynak, a seg\'edts\'e9g\'e9re \
+\'c9bredni Northumberland \'e9s harci Siward: \
+Ez, ezek seg\'edts\'e9g\'e9vel - vele egy\'fctt \
+A munka meger\uc0\u337 s\'edt\'e9se - \'fajra megtehetj\'fck \
+Adj asztalainknak h\'fas\'e1t, aludj \'e9jszak\'e1ra, \
+Szabadnapos \'fcnnepekt\uc0\u337 l \'e9s bankettekt\u337 l v\'e9res k\'e9sek, \
+H\uc0\u369 s\'e9ges h\'f3dolat \'e9s ingyenes tisztelet: \
+Mindazt, amit most fenyeget\'fcnk, \'e9s ez a jelent\'e9s \
+Annyira felkavarja a kir\'e1lyt, hogy \uc0\u337  \
+Felk\'e9sz\'fcl n\'e9h\'e1ny h\'e1bor\'fas k\'eds\'e9rletre. \
+LENNOX\
+Elk\'fcldte Macduffnak? \
+Lord\
+\uc0\u336  tette: \'e9s abszol\'fat "Uram, nem \'e9n" \
+A felh\uc0\u337 s h\'edrviv\u337  megford\'edtja a h\'e1t\'e1t, \
+\'c9s z\'fcmm\'f6g, mint aki azt mondja: "Akkor megy az id\uc0\u337  \
+Ez elakad a v\'e1laszt\'f3l. \
+LENNOX\
+\'c9s ez j\'f3l megy \
+Adj neki egy figyelmeztet\'e9st, hogy tartsa a t\'e1vols\'e1got \
+\uc0\u336  b\'f6lcsess\'e9ge ny\'fajt. N\'e9h\'e1ny szent angyal \
+L\'e9pj Angli\'e1ban, \'e9s bontsd ki \
+\'dczenet\'e9t, amikor elj\'f6tt, hogy egy gyors \'e1ld\'e1s \
+Hamarosan visszat\'e9rhet\'fcnk a szenved\uc0\u337  orsz\'e1gunkhoz \
+Egy \'e1tkozott k\'e9z alatt! \
+Lord\
+Elk\'fcld\'f6m az im\'e1it. \
+Mind el\
+\
+ACT IV\
+JELENET I. Egy barlang. K\'f6z\'e9pen egy forralt poh\'e1r.\
+Mennyd\'f6rg\'e9s. Adja meg a h\'e1rom boszork\'e1nyt\
+Az els\uc0\u337  boszork\'e1ny\
+H\'e1romszor a teny\'e9sztett macska m\'e1r megtette. \
+M\'e1sodik boszork\'e1ny\
+H\'e1romszor \'e9s egyszer a s\'f6v\'e9nysert\'e9s ny\'f6sz\'f6rg\'f6tt. \
+Harmadik boszork\'e1ny\
+Harpier ki\'e1lt: "Tis id\uc0\u337 ", ez az id\u337 . \
+Az els\uc0\u337  boszork\'e1ny\
+K\'f6r\'fclbel\'fcl az \'fcst; \
+A m\'e9reg belsej\'e9ben dobni. \
+Vad\'e1sz, hideg k\uc0\u337  alatt \
+A napok \'e9s \'e9jszak\'e1k harmincegy \
+Swelter'd m\'e9reg aludt, \
+Forralja meg el\uc0\u337 sz\'f6r a var\'e1zolt ed\'e9nyt. \
+MINDEN\
+Dupla, dupla munka \'e9s baj; \
+T\uc0\u369 z\'e9get\'e9s, \'e9s \'fcstbubor\'e9k. \
+M\'e1sodik boszork\'e1ny\
+Fil\'e9 k\'edgy\'f3, \
+A bogr\'e1csban forraljuk \'e9s s\'fctj\'fck; \
+Az \'faj \'e9s a b\'e9ka l\'e1bujja, \
+Gyapj\'fa denev\'e9r \'e9s kutya nyelve, \
+Adder vill\'e1ja \'e9s vak-f\'e9reg cs\'edp\'e9se, \
+Lizard l\'e1b\'e1t \'e9s owlet sz\'e1rny\'e1t, \
+Az er\uc0\u337 s baj var\'e1zsa, \
+Mint egy pokol-h\'fasleves forral\'e1s \'e9s bubor\'e9k. \
+MINDEN\
+Dupla, dupla munka \'e9s baj; \
+T\uc0\u369 z\'e9get\'e9s \'e9s \'fcstbubor\'e9k. \
+Harmadik boszork\'e1ny\
+S\'e1rk\'e1nym\'e9ret, farkasfog, \
+A boszork\'e1nyok m\'fam\'e1ja, ny\'e1j \'e9s \'f6b\'f6l \
+Az \'e9tkez\'e9si s\'f3s-tengeri c\'e1pa, \
+A hemlock gy\'f6kere a s\'f6t\'e9t, \
+A k\'e1roml\'f3 zsid\'f3 m\'e1j, \
+A kecske gallja \'e9s a tiszafa \
+Silver'd a hold napfogyatkoz\'e1s\'e1ban, \
+Turk \'e9s Tat\'e1r ajka orra, \
+A sz\'fcl\'f5i f\'fcles ujja \
+Ditch-sz\'e1llt egy dr\'e1ga, \
+K\'e9sz\'edtsd a faggy\'fat vastagon \'e9s f\'f6d\'e9men: \
+Add hozz\'e1 egy tigris chaudron, \
+Az \'fcst\'fcnk \'f6sszetev\uc0\u337 it. \
+MINDEN\
+Dupla, dupla munka \'e9s baj; \
+T\uc0\u369 z\'e9get\'e9s \'e9s \'fcstbubor\'e9k. \
+M\'e1sodik boszork\'e1ny\
+H\uc0\u369 ts\'fck le egy p\'e1vi\'e1n v\'e9r\'e9vel, \
+Akkor a var\'e1zslat szil\'e1rd \'e9s j\'f3. \
+L\'e9pj be HECATE-be a m\'e1sik h\'e1rom boszork\'e1nynak\
+\
+Hecate\
+O j\'f3l siker\'fclt! K\'f6sz\'f6n\'f6m a f\'e1jdalmakat; \
+\'c9s mindenki megosztja a nyeres\'e9get; \
+Most pedig az \'fcst\'f6t \'e9neklik, \
+Live elves and fairies in a ring, \
+Enchanting all that you put in. \
+Music and a song: 'Black spirits,' & c\
+\
+HECATE retires\
+\
+Second Witch\
+By the pricking of my thumbs, \
+Something wicked this way comes. \
+Open, locks, \
+Whoever knocks! \
+Enter MACBETH\
+\
+MACBETH\
+How now, you secret, black, and midnight hags! \
+What is't you do? \
+ALL\
+A deed without a name. \
+MACBETH\
+I conjure you, by that which you profess, \
+Howe'er you come to know it, answer me: \
+Though you untie the winds and let them fight \
+Against the churches; though the yesty waves \
+Confound and swallow navigation up; \
+Though bladed corn be lodged and trees blown down; \
+Though castles topple on their warders' heads; \
+Though palaces and pyramids do slope \
+Their heads to their foundations; though the treasure \
+Of nature's germens tumble all together, \
+Even till destruction sicken; answer me \
+To what I ask you. \
+First Witch\
+Speak. \
+Second Witch\
+Demand. \
+Third Witch\
+We'll answer. \
+First Witch\
+Say, if thou'dst rather hear it from our mouths, \
+Or from our masters? \
+MACBETH\
+Call 'em; let me see 'em. \
+First Witch\
+T\'f6ltsd be a koca v\'e9r\'e9t, aki megesett \
+a kilenc sz\'e1rny\'e1t; zs\'edr, ami izzadt \
+A gyilkos gubancja \
+a l\'e1ngba. \
+MINDEN\
+Gyere, magas vagy alacsony; \
+Maga \'e9s az iroda \'fcgyesen mutatj\'e1k! \
+Mennyd\'f6rg\'e9s. Els\uc0\u337  megjelen\'e9s: fegyveres fej\
+\
+MACBETH\
+Mondd, te ismeretlen er\uc0\u337 d, - \
+Az els\uc0\u337  boszork\'e1ny\
+Tudja a gondolat\'e1t: \
+hallja a besz\'e9d\'e9t, de azt mondja, hogy nem vagy. \
+Els\uc0\u337  megjelen\'e9s\
+Macbeth! Macbeth! Macbeth! vigy\'e1zz Macduffra; \
+Vigy\'e1zz a Fife thanej\'e9re. Engedjetek el. El\'e9g. \
+lesz\'e1ll\
+\
+MACBETH\
+Kicsoda vagy, a j\'f3 \'f3vatoss\'e1god\'e9rt, k\'f6sz\'f6net; \
+Kem\'e9nyen h\'e1r\'edtottad a f\'e9lelememet, de egy \
+sz\'f3val t\'f6bbet, \
+Az els\uc0\u337  boszork\'e1ny\
+Nem parancsolhat\'f3 meg: itt van egy m\'e1sik, \
+er\uc0\u337 sebb, mint az els\u337 . \
+Mennyd\'f6rg\'e9s. M\'e1sodik Apparition: Egy v\'e9res gyermek\
+\
+M\'e1sodik felkel\'e9s\
+Macbeth! Macbeth! Macbeth! \
+MACBETH\
+Ha h\'e1rom f\'fcle voltam, hallottam. \
+M\'e1sodik felkel\'e9s\
+L\'e9gy v\'e9res, mer\'e9sz \'e9s hat\'e1rozott; nevetni a felh\'e1borod\'e1st \
+Az ember ereje, mivel egyetlen n\uc0\u337  sem sz\'fcletett \
+Macbeth-et. \
+lesz\'e1ll\
+\
+MACBETH\
+Akkor \'e9l, Macduff: mi\'e9rt kell f\'e9lnem t\uc0\u337 lem? \
+De m\'e9gis meggy\uc0\u337 z\u337 d\'f6m r\'f3la, \
+hogy biztos vagyok benne, \'e9s a sors k\'f6t\uc0\u337 d\'e9se: nem \'e9lsz; \
+Hogy el tudom mondani, hogy halv\'e1ny sz\'edv\uc0\u369  f\'e9lelem fekszik, \
+\'e9s alv\'e1s a mennyd\'f6rg\'e9s ellen\'e9re. \
+Mennyd\'f6rg\'e9s. Harmadik felbukkan\'e1s: egy gyermek koron\'e1zva, egy f\'e1val a kez\'e9ben\
+\
+Mi ez \
+Ez \'fagy n\'f6vekszik, mint a kir\'e1ly k\'e9rd\'e9se, \
+\'c9s a baba-homloka a szuverenit\'e1s kerek\'e9t \'e9s tetej\'e9t viseli \
+? \
+MINDEN\
+Figyelj, de ne sz\'f3lj. \
+Harmadik jelen\'e9s\
+L\'e9legzetlen, b\'fcszke; \'e9s ne vigy\'e1zz arra, \
+ki ki\'e1lt, ki fojtogatja, vagy ahol a veszeked\uc0\u337 k vannak: \
+Macbeth soha nem lesz k\'e9pes legy\uc0\u337 zni, am\'edg a \
+Nagy Birnam f\'e1b\'f3l a Dunsinane-dombig nem \
+fog j\'f6nni ellene. \
+lesz\'e1ll\
+\
+MACBETH\
+Ez soha nem lesz Az, \
+aki k\'e9pes leny\uc0\u369 g\'f6zni az erd\u337 t, aj\'e1nlani a f\'e1t \
+Unfix a f\'f6ldh\'f6z k\'f6t\'f6tt gy\'f6kere? \'c9des testek! j\'f3! \
+Rebellion fej\'e9t soha nem emelkedik fel, am\'edg \
+Birnam f\'e1ja nem emelkedik fel, \'e9s a magas rang\'fa Macbeth \
+Shall \'e9l a term\'e9szet b\'e9rlet\'e9ben, fizeti a l\'e9legzet\'e9t \
+id\uc0\u337 re \'e9s haland\'f3 szok\'e1ss\'e1. M\'e9gis, a sz\'edvem \
+Throbs-t megismerni egy dolgot: mondja meg nekem, ha a te m\uc0\u369 v\'e9szeted \
+annyit mondhat: vajon a Banquo-\'fcgy valaha is \
+uralkodik-e ebben a birodalomban? \
+MINDEN\
+Ne keress t\'f6bbet. \
+MACBETH\
+Meg vagyok el\'e9gedve: tagadd meg ezt, \
+\'e9s \'f6r\'f6kk\'e9val\'f3 \'e1tka esik r\'e1d! Tudasd velem. \
+Mi\'e9rt \'fcr\'edti az \'fcst\'f6t? \'e9s milyen zaj ez? \
+Hautboys\
+\
+Az els\uc0\u337  boszork\'e1ny\
+El\uc0\u337 ad\'e1s! \
+M\'e1sodik boszork\'e1ny\
+El\uc0\u337 ad\'e1s! \
+Harmadik boszork\'e1ny\
+El\uc0\u337 ad\'e1s! \
+MINDEN\
+Mutassa meg a szem\'e9t, \'e9s gy\'e1szolja a sz\'edv\'e9t; \
+J\'f6jj\'f6n, mint az \'e1rny\'e9kok, akkor menj el! \
+Nyolc Kir\'e1lyok mutatv\'e1nya, az utols\'f3 egy poh\'e1rral a kez\'e9ben; BANQUO GHOST A k\'f6vetkez\uc0\u337 \
+\
+MACBETH\
+Te is olyan vagy, mint a Banquo szelleme: le! \
+A korona a szemgoly\'f3kat szemmel tartja. \'c9s a hajad, \
+te aranysz\'edn\uc0\u369  homlokod, olyan, mint az els\u337 . \
+Egy harmadik olyan, mint az el\uc0\u337 bbi. Mocskos fecseg\'e9s! \
+Mi\'e9rt mutatj\'e1tok meg ezt? A negyedik! Indulj, szemek! \
+Mi lesz a vonal a kudarc v\'e9g\'e9hez? \
+M\'e9g egy! A hetedik! Nem fogok t\'f6bbet l\'e1tni: \
+\'c9s m\'e9g a nyolcadik jelenik meg, ki hordoz egy poharat, \
+ami m\'e9g t\'f6bbet mutat; \'e9s n\'e9h\'e1nyan l\'e1tom, hogy a \
+k\'e9tszeres goly\'f3k \'e9s a magas hangok hordozz\'e1k: \
+Borzalmas l\'e1tv\'e1ny! Most, l\'e1tom, "igaz; \
+A v\'e9rvad\'e1sz Banquo mosolyog r\'e1m, \
+\'e9s r\'e1mutat r\'e1. \
+A feles\'e9gek elt\uc0\u369 nnek\
+\
+Mi ez \'edgy? \
+Az els\uc0\u337  boszork\'e1ny\
+Igen, uram, mindez \'edgy van: de mi\'e9rt \'e1llt \
+Macbeth ilyen csod\'e1latosan? \
+Gyere, n\uc0\u337 v\'e9rek, felvid\'edtani azt f\'f6l sprite, \
+\'e9s azt mutatj\'e1k, hogy a legjobb a mi \'e9lvezetek: \
+\'e9n var\'e1zsa a leveg\uc0\u337 ben, hogy egy hang, \
+k\'f6zben elv\'e9gzi a antik kerek: \
+hogy ez a nagy kir\'e1ly is sz\'edvesen mondj\'e1k, \
+mi feladatokat nem az \uc0\u337  sz\'edvesen pay . \
+Zene. A boszork\'e1nyok t\'e1ncolnak, majd elt\uc0\u369 nnek, a HECATE-vel\
+\
+MACBETH\
+Hol vannak? Elm\'falt? Hagyja, hogy ez a vesz\'e9lyes \'f3ra \
+\'e1lljon ki a napt\'e1rban. \
+Gyere be, an\'e9lk\'fcl! \
+Adja meg a LENNOX-ot\
+\
+LENNOX\
+Mi a kegyelme akaratod? \
+MACBETH\
+L\'e1ttad a furcsa n\uc0\u337 v\'e9reket? \
+LENNOX\
+Nem, uram. \
+MACBETH\
+Nem j\'f6ttek te? \
+LENNOX\
+Nem, uram. \
+MACBETH\
+A fert\uc0\u337 z\'f6tt lenni a leveg\u337 , amelyen \u337 k r\'e1ndulnak; \
+\'c9s mindazoknak, akik b\'edztak benn\'fck! Hallottam \
+a l\'f3 galoppol\'e1s\'e1t: ki nem j\'f6tt be? \
+LENNOX\
+'Tis two or three, my lord, that bring you word \
+Macduff is fled to England. \
+MACBETH\
+Fled to England! \
+LENNOX\
+Ay, my good lord. \
+MACBETH\
+Time, thou anticipatest my dread exploits: \
+The flighty purpose never is o'ertook \
+Unless the deed go with it; from this moment \
+The very firstlings of my heart shall be \
+The firstlings of my hand. And even now, \
+To crown my thoughts with acts, be it thought and done: \
+The castle of Macduff I will surprise; \
+Seize upon Fife; give to the edge o' the sword \
+His wife, his babes, and all unfortunate souls \
+That trace him in his line. No boasting like a fool; \
+This deed I'll do before this purpose cool. \
+But no more sights!--Where are these gentlemen? \
+Come, bring me where they are. \
+Exeunt\
+\
+SCENE II. Fife. Macduff's castle.\
+Enter LADY MACDUFF, her Son, and ROSS\
+LADY MACDUFF\
+What had he done, to make him fly the land? \
+ROSS\
+T\'fcrelmed kell lennie, asszonyom. \
+LADY MACDUFF\
+Nem volt semmi: \
+a lelke \uc0\u337 r\'fclts\'e9g volt: ha cselekm\'e9nyeink nem, \
+a f\'e9lelmeink \'e1rul\'f3v\'e1 v\'e1lnak. \
+ROSS\
+Nem tudod, \
+hogy az \uc0\u337  b\'f6lcsess\'e9ge vagy a f\'e9lelme. \
+LADY MACDUFF\
+B\'f6lcsess\'e9g! hogy elhagyja a feles\'e9g\'e9t, hogy hagyja el a l\'e1nyait, \
+kast\'e9ly\'e1t \'e9s c\'edm\'e9t egy olyan helyen, \
+ahonnan maga rep\'fcl? Nem szeret minket; \
+A term\'e9szetes \'e9rz\'e9st akarja: a szeg\'e9ny vad\'e1szok, \
+a madarak legcs\'fany\'e1bbjai harcolni fognak, \
+fiatalok a f\'e9szekben, a bagoly ellen. \
+Minden a f\'e9lelem, \'e9s semmi sem a szeretet; \
+Olyan kev\'e9s a b\'f6lcsess\'e9g, ahol a rep\'fcl\'e9s \
+\'edgy minden ok ellen fut. \
+ROSS\
+Kedveseim, \
+im\'e1dkozzatok, iskol\'e1zz\'e1tok magatokat, de a f\'e9rj\'e9nek \
+nemes, b\'f6lcs, \'e9sszer\uc0\u369 , \'e9s a legjobban ismeri \
+a szezont. Nem merem t\'fal \
+sokat besz\'e9lni ; \
+De kegyetlenek az id\uc0\u337 k, amikor \'e1rul\'f3k vagyunk \
+\'c9s nem ismerj\'fck magunkat, amikor pletyk\'e1t \
+tartunk att\'f3l, amit\uc0\u337 l f\'e9l\'fcnk, de nem tudjuk, mit f\'e9l\'fcnk, \
+hanem \'faszunk egy vad \'e9s er\uc0\u337 szakos tengeren \
+Minden \'fat \'e9s mozog. \
+Fogadok t\uc0\u337 led: Nem lesz sok\'e1ig, de \'fajra itt leszek: \
+A legrosszabb dolgok megsz\uc0\u369 nnek, vagy felfel\'e9 \
+haladnak, amit eddig tettek. A kedves unokatestv\'e9rem, \
+\'c1ld\'e1s r\'e1d! \
+LADY MACDUFF\
+Az apja, \'e9s m\'e9gis apja. \
+ROSS\
+Annyira bolond vagyok, ha hosszabb ideig maradok, \
+a sz\'e9gyent \'e9s a kellemetlens\'e9ged lenne: \
+egyszerre elhagyom a szabads\'e1gomat. \
+Kij\'e1rat\
+\
+LADY MACDUFF\
+Sirrah, ap\'e1d halott; \
+\'c9s mit fogsz csin\'e1lni most? Hogy fogsz \'e9lni? \
+Fi\'fa\
+Mint a madarak, anya. \
+LADY MACDUFF\
+Mi a f\'e9reg \'e9s a legyek? \
+Fi\'fa\
+Amit kapok, \'fagy \'e9rtem; \'e9s \'edgy vannak. \
+LADY MACDUFF\
+Szeg\'e9ny mad\'e1r! Soha nem f\'e9lek a h\'e1l\'f3t\'f3l \'e9s a m\'e9szt\uc0\u337 l, a g\'f6d\'f6rt\u337 l \'e9s a gin\'e9rt \
+. \
+Fi\'fa\
+Mi\'e9rt lenn\'e9k, any\'e1m? Szeg\'e9ny madarakat, akiket nem \'e1ll\'edtottak be. \
+Ap\'e1m nem halt meg, az \'f6sszes mond\'e1sod\'e9rt. \
+LADY MACDUFF\
+Igen, halott; mit tehetsz ap\'e1nak? \
+Fi\'fa\
+Na, hogyan fogsz f\'e9rfinak? \
+LADY MACDUFF\
+Mi\'e9rt v\'e1s\'e1rolhatok h\'faszat minden piacon. \
+Fi\'fa\
+Akkor megveszed \uc0\u337 ket, hogy eladj\'e1k \'fajra. \
+LADY MACDUFF\
+Minden szellemeddel besz\'e9lsz, \'e9s m\'e9gis, \'e9n hittem, el\'e9gg\'e9 \'e9rtelemben \
+. \
+Fi\'fa\
+Az ap\'e1m \'e1rul\'f3 volt, any\'e1m? \
+LADY MACDUFF\
+Igen, hogy \uc0\u337  volt. \
+Fi\'fa\
+Mi az \'e1rul\'f3? \
+LADY MACDUFF\
+Mi\'e9rt, az, aki esk\'fcszik \'e9s hazudik. \
+Fi\'fa\
+\'c9s l\'e9gy mindny\'e1jan \'e1rul\'f3k, akik ezt teszik? \
+LADY MACDUFF\
+Mindenki, aki \'edgy cselekszik, \'e1rul\'f3, \'e9s fel kell f\'fcggeszteni. \
+Fi\'fa\
+\'c9s mindegyik\'fcket fel kell f\'fcggeszteni, hogy esk\'fcdj\'f6n \'e9s hazudjon? \
+LADY MACDUFF\
+Mindenki. \
+Fi\'fa\
+Ki kell l\'f3gni? \
+LADY MACDUFF\
+Mi\'e9rt, a becs\'fcletes emberek. \
+Fi\'fa\
+Ekkor a hazugok \'e9s a k\'e1romkod\'f3k bolondok, \
+mert hazugok \'e9s k\'e1romkod\'f3k tal\'e1lj\'e1k meg \
+a becs\'fcletes embereket, \'e9s felakasztj\'e1k \uc0\u337 ket. \
+LADY MACDUFF\
+Isten seg\'edtsen neked, szeg\'e9ny majom! \
+De mit tehetsz ap\'e1nak? \
+Fi\'fa\
+Ha meghalt volna, akkor s\'edrna \
+\'e9rte. Ha nem, j\'f3 jel lenne, hogy \
+gyorsan \'faj apa legyen. \
+LADY MACDUFF\
+Szeg\'e9ny prattler, hogy besz\'e9lsz! \
+Adjon meg egy Messengeret\
+\
+H\'edrn\'f6k\
+\'c1ldd meg, tisztess\'e9ges d\'e9d! Nem \
+tudlak, de tiszteletemben t\'f6k\'e9letes vagyok. \
+K\'e9tlem, hogy a vesz\'e9ly k\'f6zeledik majd hozz\'e1d: \
+ha egy csal\'e1di ember tan\'e1cs\'e1t veszi, \
+ne tal\'e1lja meg itt; \'edgy a kisbab\'e1j\'e1val. \
+Hogy megijedt\'e9l t\uc0\u337 lem, \'fagy v\'e9lem, t\'fal vad vagyok; \
+Ha m\'e9g rosszabb lett volna, akkor a kegyetlens\'e9g esett el, \
+ami t\'fal k\'f6zel van a te szem\'e9lyedhez. Az \'e9g meg\uc0\u337 rizni! \
+Nem hagyom abba t\'f6bb\'e9. \
+Kij\'e1rat\
+\
+LADY MACDUFF\
+Hov\'e1 rep\'fcljek? \
+Nem tettem k\'e1rt. De eml\'e9kszem most, \
+hogy ebben a f\'f6ldi vil\'e1gban vagyok; hol k\'e1rt okozhat \
+? Gyakran dics\'e9retes, hogy valamikor j\'f3 dolgot \
+k\'f6nyveljen vesz\'e9lyes bolonds\'e1ggal: mi\'e9rt, sajnos, mi\'e9rt \
+tettem fel ezt a n\uc0\u337 i v\'e9delmet, \
+azt mondtam, hogy nem tettem k\'e1rt? \
+Adja meg a gyilkoss\'e1gokat\
+\
+Mik ezek az arcok? \
+Els\uc0\u337  gyilkoss\'e1g\
+Hol van a f\'e9rje? \
+LADY MACDUFF\
+Rem\'e9lem, nincs olyan helytelen\'fcl olyan hely, \
+ahol te megtal\'e1lod \uc0\u337 t. \
+Els\uc0\u337  gyilkoss\'e1g\
+\'c1rul\'f3. \
+Fi\'fa\
+Te hazudsz, te sz\'fart szem\'f6ldies gazember! \
+Els\uc0\u337  gyilkoss\'e1g\
+Te, toj\'e1s! \
+Sz\'far\'e1ssal\
+\
+Fiatal harag az \'e1rul\'e1s! \
+Fi\'fa\
+Meg\'f6lt engem, anya: menjek \
+el, im\'e1dkozzatok! \
+dies\
+\
+L\'e9gy LADY MACDUFF, s\'edrj "gyilkoss\'e1g!" Gyilkosok kivon\'e1sa, k\'f6vetve \uc0\u337 t\
+\
+III. Anglia. A kir\'e1ly palot\'e1ja el\uc0\u337 tt.\
+Adja meg a MALCOLM \'e9s a MACDUFF nevet\
+MALCOLM\
+Keress\'fcnk valami elhagyatott \'e1rny\'e9kot, \'e9s \
+\'fcss\'fck le szomor\'fa szellem\'fcnket. \
+Macduff\
+Let us rather \
+Hold fast the mortal sword, and like good men \
+Bestride our down-fall'n birthdom: each new morn \
+New widows howl, new orphans cry, new sorrows \
+Strike heaven on the face, that it resounds \
+As if it felt with Scotland and yell'd out \
+Like syllable of dolour. \
+MALCOLM\
+What I believe I'll wail, \
+What know believe, and what I can redress, \
+As I shall find the time to friend, I will. \
+What you have spoke, it may be so perchance. \
+This tyrant, whose sole name blisters our tongues, \
+Was once thought honest: you have loved him well. \
+He hath not touch'd you yet. I am young; \
+but something \
+You may deserve of him through me, and wisdom \
+To offer up a weak poor innocent lamb \
+To appease an angry god. \
+MACDUFF\
+I am not treacherous. \
+MALCOLM\
+But Macbeth is. \
+A good and virtuous nature may recoil \
+In an imperial charge. But I shall crave \
+your pardon; \
+That which you are my thoughts cannot transpose: \
+Angels are bright still, though the brightest fell; \
+Though all things foul would wear the brows of grace, \
+Yet grace must still look so. \
+MACDUFF\
+I have lost my hopes. \
+MALCOLM\
+Perchance even there where I did find my doubts. \
+Why in that rawness left you wife and child, \
+Those precious motives, those strong knots of love, \
+Without leave-taking? I pray you, \
+Let not my jealousies be your dishonours, \
+But mine own safeties. You may be rightly just, \
+Whatever I shall think. \
+MACDUFF\
+Bleed, v\'e9rzik, szeg\'e9ny orsz\'e1g! \
+Nagy zsarnoks\'e1g! tedd a te alapodat biztos, \
+A j\'f3s\'e1g\'e9rt nem merem ellen\uc0\u337 rizni, hogy viselj\'e9tek \
+a te hib\'e1id; \
+A c\'edm affeer'd! J\'f3l van, uram: \
+Nem lenn\'e9k az a gazember, amit gondolsz \
+Az eg\'e9sz t\'e9ren, ami a zsarnok felfog\'e1s\'e1ban van, \
+\'c9s a gazdag Kelet, hogy elinduljon. \
+MALCOLM\
+Ne s\'e9rts\'e9tek meg: \
+Nem \'fagy sz\'f3lok, mint az abszol\'fat f\'e9lelmedben. \
+Azt hiszem, az orsz\'e1gunk elesik a j\'e1rom alatt; \
+S\'edrt, v\'e9rzik; \'e9s minden \'faj nap egy piszkos \
+Hozz\'e1adj\'e1k a sebeihez: azt hiszem, egy\'fctt \
+A jobb kezemben felemeltem a kezemet; \
+\'c9s itt a kedves Angli\'e1b\'f3l aj\'e1nlom \
+J\'f3 ezer embernek: de mindez\'e9rt, \
+Mikor a zsarnok fej\'e9re futni fogok, \
+Vagy viseld a kardomra, m\'e9gis szeg\'e9ny orsz\'e1gomra \
+Van m\'e9g t\'f6bb v\'e9de, mint kor\'e1bban, \
+Sokkal t\'f6bb szenved \'e9s t\'f6bb m\'e1s m\'f3don, mint valaha, \
+Azon, aki sikeres lesz. \
+Macduff\
+Mi legyen \uc0\u337 ? \
+MALCOLM\
+\'c9n vagyok az, akir\uc0\u337 l tudom \
+A vice minden r\'e9szlet\'e9t \'e1toltott\'e1k \
+Ez akkor, ha nyitva vannak, fekete Macbeth \
+Olyan tiszta lesz, mint a h\'f3, \'e9s a rossz \'e1llapot \
+Becs\'fcletem, mint b\'e1r\'e1ny, \'f6sszehasonl\'edtva \
+A v\'e9gtelen k\'e1rokkal. \
+Macduff\
+Nem a l\'e9gi\'f3ban \
+A sz\'f6rny\uc0\u369  pokolba m\'e9g egy \'f6rd\'f6gi is lehet \
+A rosszban Macbeth fel\'e9. \
+MALCOLM\
+Megk\'edn\'e1lom, \
+Luxus, \'e1tkozott, hamis, megt\'e9veszt\uc0\u337 , \
+Hirtelen, rosszindulat\'fa, minden b\uc0\u369 n elcs\'fasz\'e1sa \
+Ez egy n\'e9v: de nincs alja, semmi, \
+\'d6r\'f6kk\'e9val\'f3s\'e1gomban: a feles\'e9geid, a l\'e1nyaid, \
+A matr\'f3n\'e1i \'e9s a szobal\'e1nyai nem t\'f6lthettek fel \
+A v\'e1gyam, \'e9s a v\'e1gyam \
+Minden kontinens megakad\'e1lyoz\'f3dna \
+Ez ellenezte az akaratomat: jobb Macbeth \
+Mint egy ilyen uralkod\'f3. \
+Macduff\
+Hat\'e1rtalan higgadts\'e1g \
+Term\'e9szetben zsarnoks\'e1g; ez volt \
+A boldog tr\'f3n id\uc0\u337  el\u337 tti \'fcr\'edt\'e9se \
+\'c9s sok kir\'e1ly buk\'e1sa. De ne f\'e9lj m\'e9g \
+Hogy vigy\'e1zz r\'e1, mi a ti\'e9d: lehet \
+Sz\'f3rakozzon \'f6r\'f6meit egy t\'e1gas b\uc0\u337 s\'e9gben, \
+\'c9s m\'e9gis \'fagy t\uc0\u369 nik, hideg, az az id\u337 , amire annyira elkaphatod. \
+El\'e9g haland\'f3k vagyunk: nem lehet \
+Ez a kesely\uc0\u369  benned, hogy enni sokat \
+Ahogyan a nagys\'e1gnak szentelik magukat, \
+Olyan hajl\'e9kony. \
+MALCOLM\
+Ezzel n\uc0\u337  \
+Az \'e9n legbuktalanul szerzett szeretettel \
+Egy szokatlan makacs, hogy kir\'e1ly voltam, \
+Lev\'e1gom a nemess\'e9geket a f\'f6ldjeikre, \
+V\'e1gya \'e9kszereire \'e9s a m\'e1sik h\'e1z\'e1ra: \
+\'c9s az \'e9n t\'f6bbem is, mint egy m\'e1rt\'e1s \
+Hogy m\'e9g t\'f6bbet \'e9hes; hogy meg kell kov\'e1csolnom \
+A j\'f3 \'e9s loj\'e1lis, \
+A vagyon elpuszt\'edt\'e1sa. \
+Macduff\
+Ez a szomor\'fas\'e1g \
+A botok m\'e9lyebbek, egyre vesz\'e9lyesebb gy\'f6k\'e9rrel n\uc0\u337  \
+Mint a ny\'e1r l\'e1tsz\'f3lagos v\'e1gya, \'e9s ez volt \
+Meg\'f6lt kir\'e1lyaink kardja, m\'e9gsem f\'e9lj; \
+Sk\'f3ci\'e1ban f\'fav\'f3k\'e1k t\'f6ltik fel akarat\'e1t. \
+Az \'f6n puszta saj\'e1tja: mindez hordozhat\'f3, \
+M\'e1s kegyelmekkel m\'e9rlegelt. \
+MALCOLM\
+De nekem nincs: a kir\'e1ly kegyelme, \
+Mint igazs\'e1goss\'e1g, igazs\'e1g, temperamentum, stabilit\'e1s, \
+Bounty, kitart\'e1s, kegyelem, al\'e1zatoss\'e1g, \
+Az odaad\'e1s, a t\'fcrelem, a b\'e1tors\'e1g, a hitetlens\'e9g, \
+Nem \'e9lvezem \uc0\u337 ket, de b\u337 ven \
+A t\'f6bb b\uc0\u369 ncselekm\'e9ny eloszt\'e1s\'e1ban, \
+Sok m\'f3don j\'e1r el. Nem, hatalomra volt sz\'fcks\'e9gem \
+\'d6nts\'fck bele az \'e9des tejet a pokolba, \
+Felborul az egyetemes b\'e9ke, \'f6sszezavarodik \
+Minden egys\'e9g a f\'f6ld\'f6n. \
+Macduff\
+Sk\'f3cia, Sk\'f3cia! \
+MALCOLM\
+Ha valaki alkalmas arra, hogy uralkodjon, sz\'f3ljon: \
+\'c9n vagyok, amint besz\'e9ltem. \
+Macduff\
+Illeszkedj a korm\'e1nyhoz! \
+Nem, nem \'e9lni. O nemzet szerencs\'e9tlen, \
+Egy titkos zsarnok v\'e9res-szkeptikus, \
+Mikor megl\'e1tod a te eg\'e9szs\'e9ges napodat, \
+Az\'f3ta a tr\'f3nod leg\'e9rdekesebb k\'e9rd\'e9se \
+Saj\'e1t tilalm\'e1val tiltakozik, \
+\'c9s blaszi a fajt\'e1j\'e1t? A kir\'e1lyi apa \
+Legink\'e1bb szent kir\'e1ly volt: a kir\'e1lyn\'e9, \
+Gyakran t\'e9rdre, mint a l\'e1b\'e1ra, \
+Haldoklott minden nap, amikor \'e9lt. Gyere j\'f3l mag\'e1t! \
+Ezek a gonoszok megism\'e9tlik magatokon \
+Sk\'f3ci\'e1b\'f3l kirabolt. O mell\'e9m, \
+A rem\'e9nyed v\'e9get \'e9r! \
+MALCOLM\
+Macduff, ez a nemes szenved\'e9ly, \
+Az integrit\'e1s gyermeke, az \'e9n lelkemb\uc0\u337 l van \
+Megt\'f6r\'f6lte a fekete f\'e9keket, \'f6sszeegyeztetette a gondolataimat \
+A j\'f3 igazs\'e1god\'e9rt \'e9s tiszteleted\'e9rt. Devilish Macbeth \
+Sok ilyen vonaton igyekezett nyerni \
+A hatalomba, \'e9s a szer\'e9ny b\'f6lcsess\'e9g sz\'far engem \
+A t\'falgondolatlan lelkesed\'e9sb\uc0\u337 l: Isten f\'f6l\'f6tt \
+D\'f6nts\'f6n veled \'e9s k\'f6zted! m\'e9g most is \
+\'c9n magamhoz ir\'e1ny\'edtottam, \'e9s \
+Sz\'fcntesse meg az eny\'e9m saj\'e1t el\'e1rul\'e1s\'e1t, itt puszt\'edt \
+A roncsokat \'e9s a hib\'e1kat, amelyeket magamra helyeztem, \
+Idegenek sz\'e1m\'e1ra a term\'e9szetemre. M\'e9gis \
+Ismeretlen a n\uc0\u337 , soha nem volt elhagyva, \
+Alig v\'e1gytak r\'e1, ami az eny\'e9m volt, \
+Egy pillanatra nem t\'f6rt el a hitem, nem \'e1rulna el \
+Az \'f6rd\'f6g a t\'e1rsa \'e9s a gy\'f6ny\'f6r\uc0\u369 s\'e9g \
+Nem kevesebb az igazs\'e1gban, mint az \'e9let: az els\uc0\u337  hamis besz\'e9dem \
+Ez magamon volt: amit \'e9n igaz\'e1n, \
+A te \'e9s a szeg\'e9ny orsz\'e1god parancsol: \
+Hov\'e1, miel\uc0\u337 tt a te itt megk\'f6zel\'edt\'e9sed, \
+R\'e9gi Siward, t\'edzezer harcos emberrel, \
+M\'e1r egy ponton \'e1llt. \
+Most egy\'fctt vagyunk; \'e9s a j\'f3s\'e1g es\'e9lye \
+Legyen olyan, mint a mi felel\uc0\u337 ss\'e9gteljes veszeked\'e9s\'fcnk! Mi\'e9rt hallgatsz? \
+Macduff\
+Az ilyen \'fcdv\'f6zlend\uc0\u337  \'e9s kellemetlen dolgok egyszerre \
+"Nem neh\'e9z \'f6sszeegyeztetni. \
+Adja meg a doktort\
+\
+MALCOLM\
+J\'f3l; t\'f6bb\'e9. - Elj\'f6tt a kir\'e1ly, im\'e1dkozom? \
+Orvos\
+Igen, uram; vannak nyomorult lelkek leg\'e9nys\'e9ge \
+Ez marad a gy\'f3gym\'f3d: betegs\'e9g\'fck meggy\uc0\u337 z\u337 dik \
+A m\uc0\u369 v\'e9szet nagyszer\u369  vizsg\'e1lata; de az \u337  \'e9rint\'e9se - \
+Az ilyen szents\'e9g az \'e9g adta a kez\'e9t - \
+Jelenleg m\'f3dos\'edtj\'e1k. \
+MALCOLM\
+K\'f6sz\'f6n\'f6m, doktor. \
+Kil\'e9p\'e9s a doktorb\'f3l\
+\
+Macduff\
+Mi a betegs\'e9g? \
+MALCOLM\
+"\'dagy h\'edvta a gonoszt: \
+A legcsod\'e1latosabb munka ebben a j\'f3 kir\'e1lyban; \
+Ami gyakran, mivel itt vagyok - Angli\'e1ban maradok, \
+L\'e1ttam \uc0\u337 t. Hogy k\'e9rkedik az \'e9gen, \
+Maga a legjobban tudja: de furcsa m\'f3don l\'e1togatott emberek, \
+Minden dagadt \'e9s fek\'e9lyes, sz\'e1nalmas a szemnek, \
+A m\uc0\u369 t\'e9t puszta k\'e9ts\'e9gbees\'e9se, gy\'f3gy\'edtja, \
+A nyakukra arany b\'e9lyeget l\'f3gtak, \
+Szent im\'e1ds\'e1gokkal tegy\'e9tek fel: \
+A k\'f6vetkez\uc0\u337  kir\'e1lyi kir\'e1lynak elhagyja \
+A gy\'f3gy\'edt\'f3 \'e1ld\'e1s. Ezzel a furcsa er\'e9nyben, \
+A pr\'f3f\'e9cia mennyei aj\'e1nd\'e9ka, \
+\'c9s k\'fcl\'f6nf\'e9le \'e1ld\'e1sok l\'f3gnak a tr\'f3nj\'e1n, \
+Hogy teljes kegyelemben besz\'e9lnek. \
+\'cdrja be a ROSS-ot\
+\
+Macduff\
+L\'e1tod, ki j\'f6n ide? \
+MALCOLM\
+A honfit\'e1rsaim; de m\'e9g nem ismerem \uc0\u337 t. \
+Macduff\
+Az \'e9n \'f6r\'f6k\'f6s unokatestv\'e9rem, \'fcdv\'f6z\'f6llek. \
+MALCOLM\
+Most ismerem \uc0\u337 t. J\'f3 Isten, szedje el \
+Az az eszk\'f6z, ami idegenekk\'e9 tesz minket! \
+ROSS\
+Uram, amen. \
+Macduff\
+Stanc\'e1k Sk\'f3ci\'e1ban, hol t\'f6rt\'e9nt? \
+ROSS\
+Sajnos, szeg\'e9ny orsz\'e1g! \
+Majdnem f\'e9lt, hogy mag\'e1t ismeri. Nem lehet \
+H\'edvjuk az anyukat, de a s\'edrunkat; ahol semmi, \
+De aki semmit sem tud, egyszer csak mosolyog; \
+Ahol s\'f3hajt \'e9s ny\'f6g\'e9st s\'f3hajt, ami a leveg\uc0\u337 t rendezi \
+K\'e9sz\'fcltek, nem jel\'f6ltek; ahol er\uc0\u337 szakos b\'e1nat l\'e1tszik \
+Egy modern ext\'e1zis; a halott f\'e9rfinak \
+Kevesen k\'e9rdez\uc0\u337 sk\'f6dik; \'e9s a j\'f3 emberek \'e9let\'e9t \
+Leesik, miel\uc0\u337 tt a vir\'e1gok a sapk\'e1k, \
+Haldoklott vagy korcsok. \
+Macduff\
+O, kapcsolat \
+T\'fal sz\'e9p, \'e9s m\'e9gis t\'fal igaz! \
+MALCOLM\
+Mi a legfrissebb b\'e1nat? \
+ROSS\
+Az \'f3ra egy \'f3ra m\'falva megsz\'f3lal a hangsz\'f3r\'f3: \
+Minden egyes percben egy \'faj. \
+Macduff\
+Hogy van a feles\'e9gem? \
+ROSS\
+Mi\'e9rt? \
+Macduff\
+\'c9s minden gyermekeim? \
+ROSS\
+H\'e1t igen. \
+Macduff\
+A zsarnok nem b\'e1ntalmazta a b\'e9k\'e9t? \
+ROSS\
+Nem; b\'e9k\'e9ben voltak, amikor elhagytam \uc0\u337 ket. \
+Macduff\
+De nem a niggard a besz\'e9d: hogyan megy? \
+ROSS\
+Amikor idej\'f6ttem, hogy sz\'e1ll\'edtsam a h\'edreket, \
+Amit \'e9n nagyon megem\'e9sztettem, pletyka futott \
+Sz\'e1mos m\'e9lt\'f3 t\'e1rsa k\'f6z\'fcl, akik kint voltak; \
+Ami az \'e9n hitemben tan\'faskodott, \
+Ez\'e9rt l\'e1ttam a zsarnok hatalma egy l\'e1b\'e1t: \
+Most van a seg\'edts\'e9g ideje; a szemed Sk\'f3ci\'e1ban \
+L\'e9trehozn\'e1k a katon\'e1kat, a n\'f5ket harcoln\'e1k, \
+Hogy megszabad\'edts\'e1k sz\'f6rny\uc0\u369 s\'e9g\'fcket. \
+MALCOLM\
+Ne legyen k\'e9nyelm\'fck \
+J\'f6n\'fcnk ide: kedves Anglia \
+K\'f6sz\'f6nj\'fck meg a j\'f3 Siwardot \'e9s t\'edzezer embert; \
+Egy id\uc0\u337 sebb \'e9s egy jobb katona sem \
+Ez a kereszt\'e9nys\'e9g kiadja. \
+ROSS\
+Meg tudn\'e9k v\'e1laszolni \
+Ez a k\'e9nyelem a hasonl\'f3kkal! De vannak szavak \
+Ez a sivatagi leveg\uc0\u337 ben kiab\'e1lt volna, \
+Ha a meghallgat\'e1s nem z\'e1rja le \uc0\u337 ket. \
+Macduff\
+Milyen aggodalomra adnak okot? \
+Az \'e1ltal\'e1nos ok? vagy ez egy d\'edjs\'e9rt\'e9s \
+N\'e9h\'e1ny mellsz\'edv\'f3 miatt? \
+ROSS\
+Nem b\'e1nja, hogy \uc0\u337 szinte \
+De ebben osztozik valami jaj; b\'e1r a f\uc0\u337  r\'e9sz \
+\'d6nre vonatkozik. \
+Macduff\
+Ha az eny\'e9m, \
+Ne tartsd t\uc0\u337 lem, gyorsan hagyd, hogy megkapd. \
+ROSS\
+Ne fedd nekem f\'fcleidet \'f6r\'f6kk\'e9 a nyelvemre, \
+Amelynek a legnehezebb hanggal rendelkeznek \
+M\'e9g ma is hallottak. \
+Macduff\
+Z\'fcmm\'f6g\'e9s! Azt hiszem. \
+ROSS\
+A kast\'e9ly meglep\uc0\u337 dik; a feles\'e9ged \'e9s a kisl\'e1nyod \
+S\'f3lym\'e1gi v\'e1g\'e1s: kapcsolja \'f6ssze a m\'f3dszert, \
+E gyilkos szarvasok k\uc0\u337 b\'e1ny\'e1j\'e1n, \
+Hogy hozz\'e1adja a hal\'e1l\'e1t. \
+MALCOLM\
+Kegyelmes mennyorsz\'e1g! \
+Mi van ember! ne'er h\'fazza a kalapj\'e1t a szem\'f6ld\'f6keidre; \
+Adj b\'e1natos szavakat: a b\'e1nat, ami nem sz\'f3l \
+Suttogja az \'f3cska sz\'edvet, \'e9s megpr\'f3b\'e1lja megt\'f6rni. \
+Macduff\
+A gyermekeim is? \
+ROSS\
+Feles\'e9g, gyerekek, szolg\'e1k, minden \
+Ez megtal\'e1lhat\'f3. \
+Macduff\
+\'c9s onnan kell lenni! \
+A feles\'e9gem is meg\'f6lte? \
+ROSS\
+Mondtam. \
+MALCOLM\
+K\'e9nyelem: \
+N\'e9zz\'fcnk nek\'fcnk gy\'f3gyszereket a nagy bossz\'fab\'f3l, \
+Hogy meggy\'f3gy\'edtsam ezt a hal\'e1los b\'e1natot. \
+Macduff\
+Nincs gyermeke. Minden kedvesem? \
+Mindent elmondott? O pokol kite! Minden? \
+Mi, az \'f6sszes csirkeim \'e9s a g\'e1tjuk \
+Egy csap\'e1sra? \
+MALCOLM\
+Vitassa meg, mint egy ember. \
+Macduff\
+Megteszem; \
+De azt is \'fagy \'e9rzem, mint ember: \
+Nem eml\'e9kszem, hogy ilyen dolgok voltak, \
+Ez a leg\'e9rt\'e9kesebb sz\'e1momra. L\'e1tta a mennyet, \
+\'c9s nem vesznek r\'e9szt? B\uc0\u369 n\'f6s Macduff, \
+Mindannyian \'fct\'f6ttek \'e9rte! semmi, amit \'e9n vagyok, \
+Nem a saj\'e1t s\'e9relm\'fck\'e9rt, hanem az eny\'e9m\'e9rt, \
+Megcs\'faszott a lelk\'fck\'f6n. A mennyek pihenjenek most! \
+MALCOLM\
+Legyen ez a kardja kenete: legyen b\'e1nat \
+\'c1talak\'edt\'e1s d\'fchbe; tomp\'e1n nem a sz\'edvet, bosszantani. \
+Macduff\
+\'d3, j\'e1tszhatn\'e1m a n\uc0\u337 t a szememmel \
+\'c9s vigaszkodj a nyelvemmel! De kedves \'e9g, \
+V\'e1gja r\'f6vidre az \'f6sszes megszak\'edt\'e1st; el\'f6lr\uc0\u337 l \
+Hozd el ezt Sk\'f3cia \'e9s \'e9n magunkat; \
+Kardom hossza alatt megfogta; ha elsz\'e1ll, \
+A menny megbocs\'e1tja \uc0\u337 t is! \
+MALCOLM\
+Ez a dallam f\'e9rfias. \
+Gyere, menj\'fcnk a kir\'e1lyhoz; a hatalom k\'e9szen \'e1ll; \
+A mi hi\'e1nyunk nem m\'e1s, mint szabads\'e1gunk; Macbeth \
+Meg\'e9rett a remeg\'e9s\'e9rt, \'e9s a fenti felhatalmaz\'e1sok\'e9rt \
+Helyezze fel az eszk\'f6zeiket. Fogadd meg, milyen \'e9lvezetet te: \
+Az \'e9jszaka olyan hossz\'fa, hogy soha nem tal\'e1lja a napot. \
+Mind el\
+\
+ACT V\
+JELENET I. Dunsinane. Ante-szoba a kast\'e9lyban.\
+Adja meg a fizika doktora \'e9s a v\'e1rakoz\'e1s-Gentlewoman\
+Orvos\
+K\'e9t \'e9jszaka van veled figyelve, de \'e9szrevesz \
+nincs igazs\'e1g a jelent\'e9sben. Mikor ment utolj\'e1ra? \
+\'dari h\'f6lgy\
+Mivel a fens\'e9g felment a mez\uc0\u337 re, l\'e1ttam \
+az \'e1gy\'e1b\'f3l emelkedett, dobta az \'e9jszakai ruh\'e1j\'e1t \
+kinyitotta a szekr\'e9ny\'e9t, el\uc0\u337 hozott pap\'edrt, \'f6sszehajtotta, \
+\'edrjon r\'e1, olvasd el, majd lez\'e1rja, \'e9s \'fajra \
+t\'e9rjen vissza az \'e1gyba; m\'e9gis mindez a leggyorsabb alv\'e1sban. \
+Orvos\
+Egy nagy perturb\'e1ci\'f3 a term\'e9szetben, hogy azonnal megkapja \
+az alv\'e1s el\uc0\u337 nye, \'e9s hat\'e1sa a \
+n\'e9zni! Ebben a nyugodt nyugtalans\'e1gban, mellette \
+s\'e9ta \'e9s m\'e1s t\'e9nyleges el\uc0\u337 ad\'e1sok, mi, b\'e1rmikor \
+ideje hallottad, hogy mondja? \
+\'dari h\'f6lgy\
+Ez, uram, amit nem fogok jelenteni. \
+Orvos\
+Lehet, hogy nekem: \'e9s "legink\'e1bb megfelelni kell. \
+\'dari h\'f6lgy\
+Sem neked, sem senki; nincsenek tan\'fai \
+er\uc0\u337 s\'edtse meg besz\'e9demet. \
+Adja meg a LADY MACBETH-t, egy k\'fappal\
+\
+\'cdme, itt j\'f6n! Ez az \uc0\u337  viselete; \
+\'e9s az \'e9letem ut\'e1n gyorsan elaludt. Figyelj r\'e1; \'e1lljon k\'f6zel. \
+Orvos\
+Hogy j\'f6tt a f\'e9ny? \
+\'dari h\'f6lgy\
+Mi\'e9rt, \uc0\u337  \'e1llt mellette: f\'e9nye van t\u337 le \
+folyamatosan; ez a parancs. \
+Orvos\
+L\'e1tja, a szeme nyitva van. \
+\'dari h\'f6lgy\
+Igen, de az \'e9rtelme z\'e1rva van. \
+Orvos\
+Mit csin\'e1l most? N\'e9zd, hogyan d\'f6rzs\'f6lje a kez\'e9t. \
+\'dari h\'f6lgy\
+Ez egy megszokott cselekedet vele, \'fagy t\uc0\u369 nik \'edgy \
+Mosakodott: ismerem, hogy folytatja \
+ez egy negyed \'f3ra. \
+LADY MACBETH\
+M\'e9gis itt van egy hely. \
+Orvos\
+Hallgasd! \uc0\u337  besz\'e9l: Megmondom, mi j\'f6n \
+\uc0\u337 , hogy jobban kiel\'e9g\'edtse az eml\'e9kezetemet. \
+LADY MACBETH\
+Out, \'e1tkozott hely! mondom! - Egy: kett\uc0\u337 : mi\'e9rt, \
+akkor a teend\uc0\u337 . - A pokol s\'f6t\'e9t! - Fie, \'e9n \
+uram! egy katona \'e9s egy katona? Mi kell nek\'fcnk \
+att\'f3l f\'e9l, ki tudja, ha senki nem h\'edvhatja hatalmunkat \
+- M\'e9gis ki gondolta volna az \'f6regember \
+hogy annyi v\'e9r van benne. \
+Orvos\
+Jel\'f6lje ezt? \
+LADY MACBETH\
+Fife h\'f6lgy\'e9nek feles\'e9ge volt: hol van most? \
+Mi lesz ezek a kezek tiszta? - Nincs t\'f6bb o ' \
+hogy, uram, nem t\'f6bbet: mindent elvesz\'edtesz \
+ez a kezd\uc0\u337 . \
+Orvos\
+Menj, menj; tudtad, hogy mit nem kellene. \
+\'dari h\'f6lgy\
+\uc0\u336  besz\'e9lt, mit nem szabad, biztos vagyok benne \
+hogy: a menny tudja, mit tud. \
+LADY MACBETH\
+Itt van a v\'e9r illata m\'e9g mindig: minden \
+Arabia parf\'fcmjei nem enyh\'edtik ezt a kicsit \
+k\'e9z. \'d3 \'f3 \'f3! \
+Orvos\
+Milyen s\'f3haj van! A sz\'edv s\'falyosan fel van t\'f6ltve. \
+\'dari h\'f6lgy\
+Nem lenne ilyen sz\'edvem az \'e9n szellememben \
+az eg\'e9sz test m\'e9lt\'f3s\'e1ga. \
+Orvos\
+Nah\'e1t, nah\'e1t,-- \
+\'dari h\'f6lgy\
+Im\'e1dkozz Istennek, uram. \
+Orvos\
+Ez a betegs\'e9g meghaladja a gyakorlatomat: m\'e9gis tudtam \
+azok, akik az \'e1lmukban j\'e1rtak, akik meghaltak \
+szentesen az \'e1gyukban. \
+LADY MACBETH\
+Mossa meg a kez\'e9t, tegye be a h\'e1l\'f3inget; nem \'fagy n\'e9z ki \
+halv\'e1ny. - Mondom m\'e9g egyszer, Banquo eltemett\'e9k; \uc0\u337  \
+nem j\'f6n ki a s\'edrra. \
+Orvos\
+M\'e9g akkor is? \
+LADY MACBETH\
+Lefekv\'e9s, \'e1gyban! a kapu kopog: \
+Gyere, j\'f6jj\'f6n, gyere, gyere, adj nekem a kezed. Mi \
+nem lehet lemondani .-- Aludni, \'e1gyba, \'e1gyba! \
+Kij\'e1rat\
+\
+Orvos\
+Menni fog most az \'e1gyba? \
+\'dari h\'f6lgy\
+K\'f6zvetlen\'fcl. \
+Orvos\
+Suttog\'e1s k\'fclf\'f6ld\'f6n: term\'e9szetellenes tettek \
+Term\'e9szetellenes probl\'e9m\'e1kat okozzanak: fert\uc0\u337 z\'f6tt elm\'e9k \
+S\'fcket p\'e1rn\'e1k elengedik titkaikat: \
+T\'f6bbre sz\'fcks\'e9ge van az isteni, mint az orvos. \
+Istenem, Isten bocs\'e1ss meg mindannyiunkat! Vigy\'e1zz r\'e1; \
+T\'e1vol\'edtsa el t\uc0\u337 le az \'f6sszes bossz\'fas\'e1got, \
+\'c9s m\'e9g mindig figyelje \uc0\u337 t. Sz\'f3val, j\'f3 \'e9jszak\'e1t: \
+Az agyam, amelyikben pihent, \'e9s csod\'e1lta a l\'e1t\'f3m. \
+Azt hiszem, de ne mersz besz\'e9lni. \
+\'dari h\'f6lgy\
+J\'f3 \'e9jt, j\'f3 orvos. \
+Mind el\
+\
+JELENET II. Dunsinane k\'f6zel\'e9ben.\
+Dob \'e9s sz\'ednek. Adja meg a MENTEITH, CAITHNESS, ANGUS, LENNOX \'e9s a katon\'e1kat\
+Menteith\
+Az angol hatalom k\'f6zel van, Malcolm vezette, \
+Siward nagyb\'e1tyja \'e9s a j\'f3 Macduff: \
+Revengeek \'e9gnek benn\'fck; kedves okaik\'e9rt \
+A v\'e9rz\'e9s \'e9s a sz\'f6rny\uc0\u369  riaszt\'e1s \
+Izgatj\'e1k a megsz\'e1llott embert. \
+ANGUS\
+K\'f6zel Birnam fa \
+Tal\'e1lkozzunk vel\'fck; \'edgy j\'f6nnek. \
+CAITHNESS\
+Ki tudja, hogy Donalbain legyen a testv\'e9r\'e9vel? \
+LENNOX\
+Bizonyos, uram, \uc0\u337  nem: van egy f\'e1jlom \
+Az \'f6sszes \'far: van Siward fia, \
+\'c9s sokan m\'e9g a fiatalok k\'f6z\'f6tt is \
+Tiltakozzanak el\uc0\u337 sz\'f6r a f\'e9rfiass\'e1gukr\'f3l. \
+Menteith\
+Mi a zsarnok? \
+CAITHNESS\
+Nagy Dunsinane er\uc0\u337 sen meger\u337 s\'edtette: \
+Egyesek azt mondj\'e1k, hogy \uc0\u337 r\'fclt; m\'e1sok, akik kev\'e9sb\'e9 gy\u369 l\'f6lik \u337 t \
+B\'e1tors\'e1gos d\'fchnek nevezz\'fck: de bizonyos, \
+Nem tudja becs\'edpni a szaggatott ok\'e1t \
+A szab\'e1ly \'f6v\'e9n bel\'fcl. \
+ANGUS\
+Most \'e9rzi mag\'e1t \
+Titkos gyilkosai a kez\'e9re tapadtak; \
+Most apr\'f3l\'e9kosan felkavarj\'e1k a hitetlens\'e9g\'e9t; \
+A parancsok csak parancsnoks\'e1ggal mozognak, \
+Semmi szerelem: most \'e9rzi a c\'edmet \
+Laz\'edtson r\'f3la, mint egy \'f3ri\'e1s k\'f6nt\'f6se \
+Egy t\'f6rpe tolvaj ut\'e1n. \
+Menteith\
+Akkor ki hib\'e1ztatja \
+A pestere \'e9rz\'e9keli, hogy visszah\'faz\'f3dni kezd, \
+Amikor mindaz, ami benne van, el\'edt\'e9li \
+Maga, hogy ott van? \
+CAITHNESS\
+Nos, menj\'fcnk tov\'e1bb, \
+Annak \'e9rdek\'e9ben, hogy engedelmeskedj\'fcnk, ahol val\'f3ban tartozunk: \
+Tal\'e1lkozzunk a beteggy\uc0\u369 l\'e9s gy\'f3gyszereivel, \
+\'c9s vele egy\'fctt \'f6nts\'fck a mi orsz\'e1gunk tisztas\'e1g\'e1t \
+Minden csepp\'fcnk. \
+LENNOX\
+Vagy annyira, amennyire sz\'fcks\'e9ge van, \
+A szuver\'e9n vir\'e1g harmatos\'edt\'e1s\'e1hoz \'e9s a gyomok megfojt\'e1s\'e1hoz. \
+Tegy\'fck a Birnam fel\'e9 tart\'f3 menet\'fcnket. \
+Exeunt, menetel\'e9s\
+\
+III. Dunsinane. A szoba a kast\'e9lyban.\
+Adja meg az MACBETH-ot, a doktor \'e9s a r\'e9sztvev\uc0\u337 ket\
+MACBETH\
+Hozjon nekem t\'f6bb jelent\'e9st; hadd rep\'fcljenek: \
+Till Birnam fa elt\'e1vol\'edt\'e1sa Dunsinane, \
+Nem f\'e9lek a f\'e9lelemt\uc0\u337 l. Mi a fi\'fa, Malcolm? \
+Nem sz\'fcletett n\uc0\u337 b\u337 l? A szellemek, akik tudj\'e1k \
+Minden haland\'f3 k\'f6vetkezm\'e9ny \'edgy sz\'f3lt nekem: \
+- Ne f\'e9lj, Macbeth; senki sem sz\'fcletett n\uc0\u337 b\u337 l \
+Van-e hatalmad feletted? Akkor rep\'fcl, \
+hamis, \
+\'c9s keveredjen az angol epicur\'e1kkal: \
+Az elme, melyet \'e9n viselnek, \'e9s a sz\'edvem, amit viselek \
+Soha nem s\'fcllyed a k\'e9ts\'e9ggel \'e9s nem r\'e1zza meg a f\'e9lelmet. \
+Adjon meg egy Szolg\'e1t\
+\
+Az \'f6rd\'f6g rohad t\'e9ged, te kr\'e9msz\'edn\uc0\u369  szelet! \
+Hol tal\'e1ltad ezt a g\'f6mb\'f6t? \
+Szolg\'e1l\'f3\
+T\'edzezer ember van - \
+MACBETH\
+\'d3ri\'e1k, gazember! \
+Szolg\'e1l\'f3\
+Katon\'e1k, uram. \
+MACBETH\
+Menjetek sz\'e9t a te orcz\'e1d, \
+Liliom-m\'e1jfi. Milyen katon\'e1k, patch? \
+A te lelkeded hal\'e1la! a te \'e1gynem\uc0\u369  arcod \
+A tan\'e1csad\'f3k f\'e9lnek. Milyen katon\'e1k, tejsav\'f3 arc? \
+Szolg\'e1l\'f3\
+Az angol er\uc0\u337 , k\'e9rlek. \
+MACBETH\
+Vigy\'e9tek el a te arcodat. \
+Kil\'e9p\'e9s Szolga\
+\
+Seyton! - beteg vagyok sz\'edvb\uc0\u337 l, \
+Amikor megl\'e1tom - Seyton, mondom! - Ez a l\'f6k\'e9s \
+Mindig \'f6r\'fclni fog nekem, vagy most lebesz\'e9l. \
+\'c9letem el\'e9g hossz\'fa volt: \'e9letm\'f3dom \
+A s\'e1rg\'e1ba s\'fcllyedt, a s\'e1rga lev\'e9l; \
+\'c9s amit az id\uc0\u337 s korban kell k\'eds\'e9rnie, \
+Mint becs\'fclet, szerelem, engedelmess\'e9g, bar\'e1ti csapatok, \
+Nem szabad l\'e1tnom, hogy; de helyett\'fck, \
+\'c1tok, nem hangos, de m\'e9ly, sz\'e1jh\uc0\u369 s\'e9g, l\'e9legzet, \
+Amit a szeg\'e9ny sz\'edv megtagadhat, \'e9s nem mer. Seyton! \
+Adja meg a SEYTON-ot\
+\
+SEYTON\
+Mi a kegyelmes \'f6r\'f6m? \
+MACBETH\
+Milyen h\'edrek? \
+SEYTON\
+Minden meger\uc0\u337 s\'edtett, uram, amit jelentettek. \
+MACBETH\
+Harcolni fogok a csontjaimt\'f3l a h\'fasomt\'f3l. \
+Add ide a p\'e1nc\'e9lt. \
+SEYTON\
+"M\'e9g nincs r\'e1 sz\'fcks\'e9g. \
+MACBETH\
+Fel kell tennem. \
+K\'fcldj t\'f6bb lovat; forduljon az orsz\'e1g k\'f6rbe; \
+Tegye fel azokat, akik a f\'e9lelemr\uc0\u337 l besz\'e9lnek. Add ide a p\'e1nc\'e9lt. \
+Hogyan m\uc0\u369 k\'f6dik a p\'e1ciense, orvos? \
+Orvos\
+Nem olyan beteg, uram, \
+Ahogy a gondosan elterjedt fant\'e1zi\'e1kkal szembes\'fcl, \
+Ez visszatartja a pihen\'e9s\'e9t\uc0\u337 l. \
+MACBETH\
+Ezt meggy\'f3gy\'edtsa. \
+Nem tudsz szolg\'e1lni egy elme beteg, \
+A mem\'f3ri\'e1b\'f3l a gy\'f6kerez\uc0\u337  b\'e1nat, \
+H\'fazza ki az agy \'edr\'e1sbeli probl\'e9m\'e1it \
+\'c9s valami \'e9des, felejthetetlen antidotummal \
+Tiszt\'edtsa meg a vesz\'e9lyes anyag cucc\'e1t \
+Melyik a sz\'edvet s\'falyozza? \
+Orvos\
+Ott a beteg \
+Kell szolg\'e1lni mag\'e1nak. \
+MACBETH\
+Dobd fizikust a kuty\'e1knak; Nem fogok r\'f3la semmit. \
+Gyere, tedd az eny\'e9m p\'e1nc\'e9lt; adj nekem a szem\'e9lyzetemet. \
+Seyton, k\'fcldje el. Doktor \'far, a haj\'f3k rep\'fclnek t\uc0\u337 lem. \
+Gyere, uram, k\'fcldje el. Ha tudn\'e1, orvos, \'f6nt\'f6tt \
+A f\'f6ldem vize, megtal\'e1lja a betegs\'e9g\'e9t, \
+\'c9s tiszt\'edtsa meg a hang \'e9s a tiszta eg\'e9szs\'e9g, \
+\'c9n nagyon tapsolok a visszhangra, \
+\'dajra meg kell \'fcdv\'f6z\'f6lnie. - H\'fazd ki, azt mondom. \
+Milyen rebarb\'e1r, cyme, vagy milyen purgat\'edv gy\'f3gyszer, \
+\'cdgy lesz az angol nyelv? Hallottad \uc0\u337 ket? \
+Orvos\
+Igen, j\'f3 uram; a kir\'e1lyi felk\'e9sz\'fcl\'e9sed \
+Hall valamit. \
+MACBETH\
+Hozd ut\'e1nam. \
+Nem fogok f\'e9lni a hal\'e1lt\'f3l \'e9s az \'e1tokt\'f3l, \
+Till Birnam erd\uc0\u337  Dunsinane-ba \'e9rkezik. \
+Orvos\
+[K\'edv\'fcl] A Dunsinane-b\'f3l t\'e1vol \'e9s vil\'e1gos voltam, \
+A nyeres\'e9gnek aligha kell felh\'edvnia. \
+Mind el\
+\
+SCENE IV. Orsz\'e1g a Birnam fa k\'f6zel\'e9ben.\
+Dob \'e9s sz\'ednek. Adja meg a MALCOLM, a SIWARD \'e9s a YOUNG SIWARD, a MACDUFF, a MENTEITH, a CAITHNESS, az ANGUS, a LENNOX, a ROSS \'e9s a katon\'e1kat.\
+MALCOLM\
+Unokatestv\'e9rek, rem\'e9lem, hogy a napok k\'f6zel vannak \
+A kamr\'e1k biztons\'e1gban lesznek. \
+Menteith\
+Semmit sem k\'e9telked\'fcnk. \
+SIWARD\
+Milyen fa ez el\uc0\u337 tt\'fcnk? \
+Menteith\
+Birnam f\'e1ja. \
+MALCOLM\
+Hagyja, hogy minden katona lev\'e1gja az \'e1gat \
+\'c9s hordozz\'e1tok el\uc0\u337 tte: ez\'e1ltal \'e1rny\'e9kba ker\'fcl\'fcnk \
+A h\'e1zigazda sz\'e1mai \'e9s felfedez\'e9seket \
+Err a jelent\'e9s\'fcnkben. \
+katon\'e1k\
+Ezt meg kell tenni. \
+SIWARD\
+Nem tanulunk m\'e1sat, mint a magabiztos zsarnok \
+Dunsinane-ban marad, \'e9s elviselni fogja \
+A mi korunk el\uc0\u337 tt. \
+MALCOLM\
+"Ez a f\uc0\u337  rem\'e9ny: \
+Mert ahol el\uc0\u337 nyt kell adni, \
+Mindkett\uc0\u337  t\'f6bb\'e9-kev\'e9sb\'e9 adta a l\'e1zad\'e1st, \
+\'c9s senki sem szolg\'e1lhat vele, csak k\'e9nyszer\'edtett dolgokat \
+A sz\'edv\'fck is hi\'e1nyzik. \
+Macduff\
+Hadd bocs\'e1ssunk meg \
+Vegyen r\'e9szt az igazi esem\'e9nyen, \'e9s tegye fel \
+Szorgalmas katonas\'e1g. \
+SIWARD\
+Az id\uc0\u337  k\'f6zeledik \
+Ez hat\'e1rozott d\'f6nt\'e9ssel tudatja vel\'fcnk \
+Mit fogunk mondani, hogy van \'e9s mi tartozunk. \
+Gondolatok spekul\'e1lj\'e1k bizonytalan rem\'e9ny\'fcket, \
+De bizonyos kibocs\'e1t\'e1snak kell d\'f6ntenie: \
+A h\'e1bor\'fa el\uc0\u337 rehalad\'e1sa fel\'e9. \
+Exeunt, menetel\'e9s\
+\
+SCENE V. Dunsinane. A kast\'e9lyban.\
+Adja meg a MACBETH, a SEYTON \'e9s a katon\'e1k dobot \'e9s sz\'edneket\
+MACBETH\
+Tegye ki a banner\'fcnket a k\'fcls\uc0\u337  falakon; \
+A ki\'e1lt\'e1s m\'e9g mindig "j\'f6nnek:" v\'e1runk er\uc0\u337 ss\'e9ge \
+Nevetni fog egy ostromot a megvet\'e9s\'e9rt: itt hagyj\'e1k hazudni \
+Am\'edg az \'e9h\'edns\'e9g \'e9s az ague megem\'e9sztik \uc0\u337 ket: \
+Nem k\'e9nyszer\'edtettek azokkal, akiknek a mi\'e9nk kellene, \
+Tal\'e1n tal\'e1lkoztunk volna vel\'fck, szak\'e1llas szak\'e1llal, \
+\'c9s megverte \uc0\u337 ket h\'e1trafel\'e9. \
+A n\uc0\u337 k s\'edr\'e1sa bel\'fcl\
+\
+Mi ez a zaj? \
+SEYTON\
+A n\uc0\u337 k s\'edr\'e1sa, j\'f3 uram. \
+Kij\'e1rat\
+\
+MACBETH\
+Szinte elfelejtettem a f\'e9lelmek \'edz\'e9t; \
+Az az id\uc0\u337 , az \'e9rz\'e9seim h\u369 v\'f6sek lenn\'e9nek \
+Hallani egy \'e9jszakai sikolyot; \'e9s a hajam esett \
+Egy szomor\'fa \'e9rtelemben felbuzdul \'e9s felkavarja \
+Mivel az \'e9let nem volt, szinte rettenetes volt; \
+\'c1tkozotts\'e1g, ismer\uc0\u337 s a v\'e1gott gondolatokhoz \
+Nem lehet egyszer elind\'edtani. \
+\'cdrja be \'fajra a SEYTON-t\
+\
+Mi\'e9rt volt ez a s\'edr\'e1s? \
+SEYTON\
+A kir\'e1lyn\'e9, uram, halott. \
+MACBETH\
+K\'e9s\uc0\u337 bb el kellett halnia; \
+Egy ilyen sz\'f3ra lenne ideje. \
+Holnap, holnap, holnap, \
+Napr\'f3l napra lend\'fcl a kis temp\'f3ban \
+A r\'f6gz\'edtett id\uc0\u337  utols\'f3 sz\'f3tagj\'e1ra, \
+\'c9s minden \'f6regkorunk megvil\'e1g\'edtotta a bolondokat \
+A poros hal\'e1l fel\'e9 vezet\uc0\u337  \'fat. Kint, kint, r\'f6vid gyertya! \
+Az \'e9let, csak egy gyalogos \'e1rny\'e9k, egy szeg\'e9ny j\'e1t\'e9kos \
+Ez t\'e1masztja az \'f3r\'e1j\'e1t a sz\'ednpadon \
+\'c9s azt\'e1n nem hallanak t\'f6bbet: ez egy mese \
+Mondta egy idi\'f3ta, tele hanggal \'e9s d\'fchvel, \
+Nem jelent semmit. \
+Adjon meg egy Messengeret\
+\
+Te j\'f6ssz, hogy haszn\'e1ld a te nyelvedet; a t\'f6rt\'e9neted gyorsan. \
+H\'edrn\'f6k\
+Kegyelmes uram, \
+Be kell jelentenem, amit mondok, l\'e1ttam, \
+De nem tudom, hogyan kell csin\'e1lni. \
+MACBETH\
+Nos, mondja, uram. \
+H\'edrn\'f6k\
+Ahogy az \'f3r\'e1mat a hegyre \'e1ll\'edtottam, \
+Birnam fel\'e9 n\'e9ztem, \'e9s anon, metought, \
+A fa elkezdett mozogni. \
+MACBETH\
+Hazug \'e9s rabszolga! \
+H\'edrn\'f6k\
+Hadd tartsam a haragj\'e1t, ha nem \'edgy lesz: \
+E h\'e1rom m\'e9rf\'f6ld\'f6n bel\'fcl l\'e1thatja, hogy j\'f6n; \
+Mondom, egy mozg\'f3 liget. \
+MACBETH\
+Ha hamis, \
+A k\'f6vetkez\uc0\u337  f\'e1n fogsz l\'f3gni \'e9lve, \
+Am\'edg az \'e9hs\'e9g ragaszkodik hozz\'e1d: ha a besz\'e9ded igaz, \
+Nem \'e9rdekel, ha te annyira nekem. \
+Felh\'fazom a felbont\'e1st, \'e9s elkezdek \
+K\'e9ts\'e9gbe vonni a fiend f\'e9lre\'e9rt\'e9s\'e9t \
+Ez az igazs\'e1g: "Ne f\'e9lj, am\'edg Birnam f\'e1b\'f3l nem \
+Gyere Dunsinane-be: "\'e9s most egy fa \
+Dunsinane fel\'e9 tart. Kar, kar, \'e9s ki! \
+Ha ez megmutatkozik, \
+Itt sem rep\'fcl, sem itt nem tart\'f3zkodik. \
+\'dagy akarom, hogy a nap f\'e9nye legyen, \
+\'c9s szeretn\'e9m, ha a birtok a vil\'e1gr\'f3l most visszavonulna. \
+Csengessen az alarum cseng\uc0\u337 ! Blow, sz\'e9l! j\'f6jj\'f6n, ny\'f6gj! \
+Legal\'e1bb a h\'e1ta m\'f6g\'fcl hever\uc0\u337 vel fogunk meghalni. \
+Mind el\
+\
+JELENET VI. Dunsinane. A kast\'e9ly el\uc0\u337 tt.\
+Dob \'e9s sz\'ednek. Adja meg a MALCOLM, a SIWARD, a MACDUFF \'e9s a hadsereg\'fcket, az \'e1gakat\
+MALCOLM\
+Most el\'e9g k\'f6zel van: a leveles k\'e9perny\uc0\u337 d lefel\'e9 dob. \
+\'c9s mutasd meg, mint te. \'d6n, m\'e9lt\'f3 nagyb\'e1tyja, \
+Az unokatestv\'e9rem, a jobb nemes fia, \
+Vezess\'fck meg az els\uc0\u337  csat\'e1t: m\'e9lt\'f3 Macduff \'e9s mi \
+Fogadni, hogy mi marad m\'e9g, \
+Rendel\'e9s\'fcnk szerint. \
+SIWARD\
+J\'f3l van. \
+Nem tal\'e1ljuk ma a zsarnok hatalm\'e1t, \
+Legy\'fcnk verekedve, ha nem tudunk harcolni. \
+Macduff\
+Minden trombit\'e1t besz\'e9lj; adjon nekik minden leveg\uc0\u337 t, \
+A v\'e9r \'e9s a hal\'e1l hangulatos harbingerei. \
+Mind el\
+\
+JELENET VII. A mez\uc0\u337  m\'e1sik r\'e9sze.\
+Alarums. Adja meg a MACBETH nevet\
+MACBETH\
+Megk\'f6t\'f6ztek egy c\'f6vekhez; Nem tudok rep\'fclni, \
+De medve-szer\uc0\u369 , harcolnom kell a p\'e1ly\'e1n. Mi az? \
+Ez nem n\uc0\u337  volt? Egy ilyen \
+Att\'f3l tartok, vagy sem. \
+Adja meg a YOUNG SIWARD-et\
+\
+YOUNG SIWARD\
+Mi a neved? \
+MACBETH\
+F\'e9lsz hallani. \
+YOUNG SIWARD\
+Nem; b\'e1r \'f6nnek h\'edvod magad egy forr\'f3 n\'e9vnek \
+Mint minden a pokolban van. \
+MACBETH\
+A nevem Macbeth. \
+YOUNG SIWARD\
+Maga az \'f6rd\'f6g nem tudott c\'edmet mondani \
+Nagyobb gy\uc0\u369 l\'f6let a f\'fclembe. \
+MACBETH\
+Nem, sem f\'e9lelmet. \
+YOUNG SIWARD\
+Hazudsz, sz\'e1nalmas zsarnok; kardommal \
+Bizony\'edtom a hazugs\'e1got, amit besz\'e9lsz. \
+Harcolnak, \'e9s a YOUNG SIWARD-t meg\'f6lik\
+\
+MACBETH\
+N\uc0\u337 r\u337 l sz\'fcletett \
+De a kardok mosolyogtak, a fegyverek nevetnek, hogy megvetik, \
+Egy f\'e9rfi sz\'fcletett, hogy egy n\uc0\u337  sz\'fcletett. \
+Kij\'e1rat\
+\
+Alarums. Adja meg a MACDUFF-ot\
+\
+Macduff\
+\'cdgy van a zaj. Zsarnok, mutasd meg arcod! \
+Ha te meg\'f6l\'f6d, \'e9s egyetlen strokeom sem, \
+A feles\'e9gem \'e9s a gyermekek szellemei tov\'e1bbra is k\'eds\'e9rtenek. \
+Nem tudok szenvedni a nyomorult kernekn\'e9l, akiknek karja van \
+Felvesznek, hogy viselj\'e9k a d\'e1k\'f3ikat: ak\'e1r te, Macbeth, \
+Vagy a kardom egy unbatter'd \'e9l \
+\'dajra meg nem hajlik. Ott kell lenned; \
+Ezzel a nagy csattan\'e1ssal, az egyik legnagyobb hanggal \
+\'dagy t\uc0\u369 nik, sz\'fart. Hadd tal\'e1ljam meg, szerencs\'e9t! \
+\'c9s t\'f6bbet nem k\'e9rek. \
+Kij\'e1rat. Alarums\
+\
+Adja meg a MALCOLM-ot \'e9s a SIWARD-ot\
+\
+SIWARD\
+\'cdgy, uram; a kast\'e9ly gyeng\'e9den megmutatta: \
+A zsarnok emberei mindk\'e9t oldalon harcolnak; \
+A nemesek h\'f3dolnak a h\'e1bor\'faban; \
+A nap majdnem maga vallja a ti\'e9det, \
+\'c9s keveset kell csin\'e1lni. \
+MALCOLM\
+Ellens\'e9gekkel tal\'e1lkoztunk \
+Ez sztr\'e1jk mellett\'fcnk. \
+SIWARD\
+Adja meg, uram, a v\'e1rat. \
+Mind el. Alarums\
+\
+VIII. A mez\uc0\u337  m\'e1sik r\'e9sze.\
+Adja meg a MACBETH nevet\
+MACBETH\
+Mi\'e9rt kell j\'e1tszanom a r\'f3mai bolondot, \'e9s meghalok \
+A saj\'e1t kardomon? mik\'f6zben \'e9letet l\'e1tok, a gashes \
+Jobb nekik. \
+Adja meg a MACDUFF-ot\
+\
+Macduff\
+Fordulj, pokolos kutya, fordulj! \
+MACBETH\
+Az \'f6sszes t\'f6bbi embert\uc0\u337 l elker\'fcltem t\'e9ged: \
+De menj vissza; lelkem t\'fals\'e1gosan megterhelt \
+A te v\'e9red m\'e1r. \
+Macduff\
+Nem tal\'e1lok szavakat: \
+A hangom a kardomban van: te v\'e9res gazember \
+Mint a felt\'e9telek fogj\'e1k adni neked! \
+Harcolnak\
+\
+MACBETH\
+Te a legm\'e9lyebb munka: \
+Olyan k\'f6nny\uc0\u369 , hogy te is a leveg\u337  \
+A lelkes karddal \'fagy \'e9rzed, \
+Hagyja a peng\'e9j\'e9t a kiszolg\'e1ltatott hegyeken; \
+Van egy elb\uc0\u369 v\'f6lt \'e9letem, ami nem hozhat, \
+Az egyik n\uc0\u337  sz\'fcletett. \
+Macduff\
+K\'e9ts\'e9gbees\'e9s a var\'e1zsod; \
+\'c9s az angyal, akit m\'e9g mindig szolg\'e1lt\'e1l \
+Mondd meg, Macduff az anyja m\'e9h\'e9b\uc0\u337 l sz\'e1rmazott \
+Id\uc0\u337 nk\'e9nt ripp'd. \
+MACBETH\
+\'c1tkozott az a nyelv, ami azt mondja nekem, \
+Mert a kedvem jobb r\'e9sze volt az embernek! \
+\'c9s ezek a zsongl\uc0\u337 r\'f6k nem hisznek t\'f6bb\'e9, \
+Ez kett\uc0\u337 s \'e9rtelemben vel\'fcnk van; \
+Ez tartja az \'edg\'e9ret szav\'e1t a f\'fcl\'fcnkh\'f6z, \
+\'c9s szak\'edtsuk meg rem\'e9ny\'fcnket. Nem fogok harcolni veled. \
+Macduff\
+Ezut\'e1n hozza meg, gy\'e1va, \
+\'c9s \'e9lj a show-ra \'e9s n\'e9zz\'e9tek az id\uc0\u337 t: \
+Nek\'fcnk van, mint a ritka sz\'f6rnyek, \
+P\'e1lc\'e1n festett, \'e9s al\'e1festett, \
+- Itt l\'e1thatja a zsarnokot. \
+MACBETH\
+Nem fogok kit\'e1gulni, \
+A fiatal Malcolm l\'e1bai el\uc0\u337 tt megcs\'f3kolni a talajt, \
+\'c9s az \'fcnnepl\'e9s \'e1tk\'fasz\'e1s\'e1\'e9rt. \
+B\'e1r Birnam f\'e1b\'f3l j\'f6nnek Dunsinane-ba, \
+\'c9s ellenezte, hogy nem sz\'fcletett n\'f5, \
+M\'e9gis megpr\'f3b\'e1lom az utols\'f3at. A testem el\uc0\u337 tt \
+Dobom a harci pajzsom. Fek\'fcdj, Macduff, \
+\'c9s legyek az, aki el\uc0\u337 sz\'f6r ki\'e1lt: "Tartsd el\'e9gg\'e9!" \
+Exeunt, harc. Alarums\
+\
+Visszavonul\'e1s. Vir\'e1gzik. Dob, dob \'e9s sz\'ednek, MALCOLM, SIWARD, ROSS, a t\'f6bbi Thanes \'e9s a katon\'e1k\
+\
+MALCOLM\
+A hi\'e1nyz\'f3 bar\'e1tok biztons\'e1gban \'e9rkeztek volna. \
+SIWARD\
+N\'e9h\'e1nynak ki kell mennie: m\'e9gis, ezek \'e1ltal l\'e1tom, \
+Olyan j\'f3 egy nap, mert olcs\'f3bban v\'e1s\'e1rolt. \
+MALCOLM\
+Macduff hi\'e1nyzik, \'e9s a nemes fia. \
+ROSS\
+A te fiad, uram, a katona ad\'f3ss\'e1g\'e1t fizette ki: \
+Csak akkor \'e9lt, amikor csak ember volt; \
+Amit nem tudott meger\uc0\u337 s\'edteni \
+A zs\'e1kutc\'e1ban, ahol harcolt, \
+De mint egy ember, meghalt. \
+SIWARD\
+Akkor meghalt? \
+ROSS\
+H\'e9, \'e9s hozta le a ter\'fcletet: a b\'e1nat oka \
+Nem kell m\'e9rni az \uc0\u337  \'e9rt\'e9k\'e9vel, akkor \
+Nincs v\'e9ge. \
+SIWARD\
+M\'e1r el\uc0\u337 tte f\'e1j? \
+ROSS\
+Igen, az elej\'e9n. \
+SIWARD\
+Mi\'e9rt van teh\'e1t Isten katona? \
+Ha sok fia voln\'e1l, mint a sz\uc0\u337 r\'f6m, \
+Nem szeretn\'e9m, ha igazs\'e1gosabb hal\'e1lba ker\'fcln\'e9nek: \
+\'cdgy h\'e1t a k\'f6cs\'f6g a k\'f6cs\'f6g. \
+MALCOLM\
+Nagyobb b\'e1natot \'e9r, \
+\'c9s azt k\'f6ltem r\'e1. \
+SIWARD\
+Nem \'e9r t\'f6bbet \
+Azt mondj\'e1k, hogy j\'f3l elszakadt, \'e9s kifizette a pontsz\'e1m\'e1t: \
+\'c9s \'edgy Isten legyen vele! Itt j\'f6n az \'fajabb k\'e9nyelem. \
+\'dajra \'edrja be a MACDUFF-ot, a MACBETH fej\'e9vel\
+\
+Macduff\
+\'dcdv\'f6zlet, kir\'e1ly! mert te vagy: \'edme, hol \'e1ll \
+A bitorl\'f3 \'e1tkozott fej\'e9t: az id\uc0\u337  szabad: \
+L\'e1tom t\'e9ged a kir\'e1lys\'e1g gy\'f6ngyszem\'e9vel, \
+Hogy az \'fcdv\'f6zletem az \'e9n elm\'e9mben; \
+Kinek a hangjait k\'edv\'e1nom hangosan az eny\'e9mmel: \
+\'dcdv\'f6zlet, Sk\'f3cia kir\'e1lya! \
+MINDEN\
+\'dcdv\'f6zlet, Sk\'f3cia kir\'e1lya! \
+Vir\'e1gzik\
+\
+MALCOLM\
+Nem sok id\uc0\u337 t ford\'edtunk \
+Miel\uc0\u337 tt sz\'e1moln\'e1nk a t\'f6bb szeretettel, \
+\'c9s tegy\'fcnk vel\'fcnk is. Az \'e9n szavamat \'e9s hozz\'e1tartoz\'f3imat, \
+Mostant\'f3l kezdve r\'e9g\'f3ta, az els\uc0\u337 , ami Sk\'f3ci\'e1ban volt \
+Ilyen tiszteletben nevezt\'e9k. Mi t\'f6bb, \
+Amelyet \'fajonnan \'fcltetnek be az id\uc0\u337 be, \
+Ahogy hazavisz\'fcnk k\'fclf\'f6ldiek k\'fclf\'f6ldre \
+Ez elmenek\'fclt az \'e9ber zsarnoks\'e1g csapd\'e1j\'e1b\'f3l; \
+A kegyetlen miniszterek el\uc0\u337 k\'e9sz\'edt\'e9se \
+E halott hentest\uc0\u337 l \'e9s a fiendszer\u369  kir\'e1lyn\u337 j\'e9t\u337 l, \
+Ki, ahogy gondolkodtak, \'f6nmaguk \'e9s er\uc0\u337 szakos kezek \
+Levette az \'e9let\'e9t; ez, \'e9s mire van sz\'fcks\'e9ge \
+Ez arra k\'e9sztet benn\'fcnket, a Kegyelem kegyelm\'e9b\uc0\u337 l, \
+M\'e9r\'e9st, id\uc0\u337 t \'e9s helyet fogunk v\'e9grehajtani: \
+Teh\'e1t, h\'e1la minden egyszerre \'e9s mindegyiknek, \
+Ki h\'edvjuk megl\'e1togatni minket, hogy koron\'e1zzuk meg a Scone-t.\
+ \
+Vir\'e1gzik. Mind el}

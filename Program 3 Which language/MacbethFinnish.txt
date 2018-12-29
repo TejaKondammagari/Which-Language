@@ -1,0 +1,3385 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Macbethin Tragedia\
+\
+ACT I\
+K\'c4YTT\'c4M\'c4T I. Aavikkopaikka.\
+Ukkosta ja salamointia. Anna kolme noita\
+Ensimm\'e4inen Witch\
+Milloin tapaamme kolme kertaa uudelleen \
+Ukkosessa, salamannossa tai sateessa? \
+Toinen noita\
+Kun hurlyburly on tehty, \
+Kun taistelu on kadonnut ja voittanut. \
+Kolmas noita\
+Se tulee olemaan aurinko. \
+Ensimm\'e4inen Witch\
+Miss\'e4 paikka? \
+Toinen noita\
+Kuolleen. \
+Kolmas noita\
+Tuolla tavata Macbeth. \
+Ensimm\'e4inen Witch\
+Tulen, Graymalkin! \
+Toinen noita\
+Paddock-puhelut. \
+Kolmas noita\
+Anon. \
+KAIKKI\
+Messu on virhe, ja virhe on reilua: \
+Vie hiirt\'e4 sumun ja m\'e4r\'e4n ilman l\'e4pi. \
+He poistuvat\
+\
+TIEDE II. Leiri l\'e4hell\'e4 Forresia.\
+Alarum sis\'e4ll\'e4. Anna DUNCAN, MALCOLM, DONALBAIN, LENNOX ja osallistujat, jotka kohtaavat verenvuotoa kersantti\
+DUNCAN\
+Mik\'e4 veri mies on se? H\'e4n voi raportoida, \
+Kuten h\'e4nen ahdingonsa, kapinan her\'e4tty\'e4 \
+Uusin valtio. \
+MALCOLM\
+T\'e4m\'e4 on kersantti \
+Kuka, kuten hyv\'e4 ja kova sotilas taisteli \
+"Vastaan \uc0\u8203 \u8203 vankeudestani. Yst\'e4v\'e4, rohkea yst\'e4v\'e4! \
+Sano kuningas tuntemaan broil \
+Kun j\'e4tit sen. \
+Kersantti\
+Ep\'e4toivoinen se seisoi; \
+Koska kaksi uimaria, jotka tarttuvat toisiinsa \
+Ja kurista heid\'e4n taiteensa. Armoton Macdonwald - \
+Kelvollinen olla kapinallinen, sill\'e4 siihen \
+Luonnon moninkertaiset villat \
+Vaeltavat h\'e4nt\'e4 - l\'e4ntisilt\'e4 saarilta \
+Kerns ja gallowglasses toimitetaan; \
+Ja onni, h\'e4nen kirouksensa hymyillen, \
+Show'd kuin kapinallisten huora: mutta kaikki on liian heikko: \
+Rohkealle Macbethille - h\'e4n ansaitsee sen nimen - \
+S\'e4velt\'e4v\'e4 onni, h\'e4nen brandish'd ter\'e4s, \
+Mik\'e4 savustettu verisen suorituksen, \
+Kuten valor's minion vei h\'e4nen passage \
+Kunnes h\'e4n joutui orjaksi; \
+Kumpi nuori k\'e4tteli, eik\'e4 suostunut h\'e4neen, \
+Kunnes h\'e4n vapautti h\'e4net laivasta ryhmiin, \
+Ja korjasi p\'e4\'e4s\'e4 meid\'e4n taisteluissamme. \
+DUNCAN\
+Oi kova serkku! arvoinen herrasmies! \
+Kersantti\
+Sellaisena kuin aurinko laskee heijastuksensa \
+Haaksirikko myrskyt ja kauheat ukkosen tuhot, \
+Joten siit\'e4 kev\'e4\'e4st\'e4 alkaen mukavuus n\'e4ytti tulevan \
+Ep\'e4mukavuutta vauhdittaa. Mark, Skotlannin kuningas, merkki: \
+Ennen kun oikeus oli valor arm'd \
+Yrit\'e4 n\'e4m\'e4 ohita kernit luottaa heid\'e4n kannoistaan, \
+Mutta Norweyan lord surveying vantage, \
+Uudistetut aseet ja uudet miesten tarvikkeet \
+Aloitti tuoreen hy\'f6kk\'e4yksen. \
+DUNCAN\
+Ettek\'f6 t\'e4t\'e4 \
+Kapteenit, Macbeth ja Banquo? \
+Kersantti\
+Joo; \
+Vaskelit kotkat, tai j\'e4nis leijona. \
+Jos sanon herkk\'e4, minun on ilmoitettava, ett\'e4 he olivat \
+Koska tynk\'e4palkit ovat t\'e4ynn\'e4 kaksoisparametreja, niin ne \
+Kaksinkertainen kaksinkertainen aivohalvaus vastustajan p\'e4\'e4ll\'e4: \
+Paitsi ett\'e4 he aikoivat uida haavoja, \
+Tai muistaa toinen Golgotha, \
+En osaa sanoa. \
+Mutta olen heikko, kouristani itkev\'e4t apua. \
+DUNCAN\
+Niinp\'e4 sanat ovat sinut, niinkuin haavasi, \
+He smack kunnia molemmat. Hanki h\'e4net kirurgiin. \
+Exit kersantti, osallistui\
+\
+Kuka tulee t\'e4nne? \
+Sy\'f6t\'e4 ROSS\
+\
+MALCOLM\
+Hyv\'e4 arvoinen Ross. \
+LENNOX\
+Mik\'e4 kiire etsii silm\'e4ns\'e4 l\'e4pi! Joten h\'e4nen pit\'e4isi katsoa \
+Se n\'e4ytt\'e4\'e4 puhuvan asioita outoa. \
+ROSS\
+Jumala pelasta kuningas! \
+DUNCAN\
+Mist\'e4 sin\'e4 tulit, arvoinen? \
+ROSS\
+Fife, suuri kuningas; \
+Miss\'e4 Norweyan bannerit pilkkovat taivasta \
+Ja tuokaa kansaamme kylm\'e4ksi. Norja itse, \
+Kauheilla numeroilla, \
+T\'e4m\'e4n ep\'e4uskoinen petturi avustaa \
+Cawdorin thane alkoi synkk\'e4 konflikti; \
+Siihen aikaan, ett\'e4 Bellonan sulhanen, \
+Haastatteli h\'e4nt\'e4 itse\'e4\'e4n vertailulla, \
+Osoita kohta kapinallinen, arm "gainst arm. \
+H\'e4nen ylellisen v\'e4kevyytens\'e4 hillitseminen: \
+Voitto putosi meille. \
+DUNCAN\
+Suuri onni! \
+ROSS\
+Se nyt \
+Sweno, Norjan kuningas, kaipaa koostumusta: \
+Emme my\'f6sk\'e4\'e4n uskovaisi h\'e4nt\'e4 hautaamaan miehi\'e4 \
+Ennen kuin h\'e4n maksoi Saint Colmen tuuman \
+Kymmenen tuhatta dollaria yleiseen k\'e4ytt\'f6\'f6n. \
+DUNCAN\
+Ei en\'e4\'e4 muuta kuin Cawdorin pett\'e4\'e4 \
+Kehotamme kiinnostusta: menk\'e4\'e4 julistamaan h\'e4nen nykyinen kuolema, \
+Ja h\'e4nen entisen nimens\'e4 tervehti Macbeth. \
+ROSS\
+N\'e4en, ett\'e4 se on tehty. \
+DUNCAN\
+Mit\'e4 h\'e4n on menett\'e4nyt jalo Macbethin voitti. \
+He poistuvat\
+\
+TARKASTELU III. Heath l\'e4hell\'e4 Forres.\
+Ukkonen. Sy\'f6t\'e4 kolme noita\
+Ensimm\'e4inen Witch\
+Miss\'e4 olet ollut, sisko? \
+Toinen noita\
+Sikoilla tappaminen. \
+Kolmas noita\
+Sisar, miss\'e4 sin\'e4? \
+Ensimm\'e4inen Witch\
+Merimiehen vaimolla oli kastanjoja syliss\'e4\'e4n, \
+Ja r\'f6yhke\'e4, ja munchin, ja munch'd: - \
+"Anna minulle," quoth I: \
+"Aroint thee, noita!" rump-sy\'f6tetty ronyon itkee. \
+H\'e4nen miehens\'e4 Aleppo on mennyt, master of the Tiger: \
+Mutta siin\'e4 seulassa min\'e4 l\'e4hden siell\'e4, \
+Ja kuten rotta ilman h\'e4nt\'e4, \
+Tehd\'e4n, teen ja teen. \
+Toinen noita\
+Min\'e4 annan sinulle tuulen. \
+Ensimm\'e4inen Witch\
+Sin\'e4 olet kiltti. \
+Kolmas noita\
+Ja min\'e4 toinen. \
+Ensimm\'e4inen Witch\
+Minulla on kaikki muut, \
+Ja aivan satamien he puhaltaa, \
+Kaikki ne osa-alueet, jotka he tiet\'e4v\'e4t \
+Min\'e4 olen laivakontakortti. \
+Min\'e4 vuodatan h\'e4net kuivana kuin hein\'e4\'e4: \
+Nukkuminen ei ole y\'f6 eik\'e4 p\'e4iv\'e4 \
+Kiinnit\'e4 h\'e4nen pent-house kansi; \
+H\'e4n asuu ihmisell\'e4, joka kielt\'e4\'e4: \
+Kulunut se'nnights yhdeks\'e4n kertaa yhdeks\'e4n \
+Eik\'f6 h\'e4n v\'e4henn\'e4, huippu ja m\'e4nty: \
+Vaikka h\'e4nen haukkansa ei voi kadota, \
+Mutta se on hirmumyrsky. \
+Katso, mit\'e4 minulla on. \
+Toinen noita\
+N\'e4yt\'e4, n\'e4yt\'e4 minulle. \
+Ensimm\'e4inen Witch\
+T\'e4\'e4ll\'e4 olen lent\'e4j\'e4n peukalo, \
+H\'e4n sy\'f6ksyi kotiin, ja h\'e4n tuli. \
+Rumpu sis\'e4ll\'e4\
+\
+Kolmas noita\
+Rumpu, rumpu! \
+Macbeth ei tule. \
+KAIKKI\
+Ulommat sisaret, k\'e4si k\'e4dess\'e4, \
+Merimaailman ja maan julisteet, \
+Niinp\'e4 menn\'e4\'e4n noin, noin: \
+Kolmastoa sinun ja kolmesti minun \
+Ja kolmesti, yhdeks\'e4n. \
+Rauha! vieh\'e4tys on p\'e4\'e4ttynyt. \
+Sy\'f6t\'e4 MACBETH ja BANQUO\
+\
+MACBETH\
+Niin paha ja reilu p\'e4iv\'e4, jota en ole n\'e4hnyt. \
+Banquo\
+Kuinka kaukaa ei ole Forresille kutsuttu? Mit\'e4 n\'e4m\'e4 ovat \
+Niin kuihtunut ja niin villi pukuunsa, \
+Se ei n\'e4yt\'e4 maalta asukkailta, \
+Ja viel\'e4 ole? El\'e4k\'f6\'f6n? vai oletko sin\'e4 \
+Tuo mies voi kyseenalaistaa? N\'e4yt\'e4t ymm\'e4rt\'e4v\'e4n minua, \
+Kullakin kerralla h\'e4nen silm\'e4ns\'e4 sormi makaa \
+H\'e4nen huulillaan: sinun pit\'e4isi olla naisia, \
+Ja silti sinun partaasi kielt\'e4\'e4 minua tulkitsemaan \
+Ett\'e4 olet niin. \
+MACBETH\
+Puhua, jos voit: mit\'e4 sin\'e4 olet? \
+Ensimm\'e4inen Witch\
+Kaikki rake, Macbeth! hurra sin\'e4, Glamis! \
+Toinen noita\
+Kaikki rakeita, Macbeth, hypp\'e4\'e4 sinuun, Cawdorin huudot! \
+Kolmas noita\
+Kaikki rake, Macbeth, sin\'e4 tule sin\'e4 t\'e4nne kuninkaaksi! \
+Banquo\
+Hyv\'e4 sir, miksi aloitat; ja n\'e4ytt\'e4v\'e4t pelk\'e4\'e4v\'e4n \
+Asiat, jotka eiv\'e4t kuulosta niin hyv\'e4lt\'e4? Min\'e4 olen totuuden nimi, \
+Oletko uskomatonta vai todellakin \
+Mik\'e4 ulosp\'e4in te n\'e4yt\'e4tte? Oma jalo kumppani \
+Sin\'e4 tervehtelet nykyisell\'e4 armolla ja suurella ennustuksella \
+Jaloista ja kuninkaan toivosta, \
+Ett\'e4 h\'e4n n\'e4ytt\'e4\'e4 rapt withal: minulle puhut ole. \
+Jos voit katsoa ajan siemeni\'e4, \
+Ja sano, mik\'e4 vilja kasvaa ja mik\'e4 ei, \
+Puhu sitten minulle, joka ei kerj\'e4\'e4 eik\'e4 pelk\'e4\'e4 \
+Sinun suosikkiasi tai vihaanne. \
+Ensimm\'e4inen Witch\
+Hail! \
+Toinen noita\
+Hail! \
+Kolmas noita\
+Hail! \
+Ensimm\'e4inen Witch\
+Pienempi kuin Macbeth ja sit\'e4 suurempi. \
+Toinen noita\
+Ei niin onnellinen, mutta paljon onnellisempi. \
+Kolmas noita\
+Saat kuninkaat, vaikka sin\'e4 et ole; \
+Joten kaikki rakeet, Macbeth ja Banquo! \
+Ensimm\'e4inen Witch\
+Banquo ja Macbeth, kaikki rakeita! \
+MACBETH\
+Pysy, olet ep\'e4t\'e4ydellinen puhuja, kerro lis\'e4\'e4: \
+Sinelin kuolemasta tied\'e4n, ett\'e4 min\'e4 olen Glamis; \
+Mutta miten Cawdor? Cawdorin kuolema el\'e4\'e4, \
+Vauras herrasmies; ja olla kuninkaana \
+Seisoo, ett\'e4 se ei ole uskossa, \
+Ei muuta kuin olla Cawdor. Sano mist\'e4 \
+Oletko t\'e4m\'e4 outo \'e4lykkyys? tai miksi \
+T\'e4m\'e4n tuuletuksen j\'e4lkeen sin\'e4 lopetat tien \
+T\'e4llaisella profeetallisella tervehdyksell\'e4? Puhu, veloitan sinut. \
+Noidat katoavat\
+\
+Banquo\
+Maapallolla on kuplia, kuten vesi on, \
+Ja n\'e4m\'e4 ovat heist\'e4. Miss\'e4 he ovat kadonneet? \
+MACBETH\
+Ilmaan; ja mik\'e4 n\'e4ytti ruumiin sulanut \
+Tuulen henke\'e4. Olisivatko olleet pysyneet! \
+Banquo\
+Ovatko sellaiset asiat t\'e4\'e4ll\'e4 kuin me puhumme? \
+Tai olemme sy\'f6neet hullujuurista \
+Onko syyst\'e4 otettu vanki? \
+MACBETH\
+Lapsenne ovat kuninkaita. \
+Banquo\
+Sin\'e4 olet kuningas. \
+MACBETH\
+Ja my\'f6s Cawdor: eik\'f6 niin? \
+Banquo\
+Samaa virityst\'e4 ja sanoja. Kuka on t\'e4\'e4ll\'e4? \
+Anna ROSS ja ANGUS\
+\
+ROSS\
+Kuningas on onnellisesti saanut, Macbeth, \
+Uutinen menestyksest\'e4si; ja kun h\'e4n lukee \
+Oma henkil\'f6kohtainen yritys kapinallisten taistelussa, \
+H\'e4nen ihmeens\'e4 ja h\'e4nen ylistyksens\'e4 eiv\'e4t v\'e4it\'e4 \
+Mik\'e4 on sinun tai h\'e4nen: hiljainen, \
+Katsoessasi loput o 'itse samana p\'e4iv\'e4n\'e4, \
+H\'e4n l\'f6yt\'e4\'e4 sinut tiukkaan Norweyan riveihin, \
+Mit\'e4\'e4n vastausta siihen, mit\'e4 itse olette tehneet, \
+Strange kuoleman kuvat. Paksu kuin rakeet \
+Tuli postitse postitse; ja jokainen kesti \
+Sinun kiitokset h\'e4nen valtakuntansa suuressa puolustuksessa, \
+Ja heittele heid\'e4t h\'e4nen edell\'e4ns\'e4. \
+ANGUS\
+Olemme l\'e4hett\'e4neet \
+Antaakseni sinut kuninkaalliselta p\'e4\'e4llik\'f6ll\'e4mme, kiitos; \
+Vain ilmoittaaksenne sinut h\'e4nen silmiins\'e4, \
+Ei maksa sinua. \
+ROSS\
+Ja kunnianhimoisemmaksi kunniaksi, \
+H\'e4n kehotti minua, h\'e4nest\'e4, soittamaan Thane of Cawdor: \
+Joka lis\'e4ksi, rakeita, eniten arvoinen thane! \
+Sill\'e4 se on sinun. \
+Banquo\
+Mit\'e4, voi paholaisen puhua totta? \
+MACBETH\
+Cawdorin huumori el\'e4\'e4: miksi pukeat minua \
+Lainata vaatteita? \
+ANGUS\
+Kuka viel\'e4 asui? \
+Mutta raskaassa tuomiossa on se el\'e4m\'e4 \
+Jonka h\'e4n ansaitsee menett\'e4\'e4. Onko h\'e4n yhdistetty \
+Niiden Norjan kanssa tai ristiriidassa kapinalla \
+Piilotetulla apuv\'e4lineell\'e4 ja etuuksilla tai molemmilla \
+H\'e4n ty\'f6skenteli maansa hylkyss\'e4, en tied\'e4; \
+Mutta treasons p\'e4\'e4oma, tunnustettu ja todistettu, \
+Ovat kukistaneet h\'e4net. \
+MACBETH\
+[Syrj\'e4\'e4n] Glamis, ja Thane of Cawdor! \
+Suurin on takana. \
+ROSS ja ANGUS\
+\
+Kiitos kipuistasi. \
+BANQUOon\
+\
+Ettek\'f6 toivo, ett\'e4 lapsesi ovat kuninkaita, \
+Kun ne, jotka antoivat minulle Cawdorin \
+Lupasi heit\'e4 v\'e4hemm\'e4n? \
+Banquo\
+Luotettava koti \
+Se voi viel\'e4 karkottaa sinut kruunuun, \
+Cawdorin lis\'e4ksi. Mutta 'tis outo: \
+Ja usein, voittaaksemme meid\'e4t haavoittemme vuoksi, \
+Pimeyden v\'e4lineet kertovat meille totuuksia, \
+Voittaa meid\'e4t rehellisill\'e4 pienill\'e4 petkeill\'e4, pett\'e4\'e4 \
+Syv\'e4llisin seuraus. \
+Kaverit, sana, min\'e4 rukoilen. \
+MACBETH\
+[Pois] Kahdesta totuudesta kerrotaan, \
+Iloisena ilmi\'f6in\'e4 turvotusta vastaan \
+Keisarillisesta teemasta. - Kiit\'e4n teit\'e4, herrat. \
+syrj\'e4\'e4n\
+\
+Ei voi olla sairas, ei voi olla hyv\'e4: jos sairas, \
+Miksi se antoi minulle uskoa menestykseen, \
+Alkavat totuudessa? Olen Thane of Cawdor: \
+Jos hyv\'e4, miksi annan sille ehdotuksen \
+Jonka kauhea kuva korjaa hiukseni \
+Ja tehk\'e4\'e4 istuma syd\'e4meni koputtaa minun kylkeni, \
+Luontoa vastaan? Esit\'e4 pelot \
+Ovat v\'e4hemm\'e4n kuin kauheat mielikuvitukset: \
+Ajatukseni, jonka murha on viel\'e4 mahtava, \
+Ravistaa niin minun yksitt\'e4inen miehen tila, joka toimii \
+Se on surmattu, eik\'e4 mik\'e4\'e4n ole \
+Mutta mik\'e4 ei ole. \
+Banquo\
+Katsokaa, kuinka kumppanimme rapt. \
+MACBETH\
+[Pois] Jos minulla on tilaisuus minulle kuningas, miksi, mahdollisuus saattaa kruunata minut, \
+Ilman minun sekaisin. \
+Banquo\
+Uudet kauhut tulevat h\'e4nen p\'e4\'e4llens\'e4, \
+Kuten oudot vaatteetkin, emme p\'e4\'e4ryneet muottiin \
+Mutta k\'e4yt\'f6n avulla. \
+MACBETH\
+[Syrj\'e4\'e4n] Tule, mit\'e4 tulee, \
+Aika ja tunti kulkevat karkeimman p\'e4iv\'e4n l\'e4pi. \
+Banquo\
+Arvoinen Macbeth, pysymme vapaa-aikana. \
+MACBETH\
+Anna minulle suosiosi: tyls\'e4\'e4 aivoa valmistettiin \
+Kun asiat unohdetaan. Hyv\'e4t herrat, kiput \
+Ovat rekister\'f6ityneet miss\'e4 p\'e4ivitt\'e4in k\'e4\'e4nnyin \
+Lehti lukea ne. Olkaamme kuninkaalle. \
+Ajattele, mit\'e4 on tapahtunut, ja enemm\'e4n aikaa, \
+V\'e4liaikaisesti punnittu, puhuko \
+Vapaa syd\'e4memme toisilleen. \
+Banquo\
+Hyvin onnellinen. \
+MACBETH\
+Siihen asti riitt\'e4\'e4. Tule, yst\'e4v\'e4t. \
+He poistuvat\
+\
+TARKASTELU IV. Forres. Palatsi.\
+Kukoistaa. Anna DUNCAN, MALCOLM, DONALBAIN, LENNOX ja osallistujat\
+DUNCAN\
+Onko toteutus tehty Cawdorilla? Eiv\'e4t ole \
+Ne, jotka toimivat viel\'e4 paluuta varten? \
+MALCOLM\
+Oma liege, \
+He eiv\'e4t ole viel\'e4 tulleet takaisin. Mutta olen puhunut \
+Yhdell\'e4, joka n\'e4ki h\'e4nen kuolevan: kuka ilmoitti \
+Selv\'e4sti h\'e4n tunnusti h\'e4nen jumalansa, \
+Lupasi ylpeytesi anteeksi ja esiin \
+Syv\'e4llinen parannus: mit\'e4\'e4n h\'e4nen el\'e4m\'e4ss\'e4\'e4n \
+Tulee h\'e4nelle kuin j\'e4tt\'e4\'e4 se; h\'e4n kuoli \
+H\'e4n oli kuollessaan tutkittu \
+Heitt\'e4\'e4kseni rakkain asia, jonka h\'e4n oli velkaa, \
+Varmista huolimattomuus. \
+DUNCAN\
+Ei taidetta \
+Mielen rakenteen l\'f6yt\'e4minen kasvot: \
+H\'e4n oli herrasmies, jolle rakennin \
+Absoluuttinen luottamus. \
+Sy\'f6t\'e4 MACBETH, BANQUO, ROSS ja ANGUS\
+\
+O-arvoinen serkku! \
+Vihanhimoni synti nytkin \
+Oli raskas minulle: sin\'e4 olet aika kaukana \
+Tuo palkkion nopein siipi on hidas \
+Est\'e4\'e4 sinut. Olisitko v\'e4hemm\'e4n ansainnut, \
+T\'e4m\'e4 osuus kiitos ja maksu \
+Olisi voinut olla minun! vain olen j\'e4tt\'e4nyt sanoa, \
+Enemm\'e4n kuin sinun kaikkien t\'e4ytyy maksaa. \
+MACBETH\
+Palvelu ja uskollisuus minulle, \
+Tehdess\'e4\'e4n se maksaa itse. Korkeuden "osa \
+Onko meid\'e4n velvollisuutemme vastaanottaa; ja velvollisuutemme \
+Ovat sinun valtaistuimesi ja valtion lapsia ja palvelijoita, \
+Mit\'e4 vain, mit\'e4 heid\'e4n pit\'e4isi, tekem\'e4ll\'e4 kaiken \
+Turvallinen rakkautesi ja kunniaasi kohtaan. \
+DUNCAN\
+Tervetuloa t\'e4nne: \
+Olen alkanut istuttaa sinut ja ty\'f6t\'e4 \
+Jotta sinusta t\'e4ynn\'e4 kasvaa. Noble Banquo, \
+Se ei ole yht\'e4 ansiotynytt\'e4, eik\'e4 sit\'e4 saa tiet\'e4\'e4 \
+Ei v\'e4hemp\'e4\'e4, ett\'e4 olen tehnyt niin, anna minun tartuttaa sinut \
+Ja pit\'e4k\'e4\'e4 sinut syd\'e4meeni. \
+Banquo\
+Jos kasvaan, \
+Korjuu on oma. \
+DUNCAN\
+Minun runsaat ilot, \
+Haluaiset t\'e4yteydess\'e4\'e4n pyrkiv\'e4t piiloutumaan \
+Sadan tippaissa. Sons, rouva, \
+Ja sin\'e4, jonka paikat ovat l\'e4hin, tiet\'e4v\'e4t \
+Luomme kiinteist\'f6\'e4mme \
+Meid\'e4n vanhin, Malcolm, jota me nimittelemme my\'f6hemmin \
+Cumberlandin prinssi; mik\'e4 kunnia on \
+Ei yksin asuva sijoittaa h\'e4nelle vain, \
+Mutta jaloa, kuten t\'e4hdet, tulee loistaa \
+Kaikkien ansaitsevien. Sielt\'e4 Inverness, \
+Ja sitoudut meit\'e4 eteenp\'e4in. \
+MACBETH\
+Loppu on ty\'f6voimaa, jota ei k\'e4ytet\'e4 sinulle: \
+Min\'e4 olen itsekin harhaoppinen ja ilahduttava \
+Vaimoni kuuleminen l\'e4hestymistapasi kanssa; \
+Joten n\'f6yr\'e4sti j\'e4t\'e4. \
+DUNCAN\
+Kelvollinen Cawdor! \
+MACBETH\
+[Syrj\'e4\'e4n] Prince of Cumberland! se on askel \
+Jossa minun on pudonnut, tai muuten o'erleap, \
+Sill\'e4 minun tapauksessani se on valhe. T\'e4hdet, piilota tulipalo; \
+\'c4lk\'e4\'e4 valoa n\'e4kem\'e4\'e4n mustat ja syv\'e4t toiveeni: \
+Silm\'e4 on k\'e4dess\'e4; kuitenkin anna sen olla, \
+Joka silm\'e4 pelk\'e4\'e4, kun se on tehty, n\'e4hd\'e4. \
+poistuminen\
+\
+DUNCAN\
+Totta, arvoinen Banquo; h\'e4n on t\'e4ynn\'e4 niin rohkea, \
+Ja h\'e4nen syd\'e4miss\'e4ns\'e4 sy\'f6t\'e4n; \
+Se on juhla minulle. Seuraavaksi, \
+Kenen hoito on mennyt ennen tarjotakseen meid\'e4t tervetulleiksi: \
+Se on vertaansa vailla oleva rouva. \
+Kukoistaa. He poistuvat\
+\
+SCENE V. Inverness. Macbethin linna.\
+Anna LADY MACBETH, lukee kirjeen\
+LADY MACBETH\
+"He tapasivat minut menestyksen p\'e4iv\'e4n\'e4, ja min\'e4 olen \
+opittu t\'e4ydellisimm\'e4ll\'e4 raportilla, heill\'e4 on enemm\'e4n \
+heit\'e4 kuin kuolevaista tietoa. Kun poltin halusta \
+kyseenalaistaa heid\'e4t edelleen, he tekiv\'e4t itsens\'e4 ilmaiseksi, \
+johon ne ovat kadonneet. Kun olin seisomaan sis\'e4\'e4n \
+ihme, tuli kirjoista kuninkaalta, kuka \
+kaikki kiitti minua "Thane of Cawdor;" jonka otsikko, \
+ennen n\'e4it\'e4 outoja sisaria tervehti minua ja viittasivat \
+minulle tulevana ajankohtana, "Kiltti, kuningas \
+olkaa! " T\'e4m\'e4 on mielest\'e4ni hyv\'e4 toimittaa \
+sin\'e4, rakkaimman rakkaimman kumppanin, sin\'e4 \
+ei voi menett\'e4\'e4 laupeutta, olemalla \
+tiet\'e4m\'e4tt\'f6m\'e4st\'e4 siit\'e4, mit\'e4 suuruus on luvannut sinulle. Aseta se \
+syd\'e4mesi ja j\'e4\'e4hyv\'e4iset. " \
+Glamis olet ja Cawdor; ja sin\'e4 olet \
+Mit\'e4 sinulle on luvannut, mutta min\'e4 pelk\'e4\'e4n luonneasi; \
+Se on liian t\'e4ynn\'e4 ihmisen hyv\'e4ntahtoisuuden maitoa \
+L\'e4himm\'e4ll\'e4 tavalla kiinni: sin\'e4 olisit hyv\'e4; \
+Taide ei ilman kunnianhimoa, mutta ilman \
+Sairaus tulisi osallistua siihen: mit\'e4 sin\'e4 haluaisit, \
+Sin\'e4 olisit pyh\'e4; ei toistaisi v\'e4\'e4r\'e4\'e4, \
+Ja silti voisin voittaa: sin\'e4 olet, suuri Glamis, \
+Se, joka huutaa: "Sinun on teht\'e4v\'e4, jos sinulla on sit\'e4. \
+Ja mit\'e4 sin\'e4 pelk\'e4\'e4t tehd\'e4 \
+Ilman toivomusta pit\'e4isi kumota. " Hie nyt, \
+Ett\'e4 min\'e4 vuodatan henkeni korvaasi; \
+Ja kuritkaa minun kielelleni \
+Kaikki, mik\'e4 est\'e4\'e4 sinua kultaisesta kierroksesta, \
+Mik\'e4 kohtalo ja metafyysinen apu tuntuu \
+Voit saada sinut kruunuksi. \
+Anna Messenger\
+\
+Mik\'e4 on sanomasi? \
+sanansaattaja\
+Kuningas tulee t\'e4nne t\'e4n\'e4 iltana. \
+LADY MACBETH\
+Olet hullu sanoa: \
+Eik\'f6 sinun is\'e4nt\'e4si ole h\'e4nen kanssaan? jotka eiv\'e4t olleet niin, \
+Olisi ilmoittanut valmistelusta. \
+sanansaattaja\
+Joten ole hyv\'e4, ett\'e4 se on totta: \
+Er\'e4s miehist\'e4ni oli h\'e4nen nopeutensa, \
+Kuka melkein kuollut hengityksest\'e4 oli tuskin enemm\'e4n \
+Se olisi h\'e4nen viestins\'e4. \
+LADY MACBETH\
+Anna h\'e4nelle vaivaa; \
+H\'e4n tuo hienoja uutisia. \
+Poistu Messengerista\
+\
+Korva itse on rauha \
+Se horjuttaa Duncanin kohtalokasta sis\'e4\'e4nk\'e4ynti\'e4 \
+Minun taistelujen alla. Tule, sin\'e4 henget \
+Se on kuolevaiset ajatukset, \
+Ja t\'e4ytt\'e4k\'e4\'e4 minut kruunusta varpaisiin t\'e4yteen \
+Suora julma! tee paksu veri; \
+Pys\'e4yt\'e4 p\'e4\'e4sy ja kantelu, \
+Ett\'e4 ei ole monimutkaisia \uc0\u8203 \u8203 vierailuja luonnon \
+Ravista ajaa tavoitteeni, eik\'e4 pid\'e4 rauhaa kesken \
+Vaikutus ja se! Tule naisen rintoihin, \
+Ja ottakaa maitoni s\'e4rkyyn, murskatte palvelijoita, \
+Miss\'e4 tahansa sinun n\'e4ht\'e4v\'e4ss\'e4 aineistossasi \
+Odotat luonnon haudalla! Tule, paksu y\'f6, \
+Ja peit\'e4 sinut helvetin helteess\'e4, \
+Ett\'e4 ter\'e4v\'e4 veitsi ei n\'e4e haavaa, jota se tekee, \
+Ei taivas pepe\'e4 pime\'e4n peiton l\'e4pi, \
+Itke\'e4 "pid\'e4, pid\'e4!" \
+Sy\'f6t\'e4 MACBETH\
+\
+Great Glamis! arvoinen Cawdor! \
+Sek\'e4 molempien suurempi, kaikki-tuuli t\'e4st\'e4 eteenp\'e4in! \
+Sinun kirjeet ovat kuljetaneet minua pidemm\'e4lle \
+T\'e4m\'e4 tiet\'e4m\'e4tt\'f6myys on l\'e4sn\'e4, ja tunnen nyt \
+Tulevaisuus hetkess\'e4. \
+MACBETH\
+Rakas rakkaani, \
+Duncan tulee t\'e4nne t\'e4n\'e4 iltana. \
+LADY MACBETH\
+Ja milloin se menee n\'e4in? \
+MACBETH\
+Huomenna, kun h\'e4n aikoo. \
+LADY MACBETH\
+Oi koskaan \
+Aurinko aurinko n\'e4kee! \
+Kasvosi, minun thane, on kuin kirja, jossa miehet \
+Saatat lukea outoja asioita. Voit ly\'f6d\'e4 aikaa, \
+Kokeile aikaa; kannata tervetuloa silm\'e4si, \
+K\'e4si, kielenne: n\'e4yt\'e4 viattomalta kukalta, \
+Mutta ole k\'e4\'e4rme alle. H\'e4n on tulossa \
+Tarve on varattu: ja sinun on laitettava \
+T\'e4n\'e4 iltana hyv\'e4\'e4 liiketoimintaa minun l\'e4hett\'e4m\'e4\'e4ni; \
+Joka on meid\'e4n kaikkien y\'f6t\'e4 ja p\'e4iv\'e4\'e4 \
+Anna pelk\'e4st\'e4\'e4n suvereenin vallan ja p\'e4\'e4llik\'f6n. \
+MACBETH\
+Puhumme edelleen. \
+LADY MACBETH\
+Vain etsi\'e4 selke\'e4\'e4; \
+Muuttamaan suosiota koskaan on pel\'e4t\'e4: \
+J\'e4t\'e4 kaikki loput minulle. \
+He poistuvat\
+\
+TIEDOT VI. Ennen Macbethin linnaa.\
+Hautboyt ja taskulamput. Anna DUNCAN, MALCOLM, DONALBAIN, BANQUO, LENNOX, MACDUFF, ROSS, ANGUS ja osallistujat\
+DUNCAN\
+T\'e4m\'e4 linna on miellytt\'e4v\'e4 istuin; ilma \
+Nimbly ja sweetly suosittelee itse\'e4\'e4n \
+Lempeisiin aisteihimme. \
+Banquo\
+T\'e4m\'e4 kes\'e4vieras, \
+Temppeli-haunting martletti, ei hyv\'e4ksy, \
+H\'e4nen rakastetun miehens\'e4, taivaan hengenvetoon \
+Tuoksuu hymyilev\'e4 t\'e4\'e4ll\'e4: ei juttua, friisi, \
+Buttress, eik\'e4 kompromissi, mutta t\'e4m\'e4 lintu \
+H\'e4n teki riippuvan s\'e4ngyns\'e4 ja synnytt\'e4v\'e4n kehdon: \
+Miss\'e4 he roduttavat ja kumartavat, olen havainnut, \
+Ilma on herkk\'e4. \
+Anna LADY MACBETH\
+\
+DUNCAN\
+Katso, katso, kunniais\'e4nt\'e4mme! \
+Rakkaus, joka seuraa meit\'e4 joskus, on meid\'e4n ongelmamme, \
+Joka viel\'e4 kiit\'e4mme rakkaudesta. T\'e4ss\'e4 opettelen sinua \
+Kuinka sin\'e4 olet tarjonnut Jumalalle meid\'e4n kipujamme, \
+Kiitos ongelmallesi. \
+LADY MACBETH\
+Kaikki palvelumme \
+Jokaisessa pisteess\'e4 kahdesti tehty ja sitten tehty kaksinkertainen \
+Oliko k\'f6yhi\'e4 ja yksitt\'e4isi\'e4 yrityksi\'e4 taistelussa \
+Vastaan \uc0\u8203 \u8203 n\'e4it\'e4 kunnioitusta syv\'e4ll\'e4 ja laajalla tavalla \
+Sinun majesteettesi kuormaa talomme: vanhoille, \
+Ja my\'f6h\'e4iset arvot kasvoivat heille, \
+Me lep\'e4\'e4mme hermit. \
+DUNCAN\
+Miss\'e4 Cawdor on? \
+Ajoimme h\'e4net kannoilla, ja meill\'e4 oli tarkoitus \
+H\'e4n on h\'e4nen purjehtijansa, mutta h\'e4n ajoi hyvin; \
+Ja h\'e4nen suuri rakkautensa, ter\'e4v\'e4 kuin h\'e4nen kannattavansa, on holpi h\'e4nt\'e4 \
+H\'e4nen kotiinsa ennen meit\'e4. Reilu ja jalo is\'e4nt\'e4, \
+Olemme teid\'e4n vieraanne t\'e4n\'e4 iltana. \
+LADY MACBETH\
+Palvelijasi koskaan \
+Onko heid\'e4n, itse ja mik\'e4 on heid\'e4nsa, \
+Tehd\'e4 tilintarkastuksenne ylellisyydest\'e4nne, \
+Edelleen palauttaa omasi. \
+DUNCAN\
+Anna k\'e4tesi; \
+Suorita minulle is\'e4nt\'e4ni: rakastamme h\'e4nt\'e4 kovasti, \
+Ja jatkamme armonamme h\'e4nt\'e4 kohtaan. \
+Lep\'e4\'e4si, em\'e4nt\'e4. \
+He poistuvat\
+\
+TARKASTELU VII. Macbethin linna.\
+Hautboyt ja taskulamput. Anna viem\'e4riin ja monenlaisille palvelijoille ruokia ja palvelua ja siirr\'e4 lavalle. Sy\'f6t\'e4 sitten MACBETH\
+MACBETH\
+Jos se tapahtui, kun se tapahtui, niin voittakaa hyvin \
+Se tapahtui nopeasti: jos salamurha \
+Voisi taputtaa seuraukset ja saalis \
+H\'e4nen surmansa menestys; ett\'e4, mutta t\'e4m\'e4 isku \
+Saatat olla kaikki ja loppu kaikki t\'e4\'e4ll\'e4, \
+Mutta t\'e4\'e4ll\'e4, t\'e4ll\'e4 pankilla ja aikakaudella, \
+Me hypp\'e4simme el\'e4m\'e4st\'e4 tulemaan. Mutta n\'e4iss\'e4 tapauksissa \
+Meill\'e4 on viel\'e4 tuomio t\'e4\'e4ll\'e4; ett\'e4 me vain opettamme \
+V\'e4\'e4r\'e4t ohjeet, jotka opettavat, palaavat \
+R\'e4j\'e4ht\'e4\'e4 keksij\'e4: t\'e4m\'e4 tasapuolinen oikeudenmukaisuus \
+Kiit\'e4\'e4 myrkytt\'f6m\'e4n kalkkunamme ainesosia \
+Omaan huulet. H\'e4n on t\'e4\'e4ll\'e4 kaksinkertaisessa luottamuksessa; \
+Ensinn\'e4kin, koska olen h\'e4nen rouva ja h\'e4nen aiheensa, \
+Vahva sek\'e4 tekoa vastaan; sitten, h\'e4nen is\'e4nt\'e4ns\'e4, \
+Kuka pit\'e4isi murhaajansa vastaan \uc0\u8203 \u8203 sulkea oven, \
+En kanna veitsen itse\'e4ni. Lis\'e4ksi t\'e4m\'e4 Duncan \
+H\'e4n on saanut kyllin kyllin kyllin kykyjens\'e4 \
+Selv\'e4sti h\'e4nen suuressa toimistossaan, ett\'e4 h\'e4nen hyveens\'e4 \
+Tulee esiin enkelit, trumpet-kielell\'e4, vastaan \
+H\'e4nen l\'e4pimurtonsa syv\'e4 kaataminen; \
+Ja s\'e4\'e4li, kuten alasti syntynyt vauva, \
+Heiluttaen r\'e4j\'e4hdyst\'e4 tai taivaan kerubit, hevonen \
+Ilman sokeiden kuriirien, \
+Pudottakaa kauhistuttava teko jokaisella silm\'e4ll\'e4, \
+Kyyneleet hukuttavat tuulta. Minulla ei ole mit\'e4\'e4n kannustinta \
+Pist\'e4v\'e4t minun aikomukseni puolet, mutta vain \
+Vaulting kunnianhimo, joka o'erleaps itse \
+Ja putoaa toiselle. \
+Anna LADY MACBETH\
+\
+Miten nyt! mitk\'e4 uutiset? \
+LADY MACBETH\
+H\'e4n on melkein varma: miksi olet j\'e4tt\'e4nyt kammion? \
+MACBETH\
+Onko h\'e4n kysynyt minusta? \
+LADY MACBETH\
+Tied\'e4ttek\'f6, ettei h\'e4n ole? \
+MACBETH\
+Emme edisty en\'e4\'e4 t\'e4ss\'e4 liiketoiminnassa: \
+H\'e4n on kunnioittanut minua my\'f6h\'e4\'e4n; ja olen ostanut \
+Kultaiset mielipiteet kaikenlaisista ihmisist\'e4, \
+Mik\'e4 olisi kulunut nyt niiden uusin kiilto, \
+Ei ole sivuutettu niin pian. \
+LADY MACBETH\
+Oliko toivo humalassa \
+Miss\'e4 pukeudut itse? Onko se sitten nukkunut? \
+Ja her\'e4tt\'e4\'e4 sen nyt, n\'e4ytt\'e4\'e4 niin vihre\'e4lt\'e4 ja kalpealta \
+Mit\'e4 se teki niin vapaasti? T\'e4st\'e4 ajasta \
+Sellainen min\'e4 rakastan sinua. Olet sin\'e4 afeard \
+Se on sama omassa toiminnassasi ja arvossa \
+Kuten sin\'e4 olet toivossa? Olisitteko sit\'e4 \
+Jotka arvostavat el\'e4m\'e4\'e4, \
+Ja el\'e4\'e4 pelkuri omassa kunnioituksessasi, \
+Annan "en uskalla" odottaa "min\'e4," \
+Kuten k\'f6yh\'e4 kissa min\'e4 olen sanottu? \
+MACBETH\
+Prithee, rauha: \
+Uskallan tehd\'e4 kaiken, joka voi tulla ihmiseksi; \
+Kuka uskaltaa tehd\'e4 enemm\'e4n ei ole mit\'e4\'e4n. \
+LADY MACBETH\
+Mik\'e4 peto ei sitten ollut, \
+Mik\'e4 sai sinut murtamaan t\'e4m\'e4n yrityksen minulle? \
+Kun teet sen, niin olitte mies; \
+Ja enemm\'e4n kuin mit\'e4 olit, olisit \
+Ole niin paljon ihmist\'e4. Ei aikaa eik\'e4 paikka \
+Sitten tarttui, ja silti teet molemmat: \
+He ovat tehneet itsens\'e4 ja heid\'e4n kuntoaan nyt \
+V\'e4hent\'e4\'e4 sinua. Olen antanut ime\'e4 ja tiet\'e4\'e4 \
+Kuinka onnellista rakastaa tytt\'f6\'e4, joka lyps\'e4\'e4 minua: \
+Haluaisin, vaikka se hymyili kasvoillani, \
+K\'e4rsiv\'e4t minun n\'e4nni luutonta kumia, \
+Ja pudotti aivon ulos, olinko niin vannonut kuin sin\'e4 \
+T\'e4h\'e4n on tehty. \
+MACBETH\
+Jos meid\'e4n pit\'e4isi ep\'e4onnistua? \
+LADY MACBETH\
+Emme onnistu! \
+Mutta ruuhkista rohkeutta kiinni paikkaan, \
+Emme voi ep\'e4onnistua. Kun Duncan nukkuu - \
+Siell\'e4 pikemmin tulee h\'e4nen p\'e4iv\'e4nsa kova matka \
+Kehota h\'e4nt\'e4 - h\'e4nen kaksi kamarimusiikkiaan \
+Otanko viinin ja wassailin niin vakuuttavasti \
+T\'e4m\'e4 muisti, aivojen vartija, \
+Se on savu ja syyn saaminen \
+Vain limbeck: kun on swinish unta \
+Heid\'e4n pilaantuneet luonteensa ovat kuin kuolema, \
+Mit\'e4 sin\'e4 ja min\'e4 et voi tehd\'e4 \
+Vartioimaton Duncan? mit\'e4 ei ole asetettu \
+H\'e4nen siet\'e4m\'e4tt\'f6m\'e4t virkailijat, jotka kantavat syyllisyytens\'e4 \
+Meid\'e4n suuresta tungostamme? \
+MACBETH\
+Tuo vain miehet lapsille; \
+Sinun j\'e4rjett\'f6m\'e4n mettle olisi kirjoitettava \
+Ei vain miehi\'e4. Eik\'f6 sit\'e4 saada, \
+Kun olemme merkinneet verta niit\'e4 uneliaita kaksi \
+Omaa kamariaan ja k\'e4ytt\'e4nyt hyvin tikareitaan, \
+Ett\'e4 he ovat tehneet? \
+LADY MACBETH\
+Kuka uskaltaa ottaa sen vastaan, \
+Kun me tulemme tekem\'e4\'e4n suruksiamme ja huutoa \
+Kuolemansa j\'e4lkeen? \
+MACBETH\
+Olen asettunut ja taivutettu \
+Jokainen ruumiillinen agentti t\'e4h\'e4n kauhean feat. \
+Poissa, ja pilkata aika kaunein show: \
+V\'e4\'e4rien kasvojen on peitett\'e4v\'e4, mit\'e4 v\'e4\'e4r\'e4 syd\'e4n tiet\'e4\'e4. \
+He poistuvat\
+\
+ACT II\
+SCENE I. Macbethin linnan linna.\
+Anna BANQUO ja FLEANCE, jossa on taskulamppu ennen h\'e4nt\'e4\
+Banquo\
+Miten y\'f6, poika? \
+FLEANCE\
+Kuu on alasp\'e4in; En ole kuullut kelloa. \
+Banquo\
+Ja h\'e4n menee kaksitoista. \
+FLEANCE\
+Min\'e4 otan, "tis my\'f6hemmin, sir. \
+Banquo\
+Pid\'e4, ota miekoni. Siell\'e4 kasvatus taivaassa; \
+Heid\'e4n kynttil\'e4ns\'e4 ovat kaikki pois. Ota sin\'e4 mukaan my\'f6s. \
+Raskas kutsu on lyijyn p\'e4\'e4ll\'e4, \
+Ja viel\'e4 min\'e4 en nuku: armollinen voimat, \
+Rajoita minussa kirottuja ajatuksia, ett\'e4 luonto \
+Antaa tavan rentoutua! \
+Anna MACBETH ja palvelija soihtuilla\
+\
+Anna minulle miekka. \
+Kuka siell\'e4? \
+MACBETH\
+Yst\'e4v\'e4. \
+Banquo\
+Mit\'e4, herra, ei ole viel\'e4 levossa? Kuninkaan s\'e4nky: \
+H\'e4n on ollut ep\'e4tavallisessa mieless\'e4 ja \
+L\'e4hett\'e4k\'e4\'e4 suuret toimistotilisi. \
+T\'e4m\'e4 timantti h\'e4n tervehti vaimosi, \
+Nimen\'e4 useimmat yst\'e4v\'e4llinen em\'e4nt\'e4; ja sulje \
+Mittamattomassa sis\'e4ll\'f6ss\'e4. \
+MACBETH\
+Koska se on valmis, \
+Meid\'e4n tahdostamme tuli vikap\'e4\'e4llikk\'f6; \
+Mink\'e4 muuten pit\'e4isi olla vapaat ovat tehneet. \
+Banquo\
+Kaikki ovat hyvin. \
+Haaveilin viime y\'f6n\'e4 kolmesta outoa sisarta: \
+Teille he ovat osoittaneet totuuden. \
+MACBETH\
+En usko niist\'e4: \
+Kuitenkin, kun voimme pyyt\'e4\'e4 tunnin palvelemaan, \
+Me k\'e4yt\'e4mme sit\'e4 muutamissa sanoissa, \
+Jos annat ajan. \
+Banquo\
+Sinun yst\'e4v\'e4llisen vapaa-ajan. \
+MACBETH\
+Jos joudut luopumaan suostumuksestani, kun tis, \
+Se kunnioittaa sinua. \
+Banquo\
+Joten menet\'e4n mit\'e4\'e4n \
+Yritt\'e4ess\'e4\'e4n lis\'e4t\'e4 sit\'e4, mutta silti pit\'e4\'e4 \
+Keisari franchising ja uskollisuus selke\'e4, \
+Minua neuvotellaan. \
+MACBETH\
+Hyv\'e4 lep\'e4\'e4 aikaa! \
+Banquo\
+Kiitos, herra, kuten sin\'e4! \
+Exeunt BANQUO ja FLEANCE\
+\
+MACBETH\
+Mene houkuttele is\'e4\'e4si, kun juoma on valmis, \
+H\'e4n iskee kelloon. Ryhdy nukkumaan. \
+Poistu palvelijasta\
+\
+Onko t\'e4m\'e4 tikari, jonka n\'e4en ennen minua, \
+Kahva kohti k\'e4tt\'e4ni? Tule, anna minun kytke\'e4 sinut. \
+En ole sinua, ja silti min\'e4 n\'e4en sinut viel\'e4. \
+Et sin\'e4, kohtalokas visio, j\'e4rkev\'e4 \
+Tunne n\'e4k\'f6\'e4? vai sin\'e4 vain \
+Mielen tikari, v\'e4\'e4r\'e4 luomus, \
+Menetet\'e4\'e4n l\'e4mp\'f6alttiista aivoista? \
+N\'e4en sinut viel\'e4, muodoltaan tuntuvalla \
+Kuten t\'e4m\'e4, joka nyt piirr\'e4n. \
+Sin\'e4 johdat minut siihen tapaan, jolla min\'e4 menin; \
+Ja t\'e4llainen v\'e4line olin k\'e4ytt\'e4\'e4. \
+Minun silm\'e4ni on tehty tyhm\'e4t o \uc0\u8203 \u8203 'muut aistit, \
+Tai muitakin arvoa kaiken muun; N\'e4en sinut viel\'e4, \
+Ja sinun ter\'e4v\'e4sti ja v\'e4\'e4r\'e4ll\'e4 verenkuopasta, \
+Mik\'e4 ei ollut aikaisemmin. Ei ole sellaista: \
+Se on verinen liike, joka ilmoittaa \
+N\'e4in silm\'e4ni. Nyt on yksi puoli maailmasta \
+Luonto tuntuu kuolleelta, ja pahat unet v\'e4\'e4rink\'e4ytt\'e4v\'e4t \
+Verhon nukkuma; noituus juhlii \
+Pale Hecaten tarjonta ja murheellinen murha, \
+Alarum'd h\'e4nen sentinel, susi, \
+Kenen kersku on h\'e4nen kelloansa, n\'e4in h\'e4nen stealthy tahti. \
+Tarquinin h\'e4mm\'e4styneit\'e4 askeleita kohti h\'e4nen suunnitelmaansa \
+Liikkuu kuin aave. Olet varma ja kiinte\'e4 maa, \
+\'c4lk\'e4\'e4 kuulko minun askeleeni, mill\'e4 tavalla he kulkevat, pelk\'e4\'e4m\'e4tt\'e4 \
+Sinun kivi\'e4si ovat minun kalliimpia, \
+Ja ota nykyinen kauhu aikanaan, \
+Mik\'e4 nyt sopii siihen. Kun uhkaan, h\'e4n el\'e4\'e4: \
+Sanat teosten liian l\'e4mpim\'e4lle hengelle antaa. \
+Kello soi\
+\
+Min\'e4 menen, ja se tapahtuu; kello kutsuu minua. \
+Kuuntele, Duncan; sill\'e4 se on solmu \
+Se kutsuu sinut taivaaseen tai helvettiin. \
+poistuminen\
+\
+TIEDE II. Sama.\
+Anna LADY MACBETH\
+LADY MACBETH\
+Se, joka on heit\'e4 juonut, on tehnyt minut rohkeaksi; \
+Se, mik\'e4 on vaimentanut, on antanut minulle tulen. \
+Hark! Rauha! \
+Se oli owl, joka huusi, kuolettava kaiutin, \
+Joka antaa tosissaan hyv\'e4\'e4 y\'f6t\'e4. H\'e4n on siit\'e4: \
+Ovet ovat auki; ja ylimitoitetut aviomiehet \
+\'c4l\'e4 pilata heid\'e4n maksunsa snores: Olen huumeiden \
+heid\'e4n omaisuutensa, \
+Se kuolema ja luonto v\'e4itt\'e4v\'e4t heist\'e4, \
+Ovatko he el\'e4neet tai kuolevat. \
+MACBETH\
+[Sis\'e4puolen] Kuka siell\'e4 on? mit\'e4, ho! \
+LADY MACBETH\
+Alack, pelk\'e4\'e4n, ett\'e4 he ovat her\'e4nneet, \
+Ja "ei ole tehty. Yritet\'e4\'e4n eik\'e4 teosta \
+Ristiriidassa meit\'e4. Hark! Laitoin tikit valmiiksi; \
+H\'e4n ei voinut kaipaa heit\'e4. Eik\'f6 h\'e4n olisi muistanut \
+Is\'e4ni, kun h\'e4n nukkui, olin tehnyt. \
+Sy\'f6t\'e4 MACBETH\
+\
+Aviomieheni! \
+MACBETH\
+Olen tehnyt teot. Etk\'f6 kuulleet \'e4\'e4nt\'e4? \
+LADY MACBETH\
+Kuulin p\'f6ll\'f6n huudon ja sirkat itke\'e4. \
+Etk\'f6 puhu? \
+MACBETH\
+Kun? \
+LADY MACBETH\
+Nyt. \
+MACBETH\
+Kun laskein? \
+LADY MACBETH\
+Ay. \
+MACBETH\
+Hark! \
+Kuka on toinen kammio? \
+LADY MACBETH\
+Donalbain. \
+MACBETH\
+T\'e4m\'e4 on valitettava n\'e4k\'f6. \
+H\'e4nen k\'e4siss\'e4\'e4n\
+\
+LADY MACBETH\
+Tyhm\'e4 ajattelu, valitettavaa n\'e4kemyst\'e4. \
+MACBETH\
+On yksi nauroi nukkumassa, ja yksi huusi \
+'Murhata!' \
+Ett\'e4 he her\'e4ttiv\'e4t toisiaan: seisoin ja kuulin heid\'e4t: \
+Mutta he sanoivat rukouksilleen ja puhuivat heille \
+J\'e4lleen nukkumaan. \
+LADY MACBETH\
+Kaksi on j\'e4tetty yhteen. \
+MACBETH\
+Yksi huusi: "Jumala siunatkoon meit\'e4!" ja "Amen" toinen; \
+Niin kuin he olivat n\'e4hneet minua n\'e4iden h\'f6lm\'f6iden k\'e4siss\'e4. \
+Kuuntelemalla pelkoa, en voinut sanoa "Amen", \
+Kun he sanoivat "Jumala siunatkoon meit\'e4!" \
+LADY MACBETH\
+Harkitse sit\'e4 ei niin syv\'e4sti. \
+MACBETH\
+Mutta miksi en voi sanoa "Amen"? \
+Minulla oli eniten tarvetta siunausta, ja "Amen" \
+Tarttui kurkuni. \
+LADY MACBETH\
+N\'e4it\'e4 tekoja ei saa ajatella \
+N\'e4iden tapojen j\'e4lkeen; niin, se tekee meist\'e4 hulluksi. \
+MACBETH\
+Methoughtin kuulin \'e4\'e4nihuon "En en\'e4\'e4 nuku! \
+Macbeth ei tappaa nukkua ", viaton uni, \
+Unia, joka neuloa huuliherpiin, \
+Kuolema jokaisen p\'e4iv\'e4n el\'e4m\'e4st\'e4, rankka ty\'f6haute, \
+Balm of satuttaa mieli\'e4, loistava luonnon toinen kurssi, \
+P\'e4\'e4llikk\'f6 ravitsemus el\'e4m\'e4ss\'e4, - \
+LADY MACBETH\
+Mit\'e4 tarkoitat? \
+MACBETH\
+Silti se huusi: "\'c4l\'e4 unta en\'e4\'e4!" koko taloon: \
+"Glamis on murhannut nukkua, joten Cawdor \
+\'c4l\'e4 nuku en\'e4\'e4; Macbeth ei en\'e4\'e4 nuku. \
+LADY MACBETH\
+Kuka se itki n\'e4in? Miksi, \
+Teet jyrk\'e4n voimanne, ajattelematta \
+Niin aivotusta asioista. Menk\'e4\'e4 vett\'e4, \
+Ja pese t\'e4m\'e4 saastainen todistus k\'e4dest\'e4si. \
+Miksi tuokit n\'e4m\'e4 tikarit paikalta? \
+Heid\'e4n on ment\'e4v\'e4 siell\'e4: mene kuljettamaan niit\'e4; ja tahra \
+Unelias grooms verell\'e4. \
+MACBETH\
+En mene en\'e4\'e4: \
+Pelk\'e4\'e4n ajatella mit\'e4 olen tehnyt; \
+Katsokaa uudelleen, en usko. \
+LADY MACBETH\
+Haitallinen tarkoitus! \
+Anna minulle tikarit: nukkuminen ja kuolleet \
+Ovat kuitenkin kuvia: 'tis lapsuuden silm\'e4 \
+Se pelk\'e4\'e4 maalattua paholaista. Jos h\'e4n vuotaa, \
+Min\'e4 tahdon lohduttaa kasvojen kasvoja; \
+Sill\'e4 heid\'e4n on tuntenut syyllisyytens\'e4. \
+Exit. Kolkuttaa sis\'e4ll\'e4\
+\
+MACBETH\
+Mist\'e4 t\'e4m\'e4 koputtaa? \
+Kuinka ei ole minun kanssani, kun jokainen melu h\'e4iritsee minua? \
+Mitk\'e4 k\'e4det ovat t\'e4\'e4ll\'e4? ha! he karkottavat silm\'e4ni. \
+Kaikki suuri Neptunuksen valtameri pest\'e4\'e4 t\'e4m\'e4n veren \
+Puhdista k\'e4dest\'e4ni? Ei, t\'e4m\'e4 k\'e4si mieluummin \
+Summittaiset meret incarnadine, \
+Tee vihre\'e4 punainen. \
+Sy\'f6t\'e4 LADY MACBETH uudelleen\
+\
+LADY MACBETH\
+Minun k\'e4teni ovat sinun v\'e4risi; mutta min\'e4 h\'e4pe\'e4n \
+K\'e4yt\'e4 syd\'e4nt\'e4 niin valkoisena. \
+Kolkuttaa sis\'e4ll\'e4\
+\
+Kuulen koputtavan \
+Etel\'e4ss\'e4 merkint\'e4: el\'e4k\'e4\'e4mme meid\'e4n kamarimme; \
+V\'e4h\'e4n vett\'e4 puhdistaa meid\'e4t t\'e4st\'e4 teosta: \
+Kuinka helppoa se on! Vakavuus \
+J\'e4tti sinut ilman valvontaa. \
+Kolkuttaa sis\'e4ll\'e4\
+\
+Hark! enemm\'e4n koputtaa. \
+Ryhdy y\'f6pukuusi, niin jos soitat meille, \
+Ja n\'e4yt\'e4 meid\'e4t katsojiksi. \'c4l\'e4 hukkaa \
+Niin huonosti ajatuksissasi. \
+MACBETH\
+Tiet\'e4\'e4kseni minun tekoni, \'e4l\'e4 parhaiten tied\'e4 itse\'e4ni. \
+Kolkuttaa sis\'e4ll\'e4\
+\
+Wake Duncan teid\'e4n koputtaa! Olisin voinut! \
+He poistuvat\
+\
+TARKASTELU III. Sama.\
+Kolkuttaa sis\'e4ll\'e4. Sy\'f6t\'e4 Porter\
+portieeri\
+T\'e4ss\'e4 on todella koputus! Jos \
+mies oli helvetin portin porter, h\'e4nen pit\'e4isi olla \
+vanha k\'e4\'e4nt\'e4\'e4 avaimen. \
+Kolkuttaa sis\'e4ll\'e4\
+\
+Knock, \
+kolhi, kolhi! Kuka siell\'e4 on, min\'e4 olen \
+Beelzebub? T\'e4ss\'e4 on maanviljelij\'e4, joka on ripustettu \
+itse\'e4ni runsauden odotuksesta: tulkaa sis\'e4\'e4n \
+aika; ovat lautasliinat teid\'e4n ymp\'e4rill\'e4si; t\'e4ss\'e4 \
+sin\'e4 hikoilet. \
+Kolkuttaa sis\'e4ll\'e4\
+\
+Knock, \
+knock! Kuka siell\'e4 on, toisessa paholaisessa \
+nimi? Usko, t\'e4ss\'e4 on vastakkainasettelija, joka voisi \
+vannovat molemmat asteikot kummassakin asteikossa; \
+joka on tehnyt kauhistuksen tarpeeksi Jumalan t\'e4hden, \
+mutta ei voinut erehty\'e4 taivaaseen: Oi, tule \
+sis\'e4\'e4n, vastaaja. \
+Kolkuttaa sis\'e4ll\'e4\
+\
+Knock, \
+kolhi, kolhi! Kuka siell\'e4? Usko, t\'e4ss\'e4 on \
+Englanti r\'e4\'e4t\'e4l\'f6i t\'e4nne, varastamasta \
+ranskalainen letku: tule r\'e4\'e4t\'e4l\'f6id\'e4; t\'e4ss\'e4 voit \
+paista hanhi. \
+Kolkuttaa sis\'e4ll\'e4\
+\
+Knock, \
+knock; koskaan hiljaa! Mik\'e4 sin\'e4 olet? Mutta \
+t\'e4m\'e4 paikka on liian kylm\'e4 helvetin puolesta. Min\'e4 olen paholainen porter \
+en en\'e4\'e4: olin ajatellut p\'e4\'e4st\'e4nyt sis\'e4\'e4n \
+jotkut ammatit, jotka menev\'e4t kukkakimppu \
+tapa ikuiseen keitolle. \
+Kolkuttaa sis\'e4ll\'e4\
+\
+Anon, anon! Rukoilen sinua, muistan porterin. \
+Avaa portin\
+\
+Sy\'f6t\'e4 MACDUFF ja LENNOX\
+\
+MACDUFF\
+Oliko niin my\'f6h\'e4ist\'e4, yst\'e4v\'e4, ennen kuin l\'e4hdit nukkumaan, \
+Teet niin my\'f6h\'e4\'e4n? \
+portieeri\
+"Usko, sir \
+toinen kakku: ja juo, herra, on hieno \
+kolme asiaa. \
+MACDUFF\
+Mit\'e4 kolmesta asiasta juoda erityisen pirist\'e4v\'e4? \
+portieeri\
+Naimisiin, herra, nen\'e4maalaus, nukkuminen ja \
+virtsa. Lechery, herra, se her\'e4tt\'e4\'e4 ja ep\'e4r\'f6i; \
+se her\'e4tt\'e4\'e4 halun, mutta se vie \
+pois suorituskyky\'e4: siksi paljon juoda \
+voidaan sanoa olevan ep\'e4suorittelija lechery: \
+se tekee h\'e4nest\'e4, ja se mars h\'e4net; se asettaa \
+h\'e4net, ja se vie h\'e4net pois; se suostuttelee h\'e4nt\'e4, \
+ja kurittaa h\'e4net; tekee h\'e4nest\'e4 seisomaan, ja \
+ei seiso; lopputuloksena, ep\'e4selv\'e4 \
+nukkumassa, ja antaa h\'e4nelle valheen j\'e4tt\'e4\'e4 h\'e4net. \
+MACDUFF\
+Uskon, ett\'e4 juoma antoi sinulle valheen viime y\'f6n\'e4. \
+portieeri\
+Se teki, herra, min\'e4 olen kurpitsa \
+min\'e4, mutta min\'e4 palkitsin h\'e4net valheestaan; ja min\'e4 \
+ajattele, oli liian vahva h\'e4nelle, vaikka h\'e4n otti \
+jopa jalkani jossakin vaiheessa, mutta silti muutin valettuun \
+h\'e4nt\'e4. \
+MACDUFF\
+Onko sinun is\'e4nt\'e4si sekoittamassa? \
+Sy\'f6t\'e4 MACBETH\
+\
+Koputus on her\'e4tt\'e4nyt h\'e4net; sielt\'e4 h\'e4n tulee. \
+LENNOX\
+Hyv\'e4\'e4 huomenta, jalo herra. \
+MACBETH\
+Hyv\'e4\'e4 huomenta, molemmat. \
+MACDUFF\
+Onko kuningas her\'e4tt\'e4v\'e4, arvoinen? \
+MACBETH\
+Ei viel\'e4. \
+MACDUFF\
+H\'e4n k\'e4skenyt minut soittamaan ajoissa h\'e4nelle: \
+Olen melkein liukastunut tunnissa. \
+MACBETH\
+Tuokaan h\'e4net. \
+MACDUFF\
+Tied\'e4n, ett\'e4 t\'e4m\'e4 on iloinen vaiva sinulle; \
+Mutta viel\'e4 'tis yksi. \
+MACBETH\
+Ty\'f6mme ilahduttaa fysiikan kipua. \
+T\'e4m\'e4 on ovi. \
+MACDUFF\
+Tehd\'e4n niin rohkeita soittamaan, \
+Minulle on vain rajoitettu palvelu. \
+poistuminen\
+\
+LENNOX\
+Menk\'e4\'e4 siis kuningas t\'e4n\'e4 p\'e4iv\'e4n\'e4? \
+MACBETH\
+H\'e4n tekee: h\'e4n nimesi niin. \
+LENNOX\
+Y\'f6 on ollut s\'e4\'e4litt\'e4v\'e4\'e4: miss\'e4 me laitamme, \
+Savupiiput puhallettiin alas; ja kuten he sanovat, \
+Valitukset kuulivat 'ilmaa; outoa kuolemaa, \
+Ja profetoimalla korostuksilla kauheaa \
+Paljon palamista ja sekavia tapahtumia \
+Uusi ilkikurinen ilmi\'f6: h\'e4m\'e4r\'e4 lintu \
+Kiehtelivat el\'e4v\'e4n y\'f6n: jotkut sanovat, maa \
+Oli kuume ja ravisteli. \
+MACBETH\
+"Karkea y\'f6. \
+LENNOX\
+Nuori muisto ei voi olla rinnakkainen \
+Kaveri siihen. \
+Sy\'f6t\'e4 uudelleen MACDUFF\
+\
+MACDUFF\
+O kauhu, kauhu, kauhu! Tongue tai syd\'e4n \
+Ei voi synty\'e4 eik\'e4 nimitt\'e4\'e4 sinua! \
+MACBETH LENNOX\
+Mik\'e4 h\'e4t\'e4n\'e4. \
+MACDUFF\
+Sekavuus on nyt tehnyt h\'e4nen mestariteoksensa! \
+Useimmat murhanhimoinen murha on murenut ope \
+Herran voideltu temppeli, ja h\'e4n tappoi sinut \
+El\'e4m\'e4 rakennus! \
+MACBETH\
+Mit\'e4 sin\'e4 sanot? el\'e4m\'e4? \
+LENNOX\
+Tarkoitatko h\'e4nen majesteettinsa? \
+MACDUFF\
+L\'e4hestyt kammioon ja h\'e4vit\'e4 n\'e4k\'f6si \
+Uuden Gorgon kanssa: \'e4l\'e4 anna minun puhua; \
+Katso ja puhu itsellenne. \
+Exit MACBETH ja LENNOX\
+\
+Her\'e4t\'e4, hereill\'e4! \
+Ring alarum-bell. Murha ja petos! \
+Banquo ja Donalbain! Malcolm! hereill\'e4! \
+Irrota t\'e4m\'e4 nukkuma uninen, kuoleman v\'e4\'e4renn\'f6s, \
+Ja katsokaa itse kuolemaa! yl\'f6s, yl\'f6s ja n\'e4hd\'e4 \
+Suuri kuoleman kuva! Malcolm! Banquo! \
+Koska teid\'e4n hautoistanne nousevat ja vaeltavat kuin spritit, \
+L\'f6yt\'e4\'e4 t\'e4m\'e4 kauhu! Soita kelloa. \
+Bell soi\
+\
+Anna LADY MACBETH\
+\
+LADY MACBETH\
+Mik\'e4 liiketoiminta, \
+Se, ett\'e4 t\'e4llainen hirve\'e4 trumpetti soittaa \
+Talon ratap\'f6lkyt? puhua, puhua! \
+MACDUFF\
+Oi lempe\'e4 nainen, \
+"Ei kuulet, mit\'e4 voin puhua: \
+Toistuminen, naisen korvalla, \
+Murtaisi, kun se putosi. \
+Anna BANQUO\
+\
+O Banquo, Banquo, \
+Meid\'e4n kuninkaallisen mestarin murhasta! \
+LADY MACBETH\
+Voi, valitettavasti! \
+Mik\'e4 meid\'e4n talossamme? \
+Banquo\
+Liian julma miss\'e4 tahansa. \
+Hyv\'e4 Duff, odotin, ristiriidassa itsesi kanssa, \
+Ja sanon, ett\'e4 se ei ole niin. \
+Sy\'f6t\'e4 MACBETH ja LENNOX uudelleen ROSSin kanssa\
+\
+MACBETH\
+Olisinko kuollut tuntia ennen t\'e4t\'e4 mahdollisuutta, \
+Olin el\'e4nyt siunattu aika; sill\'e4 t\'e4st\'e4 hetkest\'e4, \
+Kuolevuuteen ei ole mit\'e4\'e4n vakavaa: \
+Kaikki on vain leluja: tunnustus ja armo on kuollut; \
+El\'e4m\'e4n viini piirret\'e4\'e4n, ja pelkk\'e4 viina \
+J\'e4tet\'e4\'e4n t\'e4m\'e4 holvi kerskaamaan. \
+Anna MALCOLM ja DONALBAIN\
+\
+DONALBAIN\
+Mik\'e4 on pahaa? \
+MACBETH\
+Olet ja et tied\'e4: \
+Kev\'e4\'e4n, p\'e4\'e4n, veren l\'e4hde \
+On pys\'e4htynyt; juuri sen l\'e4hde on pys\'e4htynyt. \
+MACDUFF\
+Sinun kuninkaallisen is\'e4nne murha. \
+MALCOLM\
+Oi kuka? \
+LENNOX\
+H\'e4nen kamarinsa, kuten se tuntui, oli tehnyt: \
+Heid\'e4n k\'e4tens\'e4 ja kasvonsa olivat verhottu; \
+Niin olivat my\'f6s niiden tikarit, jotka l\'f6ysiv\'e4t meit\'e4 \
+Niiden tyynyjen: \
+He tuijottivat ja h\'e4iritsiv\'e4t; ei ihmisen el\'e4m\'e4\'e4 \
+Oli luotettava heid\'e4n kanssaan. \
+MACBETH\
+Oi, mutta teen parannuksen minua viattomuudesta, \
+Se tapasin heid\'e4t. \
+MACDUFF\
+Miksi teit niin? \
+MACBETH\
+Kuka voi olla viisas, h\'e4mm\'e4stynyt, lauhkea ja raivoissaan, \
+Uskollinen ja neutraali, hetkess\'e4? Ei mies: \
+Retkikunta minun v\'e4kivaltainen rakkaani \
+Pudota pauser, syy. T\'e4\'e4ll\'e4 makasi Duncan, \
+H\'e4nen hopeahiutansa leikattiin kultaisella verell\'e4\'e4n; \
+Ja h\'e4nen gash'd-punkit n\'e4ytt\'e4v\'e4t luonnolliselta rikkomukselta \
+Ristin tuhlaava sis\'e4\'e4nk\'e4ynti: sinne, murhaajat, \
+Jyrk\'e4sti heid\'e4n kauppansa v\'e4reiss\'e4, heid\'e4n tikareitaan \
+Taitamattomasti pudonnut gore: kuka voisi pid\'e4tty\'e4, \
+Se oli syd\'e4n rakastaa, ja siin\'e4 syd\'e4mess\'e4 \
+Rohkeutta tehd\'e4 rakkauden kno wn? \
+LADY MACBETH\
+Auta minua n\'e4in, ho! \
+MACDUFF\
+Katso naiselle. \
+MALCOLM\
+[Ainoastaan \uc0\u8203 \u8203 DONALBAIN] Miksi pid\'e4mme kielemme, \
+Eniten voi v\'e4itt\'e4\'e4 t\'e4m\'e4n v\'e4itteen meid\'e4n puolestamme? \
+DONALBAIN\
+[MALCOLMin ohella] Mit\'e4 t\'e4\'e4ll\'e4 puhutaan, \
+jossa kohtalo, \
+Suojaa kairausreik\'e4\'e4n, voi kiirehti\'e4 ja tartuttaa meid\'e4t? \
+Poistu; \
+Kyyneleit\'e4 ei ole viel\'e4 valmistettu. \
+MALCOLM\
+[Ainoastaan \uc0\u8203 \u8203 DONALBAIN] Ei my\'f6sk\'e4\'e4n voimakasta surua \
+Liikkeen p\'e4\'e4ll\'e4. \
+Banquo\
+Katso naiselle: \
+LADY MACBETH toteutetaan\
+\
+Ja kun meid\'e4n alastomme heikkoudet ovat piilossa, \
+Se k\'e4rsiv\'e4t altistumisesta, tapaamme, \
+Ja kyseenalaista t\'e4m\'e4 kaikkein verinen teos, \
+Tied\'e4 sit\'e4 edelleen. Pelot ja huolenaiheet ravistelevat meit\'e4: \
+Jumalan suuressa k\'e4dess\'e4 seisoin; ja sielt\'e4 \
+Taistelen paljasta taipumattomuutta vastaan \
+Kauhistuttavasta pahoista. \
+MACDUFF\
+Ja niin min\'e4kin. \
+KAIKKI\
+Joten kaikki. \
+MACBETH\
+Let's lyhyesti laittaa miehellinen valmius, \
+Ja tapaan yhdess\'e4 salissa. \
+KAIKKI\
+Hyvin tyytyv\'e4inen. \
+Poistetaan kaikki paitsi Malcolm ja Donalbain.\
+\
+MALCOLM\
+Mit\'e4 aiot tehd\'e4? \'c4lk\'e4\'e4mme yhdy heihin: \
+Osoittamaton suru on toimisto \
+Mik\'e4 v\'e4\'e4r\'e4 mies tekee helposti. Tulen Englantiin. \
+DONALBAIN\
+Irlantiin I; meid\'e4n eristyksemme \
+Pid\'e4 meid\'e4t turvallisemman: miss\'e4 olemme, \
+Miehen hymyiss\'e4 on tikarit: l\'e4hikuva veress\'e4, \
+L\'e4hemp\'e4n\'e4 verinen. \
+MALCOLM\
+T\'e4m\'e4 murhaava akseli, joka ammuttiin \
+Ei ole viel\'e4 valaistu ja turvallisin tapa \
+On v\'e4ltt\'e4\'e4 tavoite. Siksi hevoselle; \
+\'c4lk\'e4\'e4mme olko mukavasti lomaa, \
+Mutta muutos: t\'e4ss\'e4 varkaudessa on takuuta \
+Mik\'e4 varastaa itsens\'e4, kun j\'e4ljell\'e4 ei ole armoa. \
+He poistuvat\
+\
+TARKASTELU IV. Macbethin linnan ulkopuolella.\
+Anna ROSS ja vanha mies\
+Vanha mies\
+Kuusikymment\'e4 ja kymmenen muistan hyvin: \
+Miss\'e4 m\'e4\'e4r\'e4ss\'e4 olen n\'e4hnyt \
+Tuntia kauhea ja asiat outoa; mutta t\'e4m\'e4 kipe\'e4 y\'f6 \
+H\'e4mm\'e4stytt\'e4\'e4 entisi\'e4 tiet\'e4myksi\'e4. \
+ROSS\
+Ah, hyv\'e4 is\'e4, \
+Sin\'e4 n\'e4et, taivaat, jotka ovat ihmisen teoista huolestuneita, \
+Uhkaavat h\'e4nen verisen vaiheensa: kelloon, "tis p\'e4iv\'e4, \
+Ja silti pime\'e4 y\'f6 kuristelee matkalaukun: \
+Is't y\'f6n valta tai p\'e4iv\'e4 h\'e4pe\'e4, \
+T\'e4m\'e4 pimeys tekee maan kasvot entomb, \
+Kun el\'e4v\'e4 valo suutelee sit\'e4? \
+Vanha mies\
+"Tis luonnoton, \
+Niin kuin teko on tehty. Viime tiistaina, \
+Falcon, joka kohoaa h\'e4nen ylpeytens\'e4 paikkaan, \
+Oliko mousing p\'f6ll\'f6 hawk'd at ja kill'd. \
+ROSS\
+Ja Duncanin hevoset - jokin outo ja varma asia - \
+Kaunis ja nopea, heid\'e4n rotunsa miekat, \
+Turn'd luonnonvaraisia, mursi niiden pys\'e4htyy, \
+Contending "gaint tottelevaisuus, kuten he tekisiv\'e4t \
+Sotaa ihmiskunnan kanssa. \
+Vanha mies\
+"He sanoivat sy\'f6v\'e4n toisiaan. \
+ROSS\
+He tekiv\'e4t niin, silm\'e4ns\'e4 h\'e4mm\'e4stykseksi \
+Tuo look'd upon't. T\'e4ss\'e4 tulee hyv\'e4 Macduff. \
+Anna MACDUFF\
+\
+Kuinka menee maailmaan, herra, nyt? \
+MACDUFF\
+Miksi et n\'e4e sinua? \
+ROSS\
+Ei tiedet\'e4 kuka teki t\'e4m\'e4n enemm\'e4n kuin verinen teko? \
+MACDUFF\
+Ne, jotka Macbeth tappoi. \
+ROSS\
+Valitettavasti p\'e4iv\'e4! \
+Mit\'e4 hyvi\'e4 he voisivat tehd\'e4? \
+MACDUFF\
+He olivat suborn'd: \
+Malcolm ja Donalbain, kuninkaan kaksi poikaa, \
+Ovatko he palaneet ja pakenivat; joka asettaa heid\'e4t \
+Ep\'e4ilys teoksesta. \
+ROSS\
+"Gainst luonto viel\'e4! \
+S\'e4\'e4st\'e4v\'e4 kunnianhimo, joka kelpaa \
+Oman el\'e4m\'e4nne keinot! Sitten "eniten pid\'e4 \
+Suvereniteetti lankeaa Macbethille. \
+MACDUFF\
+H\'e4n on jo nimetty ja mennyt Sconeen \
+Sijoitetaan. \
+ROSS\
+Miss\'e4 Duncanin ruumis on? \
+MACDUFF\
+Pidet\'e4\'e4n Colmekillille, \
+Edelt\'e4j\'e4ns\'e4 pyh\'e4 varasto, \
+Ja luidensa vartija. \
+ROSS\
+Aiotko kaventaa? \
+MACDUFF\
+Ei, serkku, tulen Fifeyn. \
+ROSS\
+No siell\'e4 min\'e4. \
+MACDUFF\
+No, n\'e4etk\'f6 asiat hyvin siell\'e4: adieu! \
+Jotta vanhoja vaatteita ei voi istua helpommin kuin uusi! \
+ROSS\
+Hyv\'e4sti, is\'e4. \
+Vanha mies\
+Jumalan luonne tulee sinun kanssasi; ja niiden kanssa \
+T\'e4m\'e4 tekisi hyv\'e4\'e4 huonoa ja vihollisten yst\'e4vi\'e4! \
+He poistuvat\
+\
+ACT III\
+TIEDOT I. Forres. Palatsi.\
+Anna BANQUO\
+Banquo\
+Sinulla on nyt: kuningas, Cawdor, Glamis, kaikki, \
+Kun outoja naisia \uc0\u8203 \u8203 luvattiin, ja pelk\'e4\'e4n, \
+Sin\'e4 pelk\'e4\'e4t kaikkein foully for't: viel\'e4 sanottiin \
+Se ei saisi olla sinun j\'e4lkel\'e4isi, \
+Mutta minun pit\'e4isi olla juuri ja is\'e4 \
+Monista kuninkaista. Jos niist\'e4 tulee totuus - \
+Niinkuin sin\'e4, Macbeth, heid\'e4n puheensa loistavat - \
+Miksi teid\'e4n hyvyydell\'e4nne totuuksilla, \
+Eiv\'e4tk\'f6 he ole minun oraklesini, \
+Ja asettanut minut toivoon? Mutta hiljainen! ei enemp\'e4\'e4. \
+Sennet kuulosti. Anna MACBETH, kuningas, LADY MACBETH, kuningatar, LENNOX, ROSS, lordit, naiset ja osallistujat\
+\
+MACBETH\
+T\'e4ss\'e4 on p\'e4\'e4vieras. \
+LADY MACBETH\
+Jos h\'e4net olisi unohdettu, \
+Se oli ollut kuilu suuressa juhlaessamme, \
+Ja kaikki asia on ep\'e4miellytt\'e4v\'e4. \
+MACBETH\
+Y\'f6ll\'e4 meill\'e4 on juhlallinen illallinen herra, \
+Ja pyyd\'e4n l\'e4sn\'e4oloasi. \
+Banquo\
+Anna korkeutesi \
+Hallitse minua; johon velvollisuuteni \
+Ovatko erottamattomimmat solmit \
+Jatkuvasti neuloa. \
+MACBETH\
+Kuljetko sin\'e4 t\'e4n\'e4 iltap\'e4iv\'e4n\'e4? \
+Banquo\
+Hyv\'e4, hyv\'e4 herrani. \
+MACBETH\
+Meid\'e4n olisi pit\'e4nyt toisaalta toivoa teid\'e4n hyvi\'e4 neuvoja, \
+Joka on edelleen niin vakava ja vauras, \
+T\'e4m\'e4np\'e4iv\'e4inen neuvosto; mutta teemme huomenna. \
+Eik\'f6 ole kaukana ratsastaa? \
+Banquo\
+Niin pitk\'e4lle, herrani, kuten t\'e4ytt\'e4\'e4 ajan \
+"Twixt t\'e4m\'e4 ja illallinen: mene ei hevoseni paremmin, \
+Minun on tullut y\'f6n lainanottaja \
+Pime\'e4ss\'e4 tunnissa tai kahdessa. \
+MACBETH\
+\'c4lk\'e4\'e4 t\'e4yt\'e4 juhlaamme. \
+Banquo\
+Herrani, en aio. \
+MACBETH\
+Kuulimme, ett\'e4 veriset serkut ovat sallittuja \
+Englannissa ja Irlannissa, eiv\'e4t tunnusta \
+Heid\'e4n julmainen murhaaja, t\'e4yttiv\'e4t kuulijat \
+Oudallisella keksinn\'f6ll\'e4, mutta siit\'e4 huomenna, \
+Silloin meill\'e4 on valtion syy \
+Kaipaavat meit\'e4 yhdess\'e4. Hie te hevoselle: adieu, \
+Kunnes palaat y\'f6ll\'e4. Goes Fleance kanssasi? \
+Banquo\
+Aina, hyv\'e4 herrani: aikaemme soittaa. \
+MACBETH\
+Toivotan hevosi nopeaksi ja varmaksi jalka; \
+Ja niin min\'e4 kiit\'e4n sinua heid\'e4n selk\'e4ns\'e4 puolesta. J\'e4\'e4hyv\'e4iset. \
+Lopeta BANQUO\
+\
+Jokaisen ihmisen on oltava h\'e4nen aikansa is\'e4nt\'e4 \
+Noin seitsem\'e4n y\'f6: tehd\'e4 yhteiskunnalle \
+Makeampi tervetuloa, pid\'e4mme itsemme \
+Ainoa illallinen-aikaa yksin: kun taas Jumala on kanssasi! \
+Poistetaan kaikki, paitsi MACBETH ja avustaja\
+\
+Sirrah, sana teid\'e4n kanssanne: ota mukaan n\'e4m\'e4 miehet \
+Meid\'e4n ilo? \
+liittyv\'e4\
+He ovat, herrani, ilman palatsin porttia. \
+MACBETH\
+Tuo ne edess\'e4mme. \
+Poistumisk\'e4ytt\'e4j\'e4\
+\
+N\'e4in ei ole mit\'e4\'e4n; \
+Mutta olla turvallisesti n\'e4in. - Pelk\'e4mme Banquossa \
+Stick syv\'e4; ja h\'e4nen rotuun luonto \
+Hallitsee sit\'e4, mik\'e4 olisi pelk\'e4\'e4: "t\'e4m\'e4 paljon h\'e4n uskaltaa; \
+Ja h\'e4nen mieless\'e4\'e4n, \
+H\'e4nell\'e4 on viisaus, joka ohjaa h\'e4nen voimansa \
+Toimimaan turvallisesti. Ei ole muuta kuin h\'e4n \
+Kenen min\'e4 pelk\'e4\'e4n, ja h\'e4nen alla, \
+Minun Genius on nuhteltunut; kuten sanotaan, \
+Mark Antonyn oli Caesar. H\'e4n chid sisaret \
+Kun ensin heitit kuninkaaksi minulle, \
+Ja he puhuivat heille: sitten profeetan kaltainen \
+He ottivat h\'e4nelle is\'e4ns\'e4 kuninkaille: \
+P\'e4\'e4ni p\'e4\'e4stiin hedelm\'e4tt\'f6m\'e4ksi kruunuksi, \
+Ja laita karuinen valtikka kurjuudessani, \
+Siit\'e4 p\'e4\'e4dyt\'e4\'e4n avaamattomalla k\'e4dell\'e4, \
+Mik\'e4\'e4n poikani ei onnistu. Jos n\'e4in ei ole, \
+Banquon kysymyksess\'e4 olen esitt\'e4nyt mieleni; \
+Heille armollinen Duncan on murhattu; \
+Laita r\'f6yhke\'e4t rauhaan asti \
+Vain heille; ja minun ikuinen jalokivi \
+Kun otetaan huomioon ihmisen yhteinen vihollinen, \
+Tehd\'e4 heid\'e4t kuninkaaksi, Banquo-kuninkaiden siement\'e4! \
+Sen sijaan, tule kohtalon luetteloon. \
+Ja mestari minua sanomaan! Kuka siell\'e4! \
+Sy\'f6t\'e4 uudelleen Vartija, kaksi tappajaa\
+\
+Mene nyt ovelle ja pysyk\'e4\'e4 siell\'e4 kunnes soitat. \
+Poistumisk\'e4ytt\'e4j\'e4\
+\
+Eik\'f6 eilen puhuimme yhdess\'e4? \
+Ensimm\'e4inen murhaaja\
+Se oli, joten kiitos korkeutesi. \
+MACBETH\
+No sitten, nyt \
+Oletko pit\'e4nyt puheistani? Tiet\'e4\'e4 \
+Ett\'e4 h\'e4n oli aikoina, jotka pitiv\'e4t sinua \
+Joten onnen, jonka luulit olleen \
+Meid\'e4n viaton itsemme: t\'e4m\'e4 tein hyv\'e4\'e4 sinulle \
+Viimeisess\'e4 konferenssissamme l\'e4p\'e4issyt sinut koetukselle, \
+Kuinka sin\'e4 k\'e4si k\'e4dess\'e4si, kuinka ristisi, \
+v\'e4lineet, \
+Kuka teki heid\'e4n kanssaan ja kaiken muun, mik\'e4 voisi \
+Puoleksi sielulle ja k\'e4sitykselle hullu \
+Sano "n\'e4in Banquo". \
+Ensimm\'e4inen murhaaja\
+Annoit sen meille tiedoksi. \
+MACBETH\
+Tein niin ja l\'e4hdin eteenp\'e4in, mik\'e4 on nyt \
+Toinen tapaamme. L\'f6yd\'e4tk\'f6 \
+K\'e4rsiv\'e4llisyytesi on niin luonteeltaan hallitseva \
+Voit p\'e4\'e4st\'e4\'e4 t\'e4m\'e4n menem\'e4\'e4n? Oletko niin mahtavaa \
+Rukoilemaan t\'e4t\'e4 hyv\'e4\'e4 miest\'e4 ja h\'e4nen kysymyksens\'e4 puolesta, \
+Jonka raskas k\'e4si on kaivaa sinut hautaan \
+Ja k\'f6yh\'e4si sinun ikuisesti? \
+Ensimm\'e4inen murhaaja\
+Olemme miehi\'e4, herrat. \
+MACBETH\
+Aina, luettelossa te menette ihmisille; \
+Koska koirat ja vinttikoirat, mongrels, spaniels, kurkku, \
+Karat, vesimatot ja demi-susit ovat kauempana \
+Kaikki koirien nimell\'e4: arvostettu tiedosto \
+Erottaa nopean, hidas, hienovarainen, \
+Talonpit\'e4j\'e4, mets\'e4st\'e4j\'e4, jokainen \
+Mukaan lahja, joka runsas luonto \
+H\'e4n on suljettu; jolloin h\'e4n saa \
+Erityinen lis\'e4ys. laskusta \
+Se kirjoittaa kaikki samanlaiset: ja niin miesten. \
+Jos sinulla on asema tiedostoon, \
+Ei ole miehisyyden pahin rangaistus, sanokaa; \
+Ja min\'e4 asetan t\'e4m\'e4n liiketoiminnan sinun pihasi, \
+Jonka suorittaminen vie vihollisesi pois, \
+Kouraa sinut syd\'e4meen ja rakastamme meit\'e4, \
+Kuka kuluttaa terveytt\'e4\'e4n, mutta sairaana el\'e4m\'e4ss\'e4\'e4n, \
+Mik\'e4 h\'e4nen kuolemassa oli t\'e4ydellinen. \
+Toinen murhaaja\
+Min\'e4 olen yksi, minun liegi, \
+Kenen vilppi r\'e4j\'e4ht\'e4\'e4 ja buffit maailmassa \
+Ole niin raivostunut, ett\'e4 olen valloittumaton mit\'e4 \
+Min\'e4 vastoin maailmaa. \
+Ensimm\'e4inen murhaaja\
+Ja min\'e4 toinen \
+Niin v\'e4synyt katastrofien kanssa, hurskasi onni, \
+Jotta voisin asettaa valheeni mahdollisuuksiin, \
+Korjata se tai p\'e4\'e4st\'e4 eroon. \
+MACBETH\
+Molemmat teist\'e4 \
+Know Banquo oli vihollinen. \
+Molemmat Murderers\
+Totta, herrani. \
+MACBETH\
+Niin h\'e4n on minun; ja niin verinen et\'e4isyys, \
+Se, ett\'e4 h\'e4nen jokaisen minuutinsa ty\'f6ntyy \
+Vastaan \uc0\u8203 \u8203 l\'e4hell\'e4 el\'e4m\'e4\'e4ni, ja vaikka voisin \
+Kun paljain voima pyyhk\'e4isi h\'e4net minun silmistani \
+Ja tarjota minun avouch avouch se, mutta en saa, \
+Tietyille yst\'e4ville, jotka ovat sek\'e4 h\'e4nen ett\'e4 minun, \
+Joka rakastaa, en voi pudota, vaan pudota h\'e4nen syksyyns\'e4 \
+Jonka min\'e4 itse min\'e4 ly\'f6in; ja sielt\'e4 se on, \
+Ett\'e4 min\'e4 teid\'e4n avunanne tekev\'e4t rakkautta, \
+Yrityksen peitt\'e4minen yhteisest\'e4 silm\'e4st\'e4 \
+Erilaisista painavista syist\'e4. \
+Toinen murhaaja\
+Meid\'e4n herrani, \
+Tee mit\'e4 k\'e4sk\'e4\'e4t meille. \
+Ensimm\'e4inen murhaaja\
+Vaikka el\'e4m\'e4mme - \
+MACBETH\
+Sinun henget loistaa sinusta. T\'e4h\'e4n menness\'e4 enint\'e4\'e4n \
+Min\'e4 neuvon teid\'e4t, mihin istutte itse\'e4nne; \
+Tutustu sinuun t\'e4ydellisell\'e4 vakoojalla, \
+Hetki ei; ei tarvitse tehd\'e4 t\'e4n\'e4 y\'f6n\'e4, \
+Ja jotain palatsista; aina ajattelin \
+Vaadin selkeytt\'e4: ja h\'e4nen kanssaan - \
+Jotta ei j\'e4t\'e4 mit\'e4\'e4n hieroja tai kipuja ty\'f6h\'f6n - \
+Fleance h\'e4nen poikansa, joka pit\'e4\'e4 h\'e4net yhti\'f6ss\'e4, \
+H\'e4nen poissaolonsa on minulle yht\'e4 t\'e4rke\'e4 \
+Se on h\'e4nen is\'e4ns\'e4, t\'e4ytyy omaksua kohtalo \
+Tuosta pime\'e4st\'e4 tunnesta. Ratkaise itsenne erilleen: \
+Tulen sinuun. \
+Molemmat Murderers\
+Olemme ratkaisseet, herrani. \
+MACBETH\
+Min\'e4 soitan teille suoraan: pysyk\'e4\'e4 sis\'e4lle. \
+Exeunt Murderers\
+\
+Se on p\'e4\'e4ttynyt. Banquo, sielusi lennon, \
+Jos se l\'f6yt\'e4\'e4 taivaan, t\'e4ytyy l\'f6yt\'e4\'e4 se y\'f6ksi. \
+poistuminen\
+\
+TIEDE II. Palatsi.\
+Anna LADY MACBETH ja palvelija\
+LADY MACBETH\
+Onko Banquo poissa tuomioistuimelta? \
+palvelija\
+Ymm\'e4rr\'e4n, mutta palaa taas y\'f6ksi. \
+LADY MACBETH\
+Sanokaa kuninkaalle, olisin osallistunut vapaa-aikaan \
+Muutamia sanoja. \
+palvelija\
+Rouva, min\'e4 tahdon. \
+poistuminen\
+\
+LADY MACBETH\
+Naughtilla oli, kaikki vietti, \
+Jos haluamme ilman sis\'e4lt\'f6\'e4: \
+"Se on turvallisempaa se, mit\'e4 tuhotamme \
+H\'e4vitt\'e4misen sijaan ep\'e4ilytt\'e4v\'e4 ilo. \
+Sy\'f6t\'e4 MACBETH\
+\
+Kuinka nyt, herrani! miksi pid\'e4t yksin, \
+Seurujen mielest\'e4 kumppanisi tekev\'e4t, \
+K\'e4yt\'e4 niit\'e4 ajatuksia, jotka olisi todellakin kuollut \
+Heid\'e4n kanssaan he ajattelevat? Asiat ilman kaikkia korjaustoimenpiteit\'e4 \
+Pit\'e4isi olla huolimatta: mit\'e4 on tehty, tehd\'e4\'e4n. \
+MACBETH\
+Olemme l\'f6yt\'e4neet k\'e4\'e4rmeen, emme tappaneet sit\'e4: \
+H\'e4n sulkeutuu ja on itsens\'e4, samalla meid\'e4n k\'f6yh\'e4 pahuus \
+Pysyy vaarassa entisest\'e4 hammasta. \
+Mutta anna asioiden ristiriita, molemmat \
+maailmat k\'e4rsiv\'e4t, \
+Ere me sy\'f6mme aterian pelossa ja nukkumassa \
+N\'e4iden kauheiden unelmien ahdistuksessa \
+T\'e4m\'e4 ravistaa meit\'e4 \'f6isin: parempi olla kuolleiden kanssa, \
+Jonka kautta me saavutamme rauhan, l\'e4het\'e4mme rauhaan, \
+Kuin mielen kidutuksesta valehtelemaan \
+Levossa ekstaasissa. Duncan on h\'e4nen haudassaan; \
+El\'e4m\'e4n tuskaisen kuumeen j\'e4lkeen h\'e4n nukkuu hyvin; \
+Treasoni on tehnyt pahimmansa: ei ter\'e4st\'e4 eik\'e4 myrkky\'e4, \
+Malice kotimainen, ulkomainen maksu, ei mit\'e4\'e4n, \
+H\'e4n voi koskettaa h\'e4nt\'e4 edelleen. \
+LADY MACBETH\
+\'c4l\'e4 viitsi; \
+Herkk\'e4 herrani, sile\'e4 tai karuinen ulkon\'e4k\'f6si; \
+Ole valoisa ja pirte\'e4 vieraidesi keskuudessa. \
+MACBETH\
+Niin min\'e4 rakastan; ja niin, rukoilen, olkaa sin\'e4: \
+Anna muistosi koskea Banquoa; \
+Esit\'e4 h\'e4nelle ylpeys sek\'e4 silm\'e4ll\'e4 ett\'e4 kielell\'e4: \
+Ep\'e4onnistuvat siit\'e4, ett\'e4 me \
+Meid\'e4n on annettava kunnia n\'e4iss\'e4 mielikuvituksellisissa puroissa, \
+Ja tekev\'e4t kasvoillamme viestej\'e4 syd\'e4miss\'e4mme, \
+Peitt\'e4\'e4 mit\'e4 he ovat. \
+LADY MACBETH\
+Sinun t\'e4ytyy j\'e4tt\'e4\'e4 t\'e4m\'e4. \
+MACBETH\
+O, t\'e4ynn\'e4 skorpioneja on mieleni, rakas vaimo! \
+Tied\'e4t, ett\'e4 Banquo ja h\'e4nen Fleance asuvat. \
+LADY MACBETH\
+Mutta niiss\'e4 luonnoksen kopio ei ole eternaa. \
+MACBETH\
+On viel\'e4 mukavaa; ne ovat hy\'f6kk\'e4\'e4vi\'e4; \
+Sitten olet sin\'e4 jokainen: ennenkuin lepakku on lent\'e4nyt \
+H\'e4nen luostarinsa lennon, mustan Hecatin kutsu \
+Shard-borne kuoriainen h\'e4nen unelias hums \
+Soitetaan y\'f6n y\'f6l\'e4\'e4k\'e4ri, se on teht\'e4v\'e4 \
+Teon hirvitt\'e4v\'e4 huomautus. \
+LADY MACBETH\
+Mit\'e4 on teht\'e4v\'e4? \
+MACBETH\
+Ole viaton tietoon, rakas istukka, \
+Kunnes sin\'e4 kiit\'e4t teosta. Tule, \
+Kaulaa kauniin p\'e4iv\'e4n huuto silm\'e4; \
+Ja veress\'e4si ja n\'e4kym\'e4tt\'f6m\'e4ll\'e4 k\'e4dell\'e4si \
+Peruuta ja repi\'e4 palasiksi, ett\'e4 suuri sidos \
+Mik\'e4 pit\'e4\'e4 minut vaaleana! Valo sakeutuu; ja varis \
+Tekee siiven rooky-puulle: \
+P\'e4iv\'e4n hyv\'e4t asiat alkavat huipentua ja surkea; \
+Vaikka y\'f6n mustat tekij\'e4t heid\'e4n saaliistaan \uc0\u8203 \u8203 eiv\'e4t j\'e4nnit\'e4. \
+Sin\'e4 olet marvell'st minun sanojani, mutta pid\'e4 sinut silti; \
+Hyvin huonontuneet asiat ovat vahvoja. \
+Joten, odottaa, mene kanssani. \
+He poistuvat\
+\
+TARKASTELU III. Puiston l\'e4hell\'e4 palatsia.\
+Anna kolme tappajaa\
+Ensimm\'e4inen murhaaja\
+Mutta kuka sinut ehdotti sinulle liitty\'e4? \
+Kolmas murhaaja\
+Macbeth. \
+Toinen murhaaja\
+H\'e4n ei tarvitse meid\'e4n ep\'e4luottamusta, koska h\'e4n toimittaa \
+Toimistomme ja mit\'e4 meid\'e4n on teht\'e4v\'e4 \
+Suuntaan vain. \
+Ensimm\'e4inen murhaaja\
+Pysyk\'e4\'e4 sitten kanssamme. \
+L\'e4nness\'e4 kuitenkin silm\'e4t r\'e4p\'e4ytt\'e4v\'e4t joitain p\'e4ivi\'e4: \
+Nyt heiluttaa viipynytt\'e4 matkustajaa \
+Saadaksesi ajankohtaisen majatalon; ja l\'e4hell\'e4 l\'e4hestymistapoja \
+Kellon aihe. \
+Kolmas murhaaja\
+Hark! Kuulen hevosia. \
+Banquo\
+[Sis\'e4\'e4n] Anna meille valo, ho! \
+Toinen murhaaja\
+Sitten h\'e4n on: loput \
+N\'e4m\'e4 ovat huomion odotuksessa \
+Olen jo tuomioistuimessa. \
+Ensimm\'e4inen murhaaja\
+H\'e4nen hevoset menev\'e4t. \
+Kolmas murhaaja\
+L\'e4hes kilometri: mutta h\'e4n yleens\'e4, \
+Joten kaikki ihmiset tekev\'e4t siit\'e4 l\'e4htien palatsin portille \
+Tee se heid\'e4n k\'e4velylleen. \
+Toinen murhaaja\
+Valo, valo! \
+Anna BANQUO ja FLEANCE soittimella\
+\
+Kolmas murhaaja\
+"H\'e4n on. \
+Ensimm\'e4inen murhaaja\
+Seisoo. \
+Banquo\
+Se on sateen aikaan. \
+Ensimm\'e4inen murhaaja\
+Anna sen tulla alas. \
+He asettavat BANQUOlle\
+\
+Banquo\
+Oi, petos! Fly, hyv\'e4 Fleance, lent\'e4\'e4, lent\'e4\'e4, lent\'e4\'e4! \
+Voitat kostaa. O slave! \
+Kuolee. FLEANCE pakenee\
+\
+Kolmas murhaaja\
+Kuka l\'f6ysi valon? \
+Ensimm\'e4inen murhaaja\
+Eik\'f6 ole ollut tapaa? \
+Kolmas murhaaja\
+On vain yksi alas; poika on paennut. \
+Toinen murhaaja\
+Olemme menett\'e4neet \
+Paras puolet meid\'e4n tapauksistamme. \
+Ensimm\'e4inen murhaaja\
+No, p\'e4\'e4st\'e4\'e4n pois ja sanomme, kuinka paljon on tehty. \
+He poistuvat\
+\
+TARKASTELU IV. Sama. Hall palatsissa.\
+Juhla valmis. Anna MACBETH, LADY MACBETH, ROSS, LENNOX, lordit ja osallistujat\
+MACBETH\
+Tied\'e4t oman asteenne; istua aluksi: aluksi \
+Ja viimeinen syd\'e4mellinen tervetullut. \
+yl\'e4huone\
+Kiitos majesteettesi. \
+MACBETH\
+Itsesi sekoittuu yhteiskunnan kanssa, \
+Ja pelata n\'f6yr\'e4 is\'e4nt\'e4. \
+Hostessimme pit\'e4\'e4 h\'e4nen tilansa, mutta parhaassa ajassa \
+Tarvitsemme h\'e4nen tervetulleeksi. \
+LADY MACBETH\
+Ilmaise se minulle, herra, kaikille yst\'e4villeni; \
+Syd\'e4meni puhuu, ett\'e4 he ovat tervetulleita. \
+Ensimm\'e4inen Murmaaja ilmestyy oveen\
+\
+MACBETH\
+Katso, he kohtaavat sinut syd\'e4mens\'e4 kiitoksella. \
+Molemmat puolet ovat tasaisia: t\'e4ss\'e4 istun keskell\'e4: \
+Ole suuri iloa; anon me juomme toimenpiteen \
+P\'f6yd\'e4n kierros. \
+Oven l\'e4hestyminen\
+\
+Sinulla on verta kasvoillasi. \
+Ensimm\'e4inen murhaaja\
+"Tis Banquo on silloin. \
+MACBETH\
+"Sinusta on parempaa, kuin h\'e4n on sis\'e4lle. \
+Onko h\'e4n l\'e4hett\'e4nyt? \
+Ensimm\'e4inen murhaaja\
+Herrani, h\'e4nen kurkkunsa leikataan; ett\'e4 tein h\'e4nelle. \
+MACBETH\
+Sin\'e4 olet paras leikkaus: h\'e4n on kuitenkin hyv\'e4 \
+Fleanen tapaus oli sama: jos sin\'e4 teet sen, \
+Sin\'e4 olet ep\'e4pareil. \
+Ensimm\'e4inen murhaaja\
+Useimmat kuninkaan herra, \
+Fleance on "h\'e4vitetty". \
+MACBETH\
+Sitten tulee minun sovi uudelleen: olin muutoin ollut t\'e4ydellinen, \
+Koko kuin kallioon perustettu marmori, \
+Laaja ja yleinen kuin koteloilma: \
+Mutta nyt olen matkustamo, cribb'd, rajoitettu, sidottu sis\'e4\'e4n \
+Ep\'e4ill\'e4\'e4n ep\'e4ilyksi\'e4 ja pelkoja. Mutta Banquo on turvallinen? \
+Ensimm\'e4inen murhaaja\
+Voi, hyv\'e4 herrani: turvallinen ovella, joka h\'e4nell\'e4 on, \
+Kaksikymment\'e4 kappaletta kynttil\'f6it\'e4 p\'e4\'e4ss\'e4\'e4n; \
+V\'e4hiten kuolema luontoon. \
+MACBETH\
+Kiitos siit\'e4: \
+Siell\'e4 on kasvanut k\'e4\'e4rme; mato, joka on paennut \
+Onko luonto, ett\'e4 aikanaan on myrkky rotu, \
+Ei hampaita nykyhetkell\'e4. Ota sinut pois: huomenna \
+Kuulemme itsemme j\'e4lleen. \
+Lopeta tappaja\
+\
+LADY MACBETH\
+Minun kuninkaalleni, \
+Et anna pirist\'e4\'e4: juhlaa myyd\'e4\'e4n \
+Se ei ole useinkaan vouch'd, vaikka 'tis a-making, \
+"Tervetulleeksi annetut: ruokinta on paras kotona; \
+Sielt\'e4 kastike lihaksi on seremonia; \
+Kokous oli paljas ilman sit\'e4. \
+MACBETH\
+Makea muistoja! \
+Nyt hyv\'e4 ruoansulatus odottaa ruokahalua, \
+Ja terveys molemmilla! \
+LENNOX\
+\'c4lk\'e4\'e4 miellyt\'e4 korkeutta istua. \
+BANQUO-GHOST saapuu ja istuu MACBETH: n paikassa\
+\
+MACBETH\
+T\'e4ss\'e4 meill\'e4 oli nyt maamme kunnia katto, \
+Oliko meid\'e4n Banquon edustajamme l\'e4sn\'e4; \
+Kuka voin mieluummin haastaa ep\'e4luottamukselle \
+Kuin s\'e4\'e4li murheesta! \
+ROSS\
+H\'e4nen poissaolonsa, \
+H\'e4n syytt\'e4\'e4 lupauksestaan. Please't sinun korkeus \
+Voittaa meid\'e4t kuninkaallisella yrityksellesi. \
+MACBETH\
+P\'f6yt\'e4 on t\'e4ynn\'e4. \
+LENNOX\
+T\'e4ss\'e4 on varattu paikka, sir. \
+MACBETH\
+Miss\'e4? \
+LENNOX\
+T\'e4\'e4ll\'e4, hyv\'e4 herrani. Mik\'e4 ei ole, joka liikuttaa korkeutta? \
+MACBETH\
+Kumpi teist\'e4 on tehnyt t\'e4m\'e4n? \
+yl\'e4huone\
+Mik\'e4, hyv\'e4 herrani? \
+MACBETH\
+Et voi sanoa, ett\'e4 tein sen: \'e4l\'e4 koskaan ravista \
+Sinun kiltasi lukittuu minuun. \
+ROSS\
+Herrat, nouskaa: h\'e4nen korkeutensa ei ole kunnossa. \
+LADY MACBETH\
+Istu, kelvolliset yst\'e4v\'e4t: herrani on usein n\'e4in, \
+Ja on ollut h\'e4nen nuoruudestansa: rukoilkaa, pysyt istuimella; \
+Sovitus on hetkellinen; kun ajatus \
+H\'e4n on j\'e4lleen hyv\'e4: jos huomaat h\'e4nelle paljon, \
+Sin\'e4 loukkaat h\'e4nt\'e4 ja laajennat h\'e4nen intohimonsa: \
+Sy\'f6 ja pid\'e4 h\'e4nt\'e4. Oletko sin\'e4 mies? \
+MACBETH\
+Niin, ja rohkea, joka uskaltaa katsoa sit\'e4 \
+Joka voisi pirist\'e4\'e4 paholaista. \
+LADY MACBETH\
+O oikeita asioita! \
+T\'e4m\'e4 on pelosi pelkk\'e4 maalaus: \
+T\'e4m\'e4 on ilmasidottu tikari, jonka sanoit, \
+Juoksi sinut Duncaniin. O, n\'e4m\'e4 puutteet ja alkavat, \
+Impostorit todelliseen pelkoon, tulevat hyvin \
+Naisen tarina talven tulessa, \
+Valtuutettu h\'e4nen grandam. H\'e4pe\'e4 itse! \
+Miksi teet t\'e4llaisia \uc0\u8203 \u8203 kasvoja? Kun kaikki ovat tehneet, \
+N\'e4yt\'e4t vain tuolilta. \
+MACBETH\
+Prithee, katso siell\'e4! Katso! Katso! katso! \
+miten sanot? \
+Miksi, mit\'e4 huolta olen? Jos et voi kumartautua, puhu my\'f6s. \
+Jos lohko-talot ja haudat on l\'e4hetett\'e4v\'e4 \
+Ne, joita haudamme takaisin, monumentit \
+Olkoon leijojen maja. \
+BANQUO-GHOST h\'e4vi\'e4\'e4\
+\
+LADY MACBETH\
+Mik\'e4, hullu hullu? \
+MACBETH\
+Jos seison t\'e4\'e4ll\'e4, n\'e4in h\'e4net. \
+LADY MACBETH\
+Fie, h\'e4pe\'e4st\'e4! \
+MACBETH\
+Veri on nyt vuodatettu, olen vanha aika, \
+Ere ihmisen peruss\'e4\'e4nt\'f6 puhdisti lempe\'e4n kantansa; \
+Niin, ja sen j\'e4lkeen, murhat on suoritettu \
+Liian kauhea korvalle: ajat ovat olleet, \
+Kun aivot olivat pois, mies kuoli, \
+Ja siell\'e4 on loppu; mutta nyt he nousevat taas, \
+Kaksikymment\'e4 kuolevainen murha heid\'e4n kruunuissansa, \
+Ja ty\'f6nn\'e4 meid\'e4t ulosteestamme: t\'e4m\'e4 on outoa \
+T\'e4llainen murha on. \
+LADY MACBETH\
+Minun kelvollinen herrani, \
+Sinun jalo yst\'e4v\'e4si eiv\'e4t teit\'e4. \
+MACBETH\
+Unohdan. \
+\'c4l\'e4 puhu minulle, eniten arvoisia yst\'e4vi\'e4ni, \
+Minulla on outo heikkous, joka ei ole mit\'e4\'e4n \
+Niille, jotka tuntevat minut. Tule, rakkaus ja terveys kaikille. \
+Sitten istun alas. Anna minulle viini\'e4; t\'e4yt\'e4 t\'e4yteen. \
+Juon siit\'e4 yleisest\'e4 ilosta "koko p\'f6yd\'e4st\'e4, \
+Ja rakas yst\'e4v\'e4ni Banquo, jonka me kaipaamme; \
+Olisiko h\'e4n t\'e4\'e4ll\'e4! kaikille ja h\'e4nelle, meill\'e4 on jano, \
+Ja kaikki. \
+yl\'e4huone\
+Meid\'e4n velvollisuutemme ja pantti. \
+Palauta GHOST OF BANQUO\
+\
+MACBETH\
+Avaunt! ja lopeta minun n\'e4kemykseni! anna maan piilottaa sinut! \
+Sinun luut ovat luutonta, veresi on kylm\'e4. \
+Sinulla ei ole keinottelua n\'e4iss\'e4 silmiss\'e4 \
+Jonka kanssa sin\'e4 katsot. \
+LADY MACBETH\
+Ajattele t\'e4t\'e4, hyvi\'e4 kumppaneita, \
+Mutta tapana tavata: "ei ole muuta; \
+Ainoastaan \uc0\u8203 \u8203 se pilaa ajan iloa. \
+MACBETH\
+Mik\'e4 ihminen uskaltaa, uskallan: \
+L\'e4hestyy kuin karu ven\'e4l\'e4inen karhu, \
+Arm'd-sarvikuono, tai Hyrcan-tiikeri; \
+Ota mink\'e4\'e4nlainen muoto, mutta niin, ja vankka hermoni \
+Ei tule koskaan vapisemaan: \
+Ja auta minua miekkaan autiomaahan; \
+Jos vapina asun silloin, protestoi minua \
+Tyt\'f6n vauva. Siksi kamala varjo! \
+Ep\'e4toivoinen pilkka, siis! \
+BANQUO-GHOST h\'e4vi\'e4\'e4\
+\
+Miksi, niin: poissa, \
+Olen taas mies. Rukoile, istu. \
+LADY MACBETH\
+Olet siirt\'e4nyt iloa, rikkoi hyv\'e4n kokouksen, \
+Ihailevin h\'e4iri\'f6. \
+MACBETH\
+Voivatko t\'e4llaiset asiat olla, \
+Ja voittaa meid\'e4t kuin kes\'e4n pilvi, \
+Ilman erityist\'e4 ihmeellisyytt\'e4? Teet minut outoa \
+Jopa luopumiseen, jonka olen velkaa, \
+Kun nyt luulen, ett\'e4 n\'e4et t\'e4llaisia \uc0\u8203 \u8203 n\'e4ht\'e4vyyksi\'e4, \
+Ja pid\'e4 poskissasi luonnollinen rubiini, \
+Kun minun kaivataan pelosta. \
+ROSS\
+Mit\'e4 n\'e4ht\'e4vyyksi\'e4, herrani? \
+LADY MACBETH\
+Rukoilkaa, \'e4l\'e4 puhu; h\'e4n kasvaa pahempaa ja pahempaa; \
+Kysymys paljastaa h\'e4net. Kerran hyv\'e4\'e4 y\'f6t\'e4: \
+\'c4lk\'e4\'e4 pysyk\'e4\'e4 mihink\'e4\'e4n j\'e4rjestykseen, \
+Mutta mene heti. \
+LENNOX\
+Hyv\'e4\'e4 y\'f6t\'e4; ja parempaa terveytt\'e4 \
+Osallistu h\'e4nen majesteettinsa! \
+LADY MACBETH\
+Hyv\'e4 yst\'e4v\'e4 kaikille! \
+Poistetaan kaikki, paitsi MACBETH ja LADY MACBETH\
+\
+MACBETH\
+Sill\'e4 on verta; he sanovat, verell\'e4 on verta: \
+Kivist\'e4 on tiedetty liikkua ja puita puhua; \
+Augurs ja ymm\'e4rretyt suhteet ovat \
+By magot-piirakat, choughs ja rooks syntyy \
+Veren salaisen miehen. Mik\'e4 on y\'f6? \
+LADY MACBETH\
+Melkein ristiriidassa aamun kanssa, mik\'e4 on mik\'e4. \
+MACBETH\
+Miten sanot, ett\'e4 Macduff kielt\'e4\'e4 h\'e4nen henkil\'f6\'e4\'e4n \
+Suuri tarjouskilpailu? \
+LADY MACBETH\
+L\'e4hetitk\'f6 h\'e4nelle, sir? \
+MACBETH\
+Kuulen sen muuten; mutta l\'e4het\'e4n: \
+Ei ole heit\'e4, mutta h\'e4nen talossaan \
+Pid\'e4n palvelijamaksua. Min\'e4 huomenna, \
+Ja kivaa tahdon, outoihin siskoihin: \
+He puhuvat enemm\'e4n; sill\'e4 nyt olen taivutettu tiet\'e4\'e4kseni, \
+Pahimmillaan, pahin. Omasta hy\'f6dyksest\'e4ni, \
+Kaikki syyt saavat tulla: min\'e4 olen veress\'e4 \
+Stepp'd siin\'e4 m\'e4\'e4rin, ett\'e4 jos en en\'e4\'e4 ajaisi, \
+Paluu olivat yht\'e4 tylsi\'e4 kuin menn\'e4 o'er: \
+Outoja asioita, joilla minulla on p\'e4\'e4, joka antaa k\'e4dest\'e4; \
+Kumpi on teht\'e4v\'e4 ennen kuin ne voidaan skann'd. \
+LADY MACBETH\
+Sinulla ei ole kaikkinaisia \uc0\u8203 \u8203 kaunia, unta. \
+MACBETH\
+Tule, tulemme nukkumaan. Outoa ja itsens\'e4 v\'e4\'e4rink\'e4ytt\'f6\'e4 \
+Onko aloittaja pelk\'e4\'e4, ett\'e4 haluaa kovaa k\'e4ytt\'f6\'e4: \
+Olemme viel\'e4, mutta nuori teko. \
+He poistuvat\
+\
+SCENE V. Heath.\
+Ukkonen. Anna kolmen noidan kokouksen HECATE\
+Ensimm\'e4inen Witch\
+Miksi nyt, Hecate! n\'e4yt\'e4t vihaisena. \
+Hecate\
+Eik\'f6 ole syyt\'e4, kuten beldams, \
+Saucy ja overbold? Miten uskallit \
+Kauppa ja liikenne Macbethin kanssa \
+Historiassa ja kuoleman asioissa; \
+Ja min\'e4, sinun hurmasi em\'e4nt\'e4, \
+Kaikki vahingot, \
+Ei ollut koskaan kutsuttu kantamaan omaa osaani, \
+Tai n\'e4yt\'e4 taiteemme kunniaa? \
+Ja mik\'e4 on pahempaa, kaikki olet tehnyt \
+H\'e4n on ollut poissaoleva poika, \
+Valheellinen ja vihainen, joka, kuten muutkin, \
+Rakastaa omia p\'e4\'e4teestej\'e4, ei sinua varten. \
+Mutta tehk\'e4\'e4 nyt muutoksia: ota sinut pois, \
+Ja Acheronin kupeessa \
+Tapaa minut aamulla: siell\'e4 h\'e4n \
+Tulet tuntemaan h\'e4nen kohtalonsa: \
+Aluksesi ja loitsusi tarjoavat, \
+Sinun hurmasi ja kaiken vieress\'e4. \
+Olen ilmassa; t\'e4n\'e4 iltana viet\'e4n \
+Tumma ja kohtalokas p\'e4\'e4: \
+Suuri liiketoimi on toteutettava keskim\'e4\'e4rin: \
+Kuun kulman takana \
+Siell\'e4 h\'f6yrypussi riippuu syyst\'e4; \
+Saan sen kiinni, ennen kuin se tulee maahan: \
+Ja se tuhoutui taikauhoilla \
+Nosta t\'e4llaisia \uc0\u8203 \u8203 keinotekoisia spritsej\'e4 \
+Niin kuin heid\'e4n illuusionsa voimalla \
+Ved\'e4 h\'e4net h\'e4mmennykseen: \
+H\'e4n kielt\'e4\'e4 kohtalon, pelottaa kuolemaa ja kantaa \
+H\'e4n toivoo "viisautta, armoa ja pelkoa: \
+Ja kaikki tiet\'e4v\'e4t, turvallisuus \
+Kuolevaiset ovat t\'e4rkein vihollinen. \
+Musiikki ja kappale sis\'e4lle: 'Tule pois, tule pois,' & c\
+\
+Hark! Min\'e4 olen call'd; minun pikku henki, katso, \
+Istuu sumuisessa pilvess\'e4 ja pysyy minulle. \
+poistuminen\
+\
+Ensimm\'e4inen Witch\
+Tulkaa, kiihdyt\'e4\'e4n; h\'e4n tulee pian takaisin. \
+He poistuvat\
+\
+TIEDOT VI. Forres. Palatsi.\
+Anna LENNOX ja toinen Herra\
+LENNOX\
+Omat puheeni ovat kuitenkin osuneet ajatuksiisi, \
+Mik\'e4 voi tulkita lis\'e4\'e4: vain, sanon, \
+Asiat on kummastettu. \
+armollinen Duncan \
+Oli piilossa Macbethist\'e4: naimisiin, h\'e4n oli kuollut: \
+Ja oikea-valiantti Banquo k\'e4veli liian my\'f6h\'e4\'e4n; \
+Kuka, voitte sanoa, jos et ole tyytyv\'e4inen, Fleance tappoi, \
+Fleance pakeni: miehet eiv\'e4t saa k\'e4vell\'e4 liian my\'f6h\'e4\'e4n. \
+Kuka ei voi haluta ajatusta kuinka hirve\'e4\'e4 \
+Se oli Malcolmille ja Donalbainille \
+Tappamaan heid\'e4n armollinen is\'e4ns\'e4? kirottu tosiasia! \
+Kuinka Macbeth tuskaisi! eik\'f6 h\'e4n ole suora \
+Lahkeassa raivoessa kaksi rikollisuutta repi\'e4, \
+Ollut olleet orjina juoman ja j\'e4nnitt\'e4vi\'e4 unia? \
+Eik\'f6 se ole kunnolla tehty? Ja ja viisaasti my\'f6s; \
+Jotta "syd\'e4men syd\'e4meell\'e4 olisi vihaa" \
+Kuulkaa miehet kielt\'e4ytyv\'e4t. Joten sanon, \
+H\'e4n on vienyt kaiken hyvin, ja min\'e4 ajattelen \
+Se, ett\'e4 h\'e4n oli Duncanin poikien avaimen alla - \
+Ei, ei tahdo, h\'e4n ei - he \
+pit\'e4isi l\'f6yt\'e4\'e4 \
+Mit\'e4 tappamaan is\'e4; niin pit\'e4isi Fleance. \
+Mutta rauha! leveist\'e4 sanoista ja "koska h\'e4n ei mennyt" \
+H\'e4nen l\'e4sn\'e4olonsa tyrannin juhlassa, kuulin \
+Macduff asuu h\'e4pe\'e4llisesti: herra, voitko kertoa \
+Miss\'e4 h\'e4n antaa itselleen? \
+herra\
+Duncanin poika, \
+Kenelt\'e4 t\'e4m\'e4 tyranni pit\'e4\'e4 synnytyksen takia \
+Asuu Englannin tuomioistuimessa, ja h\'e4net vastaanotetaan \
+Kaikkein hartaimmista Edwardista t\'e4llaisella armolla \
+Ett\'e4 pahoinvointi onni mit\'e4\'e4n \
+H\'e4nen suurta kunnioitustaan \uc0\u8203 \u8203 kohtaan: siell\'e4 Macduff \
+On mennyt rukoilemaan pyh\'e4\'e4 kuningasta h\'e4nen avustuksellaan \
+Her\'e4t\'e4 Northumberland ja sotarikas Siward: \
+Se, n\'e4iden avulla - h\'e4nen kanssaan edell\'e4 \
+Ty\'f6n ratifiointi - voimme j\'e4lleen \
+Anna taulullemme lihaa, nukkua y\'f6t\'e4mme, \
+Vapaita juhlia ja juhlia, verisi\'e4 veitsi\'e4, \
+Tee uskollinen kunnianosoitus ja saat ilmaiset kunnia: \
+Kaikki, mit\'e4 me m\'e4ntymme nyt ja t\'e4m\'e4 mietint\'f6 \
+H\'e4pe\'e4 niin kaunista kuninkaalle, ett\'e4 h\'e4n \
+Valmistaudu jonkin sodan yritt\'e4miseen. \
+LENNOX\
+L\'e4hett\'e4nyt h\'e4net Macduffille? \
+herra\
+H\'e4n teki: ja ehdottomasti "Herra, en min\'e4", \
+Pilvinen l\'e4hetin k\'e4\'e4nt\'e4\'e4 selk\'e4ns\'e4, \
+Ja hums, kuten kuka sanoa: "Sin\'e4 viet\'e4t ajan \
+T\'e4m\'e4 jarruttaa minua t\'e4m\'e4n vastauksen kanssa. " \
+LENNOX\
+Ja se voi hyvin \
+Kerro h\'e4nelle varovaisuus, pit\'e4m\'e4\'e4n et\'e4isyydell\'e4 \
+H\'e4nen viisautensa voi tarjota. Jotkut pyh\'e4 enkeli \
+Lent\'e4\'e4 Englannin tuomioistuimelle ja ajaudu \
+H\'e4nen sanomansa, kun h\'e4n tuli, ett\'e4 nopea siunaus \
+Voi palata pian t\'e4h\'e4n k\'e4rsiv\'e4\'e4n maahan \
+K\'e4sin kirottuna! \
+herra\
+L\'e4het\'e4n rukoukseni h\'e4nen kanssaan. \
+He poistuvat\
+\
+ACT IV\
+T\'c4RKEIMM\'c4T I. Luola. Keskell\'e4, kiehuvaa kauhua.\
+Ukkonen. Sy\'f6t\'e4 kolme noita\
+Ensimm\'e4inen Witch\
+Kolme kertaa rasvattu kissa on ollut mew'd. \
+Toinen noita\
+Kolminkertainen ja kerran hedge-sika whined. \
+Kolmas noita\
+Harpier huutaa "Tisa aika", aika. \
+Ensimm\'e4inen Witch\
+Py\'f6rit\'e4 p\'f6lmest\'e4 menn\'e4; \
+Myrkytyksen sis\'e4lle heitt\'e4\'e4. \
+Toad, ett\'e4 kylm\'e4ss\'e4 kivess\'e4 \
+P\'e4iv\'e4t ja y\'f6t ovat kolmekymment\'e4yksi \
+Swelter'd venom nukkui, \
+Keit\'e4 sin\'e4 ensin ihastunut potti. \
+KAIKKI\
+Tupla, kaksinkertainen toil ja ongelmia; \
+Tulipalon polttaminen ja pata-kupla. \
+Toinen noita\
+Fenny-k\'e4\'e4rmeet, \
+Kattilassa keitet\'e4\'e4n ja paista; \
+Silm\'e4n uusi ja toe sammakko, \
+Villan lehm\'e4 ja koiran kieli, \
+Adderin haarukka ja sokeiden mato, \
+Lizardin jalka ja owlet's wing, \
+Sill\'e4 voimakas vaiva, \
+Kuten helvetin liemi keitet\'e4\'e4n ja kupla. \
+KAIKKI\
+Tupla, kaksinkertainen toil ja ongelmia; \
+Palopalo ja palttikuppi. \
+Kolmas noita\
+Lohik\'e4\'e4rme, suden hammas, \
+Witchesin muumio, maw ja kuilu \
+Ravin'd-suola-merisahasta, \
+Roots of hemlock digg'd i 'pime\'e4, \
+Maksa pilkkaavaa juutalaista, \
+Vuohenliha ja viinipullot \
+Silver'd on kuunpimennys, \
+Turkin ja Tartarin huulet, \
+Sormi syntym\'e4st\'e4 - kuristunut vauva \
+Ditch-deliver'd on drab, \
+Tee kauha paksu ja laatta: \
+Lis\'e4\'e4 siihen tiikerin chaudron, \
+Paahdon ainesosille. \
+KAIKKI\
+Tupla, kaksinkertainen toil ja ongelmia; \
+Palopalo ja palttikuppi. \
+Toinen noita\
+J\'e4\'e4hdyt\'e4 se paviaanin verell\'e4, \
+Sitten vieh\'e4tys on luja ja hyv\'e4. \
+Anna HECATE kolme muuta noita\
+\
+Hecate\
+Oi hyvin tehty! Kiit\'e4n kipuja; \
+Ja jokainen jakaa voitot; \
+Ja nyt kun kalaa laulaa, \
+El\'e4v\'e4t tontut ja keijut rengas, \
+Lumeko kaiken, mit\'e4 laitat sis\'e4\'e4n. \
+Musiikki ja laulu: "Mustajuomat", & c\
+\
+HECATE j\'e4\'e4 el\'e4kkeelle\
+\
+Toinen noita\
+Minun peukalistalla, \
+Jotain jumalia t\'e4ll\'e4 tavalla tulee. \
+Avoimet, lukot, \
+Joka kolkuttaa! \
+Sy\'f6t\'e4 MACBETH\
+\
+MACBETH\
+Kuinka nyt, sin\'e4 salainen, musta ja keskiy\'f6n hags! \
+Mit\'e4 ette? \
+KAIKKI\
+Teos, jolla ei ole nime\'e4. \
+MACBETH\
+Min\'e4 iloitsen teid\'e4t siit\'e4, mit\'e4 sin\'e4 tunnet, \
+Kuinka tulet tuntemaan sen, vastaa minuun: \
+Vaikka pursitte tuulet ja anna heid\'e4n taistella \
+Kirkkoja vastaan; vaikka yesty aallot \
+Sekoita ja nielaise navigointi yl\'f6s; \
+Vaikka siipikarjan maissi j\'e4tet\'e4\'e4n ja puut puhalletaan alas; \
+Vaikka linnoja kaatuu vartijoidensa p\'e4\'e4h\'e4n; \
+Palatsit ja pyramidit ovat kuitenkin kaltevia \
+Heid\'e4n p\'e4\'e4ns\'e4 heid\'e4n perustaansa; vaikka aarre \
+Luonnon nokkoset rypist\'e4v\'e4t kaikki yhdess\'e4, \
+Jopa siksi, kunnes tuhoaminen haisee; vastaa minulle \
+Mit\'e4 min\'e4 pyyd\'e4n. \
+Ensimm\'e4inen Witch\
+Puhua. \
+Toinen noita\
+Kysynt\'e4. \
+Kolmas noita\
+Vastaamme. \
+Ensimm\'e4inen Witch\
+Sano, jos sin\'e4 mieluummin kuulet sen suustanne, \
+Tai meid\'e4n p\'e4\'e4llik\'f6ilt\'e4mme? \
+MACBETH\
+Soita heille; anna minun n\'e4hd\'e4 heid\'e4t. \
+Ensimm\'e4inen Witch\
+Kaada kylv\'e4\'e4 verta, joka on sy\'f6nyt \
+H\'e4nen yhdeks\'e4n varrensa; rasva, joka on hikinen \
+Murhoajan heittopuusta \
+Liekkiin. \
+KAIKKI\
+Tule, korkea tai matala; \
+Itse ja toimisto n\'e4yt\'f6ll\'e4! \
+Ukkonen. Ensimm\'e4inen esitys: aseistettu p\'e4\'e4\
+\
+MACBETH\
+Kerro, sin\'e4 tuntematon voima, - \
+Ensimm\'e4inen Witch\
+H\'e4n tuntee ajatuksesi: \
+Kuulkaa h\'e4nen puheensa, mutta \'e4l\'e4 sano mit\'e4\'e4n. \
+Ensimm\'e4inen esitys\
+Macbeth! Macbeth! Macbeth! varokaa Macduff; \
+Varokaa Fife: n huolta. Hylk\'e4\'e4 minua. Tarpeeksi. \
+laskeutuu\
+\
+MACBETH\
+Sin\'e4 olet, hyv\'e4st\'e4 varovaisuudesta, kiitos; \
+Sin\'e4 olet harppuillut pelkoni, mutta yksi \
+sana enemm\'e4n, - \
+Ensimm\'e4inen Witch\
+H\'e4nelt\'e4 ei tule k\'e4sky\'e4: t\'e4ss\'e4 on toinen, \
+Tehokkaampi kuin ensimm\'e4inen. \
+Ukkonen. Toinen esitys: verinen lapsi\
+\
+Toinen esitys\
+Macbeth! Macbeth! Macbeth! \
+MACBETH\
+Jos minulla oli kolme korvaa, kuulin sinut. \
+Toinen esitys\
+Ole verinen, rohkea ja p\'e4\'e4tt\'e4v\'e4inen; nauraa pelottaa \
+Ihmisen voima, sill\'e4 yksik\'e4\'e4n nainen ei ole syntynyt \
+Haittaa Macbethia. \
+laskeutuu\
+\
+MACBETH\
+El\'e4k\'f6\'f6n, Macduff: mit\'e4 min\'e4 pelk\'e4\'e4n sinua? \
+Mutta silti vakuutan varmasti varmasti, \
+Ja ota kohtalon suhde: et el\'e4, \
+Jotta voisin kertoa paljain syd\'e4men pelosta, \
+Ja nukkua ukkosta huolimatta. \
+Ukkonen. Kolmas ilmestys: lapsi kruunattiin, puu k\'e4dess\'e4\
+\
+Mik\'e4 t\'e4m\'e4 on \
+Se nousee kuin kuninkaan kysymys, \
+Ja kulkee h\'e4nen vauvanhuopansa ymp\'e4ri \
+Ja suvereenisuuden k\'e4rjess\'e4? \
+KAIKKI\
+Kuuntele, mutta \'e4l\'e4 puhu. \
+Kolmas ilmestys\
+Ole leijona, ylpe\'e4; ja ota huolta \
+Kuka kaahtuu, kuka heitt\'e4\'e4 tai miss\'e4 salaliitot ovat: \
+Macbeth ei koskaan saa voittaa ennen \
+Suuri Birnam puu korkealle Dunsinane-kukkulalle \
+Tulee h\'e4nt\'e4 vastaan. \
+laskeutuu\
+\
+MACBETH\
+Se ei koskaan tule \
+Kuka voi vaikuttaa mets\'e4\'e4n, tarjota puuta \
+Korjaa maanp\'e4\'e4llinen juuri? Makeat bodyt! hyv\'e4! \
+Kapinan p\'e4\'e4, nouskaa koskaan puuhun asti \
+Birnamin noususta ja korkeasta Macbethista \
+El\'e4k\'f6\'f6n luonnonvuokrausta, maksa h\'e4nen hengityksens\'e4 \
+Aikaa ja kuolevaisuutta. Silti syd\'e4meni \
+Throbs tiet\'e4\'e4 yksi asia: kerro minulle, jos taidesi \
+Voin kertoa niin paljon: tulee Banquon kysymys koskaan \
+Hallitsemaan t\'e4ss\'e4 valtakunnassa? \
+KAIKKI\
+Etsik\'e4\'e4 en\'e4\'e4 tiet\'e4\'e4. \
+MACBETH\
+Olen tyytyv\'e4inen: kielt\'e4ydy t\'e4st\'e4, \
+Ja ikuinen kirous kaatuu sinuun! Kerro minulle. \
+Miksi uppoaa patoa? ja mit\'e4 melu on t\'e4m\'e4? \
+Hautboys\
+\
+Ensimm\'e4inen Witch\
+Show! \
+Toinen noita\
+Show! \
+Kolmas noita\
+Show! \
+KAIKKI\
+N\'e4yt\'e4 h\'e4nen silm\'e4ns\'e4 ja himota syd\'e4mens\'e4; \
+Tulkaa varjoisiksi, niin l\'e4hde! \
+N\'e4yttely kahdeksasta kuninkaasta, viimeinen lasilla k\'e4dess\'e4\'e4n; GHOST OF BANQUO seuraava\
+\
+MACBETH\
+Olet liian kuin Banquon henki: alas! \
+Sinun kruunasi ei peit\'e4 silm\'e4ni palloja. Ja hiuksesi, \
+Sin\'e4 toinen kultainen sidos on kuin ensimm\'e4inen. \
+Kolmas on kuin entinen. Filthy hags! \
+Miksi n\'e4yt\'e4t t\'e4m\'e4n? Nelj\'e4s! Aloita, silm\'e4t! \
+Mit\'e4, mill\'e4 linjalla se ulottuu tuhoon? \
+Toinen viel\'e4! Seitsem\'e4s! En n\'e4e en\'e4\'e4: \
+Ja viel\'e4 kahdeksas n\'e4ytt\'e4\'e4, kenell\'e4 on lasia \
+Mik\'e4 osoittaa minulle paljon enemm\'e4n; ja jotkut n\'e4en \
+Kaksikerroksiset pallot ja diskanttikytkimet kuljettavat: \
+Kauhea n\'e4ky! Nyt n\'e4en, "tis totta; \
+Sill\'e4 veren bolter'd Banquo hymyilee minua, \
+Ja huomauttaa heid\'e4n puolestaan. \
+Ilmestykset h\'e4vi\'e4v\'e4t\
+\
+Mit\'e4, eik\'f6 niin? \
+Ensimm\'e4inen Witch\
+Kyll\'e4, herra, kaikki t\'e4m\'e4 on niin: mutta miksi \
+Seisoo Macbeth niin h\'e4mm\'e4styneesti? \
+Tule, sisaret, pirist\'e4mme h\'e4nen sprites, \
+Ja n\'e4yt\'e4 parhaat nautimme: \
+Min\'e4 viet\'e4n ilmaa \'e4\'e4nen antamiseksi, \
+Kun suoritat antipy\'f6r\'e4si: \
+Ett\'e4 t\'e4m\'e4 suuri kuningas olisi yst\'e4v\'e4llisesti sanonut: \
+Meid\'e4n velvollisuutemme h\'e4nen tervetullut palkka. \
+Musiikkia. Noita tanssivat ja sitten katoavat HECATE: lla\
+\
+MACBETH\
+Miss\'e4 he ovat? Mennyt? Anna t\'e4m\'e4 tuhoisa tunti \
+Stand aye kirottu kalenteriin! \
+Tule, ilman sit\'e4! \
+Anna LENNOX\
+\
+LENNOX\
+Mik\'e4 sinun armosi haluaa? \
+MACBETH\
+Saitko sinut oudot sisaret? \
+LENNOX\
+Ei, herrani. \
+MACBETH\
+Tulivatko he sin\'e4? \
+LENNOX\
+Ei, todellakin, herrani. \
+MACBETH\
+Tartunnan saana on ilma, jota he ratsastavat; \
+Ja kaikki ne, jotka luottavat niihin! Kuulin \
+Hevosen laukkaus: kuka ei tullut? \
+LENNOX\
+"Kaksi tai kolme, herrani, joka tuo teille sanan \
+Macduff pakeni Englantiin. \
+MACBETH\
+Pakeni Englantiin! \
+LENNOX\
+Hyv\'e4, hyv\'e4 herrani. \
+MACBETH\
+Aika, olet ennakoinut minun pelk\'e4\'e4v\'e4n hy\'f6kk\'e4ysteni: \
+Ohjaava tarkoitus ei ole koskaan o'ertook \
+Ellei teko mene mukanaan; t\'e4st\'e4 hetkest\'e4 \
+Syd\'e4meni ensi kerran on \
+Minun k\'e4siini. Ja viel\'e4 nyt, \
+Kruunata ajatuksiani teoin, ajatellaan ja tehd\'e4\'e4n: \
+Macduffin linna h\'e4mm\'e4stytt\'e4\'e4; \
+Seize upon Fife; anna reunalle o 'miekka \
+H\'e4nen vaimonsa, h\'e4nen lapsensa ja kaikki valitettavat sielut \
+Se j\'e4ljitt\'e4\'e4 h\'e4net h\'e4nen linjallaan. Ei kersku kuin tyhm\'e4; \
+T\'e4m\'e4 teos tehd\'e4\'e4n ennen t\'e4t\'e4 tarkoitusta j\'e4\'e4hty\'e4. \
+Mutta ei en\'e4\'e4 n\'e4ht\'e4v\'e4\'e4! - Miss\'e4 n\'e4m\'e4 herrat ovat? \
+Tule, tuo minulle, miss\'e4 he ovat. \
+He poistuvat\
+\
+TIEDE II. Huilu. Macduffin linna.\
+Anna LADY MACDUFF, h\'e4nen poikansa ja ROSS\
+LADY MACDUFF\
+Mit\'e4 h\'e4n oli tehnyt, jotta h\'e4n lenn\'e4isi maata? \
+ROSS\
+Sinulla on k\'e4rsiv\'e4llisyytt\'e4, rouva. \
+LADY MACDUFF\
+H\'e4nell\'e4 ei ollut yht\'e4\'e4n: \
+H\'e4nen lennonsa oli hulluutta: kun tekosi eiv\'e4t, \
+Pelk\'e4mme tekev\'e4t meist\'e4 pettureita. \
+ROSS\
+Et tied\'e4 \
+Olipa kyseess\'e4 h\'e4nen viisautensa tai h\'e4nen pelonsa. \
+LADY MACDUFF\
+Viisaus! j\'e4tt\'e4\'e4 vaimonsa, j\'e4tt\'e4\'e4 h\'e4nen lapsensa, \
+H\'e4nen kartanonsa ja h\'e4nen nimens\'e4 paikkaan \
+Mist\'e4 h\'e4n lent\'e4\'e4? H\'e4n ei meit\'e4 rakasta; \
+H\'e4n haluaa luonnollisen kosketuksen: \
+Pienimpi\'e4 lintuja, taistelevat, \
+H\'e4nen nuoret pes\'e4\'e4ns\'e4, p\'f6ll\'f6\'e4 vastaan. \
+Kaikki on pelko ja mik\'e4\'e4n ei ole rakkautta; \
+Niin pieni on viisaus, jossa lento \
+Joten se rikkoo kaikkia syit\'e4. \
+ROSS\
+Rakas yst\'e4v\'e4ni, \
+Rukoilen, kouluta itse\'e4si: mutta miehelle, \
+H\'e4n on jalo, viisas, j\'e4rkev\'e4 ja parhaiten \
+Se sopii kauden. En uskalla puhua \
+paljon muuta; \
+Mutta julmat ovat aikoja, kun me olemme pettureita \
+Ja emme tunne itse\'e4mme, kun meill\'e4 on huhu \
+Mit\'e4 pelk\'e4\'e4mme, mutta emme tied\'e4, mit\'e4 pelk\'e4\'e4mme, \
+Mutta kellua luonnonvaraisella ja v\'e4kivaltaisella merell\'e4 \
+Jokainen tapa ja liikkua. Otan lupaukseni: \
+Ei ole pitk\'e4, mutta tulen taas t\'e4nne: \
+Pahimmassa olevat asiat lakkaavat tai muuten nousevat yl\'f6sp\'e4in \
+Mit\'e4 he olivat ennen. Oma serkkuni, \
+Siunaa sinua! \
+LADY MACDUFF\
+Is\'e4 h\'e4n on, mutta h\'e4n on orpo. \
+ROSS\
+Olen niin tyhm\'e4, pit\'e4isik\'f6 minun pysy\'e4 pidemp\'e4\'e4n, \
+Se olisi minun h\'e4pe\'e4lleni ja ep\'e4mukavalta: \
+Otan lomani heti. \
+poistuminen\
+\
+LADY MACDUFF\
+Sirra, is\'e4si on kuollut; \
+Ja mit\'e4 teet nyt? Kuinka asut? \
+Poika\
+Kuten linnut, \'e4iti. \
+LADY MACDUFF\
+Mit\'e4 matoilla ja k\'e4rp\'e4ill\'e4? \
+Poika\
+Mit\'e4 min\'e4 saan, tarkoitan; ja niin hekin. \
+LADY MACDUFF\
+Huono lintu! sin\'e4 et koskaan pelk\'e4\'e4 verkkoa eik\'e4 kalkkia, \
+Kyyn\'e4rp\'e4\'e4 tai gini. \
+Poika\
+Miksi min\'e4, \'e4iti? Huonoja lintuja niit\'e4 ei ole asetettu. \
+Is\'e4ni ei ole kuollut. \
+LADY MACDUFF\
+Kyll\'e4, h\'e4n on kuollut; kuinka sin\'e4 teet is\'e4lle? \
+Poika\
+Kuinka teet aviomiehelle? \
+LADY MACDUFF\
+Miksi voin ostaa minulta kaksikymment\'e4 mill\'e4 tahansa markkinoilla. \
+Poika\
+Sitten ostat heid\'e4t j\'e4lleen myym\'e4\'e4n. \
+LADY MACDUFF\
+Sin\'e4 puhut kaikella k\'e4sityksell\'e4nne. Ja viel\'e4, usko, \
+Riitt\'e4v\'e4n sinulle. \
+Poika\
+Oliko is\'e4ni petturi, \'e4iti? \
+LADY MACDUFF\
+H\'e4n oli. \
+Poika\
+Mik\'e4 on petturi? \
+LADY MACDUFF\
+Miksi, se, joka valaa ja valehtelee. \
+Poika\
+Ja olkaa kaikki pettureita, jotka tekev\'e4t niin? \
+LADY MACDUFF\
+Jokainen, joka tekee niin, on petturi, ja se on ripustettava. \
+Poika\
+Ja pit\'e4\'e4k\'f6 heid\'e4t kaikki olla riippuvaisia, jotka vannovat ja valehtelevat? \
+LADY MACDUFF\
+Jokainen. \
+Poika\
+Kenen on ripustettava ne? \
+LADY MACDUFF\
+Miksi rehelliset miehet. \
+Poika\
+Sitten valehtelijat ja kiroilijat ovat tyhm\'e4t, \
+sill\'e4 siell\'e4 on valehtelijoita ja kiroilijoita \
+rehelliset miehet ja ripusta ne. \
+LADY MACDUFF\
+Nyt, Jumala auttaa sinua, huono apina! \
+Mutta miten sin\'e4 teet is\'e4lle? \
+Poika\
+Jos h\'e4n olisi kuollut, sin\'e4 itkisit \
+h\'e4n: jos et, niin se oli hyv\'e4 merkki \
+ett\'e4 minun pit\'e4isi nopeasti olla uusi is\'e4. \
+LADY MACDUFF\
+Huonoa prattler, miten puhut! \
+Anna Messenger\
+\
+sanansaattaja\
+Siunaa sinut, tasapuolinen poika! En tied\'e4, \
+Vaikka kunniasi kunnossa olen t\'e4ydellinen. \
+Ep\'e4ilen, ett\'e4 jokin vaara l\'e4hestyy sinua l\'e4hes: \
+Jos otat kotitekoisen miehen neuvon, \
+Ei l\'f6ydy t\'e4\'e4lt\'e4; siis pienill\'e4 lapsillasi. \
+Pelottaakseni sin\'e4 siis, minusta, olen liian villi; \
+Tehd\'e4kseni pahempaa teit\'e4 pudotti julma, \
+Mik\'e4 on liian l\'e4hell\'e4 sinua. Taivas s\'e4ilytt\'e4\'e4 sinut! \
+En uskalla en\'e4\'e4 pysy\'e4. \
+poistuminen\
+\
+LADY MACDUFF\
+Mihin minun pit\'e4isi lent\'e4\'e4? \
+En ole tehnyt mit\'e4\'e4n haittaa. Mutta muistan nyt \
+Olen t\'e4ss\'e4 maallisessa maailmassa; miss\'e4 tehd\'e4 haittaa \
+On usein kiitett\'e4v\'e4\'e4, tehd\'e4 hyv\'e4\'e4 joskus \
+Tunnetaan vaarallinen hulluus: miksi sitten, valitettavasti, \
+Osaanko tuon naisen puolustuksen, \
+Sanon, etten ole tehnyt mit\'e4\'e4n haittaa? \
+Anna tappaja\
+\
+Mit\'e4 n\'e4m\'e4 kasvot ovat? \
+Ensimm\'e4inen murhaaja\
+Miss\'e4 on miehesi? \
+LADY MACDUFF\
+Toivottavasti, miss\'e4\'e4n paikassa, niin ep\'e4onnistuneita \
+Miss\'e4 sin\'e4 saatat l\'f6yt\'e4\'e4 h\'e4net. \
+Ensimm\'e4inen murhaaja\
+H\'e4n on petturi. \
+Poika\
+Sin\'e4 varastat, sin\'e4 sin\'e4 huijari! \
+Ensimm\'e4inen murhaaja\
+Mit\'e4, muna? \
+Pist\'e4nyt h\'e4net\
+\
+Nuori paha petos! \
+Poika\
+H\'e4n on tappanut minut, \'e4iti: \
+Juokse pois, rukoilen sinua! \
+dies\
+\
+Lopeta LADY MACDUFF, huutaen "Murder!" Exeunt Murderers seuraa h\'e4nt\'e4\
+\
+TARKASTELU III. Englanti. Ennen kuninkaan palatsia.\
+Anna MALCOLM ja MACDUFF\
+MALCOLM\
+Auta etsim\'e4\'e4n jotain autiomaista s\'e4vy\'e4 ja siell\'e4 \
+Itkek\'e4\'e4 surulliset syyt\'e4mme tyhj\'e4ksi. \
+MACDUFF\
+Olkaamme mieluummin \
+Pid\'e4 nopeasti kuolevaa miekkaa ja kuten hyvi\'e4 miehi\'e4 \
+Bestride meid\'e4n alas-fall'n syntym\'e4p\'e4iv\'e4: jokainen uusi aamu \
+Uudet lesket itkev\'e4t, uudet orpoot itkev\'e4t, uudet surut \
+Strike taivas kasvot, ett\'e4 se kuulostaa \
+Ik\'e4\'e4n kuin se tuntuu Skotlannin ja yell'd \
+Kuten sylke\'e4. \
+MALCOLM\
+Uskon, ett\'e4 min\'e4 huudan, \
+Mit\'e4 tiet\'e4v\'e4t uskovat ja mit\'e4 voin korjata, \
+Kun l\'f6yd\'e4n aika yst\'e4v\'e4lleni, niin min\'e4 tahdon. \
+Mit\'e4 olet sanonut, se voi olla niin hiljainen. \
+This tyrant, whose sole name blisters our tongues, \
+Was once thought honest: you have loved him well. \
+He hath not touch'd you yet. I am young; \
+but something \
+You may deserve of him through me, and wisdom \
+To offer up a weak poor innocent lamb \
+To appease an angry god. \
+MACDUFF\
+I am not treacherous. \
+MALCOLM\
+But Macbeth is. \
+A good and virtuous nature may recoil \
+In an imperial charge. But I shall crave \
+your pardon; \
+That which you are my thoughts cannot transpose: \
+Angels are bright still, though the brightest fell; \
+Though all things foul would wear the brows of grace, \
+Yet grace must still look so. \
+MACDUFF\
+I have lost my hopes. \
+MALCOLM\
+Perchance even there where I did find my doubts. \
+Why in that rawness left you wife and child, \
+Those precious motives, those strong knots of love, \
+Without leave-taking? I pray you, \
+Let not my jealousies be your dishonours, \
+But mine own safeties. You may be rightly just, \
+Whatever I shall think. \
+MACDUFF\
+Bleed, bleed, k\'f6yh\'e4 maa! \
+Suuri tyrannia! antakaa sinun perustuksesi varma, \
+Hyvyyteen ei uskalla tarkistaa sinua: k\'e4yt\'e4t \
+sinun v\'e4\'e4ryytesi; \
+Otsikko on affeer'd! Tee hyv\'e4\'e4, Herra: \
+En olisi roisto, jonka luulet \
+Koko tyrannin k\'e4siss\'e4 oleva tila, \
+Ja rikkaat it\'e4 aloittaa. \
+MALCOLM\
+\'c4l\'e4 loukkaa: \
+En puhu ehdottomasti pelk\'e4\'e4m\'e4n sinua. \
+Uskon, ett\'e4 maamme vajoaa ikeen alla; \
+Se itkee, se vuotaa; ja jokainen uusi p\'e4iv\'e4 karkea \
+Lis\'e4t\'e4\'e4n h\'e4nen haavojaan: luulen \
+Minua oikein k\'e4teni nousisivat yl\'f6s; \
+Ja t\'e4\'e4ll\'e4 Englannin hyv\'e4st\'e4 palvelusta tarjoan \
+Hyvi\'e4 tuhansia, mutta kaiken t\'e4m\'e4n, \
+Kun tulen tyranrannan p\'e4\'e4h\'e4n, \
+Tai k\'e4yt\'e4 sit\'e4 miekalla, mutta k\'f6yh\'e4 maa \
+H\'e4nell\'e4 on enemm\'e4n v\'e4\'e4ryyksi\'e4 kuin aiemmin, \
+Lis\'e4\'e4 k\'e4rsimyst\'e4 ja monipuolisempia tapoja kuin koskaan, \
+H\'e4nen, joka menestyy. \
+MACDUFF\
+Mit\'e4 h\'e4nen pit\'e4isi olla? \
+MALCOLM\
+Olen itse min\'e4 tarkoitan: kenen min\'e4 tied\'e4n \
+Kaikki v\'e4\'e4renn\'f6sten tiedot \
+Kun heid\'e4t avataan, musta Macbeth \
+N\'e4ytt\'e4\'e4 puhtaalta kuin lumi ja k\'f6yh\'e4 valtio \
+Este h\'e4nt\'e4 kuin karitsa, verrataan \
+Oma rauha vahingoittaa. \
+MACDUFF\
+Ei legioissa \
+Kauhea helvetti voi tulla paholaiseksi enemm\'e4n piru \
+Taistelussa alkuun Macbeth. \
+MALCOLM\
+Annan h\'e4nelle verisen, \
+Ylellinen, avaruus, v\'e4\'e4r\'e4, petollinen, \
+\'c4killinen, haitallinen, jokaisen synnin smacking \
+Se on nimi: mutta ei ole pohjaa, ei yht\'e4\'e4n, \
+Oon tahdonvoimassani: vaimonne, tytt\'e4resi, \
+Matrons ja palvelusi eiv\'e4t kyenneet t\'e4ytt\'e4m\'e4\'e4n \
+Henkeni s\'e4ili\'f6 ja haloni \
+Kaikki maanosat est\'e4v\'e4t \
+Se vastusti tahtoani: parempi Macbeth \
+Kuin sellainen, joka hallitsi. \
+MACDUFF\
+Rajaton h\'e4iri\'f6 \
+Luonnossa on tyrannia; se on ollut \
+Onnellinen valtaistuimen ennenaikainen tyhjennys \
+Ja monien kuninkaiden pudotus. Mutta pelk\'e4\'e4 viel\'e4 \
+Voit ottaa sinuun, mik\'e4 on sinun: voit \
+Ilmaisee nautintoja tilavassa runsaudessa, \
+Ja silti tuntuu kylm\'e4lt\'e4, aika, jonka saatat niin hoodwink. \
+Meill\'e4 on halukkaita tarpeita: ei voi olla \
+Tuo kukko sinussa, niin ett\'e4 niin paljon sy\'f6 \
+Niin kuin suuruus omistautuu, \
+Se on niin kallis. \
+MALCOLM\
+T\'e4ll\'e4 kasvaa \
+Minun huonosti s\'e4ilyneess\'e4 kiintymykses- s\'e4ni sellainen \
+Taipuisa ahtaus, joka olin kuninkaana, \
+Minun pit\'e4isi katkaista aateliset heid\'e4n maastaan, \
+Haluta h\'e4nen jalokivi\'e4\'e4n ja t\'e4m\'e4n toisen talon: \
+Ja minun enemm\'e4n-ottaa olisi kuin kastike \
+Jotta voisin saada enemm\'e4n n\'e4lk\'e4; ett\'e4 minun pit\'e4isi valmistaa \
+Nyrkkeit\'e4 ep\'e4oikeudenmukaisesti hyv\'e4\'e4 ja uskollista vastaan, \
+Tuhota heid\'e4t vaurauteen. \
+MACDUFF\
+T\'e4m\'e4 avaruus \
+Sy\'f6tt\'e4\'e4 syvemm\'e4lle, kasvaa enemm\'e4n vahingollisella juurella \
+Kuin kes\'e4n ilmeinen himo, ja se on ollut \
+Meid\'e4n tapettujen kuningastemme miekka; \'e4l\'e4 pelk\'e4\'e4; \
+Skotlannilla on \'e4\'e4ni\'e4 t\'e4ytt\'e4\'e4ksesi tahtosi. \
+Sinun pelkk\'e4 oma: kaikki n\'e4m\'e4 ovat kannettavia, \
+Muilla syyill\'e4 punnitaan. \
+MALCOLM\
+Mutta minulla ei ole mit\'e4\'e4n: \
+Oikeuden, totuuden, temperanssisuuden, tasaisuuden, \
+Korvaus, sitkeys, armo, n\'f6yryys, \
+Devotion, k\'e4rsiv\'e4llisyys, rohkeus, vakaumus, \
+Minulla ei ole ihastuttavaa, mutta runsaasti \
+Jokaisen rikoksen jakamisessa, \
+Se toimii monella tavalla. Ei, olisin voinut, minun pit\'e4isi \
+Kaada makea maito sopia helvettiin, \
+H\'e4iratkaa yleinen rauha, sekaisin \
+Kaikki yhten\'e4isyys maan p\'e4\'e4ll\'e4. \
+MACDUFF\
+O Skotlanti, Skotlanti! \
+MALCOLM\
+Jos sellainen on sopiva hallita, puhu: \
+Olen sellainen kuin olen puhunut. \
+MACDUFF\
+Sovita hallita! \
+Ei, ei el\'e4\'e4. O nation miserable, \
+Kun nimetty tyranni oli verinen valtiota, \
+Kun n\'e4et terveelliset p\'e4iv\'e4t, \
+Siit\'e4 l\'e4htien sinun valtaistuimesi todellinen asia \
+Omalla kielt\'e4ytymisest\'e4\'e4n on kirottu, \
+Ja pahoittelee h\'e4nen rotunsa? Sinun is\'e4si \
+Oliko kaikkein pyhimpi kuningas: kuningatar, joka pani sinut, \
+Parempi polvillaan kuin jaloillaan, \
+Kuollut joka p\'e4iv\'e4 h\'e4n asui. Tee hyv\'e4\'e4! \
+N\'e4m\'e4 pahat teot toistetaan itsest\'e4nne \
+Karkotti minut Skotlannista. O rintani, \
+Sinun toivomme p\'e4\'e4ttyy t\'e4h\'e4n! \
+MALCOLM\
+Macduff, t\'e4m\'e4 jalo intohimo, \
+Eheyden lapsi, on minun sieluni \
+Pyyhk\'e4isi mustat toiveet, sovitti ajatukseni \
+Sinun hyv\'e4 totuus ja kunnia. Devilish Macbeth \
+Monet n\'e4ist\'e4 junista ovat yritt\'e4neet voittaa minua \
+H\'e4nen voimaansa ja vaatimaton viisaus ly\'f6 minua \
+Yli-uskottava kiire: mutta Jumala edell\'e4 \
+Deal sinun ja minun v\'e4lill\'e4! viel\'e4kin \
+Asetin itse\'e4si sinun suuntaan, ja \
+Puhu minulle omasta rikkoutumisestani \
+Taipuvat ja syyt\'e4t, \
+Muukalaisille luonani. Olen viel\'e4 \
+Tuntematon nainen, ei koskaan ollut luopunut, \
+Harvaan halusivat mit\'e4 minun omani, \
+\'c4lk\'e4\'e4 koskaan riko uskoni, ei pet\'e4 \
+Paholainen h\'e4nen kavalleen ja ilo \
+Ei v\'e4hemm\'e4n kuin totuus kuin el\'e4m\'e4: ensimm\'e4inen v\'e4\'e4r\'e4 puhe \
+Oliko t\'e4m\'e4 itselleni: mit\'e4 olen todella, \
+Onko sinun ja minun k\'f6yh\'e4n maan hallitseva: \
+Miss\'e4 tosiaankin, ennen t\'e4nne l\'e4hestymistapaa, \
+Vanha Siward, kymmenentuhatta taistelevaa miest\'e4, \
+Jo jossain vaiheessa, oli esiin. \
+Nyt me yhdess\'e4; ja hyvyyden mahdollisuus \
+Ole kuin meid\'e4n oikeutettu riita! Miksi olet hiljaa? \
+MACDUFF\
+T\'e4llaisia \uc0\u8203 \u8203 tervetulleita ja ei-toivottuja asioita kerralla \
+"On vaikea sovittaa yhteen. \
+Anna l\'e4\'e4k\'e4ri\
+\
+MALCOLM\
+Hyvin; enemm\'e4n anon .-- Tulee kuningas eteenp\'e4in, min\'e4 rukoilen? \
+L\'e4\'e4k\'e4ri\
+Ay, sir; siell\'e4 on miehist\'f6n pahoja sieluja \
+Se pysyy h\'e4nen parantumisensa: heid\'e4n sairautensa vakuuttavat \
+Taiteen suuri m\'e4\'e4ritys; mutta h\'e4nen kosketuksensa - \
+T\'e4llainen pyhyys on taivas antanut k\'e4tens\'e4 - \
+He nyt muutetaan. \
+MALCOLM\
+Kiitoksia, l\'e4\'e4k\'e4ri. \
+Lopeta tohtori\
+\
+MACDUFF\
+Mit\'e4 tahtoa h\'e4n tarkoittaa? \
+MALCOLM\
+"Se kutsui pahaa: \
+Kaikkein ihmeellinen ty\'f6 t\'e4ss\'e4 hyv\'e4ss\'e4 kuninkaassa; \
+Usein, koska t\'e4\'e4ll\'e4 on edelleen Englannissa, \
+Olen n\'e4hnyt h\'e4nen tekev\'e4n. Kuinka h\'e4n pyyt\'e4\'e4 taivasta, \
+Itse parhaiten tiet\'e4\'e4: mutta oudosti vieraillut ihmiset, \
+Kaikki turvonnut ja haava, lempe\'e4 silm\'e4\'e4n, \
+Pelk\'e4n leikkauksen ep\'e4toivo, h\'e4n parantaa, \
+Ripustaa kultaista leimaansa kaulaansa, \
+Pit\'e4k\'e4\'e4 pyhiin rukouksiin: ja 'puhutaan, \
+J\'e4ljelle j\'e4\'e4v\'e4\'e4n rotuun h\'e4n l\'e4htee \
+Parantunut blessing. T\'e4m\'e4n kummallisen hyveen, \
+H\'e4nell\'e4 on taivaallinen profetian lahja, \
+Ja muukalaiset siunaukset roikkuvat h\'e4nen valtaistuimellaan, \
+Se puhuu h\'e4nelle t\'e4ynn\'e4 armoa. \
+Sy\'f6t\'e4 ROSS\
+\
+MACDUFF\
+Katso, kuka tulee t\'e4nne? \
+MALCOLM\
+Minun maanmieheni; mutta en tunne h\'e4nt\'e4. \
+MACDUFF\
+Minun lempe\'e4 serkku, tervetuloa t\'e4nne. \
+MALCOLM\
+Tunnen h\'e4net nyt. Hyv\'e4 Jumala, v\'e4\'e4renn\'f6kset poistavat \
+V\'e4lineet, jotka tekev\'e4t meist\'e4 muukalaisia! \
+ROSS\
+Herra, amen. \
+MACDUFF\
+Miss\'e4 se on? \
+ROSS\
+Valitettavasti k\'f6yh\'e4 maa! \
+L\'e4hes pelk\'e4\'e4 tuntea itsens\'e4. Se ei voi \
+Ole kutsu meid\'e4n \'e4idill\'e4mme, mutta haudallamme; jossa mit\'e4\'e4n, \
+Mutta kuka ei tunne mit\'e4\'e4n, n\'e4hd\'e4\'e4n kerran hymyilem\'e4\'e4n; \
+Miss\'e4 huokaus ja huokaus ja huutaa, jotka muodostavat ilman \
+Tehtiin, ei merkitty; jossa v\'e4kivaltainen suru tuntuu \
+Moderni ekstaasi; kuolleen miehen solmu \
+Kysyt\'e4\'e4nk\'f6 v\'e4h\'e4n, kuka; ja hyvi\'e4 miehi\'e4 \
+Vanhentuvat ennen kukat niiden korkit, \
+Kuolevat tai \'e4rsytt\'e4v\'e4t heit\'e4. \
+MACDUFF\
+O, suhde \
+Liian kiva ja silti totta! \
+MALCOLM\
+Mik\'e4 on uusin suru? \
+ROSS\
+Tunnin ik\'e4inen aika huutaa puhujaa: \
+Jokainen minuutti heitt\'e4\'e4 uuden. \
+MACDUFF\
+Kuinka vaimoni? \
+ROSS\
+Miksi? \
+MACDUFF\
+Ja kaikki lapset? \
+ROSS\
+Hyvin my\'f6s. \
+MACDUFF\
+Tyranni ei ole taistellut rauhassaan? \
+ROSS\
+Ei; he olivat hyvin rauhassa, kun j\'e4tin heid\'e4t. \
+MACDUFF\
+Mutta ei niggardia puheestasi: miten menee? \
+ROSS\
+Kun tulin t\'e4nne kuljettamaan uutisia, \
+Joka olen k\'e4rsinyt voimakkaasti, kuului huhu \
+Monista arvokkaista miehist\'e4, jotka olivat ulos; \
+Mik\'e4 minun uskoani todisti pikemminkin, \
+Sent\'e4hden n\'e4in tyrannin voiman a-jalka: \
+Nyt on aika auttaa; teid\'e4n silm\'e4si Skotlannissa \
+Luotaisiin sotilaita, tekisimme naisia \uc0\u8203 \u8203 taistelemaan, \
+Tehd\'e4 kauhistuttavat h\'e4d\'e4ns\'e4. \
+MALCOLM\
+Ei heid\'e4n mukavuuttaan \
+Olemme tulossa sinne: armollinen Englanti on \
+Lentokaa meit\'e4 hyv\'e4 Siward ja kymmenentuhatta miest\'e4; \
+Vanhempi ja parempi sotilas ei ole \
+Tuo kristikunta antaa ulos. \
+ROSS\
+Voisinko vastata \
+T\'e4m\'e4 mukavuus kuten! Mutta minulla on sanoja \
+Se olisi h\'f6lynp\'e4\'e4t\'e4 autiomaassa, \
+Jos kuulo ei pid\'e4 lukita niit\'e4. \
+MACDUFF\
+Mit\'e4 huolta heist\'e4? \
+Yleinen syy? vai onko se maksu-surua \
+Joidenkin yksitt\'e4isten rintojen vuoksi? \
+ROSS\
+Ei h\'e4t\'e4\'e4, se on rehellist\'e4 \
+Mutta siin\'e4 jakaa jonkin verran hyv\'e4\'e4; vaikka t\'e4rkein osa \
+Koskee sinua yksin. \
+MACDUFF\
+Jos se on minun, \
+Pid\'e4 se ei minusta, anna sen nopeasti. \
+ROSS\
+\'c4lk\'f6\'f6n sinun korvasi halveksia kielt\'e4ni iankaikkisesti, \
+Kumpi heit\'e4 hallitsevat heikoimmillaan \
+Se, ett\'e4 he kuulivat. \
+MACDUFF\
+Hyr\'e4ill\'e4! Luulen sen. \
+ROSS\
+Sinun linna on yll\'e4ttynyt; vaimosi ja vauvasi \
+Savagely teurastettu: suhteuttaa tavalla, \
+Oli kyseisten murhattujen peurojen louhos, \
+Lis\'e4\'e4kseni kuolema. \
+MALCOLM\
+Armollinen taivas! \
+Mik\'e4 mies! ne'er vet\'e4\'e4 hattuni kulmiesi p\'e4\'e4lle; \
+Anna surun sanoja: suru, joka ei puhu \
+Whispers o'er-lupaava syd\'e4n ja tarjouksia se hajoaa. \
+MACDUFF\
+Lapseni my\'f6s? \
+ROSS\
+Vaimo, lapset, palvelijat, kaikki \
+Se l\'f6ytyi. \
+MACDUFF\
+Minun t\'e4ytyy olla sielt\'e4! \
+Vaimoni tiesi my\'f6s? \
+ROSS\
+Olen sanonut. \
+MALCOLM\
+Lohduttaa: \
+Tehd\'e4\'e4n meille l\'e4\'e4kkeit\'e4 suuresta kostotamme, \
+Paranna t\'e4t\'e4 tappavaa surua. \
+MACDUFF\
+H\'e4nell\'e4 ei ole lapsia. Kaikki kauniit? \
+Sanoitko kaikki? O helvetin leija! Kaikki? \
+Mit\'e4, kaikki kauniit kanoja ja niiden em\'e4 \
+Kertaheitolla? \
+MALCOLM\
+Kiist\'e4\'e4 se kuin mies. \
+MACDUFF\
+Aion tehd\'e4 niin; \
+Minun on my\'f6s tuntenut sen miehen\'e4: \
+En voi muistaa, ett\'e4 sellaiset asiat olisivat, \
+Se oli minulle arvokkain. Taivas katsoi, \
+Eiv\'e4tk\'f6 ne osuutensa? Syntinen Macduff, \
+Heid\'e4t kaikki l\'f6iv\'e4t sinulle! mit\'e4 min\'e4 olen, \
+Ei omiin haavoihin, mutta minun, \
+Teurastettu heid\'e4n sieluunsa. Taivas lep\'e4\'e4 ne nyt! \
+MALCOLM\
+Ole t\'e4m\'e4 miekkanne vaara, anna surua \
+Muunna viha; tylpp\'e4 ei syd\'e4nt\'e4, \'e4rsytt\'e4\'e4 sit\'e4. \
+MACDUFF\
+Oi, voisin pelata naista silm\'e4ni kanssa \
+Ja h\'e4vytt\'e4\'e4 minun kielell\'e4ni! Mutta lempe\'e4 taivas, \
+Lyhent\'e4\'e4 kaikki keskeytykset; edess\'e4 ja eteen \
+Tuo t\'e4m\'e4 Skotlannin ja minun itseni; \
+Minun miekkani pituus asettaa h\'e4net; jos h\'e4n " \
+Heaven antaa h\'e4nelle anteeksi! \
+MALCOLM\
+T\'e4m\'e4 viritys menee mieheksi. \
+Tulkaa, menk\'e4\'e4mme kuninkaan eteen; voimamme on valmis; \
+Meid\'e4n puute ei ole muuta kuin lomamme; Macbeth \
+Onko kyps\'e4 ravistelemaan, ja edell\'e4 mainitut voimat \
+Laita niiden instrumentit. Saada mit\'e4 pirist\'e4\'e4 sinua: \
+Y\'f6 on pitk\'e4, joka ei koskaan l\'f6yd\'e4 p\'e4iv\'e4\'e4. \
+He poistuvat\
+\
+ACT V\
+SCENE I. Dunsinane. Ante-huone linnassa.\
+Anna Physic-tohtori ja odottava Gentlewoman\
+L\'e4\'e4k\'e4ri\
+Minulla on kaksi y\'f6t\'e4 katseltuna kanssasi, mutta h\'e4n voi n\'e4hd\'e4 sen \
+ei totuutta mietinn\'f6ss\'e4si. Milloin h\'e4n viimeksi k\'e4veli? \
+s\'e4\'e4tyl\'e4isnainen\
+Koska h\'e4nen majesteettinsa meni kent\'e4lle, olen n\'e4hnyt \
+h\'e4n nousi s\'e4ngyst\'e4\'e4n, heitt\'e4\'e4 h\'e4nen y\'f6pukuansa \
+avata h\'e4nen vaatekaappi, ottaa paperi, taita se, \
+kirjoita sen p\'e4\'e4lle, lue se, sulje se sitten ja uudelleen \
+paluu nukkumaan; mutta kaikki t\'e4m\'e4 taas nopeimmin nukkumassa. \
+L\'e4\'e4k\'e4ri\
+Suuri h\'e4iri\'f6 luonteeltaan, saada heti \
+hy\'f6ty\'e4 unta, ja tehd\'e4 vaikutuksia \
+katsomassa! T\'e4ss\'e4 ik\'e4v\'e4 levottomuus, h\'e4nen lis\'e4ksisa \
+k\'e4vely ja muut todelliset suoritukset, mit\'e4, miss\'e4 tahansa \
+aika, oletko kuullut h\'e4nen sanovan? \
+s\'e4\'e4tyl\'e4isnainen\
+Siit\'e4, herra, jota en kerro h\'e4nen j\'e4lkeens\'e4. \
+L\'e4\'e4k\'e4ri\
+Sin\'e4 voit minulle: ja "parhaiten tavata sinun pit\'e4isi. \
+s\'e4\'e4tyl\'e4isnainen\
+Ei teille eik\'e4 kukaan; ilman todistusta \
+vahvista puheeni. \
+Anna LADY MACBETH, kartiomainen\
+\
+Sin\'e4, t\'e4\'e4ll\'e4 h\'e4n tulee! T\'e4m\'e4 on h\'e4nen hyvin valehteleva; \
+ja el\'e4m\'e4ni j\'e4lkeen, nopeasti unessa. Noudata h\'e4nt\'e4; pysy l\'e4hell\'e4. \
+L\'e4\'e4k\'e4ri\
+Kuinka h\'e4n tuli siihen valoon? \
+s\'e4\'e4tyl\'e4isnainen\
+Miksi, se seisoi h\'e4nen \'e4\'e4ress\'e4: h\'e4nell\'e4 on valoa \
+jatkuvasti; 'tis h\'e4nen k\'e4skyns\'e4. \
+L\'e4\'e4k\'e4ri\
+N\'e4et, h\'e4nen silm\'e4ns\'e4 ovat auki. \
+s\'e4\'e4tyl\'e4isnainen\
+Kyll\'e4, mutta heid\'e4n tunteensa on suljettu. \
+L\'e4\'e4k\'e4ri\
+Mit\'e4 h\'e4n tekee nyt? Katso, kuinka h\'e4n hieroo k\'e4tens\'e4. \
+s\'e4\'e4tyl\'e4isnainen\
+Se on tottunut toiminta h\'e4nen kanssaan, niin n\'e4ytt\'e4\'e4 silt\'e4 \
+pese k\'e4tens\'e4: olen tuntenut h\'e4nen jatkaa sis\'e4\'e4n \
+t\'e4m\'e4 nelj\'e4nnes tunti. \
+LADY MACBETH\
+Silti t\'e4ss\'e4 on paikka. \
+L\'e4\'e4k\'e4ri\
+Hark! h\'e4n puhuu: min\'e4 asetan, mit\'e4 tulee \
+h\'e4nen, muistoni muistoksi. \
+LADY MACBETH\
+Poissa, pettynyt paikka! - Yksi: kaksi: miksi, \
+niin, on aika tehd\'e4. - Helvetti on h\'e4m\'e4r\'e4! \
+herra, fie! sotilas ja afeard? Mit\'e4 me tarvitsemme \
+pelk\'e4\'e4, kuka tiet\'e4\'e4 sen, kun kukaan ei voi kutsua voimamme \
+- Mutta kuka olisi pit\'e4nyt vanhan miehen \
+ett\'e4 h\'e4nell\'e4 oli niin paljon verta. \
+L\'e4\'e4k\'e4ri\
+Merkitsitk\'f6 t\'e4m\'e4n? \
+LADY MACBETH\
+Fifen naisella oli vaimo: miss\'e4 h\'e4n nyt on? \
+Mit\'e4, eik\'f6 n\'e4m\'e4 k\'e4det ole puhtaita? - Ei en\'e4\'e4 o ' \
+ett\'e4, herrani, en en\'e4\'e4 sit\'e4: sin\'e4 kauhistat \
+t\'e4m\'e4 alkaa. \
+L\'e4\'e4k\'e4ri\
+Mene, mene; olet tiennyt, mit\'e4 sinun ei pit\'e4isi. \
+s\'e4\'e4tyl\'e4isnainen\
+H\'e4n on puhunut, mit\'e4 h\'e4nen ei pit\'e4isi, olen varma \
+ett\'e4: taivas tiet\'e4\'e4 mit\'e4 h\'e4n on tiennyt. \
+LADY MACBETH\
+T\'e4ss\'e4 on verta haju: kaikki \
+Arabian tuoksut eiv\'e4t makea t\'e4t\'e4 v\'e4h\'e4n \
+k\'e4si. Oi, oh, oh! \
+L\'e4\'e4k\'e4ri\
+Mik\'e4 huokaus on! Syd\'e4n on akuutti. \
+s\'e4\'e4tyl\'e4isnainen\
+Minulla ei olisi t\'e4llaista syd\'e4nt\'e4 minun syksyni \
+koko elimen arvokkuus. \
+L\'e4\'e4k\'e4ri\
+Jopas jotakin,-- \
+s\'e4\'e4tyl\'e4isnainen\
+Rukoilkaa Jumalaa, sir. \
+L\'e4\'e4k\'e4ri\
+T\'e4m\'e4 tauti ei ole k\'e4yt\'e4nn\'f6llinen, mutta min\'e4 olen tiennyt \
+jotka ovat kulkeneet nukkumassaan, jotka ovat kuolleet \
+pyh\'e4ll\'e4 s\'e4ngyll\'e4. \
+LADY MACBETH\
+Pese k\'e4det, pukeudu y\'f6puvuksi. ei n\'e4yt\'e4 niin \
+vaalea. - Kerron viel\'e4 kerran, Banquo on haudattu; h\'e4n \
+ei voi tulla ulos haudasta. \
+L\'e4\'e4k\'e4ri\
+Jopa niin? \
+LADY MACBETH\
+Vuoteeseen, nukkumaan! siell\'e4 koputtaa portilla: \
+tule, tule, tule, tule, antakaa minulle k\'e4si. Mik\'e4 \
+ei voi kumota .-- Vuoteeseen, nukkumaan, nukkumaan! \
+poistuminen\
+\
+L\'e4\'e4k\'e4ri\
+Auttaako h\'e4n nyt nukkumaan? \
+s\'e4\'e4tyl\'e4isnainen\
+Suoraan. \
+L\'e4\'e4k\'e4ri\
+Ep\'e4toivoiset kuiskaukset ovat ulkomailla: luonnottomia tekoja \
+Kasvattavat luonnottomia ongelmia: tartunnan saaneet mielet \
+Heid\'e4n kuurojen tyynyille annetaan salaisuudet: \
+Enemm\'e4n h\'e4n tarvitsee jumalallista kuin l\'e4\'e4k\'e4ri. \
+Jumala, Jumala antaa meille kaikille anteeksi! Katso h\'e4nt\'e4; \
+Poista h\'e4nelt\'e4 kaiken h\'e4irinn\'e4n keinot, \
+Ja silti silm\'e4ll\'e4 h\'e4nt\'e4. Joten hyv\'e4\'e4 y\'f6t\'e4: \
+Mieleeni h\'e4n on pariutunut ja h\'e4mm\'e4stynyt n\'e4kemykseni. \
+Luulen, mutta eiv\'e4t uskalla puhua. \
+s\'e4\'e4tyl\'e4isnainen\
+Hyv\'e4\'e4 y\'f6t\'e4, hyv\'e4 l\'e4\'e4k\'e4ri. \
+He poistuvat\
+\
+TIEDE II. Maa l\'e4hell\'e4 Dunsinanea.\
+Rumpu ja v\'e4rit. Anna MENTEITH, CAITHNESS, ANGUS, LENNOX ja sotilaat\
+Menteith\
+Englantilainen voima on l\'e4hell\'e4, jota johtaa Malcolm, \
+H\'e4nen set\'e4ns\'e4 Siward ja hyv\'e4 Macduff: \
+Revengeet polttavat heit\'e4; rakkaiden syiden vuoksi \
+Olisiko verenvuoto ja huono h\'e4lytys \
+Innoittaa kuolleen miehen. \
+ANGUS\
+L\'e4hell\'e4 Birnam puuta \
+Olisiko me hyvin tavata heit\'e4; niin he tulevat. \
+Caithness\
+Kuka tiet\'e4\'e4, jos Donalbain olisi veljens\'e4 kanssa? \
+LENNOX\
+Tietenk\'e4\'e4n, herra, h\'e4n ei ole: minulla on tiedosto \
+Kaikista herrasmiest\'e4: Siwardin poika on, \
+Ja monet yli nuorukaiset, jotka viel\'e4kin \
+Vapauta heid\'e4n ensimm\'e4inen miehuutensa. \
+Menteith\
+Mit\'e4 tyranni? \
+Caithness\
+Suuri Dunsinane h\'e4n vahvistaa vahvasti: \
+Jotkut sanovat, ett\'e4 h\'e4n on hullu; toiset, jotka v\'e4hemm\'e4n vihaavat h\'e4nt\'e4 \
+\'c4l\'e4 kutsu sit\'e4 kovaksi raivoiksi: mutta tietysti, \
+H\'e4n ei p\'e4\'e4se puristuksiin \
+S\'e4\'e4nn\'f6n hihnassa. \
+ANGUS\
+Nyt h\'e4n tuntee \
+H\'e4nen salatut murhat tarttuvat h\'e4nen k\'e4siins\'e4; \
+Nyt minuuttiset revoltiot her\'e4tt\'e4v\'e4t h\'e4nen uskonsa rikkomuksen; \
+Ne, jotka h\'e4n k\'e4skee, liikkuvat vain k\'e4skyll\'e4, \
+Mit\'e4\'e4n rakkautta: nyt h\'e4n tuntee h\'e4nen nimens\'e4 \
+Ripusta h\'e4net, kuten j\'e4ttil\'e4isen vaate \
+K\'e4mpp\'e4varkaan. \
+Menteith\
+Kuka sitten syytt\'e4\'e4 \
+H\'e4nen pester'd aistit k\'e4\'e4nty\'e4 ja aloittaa, \
+Kun kaikki, mit\'e4 h\'e4ness\'e4 on, tuomitsee \
+Itse olkoon siell\'e4? \
+Caithness\
+No, marssimme me, \
+Tottelevaisuuden antaminen, miss\'e4 "tis todella velkaa: \
+Tapaa sairaalahoidon l\'e4\'e4ke, \
+Ja h\'e4nen kanssaan kaataa meid\'e4n maamme puhdistus \
+Jokainen meist\'e4 pudota. \
+LENNOX\
+Tai niin paljon kuin se tarvitsee, \
+Kastella suvereeni kukka ja hukuttaa rikkakasvit. \
+Tee marssimme kohti Birnamia. \
+Exeunt, marssi\
+\
+TARKASTELU III. Dunsinane. Huone linnassa.\
+Sy\'f6t\'e4 MACBETH, l\'e4\'e4k\'e4ri ja osallistujat\
+MACBETH\
+Tuo minulle lis\'e4\'e4 raportteja; anna heid\'e4n lent\'e4\'e4 kaikki: \
+Till Birnam puu poista Dunsinaneen, \
+En voi tahrautua pelosta. Mik\'e4 on poika Malcolm? \
+Eik\'f6 h\'e4n ollut syntynyt naisesta? Tunnetut henget \
+Kaikki kuolevaiset seuraukset ovat ilmaisseet minut n\'e4in: \
+"\'c4l\'e4 pelk\'e4\'e4, Macbeth; ei ket\'e4\'e4n, joka on syntynyt naisesta \
+Onko sinulla valta sinuun? " Sitten lent\'e4\'e4, \
+v\'e4\'e4ri\'e4, \
+Ja sekoita englantilaisten ep\'e4suosien kanssa: \
+Mieli, jota min\'e4 heilutan, ja syd\'e4meni, jota kantavat \
+\'c4l\'e4 koskaan itkele ep\'e4ilyst\'e4k\'e4\'e4n eik\'e4 ravista pelosta. \
+Anna palvelija\
+\
+Paholainen sin\'e4 sin\'e4 musta, sin\'e4 kermanv\'e4rinen k\'e4\'e4pi\'f6! \
+Miss\'e4 sin\'e4 olet goose look? \
+palvelija\
+On kymmenentuhatta - \
+MACBETH\
+Geese, roisto! \
+palvelija\
+Sotilaat, sir. \
+MACBETH\
+Menk\'e4\'e4 kasvoillesi ja ylpe\'e4 pelko, \
+Sin\'e4 lilja-maksa poika. Mit\'e4 sotilaita, laastari? \
+Sielunsi kuolema! sin\'e4 pellavaiset posket sinun \
+Ovatko ohjaajat pelk\'e4\'e4v\'e4t. Mit\'e4 sotilaita, hera-kasvot? \
+palvelija\
+Englantilainen voima, joten ole hyv\'e4. \
+MACBETH\
+Ota kasvosi t\'e4\'e4lt\'e4. \
+Poistu palvelijasta\
+\
+Seyton! - Olen sairaana syd\'e4mess\'e4, \
+Kun katson - Seyton, sanon! - T\'e4m\'e4 ty\'f6nt\'e4\'e4 \
+Se pirist\'e4\'e4 minua, tai kumota minut nyt. \
+Olen el\'e4nyt tarpeeksi kauan: el\'e4m\'e4ntapani \
+Pudotetaan vaipumaan, keltainen lehti; \
+Ja mik\'e4 olisi mukana vanhuudessa, \
+Kunniaksi, rakkaudeksi, kuuliaisuudeksi, yst\'e4vien joukoksi, \
+Minun ei tarvitse katsoa olevan; mutta niiden sijaan, \
+Kurit, ei kovaa mutta syv\'e4\'e4, suu-kunnia, hengitys, \
+Kumpi k\'f6yh\'e4 syd\'e4n kielt\'e4\'e4, eik\'e4 uskalla. Seyton! \
+Sy\'f6t\'e4 SEYTON\
+\
+SEYTON\
+Mik\'e4 on sinun armollinen ilo? \
+MACBETH\
+Mit\'e4 uutisia lis\'e4\'e4? \
+SEYTON\
+Kaikki on vahvistettu, herrani, josta ilmoitettiin. \
+MACBETH\
+Taistelen kunnes minun luista minun lihani on hack'd. \
+Anna minulle panssari. \
+SEYTON\
+"Ei viel\'e4 tarvita. \
+MACBETH\
+Laitoin sen. \
+L\'e4het\'e4 lis\'e4\'e4 hevosia; kiert\'e4k\'e4\'e4 maata ymp\'e4ri; \
+Ripusta ne, jotka puhuvat pelosta. Anna minulle panssari. \
+Kuinka potilas, l\'e4\'e4k\'e4ri? \
+L\'e4\'e4k\'e4ri\
+Ei niin sairaaksi, herrani, \
+Koska h\'e4n on levoton paksuista tulevista mielikuvista, \
+Se pit\'e4\'e4 h\'e4net lepoasennostaan. \
+MACBETH\
+Paranna h\'e4nt\'e4. \
+Etk\'f6 voi palvella mieless\'e4si sairastua, \
+Syy muistista juurtunut suru, \
+H\'e4irit\'e4 aivojen kirjalliset ongelmat \
+Ja er\'e4\'e4n makean unohtamattoman vastal\'e4\'e4kkeen kanssa \
+Puhdista tuon vaarallisen aineen k\'e4mpp\'e4 \
+Mik\'e4 painaa syd\'e4meen? \
+L\'e4\'e4k\'e4ri\
+Siin\'e4 potilas \
+Pit\'e4\'e4 palvella itse\'e4\'e4n. \
+MACBETH\
+Heit\'e4 fyysikko koirille; En mit\'e4\'e4n. \
+Tule, laita minun panssari p\'e4\'e4lle; anna minulle henkil\'f6kuntani. \
+Seyton, l\'e4het\'e4. Tohtori, lent\'e4v\'e4t minua. \
+Tule, herra, l\'e4het\'e4. Jos voisit, l\'e4\'e4k\'e4ri, heitt\'e4\'e4 \
+Maan maa, l\'f6yd\'e4n sairauden, \
+Ja puhdista se terveelle ja koskemattomalle terveydelle, \
+Haluan kiitt\'e4\'e4 teit\'e4 hyvin kaiku, \
+Se pit\'e4isi viel\'e4kin taputtaa. - Vapauta, sanon .-- \
+Mit\'e4 raparperi, cyme, tai mit\'e4 puhdistavaa l\'e4\'e4kett\'e4, \
+Selvitt\'e4isik\'f6 n\'e4m\'e4 englantilaiset? Kuuletko sin\'e4 niist\'e4? \
+L\'e4\'e4k\'e4ri\
+Hyv\'e4, hyv\'e4 herrani; teid\'e4n kuninkaallisen valmistelunne \
+Se tekee meid\'e4t kuulemaan jotain. \
+MACBETH\
+Tuo se minulle. \
+En pelk\'e4\'e4 kuolemaa ja pahoinpitely\'e4, \
+Till Birnam mets\'e4 saapuu Dunsinaneen. \
+L\'e4\'e4k\'e4ri\
+[Syrj\'e4\'e4n] olinko Dunsinanesta poissa ja selke\'e4, \
+Voiton pit\'e4isi tuskin vet\'e4\'e4 minua t\'e4nne. \
+He poistuvat\
+\
+TARKASTELU IV. Maa l\'e4hell\'e4 Birnam puuta.\
+Rumpu ja v\'e4rit. Anna MALCOLM, SIWARD ja YOUNG SIWARD, MACDUFF, MENTEITH, CAITHNESS, ANGUS, LENNOX, ROSS ja sotilaat, marssivat\
+MALCOLM\
+Serkut, toivon, ett\'e4 p\'e4iv\'e4t ovat l\'e4hell\'e4 \
+N\'e4m\'e4 kamarit ovat turvallisia. \
+Menteith\
+Emme ep\'e4ile mit\'e4\'e4n. \
+SIWARD\
+Mik\'e4 puu on t\'e4t\'e4 ennen? \
+Menteith\
+Birnamin puu. \
+MALCOLM\
+Anna jokainen sotilas heitt\'e4\'e4 h\'e4net alas oksalle \
+Ja anna h\'e4nelle anteeksi, niin me varjelemme \
+Is\'e4nn\'e4n numerot ja l\'f6yd\'f6kset \
+Err mietinn\'f6ss\'e4 meist\'e4. \
+sotilaat\
+Se on teht\'e4v\'e4. \
+SIWARD\
+Emme oppineet muuta kuin luottavainen tyranni \
+Jatkuu edelleen Dunsinanessa, ja se kest\'e4\'e4 \
+Meid\'e4n asettamisen ennen "t. \
+MALCOLM\
+"Tis h\'e4nen t\'e4rkein toivonsa: \
+Sill\'e4 miss\'e4 on etua, \
+Sek\'e4 enemm\'e4n ett\'e4 v\'e4hemm\'e4n ovat antaneet h\'e4nelle kapinan, \
+Ja yksik\'e4\'e4n ei palvelkaa h\'e4nen kanssaan, vaan pakotettuja asioita \
+Joiden syd\'e4met ovat poissa. \
+MACDUFF\
+Anna meid\'e4n vain ep\'e4luottamus \
+Osallistu todellinen tapahtuma, ja laittaa meille \
+Ty\'f6kykyinen sotilasjoukko. \
+SIWARD\
+Aika l\'e4hestyy \
+Se tekee meid\'e4t asianmukaisella p\'e4\'e4t\'f6ksell\'e4 \
+Meid\'e4n on sanottava, ett\'e4 meill\'e4 on ja mit\'e4 olemme velkaa. \
+Ajatukset spekulatiivisia heid\'e4n ep\'e4tietoihin toiveisiinsa liittyv\'e4t, \
+Mutta tiettyjen lykk\'e4ysten on oltava sovittavia: \
+Tavoitteita, jotka edist\'e4v\'e4t sotaa. \
+Exeunt, marssi\
+\
+SCENE V. Dunsinane. Linnan sis\'e4ll\'e4.\
+Sy\'f6t\'e4 MACBETH, SEYTON ja sotilaat rumpuilla ja v\'e4reill\'e4\
+MACBETH\
+Ripusta bannereitamme ulkoseinill\'e4; \
+Itke\'e4 on edelleen "He tulevat:" linnamme vahvuus \
+Nauraa piirityksen pilkkaa: anna heid\'e4n menn\'e4 valehtelemaan \
+Niin n\'e4l\'e4nh\'e4t\'e4 ja aavikko sy\'f6v\'e4t heid\'e4t: \
+Eiv\'e4tk\'f6 he ole pakotettuja niihin, jotka meid\'e4n pit\'e4isi olla meid\'e4n, \
+Olisimme ehk\'e4 tavannut heit\'e4 rohkeiksi, parta partaalle, \
+Ja voittaa heid\'e4t taaksep\'e4in kotiin. \
+Naisen huuto sis\'e4ll\'e4\
+\
+Mik\'e4 tuo \'e4\'e4ni on? \
+SEYTON\
+Se on naisten huuto, hyv\'e4 herrani. \
+poistuminen\
+\
+MACBETH\
+Olen melkein unohtanut pelon maun; \
+Aika on ollut, aistit olisivat j\'e4\'e4htyneet \
+Kuulostaa y\'f6kerhon; ja hiukseni \
+Olisiko surkea k\'e4sitys her\'e4tt\'e4\'e4 ja sekoita \
+Koska el\'e4m\'e4 ei ollut: olen t\'e4ytt\'e4nyt kauhut; \
+Likaisuus, tuttu teurastuksellisille ajatuksilleni \
+En voi heti aloittaa minua. \
+Sy\'f6t\'e4 SEYTON uudelleen\
+\
+Miksi t\'e4m\'e4 huuto oli? \
+SEYTON\
+Kuningas, herrani, on kuollut. \
+MACBETH\
+H\'e4nen olisi pit\'e4nyt kuolla sen j\'e4lkeen; \
+Sellaiselle sanalle olisi ollut aikaa. \
+Huomenna, huomenna ja huomenna, \
+Vipu t\'e4ss\'e4 pieness\'e4 tahdissa p\'e4iv\'e4st\'e4 toiseen \
+Tallennetun ajan viimeiseen tapaan, \
+Ja kaikki ik\'e4v\'e4mme ovat valottaneet tyhm\'e4t \
+Tapa p\'f6lyiseen kuolemaan. Ulos, ulos, lyhyt kynttil\'e4! \
+El\'e4m\'e4, mutta k\'e4velyvarjo, k\'f6yh\'e4 pelaaja \
+Se ponnahtaa ja tunkeutuu tunneansa lavalle \
+Silloin ei en\'e4\'e4 kuulla: se on tarina \
+Sanoit idiootti, t\'e4ynn\'e4 \'e4\'e4ni\'e4 ja raivoa, \
+Ei merkitse mit\'e4\'e4n. \
+Anna Messenger\
+\
+Tulet k\'e4ytt\'e4m\'e4\'e4n kielenne; teid\'e4n tarinasi nopeasti. \
+sanansaattaja\
+Armollinen herrani, \
+Minun pit\'e4isi kertoa siit\'e4, mit\'e4 sanon n\'e4kev\'e4ni, \
+Mutta tied\'e4, miten tehd\'e4 se. \
+MACBETH\
+No, sano, herra. \
+sanansaattaja\
+Kun istuin kelloi kukkulalla, \
+Min\'e4 katselin kohti Birnamia, ja anon, methought, \
+Puu alkoi liikkua. \
+MACBETH\
+Liar ja orja! \
+sanansaattaja\
+Anna minun kest\'e4\'e4 vihaa, jos ei ole niin: \
+N\'e4iden kolmen mailin sis\'e4ll\'e4 n\'e4et sen tulevan; \
+Sanon, liikkuva lehto. \
+MACBETH\
+Jos puhut v\'e4\'e4rin, \
+Seuraavalla puulla riisuit el\'e4v\'e4n\'e4, \
+Kunnes n\'e4lk\'e4 nipist\'e4\'e4 sinua, \
+En v\'e4lit\'e4, jos olet minulle niin paljon. \
+Otan p\'e4\'e4t\'f6slauselman ja aloitan \
+Ep\'e4ilen ep\'e4ilytt\'e4v\'e4\'e4 ep\'e4toivoa \
+Se on kuin totuus: "\'c4l\'e4 pelk\'e4\'e4, ennen Birnamin puuta \
+Tule Dunsinaneen: "ja nyt puu \
+Tulee kohti Dunsinanea. Arm, k\'e4sivarsi ja ulos! \
+Jos t\'e4m\'e4 n\'e4kyy, \
+Siell\'e4 ei ole eik\'e4 lent\'e4nyt eik\'e4 pid\'e4 t\'e4\'e4ll\'e4. \
+Minun t\'e4ytyy olla auringy auringon, \
+Ja toivottavasti kiinteist\'f6\'e4 'maailma oli nyt irti. \
+Ring alarum-bell! Puhua, tuuli! tule, vaivaa! \
+Ainakin me kuolemme valjaiden takana. \
+He poistuvat\
+\
+TIEDOT VI. Dunsinane. Ennen linnaa.\
+Rumpu ja v\'e4rit. Anna MALCOLM, SIWARD, MACDUFF ja heid\'e4n armeijansa, oksat\
+MALCOLM\
+Nyt tarpeeksi l\'e4hell\'e4: lehtivihre\'e4t heitt\'e4v\'e4t. \
+Ja n\'e4yt\'e4 kuin ne, jotka olet. Sin\'e4, arvoinen set\'e4si, \
+Oli minun serkkuni, sinun oikea jalomainen poika, \
+Johda ensimm\'e4ist\'e4 taistelua: arvoinen Macduff ja me \
+Ottaa kun on viel\'e4 muuta, \
+Tilaamme mukaan. \
+SIWARD\
+Tee hyv\'e4\'e4. \
+Pid\'e4mmek\'f6 vain tyrannin voiman t\'e4n\'e4 y\'f6n\'e4, \
+Meid\'e4t ly\'f6d\'e4\'e4n, jos emme voi taistella. \
+MACDUFF\
+Tee kaikki trummeettomme puhuvat; anna heille kaikki henke\'e4, \
+Ne surulliset veren ja kuoleman her\'e4tt\'e4j\'e4t. \
+He poistuvat\
+\
+TARKASTELU VII. Toinen osa kentt\'e4\'e4.\
+Alarums. Sy\'f6t\'e4 MACBETH\
+MACBETH\
+He ovat sidottaneet minut vaakaan; En osaa lent\'e4\'e4, \
+Mutta karhun kaltainen, minun on taisteltava kurssia. Mit\'e4 h\'e4n \
+Se ei syntynyt naisesta? T\'e4llainen \
+Pelk\'e4\'e4n, vai ei. \
+Anna YOUNG SIWARD\
+\
+YOUNG SIWARD\
+Mik\'e4 on sinun nimesi? \
+MACBETH\
+Pelk\'e4\'e4tte kuulla sen. \
+YOUNG SIWARD\
+Ei; vaikka sin\'e4 kutsut itsesi l\'e4mpim\'e4mm\'e4ksi nimeksi \
+Jokainen on helvetiss\'e4. \
+MACBETH\
+Nimeni on Macbeth. \
+YOUNG SIWARD\
+Paholainen itse ei voinut sanoa otsikkoa \
+Viel\'e4 enemm\'e4n vihainen minun korvalla. \
+MACBETH\
+Ei, ei pelottavaa. \
+YOUNG SIWARD\
+Valehtelet, kauhistut tyranni; miekalla \
+Todistan valhe, jonka puhut. \
+He taistelevat ja YOUNG SIWARD on surmattu\
+\
+MACBETH\
+Olet syntynyt naisesta \
+Mutta miekat hymyilen, aseet nauravat pilkkaamaan, \
+Ihminen, joka on naisesta syntynyt. \
+poistuminen\
+\
+Alarums. Anna MACDUFF\
+\
+MACDUFF\
+N\'e4in melu on. Tyrant, n\'e4yt\'e4 kasvosi! \
+Jos sin\'e4 olet tapettu ja ilman mink\'e4\'e4nlaista aivohalvausta, \
+Vaimoni ja lasten aaveet hautaa minua edelleen. \
+En voi ly\'f6d\'e4 k\'f6yhi\'e4 karuja, joiden k\'e4det \
+Olette palkkaneet kantamaan m\'e4ki\'e4: joko sin\'e4, Macbeth, \
+Tai sitten miekani, jolla on unbatter'd -reuna \
+Min\'e4 v\'e4\'e4nnet\'e4n j\'e4lleen uudestaan. Sinun pit\'e4isi olla; \
+T\'e4ll\'e4 suurella m\'f6lyll\'e4, yksi suurimmasta huomautuksesta \
+N\'e4ytt\'e4\'e4 hyv\'e4lt\'e4. Saanen l\'f6yt\'e4\'e4 h\'e4net, onni! \
+Enemm\'e4n en\'e4 ole. \
+Exit. Alarums\
+\
+Anna MALCOLM ja SIWARD\
+\
+SIWARD\
+N\'e4in, herrani; linna on varovasti render'd: \
+Tyrannin kansat molemmin puolin taistelevat; \
+Jaloiset uskovat kiihke\'e4sti sodassa; \
+P\'e4iv\'e4, joka melkein itsekin omistaa sinun, \
+Ja v\'e4h\'e4n on tehd\'e4. \
+MALCOLM\
+Olemme tavanneet vihollisia \
+Se iskee meid\'e4n vieress\'e4mme. \
+SIWARD\
+Anna, herra, linna. \
+He poistuvat. Alarums\
+\
+KOHTA VIII. Toinen osa kentt\'e4\'e4.\
+Sy\'f6t\'e4 MACBETH\
+MACBETH\
+Miksi minun pit\'e4isi soittaa Rooman h\'f6lm\'f6\'e4 ja kuolla \
+Oma miekani? kun n\'e4en el\'e4m\'e4\'e4, kouristukset \
+Tee paremmin niit\'e4. \
+Anna MACDUFF\
+\
+MACDUFF\
+K\'e4\'e4nny, helvetti, k\'e4\'e4nn\'e4! \
+MACBETH\
+Kaikista ihmisist\'e4 olen v\'e4litt\'e4nyt sinut: \
+Mutta ota sinut takaisin; sieluni on liian syytetty \
+Sinulla on jo verta. \
+MACDUFF\
+Minulla ei ole sanoja: \
+\'c4\'e4ni on miekallani: sin\'e4 verinen kukko \
+Sellaiset ehdot voivat antaa sinut ulos! \
+He tappelevat\
+\
+MACBETH\
+Sin\'e4 kova ty\'f6: \
+Niin helppoa kuin sin\'e4 sin\'e4 olet \
+Teid\'e4n voimakkaan miekkanne antavat minulle vaikutuksen: \
+Pudota ter\'e4si haavoittuvimpien hartioiden p\'e4\'e4lle; \
+Min\'e4 olen hurmattu el\'e4m\'e4, joka ei saa antaa, \
+Yhdelle syntyneen naisen. \
+MACDUFF\
+Ep\'e4toivoa sinun vieh\'e4tyksesi; \
+Ja anna enkeli, jota sin\'e4 viel\'e4 palvelit \
+Kerro, Macduff oli \'e4itins\'e4 kohdusta \
+Ep\'e4aikainen ripp'd. \
+MACBETH\
+Kirottu sellainen kieli, joka kertoo minulle, \
+Sill\'e4 se on lehm\'e4 minun parempaa osaa ihmisest\'e4! \
+Ja n\'e4m\'e4 jongleeraukset eiv\'e4t en\'e4\'e4 usko, \
+Se taputtaa meid\'e4t kaksinkertaisessa merkityksess\'e4; \
+Se pit\'e4\'e4 lupauksen sanan korvillemme, \
+Ja rikkoa se toivomme. En taistele sinua. \
+MACDUFF\
+Sitten tuo sinut, pelkuri, \
+Ja el\'e4\'e4 olla n\'e4yttely ja katse o 'aika: \
+Meill\'e4 on sinulle, kuten harvinainen hirvi\'f6mme ovat, \
+Maalattu napa, ja underwrit, \
+"T\'e4\'e4ll\'e4 voit n\'e4hd\'e4 tyrannin." \
+MACBETH\
+En anna, \
+Kissata maahan ennen nuoria Malcolmin jalkoja, \
+Ja houkutellaan rabble-kirouksen kanssa. \
+Vaikka Birnam puu tulee Dunsinaneen, \
+Ja sin\'e4 vastustit, ettei ole syntynyt naista, \
+Silti yrit\'e4n viimeist\'e4. Ennen kehoni \
+Heitin sotilas kilpi. Lay on, Macduff, \
+Ja haukkasi h\'e4n, joka ensin huutaa: "Pid\'e4, tarpeeksi!" \
+Exeunt, taistelevat. Alarums\
+\
+Vet\'e4yty\'e4. Kukoistaa. Anna rumpu ja v\'e4rit, MALCOLM, SIWARD, ROSS, muut Thanes ja sotilaat\
+\
+MALCOLM\
+Haluaisimme, ett\'e4 yst\'e4v\'e4t, jotka kaipaamme, olivat turvallisia. \
+SIWARD\
+Jotkut t\'e4ytyy menn\'e4 pois: ja silti n\'e4in\'e4 n\'e4hd\'e4kseni, \
+Niin hieno p\'e4iv\'e4 kuin t\'e4m\'e4 on edullisesti ostettu. \
+MALCOLM\
+Macduff puuttuu, ja sinun jalo puolisosi. \
+ROSS\
+Poikasi, herrani, on maksanut sotilaan velan: \
+H\'e4n asui vain, kunnes h\'e4n oli mies; \
+Se, joka ei yht\'e4\'e4n saaneet vahvuuttaan \
+Siirt\'e4m\'e4ss\'e4 asemassa, jossa h\'e4n taisteli, \
+Mutta kuin mies, h\'e4n kuoli. \
+SIWARD\
+Sitten h\'e4n on kuollut? \
+ROSS\
+Ay, ja tuonut kent\'e4n: sinun surun syy \
+Ei saa mitata h\'e4nen arvollaan, sill\'e4 silloin \
+Sill\'e4 ei ole loppua. \
+SIWARD\
+Oliko h\'e4n sattunut ennen? \
+ROSS\
+Ai, edess\'e4. \
+SIWARD\
+Miksi sitten Jumalan sotilas olkoon h\'e4n! \
+Oliko minulla yht\'e4 monta poikaa kuin minulla on hiuksia, \
+En halua heit\'e4 oikeudenmukaisemmasta kuolemasta: \
+Niinp\'e4, h\'e4nen h\'f6lynpudotuksensa on silm\'e4nr\'e4p\'e4si. \
+MALCOLM\
+H\'e4n on enemm\'e4n surua, \
+Ja min\'e4 viet\'e4n h\'e4nelle. \
+SIWARD\
+H\'e4n ei ole en\'e4\'e4 arvokasta \
+He sanovat, ett\'e4 h\'e4n erosi hyvin ja maksoi pisteet: \
+Ja niin, Jumala olkoon h\'e4nen kanssaan! T\'e4ss\'e4 tulee uudempi mukavuutta. \
+Sy\'f6t\'e4 MACDUFF uudelleen MACBETH: n p\'e4\'e4ll\'e4\
+\
+MACDUFF\
+Kate, kuningas! sill\'e4 sin\'e4 olet: katso, miss\'e4 seisoo \
+Uskuttajan kirottu p\'e4\'e4: aika on vapaa: \
+N\'e4en sinun kompassin sinun valtakuntasi helmi, \
+Jotka puhuvat tervehdykseni heid\'e4n mieliss\'e4\'e4n; \
+Kenen \'e4\'e4neni haluan \'e4\'e4neen minun kanssa: \
+Tuuli, Skotlannin kuningas! \
+KAIKKI\
+Tuuli, Skotlannin kuningas! \
+Kukoistaa\
+\
+MALCOLM\
+Emme kulu paljon aikaa \
+Ennen kuin odotamme teid\'e4n monta rakastusta, \
+Tee meid\'e4t my\'f6s kanssasi. Minua ja sukulaisia, \
+T\'e4st\'e4 l\'e4htien on Earls, ensimm\'e4inen joka koskaan Skotlanti \
+T\'e4llaisessa kunniassa nimetty. Mit\'e4 enemm\'e4n on teht\'e4v\'e4, \
+Mik\'e4 olisi istutettu \'e4skett\'e4in aika, \
+Kun kutsumme kotiin ulkomaille karkotettuja yst\'e4vi\'e4 \
+Se pakeni vartioitunutta tyranniaa; \
+Tuo esiin julmmat ministerit \
+T\'e4m\'e4n kuolleen teurastajan ja h\'e4nen villiel\'e4imen kaltaisesta kuningattarestaan, \
+Kuka, kuten sit\'e4 ajatellaan, itse\'e4\'e4n ja v\'e4kivaltaisia \uc0\u8203 \u8203 k\'e4si\'e4\'e4n \
+Otti pois el\'e4m\'e4ns\'e4; t\'e4m\'e4 ja mit\'e4 muuta tarvitsee \
+Se kutsuu meit\'e4 Gracen armon kautta, \
+Teemme toimenpiteit\'e4, aikaa ja paikkaa: \
+Joten, kiitos kaikille kerralla ja jokaiselle, \
+Kuka me kutsumme n\'e4kem\'e4\'e4n meid\'e4t kruunu Scone. \
+\
+Kukoistaa. He poistuvat}
