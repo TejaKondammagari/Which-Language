@@ -1,7 +1,7 @@
 // prog3WhichLangMacbeth.cpp
 //    Use letter frequency counts to determine what language text is in.
 //
-// Author: ???
+// Author: Tejaswi Reddy Kondammagari
 // Date: Oct 2, 2018
 // Class: CS 141, Fall 2018
 // Language: C++
@@ -150,9 +150,8 @@ void textToArray(string file, int frequencyArray[]){
     inputFileStream.close();                //stop taking in characters
     
 }//end textToArray()
-// *** Yuwei: Use camelCase for variable and function names
 //similar to textToArray, use user's input to update frequency arrays
-void UserTextToArray(string input, int frequencyArray[]){
+void userTextToArray(string input, int frequencyArray[]){
     for (int j = 0; j < (int)input.length(); j++){
         if(isalpha(input[j])){
             input[j] = toupper(input[j]);
@@ -160,41 +159,34 @@ void UserTextToArray(string input, int frequencyArray[]){
         }
     }
 }
-// *** Yuwei: Use camelCase for variable and function names
 //initialize frequency arrays to 0 at every index
-void InitializeArray(int array[]){
+void initializeArray(int array[]){
     for(int x = 0; x < 26; x++){
         array[x] = 0;
     }
 }
-// *** Yuwei: Use camelCase for variable and function names
 //initialize letter arrays in alphabetical order with 'A' in index 0 and 'Z' in index 25
-void SetLetterArray(char letters[]){
+void setLetterArray(char letters[]){
     for(int x = 0; x < 26; x++){
         letters[x] = char(x + 'A');
     }
 }
-// *** Yuwei: Use camelCase for variable and function names
 //swap frequency array's values
-void SwapFrequencies(int frequencies[], int index){
-    // *** Yuwei: code within the same block should line up
+void swapFrequencies(int frequencies[], int index){
     int indexAfter = index + 1;
     int tempF = frequencies[indexAfter];
     frequencies[indexAfter] = frequencies[index];
     frequencies[index] = tempF;
 }
-// *** Yuwei: Use camelCase for variable and function names
 //swap letter array's values same distance as values in frequency array
-void SwapLetters(char letters[], int index){
-    // *** Yuwei: code within the same block should line up
+void swapLetters(char letters[], int index){
     int indexAfter = index + 1;
     char tempL = letters[indexAfter];
     letters[indexAfter] = letters[index];
     letters[index] = tempL;
 }
-// *** Yuwei: Use camelCase for variable and function names
 //use bubble sort to organize each frequency arrays values with the largest number in the first index
-void SortFrequencies(int frequencies[], char letters[]){
+void sortFrequencies(int frequencies[], char letters[]){
     for(int pass = 0; pass < 25; pass++){
         for(int x = 0; x < 25; x++){
             if(frequencies[x] < frequencies[x+1]){
@@ -205,9 +197,8 @@ void SortFrequencies(int frequencies[], char letters[]){
     }
 }
 const int limit=26;
-// *** Yuwei: Use camelCase for variable and function names
 //duplicate original frequency array before it is sorted so that it can be used in step 4
-void Duplicate(int original[], int duplicate[]){
+void duplicate(int original[], int duplicate[]){
     for(int x = 0; x < limit; x++){
         duplicate[x] = original[x];
     }
@@ -226,7 +217,6 @@ int dotProduct(int vect_A[], int vect_B[])
 }
 
 int main(){
-    // *** Yuwei: This section could have been done using 2D array and for loop.
     //These arrays will contain the letter count for each language.
     int englishFrequencies[limit];
     InitializeArray(englishFrequencies);
@@ -247,7 +237,6 @@ int main(){
     int userFrequencies[limit];
     InitializeArray(userFrequencies);
     
-    // *** Yuwei: This section could have been done using 2D array and for loop.
     //these arrays will contain the letter distribution for each language
     //after getting frequency values, letters are rearranged and then printed out as output
     char englishLetters[limit];
@@ -315,7 +304,6 @@ int main(){
     //take in menu option selection and display it
     getline(cin, menuOptionString);
     std::istringstream ( menuOptionString ) >> menuOption;
-    // *** Yuwei: This section could have been done using function
     //choose output based on menuOption
     if(menuOption >= 1){
         cout << "Letter Frequency Counts:" << endl;
